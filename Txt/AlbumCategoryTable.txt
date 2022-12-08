@@ -1,0 +1,68 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1000,
+      "group": 1,
+      "is_outpost": true,
+      "category_name_localkey": "ALBUM_CATEGORY_NAME_MAIN",
+      "category_description_localkey": "ALBUM_CATEGORY_DESC_MAIN",
+      "name_tag_localkey": "ALBUM_NAMETAG_CHAPTER",
+      "is_show_total_count": true
+    },
+    {
+      "id": 2000,
+      "group": 1,
+      "is_outpost": true,
+      "category_name_localkey": "ALBUM_CATEGORY_NAME_SUDDENSTORY",
+      "category_description_localkey": "ALBUM_CATEGORY_DESC_SUDDENSTORY",
+      "name_tag_localkey": "OUTPOST_EN",
+      "is_show_total_count": false
+    },
+    {
+      "id": 10001,
+      "group": 1000,
+      "is_outpost": false,
+      "category_name_localkey": "ALBUM_CATEGORY_NAME_STORY_EVENT",
+      "category_description_localkey": "ALBUM_CATEGORY_DESC_STORY_EVENT",
+      "name_tag_localkey": "OUTPOST_EN",
+      "is_show_total_count": false
+    },
+    {
+      "id": 10011,
+      "group": 1001,
+      "is_outpost": false,
+      "category_name_localkey": "ALBUM_CATEGORY_NAME_STORY_EVENT",
+      "category_description_localkey": "ALBUM_CATEGORY_DESC_STORY_EVENT",
+      "name_tag_localkey": "OUTPOST_EN",
+      "is_show_total_count": false
+    },
+    {
+      "id": 10021,
+      "group": 1002,
+      "is_outpost": false,
+      "category_name_localkey": "ALBUM_CATEGORY_NAME_STORY_EVENT",
+      "category_description_localkey": "ALBUM_CATEGORY_DESC_STORY_EVENT",
+      "name_tag_localkey": "OUTPOST_EN",
+      "is_show_total_count": false
+    },
+    {
+      "id": 10031,
+      "group": 1003,
+      "is_outpost": false,
+      "category_name_localkey": "ALBUM_CATEGORY_NAME_STORY_EVENT",
+      "category_description_localkey": "ALBUM_CATEGORY_DESC_STORY_EVENT",
+      "name_tag_localkey": "OUTPOST_EN",
+      "is_show_total_count": false
+    },
+    {
+      "id": 10041,
+      "group": 1004,
+      "is_outpost": false,
+      "category_name_localkey": "ALBUM_CATEGORY_NAME_STORY_EVENT",
+      "category_description_localkey": "ALBUM_CATEGORY_DESC_STORY_EVENT",
+      "name_tag_localkey": "OUTPOST_EN",
+      "is_show_total_count": false
+    }
+  ]
+}

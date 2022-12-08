@@ -1,0 +1,40 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1,
+      "name": "STORY_EVENT_DUNGEON_NAME",
+      "bonus_reward_character_group": 1,
+      "bonus_reward_id": 7100001,
+      "difficult_group": 1001
+    },
+    {
+      "id": 2,
+      "name": "STORY_EVENT_DUNGEON_NAME",
+      "bonus_reward_character_group": 2,
+      "bonus_reward_id": 7100002,
+      "difficult_group": 1002
+    },
+    {
+      "id": 3,
+      "name": "STORY_EVENT_DUNGEON_NAME",
+      "bonus_reward_character_group": 3,
+      "bonus_reward_id": 7100003,
+      "difficult_group": 1003
+    },
+    {
+      "id": 4,
+      "name": "STORY_EVENT_DUNGEON_NAME",
+      "bonus_reward_character_group": 4,
+      "bonus_reward_id": 7100004,
+      "difficult_group": 1004
+    },
+    {
+      "id": 5,
+      "name": "STORY_EVENT_DUNGEON_NAME",
+      "bonus_reward_character_group": 5,
+      "bonus_reward_id": 7100005,
+      "difficult_group": 1005
+    }
+  ]
+}

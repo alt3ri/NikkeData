@@ -1,0 +1,4587 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 11200101,
+      "monster_model_id": 112001,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 11200101,
+      "weapon_object": [
+        "bea002_rl_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_20_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 11100101,
+      "monster_model_id": 111001,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 11100101,
+      "weapon_object": [
+        "bea002_rl_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_00_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 12100101,
+      "monster_model_id": 121001,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 12100101,
+      "weapon_object": [
+        "bma001_ar_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_00_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 12100201,
+      "monster_model_id": 121002,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 12100201,
+      "weapon_object": [
+        "bma002_ar_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_00_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 12100301,
+      "monster_model_id": 121003,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 12100301,
+      "weapon_object": [
+        "bma003_ar_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_00_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 12100401,
+      "monster_model_id": 121004,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 12100401,
+      "weapon_object": [
+        "socket_muzzle_fire_01"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_00_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 12200101,
+      "monster_model_id": 122001,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 12200101,
+      "weapon_object": [
+        "bmg001_ar_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_40_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 12200201,
+      "monster_model_id": 122002,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 12200201,
+      "weapon_object": [
+        "bmg001_ar_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_40_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 12200301,
+      "monster_model_id": 122003,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 12200301,
+      "weapon_object": [
+        "bmg003_ar_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_20_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 12200401,
+      "monster_model_id": 122004,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 12200401,
+      "weapon_object": [
+        "socket_muzzle_fire_02",
+        "bmg004_rl_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01",
+        "weapon_object_02"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_40_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 13100101,
+      "monster_model_id": 131001,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 13100101,
+      "weapon_object": [
+        "bea001_sr_var",
+        "bea001_rl_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01",
+        "weapon_object_02"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_20_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 13100201,
+      "monster_model_id": 131002,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 13100201,
+      "weapon_object": [
+        "bea002_ar_var",
+        "bea002_rl_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01",
+        "weapon_object_02"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_20_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 13100301,
+      "monster_model_id": 131003,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 13100301,
+      "weapon_object": [
+        "bea003_rl_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_20_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 13100401,
+      "monster_model_id": 131004,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7000002,
+      "visible_hp": true,
+      "linked_parts_id": 13100401,
+      "weapon_object": [
+        "bea003_rl_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_20_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 13200101,
+      "monster_model_id": 132001,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 13200101,
+      "weapon_object": [
+        "beg001_sr_var",
+        "beg001_ar_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01",
+        "weapon_object_02"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_20_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 13200201,
+      "monster_model_id": 132002,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 13200201,
+      "weapon_object": [
+        "beg002_ar_var",
+        "beg002_rl_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01",
+        "weapon_object_02"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_40_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 13200301,
+      "monster_model_id": 132003,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 13200301,
+      "weapon_object": [
+        "socket_muzzle_fire_02",
+        "beg003_sr_var",
+        "beg002_ar_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01",
+        "weapon_object_02",
+        "weapon_object_03"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_40_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 13200401,
+      "monster_model_id": 132004,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7000012,
+      "visible_hp": true,
+      "linked_parts_id": 13200401,
+      "weapon_object": [
+        "beg002_ar_var",
+        "beg004_sr_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01",
+        "weapon_object_02"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_40_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 12200501,
+      "monster_model_id": 122005,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 12200501,
+      "weapon_object": [
+        "beg005_sr_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_40_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 13200601,
+      "monster_model_id": 132006,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 13200601,
+      "weapon_object": [
+        "socket_muzzle_fire_02"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_40_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 14100101,
+      "monster_model_id": 141001,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7000008,
+      "visible_hp": false,
+      "linked_parts_id": 14100101,
+      "weapon_object": [
+        "bone_arm_left",
+        "bone_arm_right",
+        "bca001_rl_var",
+        "socket_muzzle_fire_15"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01",
+        "weapon_object_02",
+        "weapon_object_03",
+        "weapon_object_04"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_21_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 14100201,
+      "monster_model_id": 141002,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7000008,
+      "visible_hp": false,
+      "linked_parts_id": 14100201,
+      "weapon_object": [
+        "bca002_ar_var",
+        "bca002_rl_var",
+        "bca002_sr_var",
+        "socket_muzzle_fire_11"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01",
+        "weapon_object_02",
+        "weapon_object_03",
+        "weapon_object_04"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "bca002_bone_00_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 14200101,
+      "monster_model_id": 142001,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7000008,
+      "visible_hp": false,
+      "linked_parts_id": 14200101,
+      "weapon_object": [
+        "socket_weapon_center_01",
+        "socket_weapon_right_01",
+        "socket_weapon_left_01",
+        "socket_muzzle_fire_07"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01",
+        "weapon_object_02",
+        "weapon_object_03",
+        "weapon_object_04"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_41_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 14200201,
+      "monster_model_id": 142002,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7000008,
+      "visible_hp": false,
+      "linked_parts_id": 14200201,
+      "weapon_object": [
+        "socket_parts_body",
+        "bcg002_sr_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01",
+        "weapon_object_02"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_41_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 14200202,
+      "monster_model_id": 142002,
+      "parts_name_localkey": "parts_name_arm_left",
+      "damage_hp_ratio": 1000,
+      "hp_ratio": 500,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 14200201,
+      "weapon_object": [
+        "socket_weapon_left_03"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_03"
+      ],
+      "parts_type": "Arm_Left",
+      "parts_object": [
+        "socket_weapon_left_03"
+      ],
+      "is_main_part": false
+    },
+    {
+      "id": 14200203,
+      "monster_model_id": 142002,
+      "parts_name_localkey": "parts_name_arm_right",
+      "damage_hp_ratio": 1000,
+      "hp_ratio": 500,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 14200201,
+      "weapon_object": [
+        "socket_weapon_right_03"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_03"
+      ],
+      "parts_type": "Arm_Right",
+      "parts_object": [
+        "socket_weapon_right_03"
+      ],
+      "is_main_part": false
+    },
+    {
+      "id": 14200204,
+      "monster_model_id": 142002,
+      "parts_name_localkey": "parts_name_RL01",
+      "damage_hp_ratio": 1000,
+      "hp_ratio": 500,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 14200201,
+      "weapon_object": [
+        "socket_weapon_left_02"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_04"
+      ],
+      "parts_type": "Leg_Front_Left",
+      "parts_object": [
+        "socket_weapon_left_02"
+      ],
+      "is_main_part": false
+    },
+    {
+      "id": 14200205,
+      "monster_model_id": 142002,
+      "parts_name_localkey": "parts_name_RL02",
+      "damage_hp_ratio": 1000,
+      "hp_ratio": 500,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 14200201,
+      "weapon_object": [
+        "socket_weapon_right_02"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_04"
+      ],
+      "parts_type": "Leg_Front_Right",
+      "parts_object": [
+        "socket_weapon_right_02"
+      ],
+      "is_main_part": false
+    },
+    {
+      "id": 14200301,
+      "monster_model_id": 142003,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7000008,
+      "visible_hp": false,
+      "linked_parts_id": 14200301,
+      "weapon_object": [
+        "Dummy003",
+        "Dummy008",
+        "socket_muzzle_fire_20",
+        "bcg003_rl_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01",
+        "weapon_object_01",
+        "weapon_object_02",
+        "weapon_object_03"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_41_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 14200401,
+      "monster_model_id": 142004,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7000008,
+      "visible_hp": false,
+      "linked_parts_id": 14200401,
+      "weapon_object": [
+        "bcg004_sr_var",
+        "bcg004_rl_var",
+        "bcg004_ar_var",
+        "socket_muzzle_fire_04"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01",
+        "weapon_object_02",
+        "weapon_object_03",
+        "weapon_object_04"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_41_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 14200501,
+      "monster_model_id": 142005,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7000008,
+      "visible_hp": false,
+      "linked_parts_id": 14200501,
+      "weapon_object": [
+        "bcg005_ar_var",
+        "socket_muzzle_fire_02"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01",
+        "weapon_object_02"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_41_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 15200101,
+      "monster_model_id": 152001,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7152001,
+      "visible_hp": false,
+      "linked_parts_id": 15200101,
+      "weapon_object": [
+        "socket_vulcan",
+        "socket_laser",
+        "socket_luncher",
+        "laser_weapon_01",
+        "main_laser",
+        "Bone022",
+        "socket_luncher1"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01",
+        "weapon_object_02",
+        "weapon_object_03",
+        "weapon_object_04",
+        "weapon_object_05",
+        "weapon_object_06",
+        "weapon_object_03"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "bbg001_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 15200102,
+      "monster_model_id": 152001,
+      "parts_name_localkey": "parts_name_leg_front_left",
+      "damage_hp_ratio": 2500,
+      "hp_ratio": 1000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7152001,
+      "visible_hp": true,
+      "linked_parts_id": 15200101,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "None"
+      ],
+      "parts_type": "Leg_Front_Left",
+      "parts_object": [
+        "Bone006"
+      ],
+      "is_main_part": false
+    },
+    {
+      "id": 15200103,
+      "monster_model_id": 152001,
+      "parts_name_localkey": "parts_name_leg_front_right",
+      "damage_hp_ratio": 2500,
+      "hp_ratio": 1000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7152001,
+      "visible_hp": true,
+      "linked_parts_id": 15200101,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "None"
+      ],
+      "parts_type": "Leg_Front_Right",
+      "parts_object": [
+        "Bone001"
+      ],
+      "is_main_part": false
+    },
+    {
+      "id": 15200201,
+      "monster_model_id": 152002,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7152002,
+      "visible_hp": false,
+      "linked_parts_id": 15200201,
+      "weapon_object": [
+        "socket_laser",
+        "handbeam_bone_r01",
+        "socket_muzzle_fire_999"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01",
+        "weapon_object_02",
+        "weapon_object_03"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "bbg002_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 15200202,
+      "monster_model_id": 152002,
+      "parts_name_localkey": "parts_name_Mordernia01",
+      "damage_hp_ratio": 1000,
+      "hp_ratio": 550,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7152002,
+      "visible_hp": true,
+      "linked_parts_id": 15200201,
+      "weapon_object": [
+        "rocketlauncher_bone_l"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_04"
+      ],
+      "parts_type": "Weapon_01",
+      "parts_object": [
+        "rocketlauncher_bone_l"
+      ],
+      "parts_skin": "bbg002_socket_rocket_left",
+      "is_main_part": false
+    },
+    {
+      "id": 15200203,
+      "monster_model_id": 152002,
+      "parts_name_localkey": "parts_name_Mordernia02",
+      "damage_hp_ratio": 1000,
+      "hp_ratio": 550,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7152002,
+      "visible_hp": true,
+      "linked_parts_id": 15200201,
+      "weapon_object": [
+        "rocketlauncher_bone_r"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_04"
+      ],
+      "parts_type": "Weapon_02",
+      "parts_object": [
+        "rocketlauncher_bone_r"
+      ],
+      "parts_skin": "bbg002_socket_rocke_right",
+      "is_main_part": false
+    },
+    {
+      "id": 15200204,
+      "monster_model_id": 152002,
+      "parts_name_localkey": "parts_name_Mordernia03",
+      "damage_hp_ratio": 1500,
+      "hp_ratio": 1100,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7152002,
+      "visible_hp": true,
+      "linked_parts_id": 15200201,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "None"
+      ],
+      "parts_type": "Weapon_03",
+      "parts_object": [
+        "Bip01 Head"
+      ],
+      "parts_skin": "bbg002_head",
+      "is_main_part": false
+    },
+    {
+      "id": 15200301,
+      "monster_model_id": 152003,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7152003,
+      "visible_hp": false,
+      "linked_parts_id": 15200301,
+      "weapon_object": [
+        "Spider_L_WP_gatling_02",
+        "Spider_R_WP_gatling_02",
+        "Spider_Bdoy_L_WP_Rocket_01",
+        "Spider_Bdoy_R_WP_Rocket_01",
+        "Spider_Head_Center_01"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_03",
+        "weapon_object_04",
+        "weapon_object_05",
+        "weapon_object_06",
+        "weapon_object_07"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "bbg003_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 15200302,
+      "monster_model_id": 152003,
+      "parts_name_localkey": "parts_name_arm_left",
+      "damage_hp_ratio": 1300,
+      "hp_ratio": 1600,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7152003,
+      "visible_hp": true,
+      "linked_parts_id": 15200301,
+      "weapon_object": [
+        "Spider_L_Arm_WP_01"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01"
+      ],
+      "parts_type": "Arm_Left",
+      "parts_object": [
+        "Spider_L_Arm_02"
+      ],
+      "parts_skin": "bbg003_left_Arms_skin",
+      "is_main_part": false
+    },
+    {
+      "id": 15200303,
+      "monster_model_id": 152003,
+      "parts_name_localkey": "parts_name_arm_right",
+      "damage_hp_ratio": 1300,
+      "hp_ratio": 1600,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7152003,
+      "visible_hp": true,
+      "linked_parts_id": 15200301,
+      "weapon_object": [
+        "Spider_R_Arm_WP_01"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_02"
+      ],
+      "parts_type": "Arm_Right",
+      "parts_object": [
+        "Spider_R_Arm_02"
+      ],
+      "parts_skin": "bbg003_right_Arms_skin",
+      "is_main_part": false
+    },
+    {
+      "id": 15200304,
+      "monster_model_id": 152003,
+      "parts_name_localkey": "parts_name_Mordernia03",
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7152003,
+      "visible_hp": false,
+      "linked_parts_id": 15200301,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "None"
+      ],
+      "parts_type": "Weapon_01",
+      "parts_object": [
+        "core_col_03"
+      ],
+      "is_main_part": false
+    },
+    {
+      "id": 21100101,
+      "monster_model_id": 211001,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 21100101,
+      "weapon_object": [
+        "eea002_ar_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_20_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 21200101,
+      "monster_model_id": 212001,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 21200101,
+      "weapon_object": [
+        "eeg002_sr_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_20_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 22100101,
+      "monster_model_id": 221001,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 22100101,
+      "weapon_object": [
+        "ema001_ar_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_00_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 22100201,
+      "monster_model_id": 221002,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 22100201,
+      "weapon_object": [
+        "eea002_ar_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_00_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 22100301,
+      "monster_model_id": 221003,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7000007,
+      "visible_hp": false,
+      "linked_parts_id": 22100301,
+      "weapon_object": [
+        "ema003_ar_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_00_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 22200101,
+      "monster_model_id": 222001,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 22200101,
+      "weapon_object": [
+        "emg001_ar_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_40_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 22200201,
+      "monster_model_id": 222002,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 22200201,
+      "weapon_object": [
+        "emg002_ar_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_40_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 22200301,
+      "monster_model_id": 222003,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 22200301,
+      "weapon_object": [
+        "emg003_rl_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_40_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 22200401,
+      "monster_model_id": 222004,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 22200401,
+      "weapon_object": [
+        "emg004_sr_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_40_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 22200501,
+      "monster_model_id": 222005,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 22200501,
+      "weapon_object": [
+        "emg005_ar_var",
+        "emg005_rl_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01",
+        "weapon_object_02"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_40_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 23100101,
+      "monster_model_id": 231001,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 23100101,
+      "weapon_object": [
+        "eea001_rl_var",
+        "eea001_sr_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01",
+        "weapon_object_02"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_00_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 23100201,
+      "monster_model_id": 231002,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 23100201,
+      "weapon_object": [
+        "eea002_ar_var",
+        "eea002_rl_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01",
+        "weapon_object_02"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_20_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 23100301,
+      "monster_model_id": 231003,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7000007,
+      "visible_hp": false,
+      "linked_parts_id": 23100301,
+      "weapon_object": [
+        "socket_muzzle_fire_08"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_00_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 23200101,
+      "monster_model_id": 232001,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 23200101,
+      "weapon_object": [
+        "eeg001_sr_var",
+        "eeg001_ar_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01",
+        "weapon_object_02"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_40_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 23200201,
+      "monster_model_id": 232002,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 23200201,
+      "weapon_object": [
+        "eeg002_sr_var",
+        "eeg002_rl_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01",
+        "weapon_object_02"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_40_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 23200301,
+      "monster_model_id": 232003,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7000008,
+      "visible_hp": true,
+      "linked_parts_id": 23200301,
+      "weapon_object": [
+        "eeg003_ar_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_40_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 23200401,
+      "monster_model_id": 232004,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7000007,
+      "visible_hp": false,
+      "linked_parts_id": 23200401,
+      "weapon_object": [
+        "eeg004_sr_var",
+        "eeg004_ar_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01",
+        "weapon_object_02"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_40_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 23200501,
+      "monster_model_id": 232005,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 23200501,
+      "weapon_object": [
+        "eeg005_sr_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_40_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 23200601,
+      "monster_model_id": 232006,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7000010,
+      "visible_hp": true,
+      "linked_parts_id": 23200601,
+      "weapon_object": [
+        "eeg006_ar_var",
+        "eeg006_sr_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01",
+        "weapon_object_02"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_40_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 23200701,
+      "monster_model_id": 232007,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 23200701,
+      "weapon_object": [
+        "eeg007_ar_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_40_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 24100101,
+      "monster_model_id": 241001,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7000008,
+      "visible_hp": false,
+      "linked_parts_id": 24100101,
+      "weapon_object": [
+        "eca001_rl_var",
+        "socket_muzzle_fire_07"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01",
+        "weapon_object_02"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_21_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 24100102,
+      "monster_model_id": 241001,
+      "parts_name_localkey": "parts_name_arm_left",
+      "damage_hp_ratio": 2000,
+      "hp_ratio": 300,
+      "attack_ratio": 10000,
+      "defence_ratio": 8000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7000008,
+      "visible_hp": true,
+      "linked_parts_id": 24100101,
+      "weapon_object": [
+        "socket_weapon_left_02"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_03"
+      ],
+      "parts_type": "Arm_Left",
+      "parts_object": [
+        "socket_weapon_left_02"
+      ],
+      "is_main_part": false
+    },
+    {
+      "id": 24100103,
+      "monster_model_id": 241001,
+      "parts_name_localkey": "parts_name_arm_right",
+      "damage_hp_ratio": 2000,
+      "hp_ratio": 300,
+      "attack_ratio": 10000,
+      "defence_ratio": 8000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7000008,
+      "visible_hp": true,
+      "linked_parts_id": 24100101,
+      "weapon_object": [
+        "socket_weapon_right_02"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_04"
+      ],
+      "parts_type": "Arm_Right",
+      "parts_object": [
+        "socket_weapon_right_02"
+      ],
+      "is_main_part": false
+    },
+    {
+      "id": 24100201,
+      "monster_model_id": 241002,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7000009,
+      "visible_hp": false,
+      "linked_parts_id": 24100201,
+      "weapon_object": [
+        "eca002_ar_var",
+        "socket_muzzle_fire_02"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01",
+        "weapon_object_02"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_21_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 24200101,
+      "monster_model_id": 242001,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7000008,
+      "visible_hp": false,
+      "linked_parts_id": 24200101,
+      "weapon_object": [
+        "ecg001_rl_var",
+        "ecg001_ar_var",
+        "ecg001_sr_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01",
+        "weapon_object_02",
+        "weapon_object_03"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_41_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 24200201,
+      "monster_model_id": 242002,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7000008,
+      "visible_hp": false,
+      "linked_parts_id": 24200201,
+      "weapon_object": [
+        "ecg002_rl_var",
+        "ecg002_ar_var",
+        "ecg002_sr_var",
+        "socket_muzzle_fire_04"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01",
+        "weapon_object_02",
+        "weapon_object_03",
+        "weapon_object_04"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_41_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 24200301,
+      "monster_model_id": 242003,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7000008,
+      "visible_hp": false,
+      "linked_parts_id": 24200301,
+      "weapon_object": [
+        "ecg003_ar_var",
+        "ecg003_sr_var",
+        "ecg003_rl_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01",
+        "weapon_object_02",
+        "weapon_object_03"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_41_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 24200401,
+      "monster_model_id": 242004,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7000008,
+      "visible_hp": false,
+      "linked_parts_id": 24200401,
+      "weapon_object": [
+        "ecg004_ar_var",
+        "ecg004_rl_var",
+        "socket_muzzle_fire_05"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01",
+        "weapon_object_02",
+        "weapon_object_03"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_41_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 24200501,
+      "monster_model_id": 242005,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7000008,
+      "visible_hp": false,
+      "linked_parts_id": 24200501,
+      "weapon_object": [
+        "ecg005_sr_var",
+        "socket_muzzle_fire_03"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01",
+        "weapon_object_02"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_41_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 24200502,
+      "monster_model_id": 242005,
+      "parts_name_localkey": "parts_name_head",
+      "damage_hp_ratio": 1500,
+      "hp_ratio": 500,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 24200501,
+      "weapon_object": [
+        "socket_muzzle_fire_04"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_04"
+      ],
+      "parts_type": "Head",
+      "parts_object": [
+        "Dummy029"
+      ],
+      "parts_skin": "ecg005_head_skin",
+      "is_main_part": false
+    },
+    {
+      "id": 24200503,
+      "monster_model_id": 242005,
+      "parts_name_localkey": "parts_name_arm_left",
+      "damage_hp_ratio": 500,
+      "hp_ratio": 300,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 24200501,
+      "weapon_object": [
+        "socket_weapon_left_02"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_03"
+      ],
+      "parts_type": "Arm_Left",
+      "parts_object": [
+        "socket_weapon_left_02"
+      ],
+      "is_main_part": false
+    },
+    {
+      "id": 24200504,
+      "monster_model_id": 242005,
+      "parts_name_localkey": "parts_name_arm_right",
+      "damage_hp_ratio": 500,
+      "hp_ratio": 300,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 24200501,
+      "weapon_object": [
+        "socket_weapon_right_02"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_03"
+      ],
+      "parts_type": "Arm_Right",
+      "parts_object": [
+        "socket_weapon_right_02"
+      ],
+      "is_main_part": false
+    },
+    {
+      "id": 25100101,
+      "monster_model_id": 251001,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7251001,
+      "visible_hp": false,
+      "linked_parts_id": 25100101,
+      "weapon_object": [
+        "eba001_l_ar_01",
+        "eba001_r_ar_01",
+        "socket_body",
+        "socket_l_laser",
+        "socket_r_laser"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01",
+        "weapon_object_01",
+        "weapon_object_02",
+        "weapon_object_03",
+        "weapon_object_03"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "eba001_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 25100102,
+      "monster_model_id": 251001,
+      "parts_name_localkey": "parts_name_weapon_01",
+      "damage_hp_ratio": 400,
+      "hp_ratio": 80,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7251001,
+      "visible_hp": true,
+      "linked_parts_id": 25100101,
+      "weapon_object": [
+        "eba001_l_motor_02"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_04"
+      ],
+      "parts_type": "Arm_Left",
+      "parts_object": [
+        "eba001_l_ar"
+      ],
+      "parts_skin": "eba001_left_sr_01_skin",
+      "is_main_part": false
+    },
+    {
+      "id": 25100103,
+      "monster_model_id": 251001,
+      "parts_name_localkey": "parts_name_weapon_02",
+      "damage_hp_ratio": 400,
+      "hp_ratio": 80,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7251001,
+      "visible_hp": true,
+      "linked_parts_id": 25100101,
+      "weapon_object": [
+        "eba001_r_motor_02"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_05"
+      ],
+      "parts_type": "Arm_Right",
+      "parts_object": [
+        "eba001_r_ar"
+      ],
+      "parts_skin": "eba001_right_sr_01_skin",
+      "is_main_part": false
+    },
+    {
+      "id": 25100104,
+      "monster_model_id": 251001,
+      "parts_name_localkey": "parts_name_Mordernia03",
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7251001,
+      "visible_hp": false,
+      "linked_parts_id": 25100101,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "None"
+      ],
+      "parts_type": "Head",
+      "parts_object": [
+        "core_col"
+      ],
+      "is_main_part": false
+    },
+    {
+      "id": 25200101,
+      "monster_model_id": 252001,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7252001,
+      "visible_hp": false,
+      "linked_parts_id": 25200101,
+      "weapon_object": [
+        "socket_luncher",
+        "socket_cannon",
+        "tongue_bone003",
+        "phase002_root",
+        "core_bone001"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01",
+        "weapon_object_02",
+        "weapon_object_03",
+        "weapon_object_04",
+        "weapon_object_05"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "ebg001_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 25200102,
+      "monster_model_id": 252001,
+      "parts_name_localkey": "parts_name_LandEater01",
+      "damage_hp_ratio": 383,
+      "hp_ratio": 225,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7252001,
+      "visible_hp": true,
+      "linked_parts_id": 25200101,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "None"
+      ],
+      "parts_type": "Weapon_01",
+      "parts_object": [
+        "core_R_bone001"
+      ],
+      "is_main_part": false
+    },
+    {
+      "id": 25200103,
+      "monster_model_id": 252001,
+      "parts_name_localkey": "parts_name_LandEater02",
+      "damage_hp_ratio": 383,
+      "hp_ratio": 225,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7252001,
+      "visible_hp": true,
+      "linked_parts_id": 25200101,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "None"
+      ],
+      "parts_type": "Weapon_02",
+      "parts_object": [
+        "core_L_bone001"
+      ],
+      "is_main_part": false
+    },
+    {
+      "id": 25200104,
+      "monster_model_id": 252001,
+      "parts_name_localkey": "parts_name_LandEater03",
+      "damage_hp_ratio": 500,
+      "hp_ratio": 350,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7252001,
+      "visible_hp": true,
+      "linked_parts_id": 25200101,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "None"
+      ],
+      "parts_type": "Head",
+      "parts_object": [
+        "Bone026"
+      ],
+      "parts_skin": "ebg001_phase001_parts_top_skin",
+      "is_main_part": false
+    },
+    {
+      "id": 25200105,
+      "monster_model_id": 252001,
+      "parts_name_localkey": "parts_name_LandEater04",
+      "damage_hp_ratio": 500,
+      "hp_ratio": 350,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7252001,
+      "visible_hp": true,
+      "linked_parts_id": 25200101,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "None"
+      ],
+      "parts_type": "Weapon_03",
+      "parts_object": [
+        "Bone018"
+      ],
+      "parts_skin": "ebg001_phase001_parts_center_skin",
+      "is_main_part": false
+    },
+    {
+      "id": 25200106,
+      "monster_model_id": 252001,
+      "parts_name_localkey": "parts_name_LandEater05",
+      "damage_hp_ratio": 500,
+      "hp_ratio": 350,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7252001,
+      "visible_hp": true,
+      "linked_parts_id": 25200101,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "None"
+      ],
+      "parts_type": "Arm_Right",
+      "parts_object": [
+        "Bone043"
+      ],
+      "parts_skin": "ebg001_phase001_parts_right_skin",
+      "is_main_part": false
+    },
+    {
+      "id": 25200107,
+      "monster_model_id": 252001,
+      "parts_name_localkey": "parts_name_LandEater06",
+      "damage_hp_ratio": 500,
+      "hp_ratio": 350,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7252001,
+      "visible_hp": true,
+      "linked_parts_id": 25200101,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "None"
+      ],
+      "parts_type": "Arm_Left",
+      "parts_object": [
+        "Bone120"
+      ],
+      "parts_skin": "ebg001_phase001_parts_left_skin",
+      "is_main_part": false
+    },
+    {
+      "id": 25200201,
+      "monster_model_id": 252002,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 7000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7252002,
+      "visible_hp": false,
+      "linked_parts_id": 25200201,
+      "weapon_object": [
+        "ebg002_hedbal_ar_01",
+        "ebg002_headeye_01",
+        "Dummy047",
+        "Dummy048",
+        "Dummy049",
+        "Dummy050",
+        "Dummy051"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01",
+        "weapon_object_02",
+        "weapon_object_03",
+        "weapon_object_03",
+        "weapon_object_03",
+        "weapon_object_03",
+        "weapon_object_03"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "ebg002_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 25200202,
+      "monster_model_id": 252002,
+      "parts_name_localkey": "parts_name_MaterialH01",
+      "damage_hp_ratio": 500,
+      "hp_ratio": 300,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7252002,
+      "visible_hp": true,
+      "linked_parts_id": 25200201,
+      "weapon_object": [
+        "ebg002_weaponbody_r_01"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_04"
+      ],
+      "parts_type": "Weapon_01",
+      "parts_object": [
+        "ebg002_weaponbody_r_01"
+      ],
+      "parts_skin": "ebg002_frame_skin010_wpr04",
+      "is_main_part": false
+    },
+    {
+      "id": 25200203,
+      "monster_model_id": 252002,
+      "parts_name_localkey": "parts_name_MaterialH02",
+      "damage_hp_ratio": 500,
+      "hp_ratio": 300,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7252002,
+      "visible_hp": true,
+      "linked_parts_id": 25200201,
+      "weapon_object": [
+        "ebg002_weaponbody_l_01"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_05"
+      ],
+      "parts_type": "Weapon_02",
+      "parts_object": [
+        "ebg002_weaponbody_l_01"
+      ],
+      "parts_skin": "ebg002_frame_skin009_wpl04",
+      "is_main_part": false
+    },
+    {
+      "id": 25200204,
+      "monster_model_id": 252002,
+      "parts_name_localkey": "parts_name_MaterialH03",
+      "damage_hp_ratio": 500,
+      "hp_ratio": 300,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7252002,
+      "visible_hp": true,
+      "linked_parts_id": 25200201,
+      "weapon_object": [
+        "ebg002_weaponbody_r_02"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_06"
+      ],
+      "parts_type": "Weapon_03",
+      "parts_object": [
+        "ebg002_weaponbody_r_02"
+      ],
+      "parts_skin": "ebg002_frame_skin004_wpr02",
+      "is_main_part": false
+    },
+    {
+      "id": 25200205,
+      "monster_model_id": 252002,
+      "parts_name_localkey": "parts_name_MaterialH04",
+      "damage_hp_ratio": 500,
+      "hp_ratio": 300,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7252002,
+      "visible_hp": true,
+      "linked_parts_id": 25200201,
+      "weapon_object": [
+        "ebg002_weaponbody_l_02"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_07"
+      ],
+      "parts_type": "Weapon_04",
+      "parts_object": [
+        "ebg002_weaponbody_l_02"
+      ],
+      "parts_skin": "ebg002_frame_skin007_wpl02",
+      "is_main_part": false
+    },
+    {
+      "id": 25200206,
+      "monster_model_id": 252002,
+      "parts_name_localkey": "parts_name_MaterialH05",
+      "damage_hp_ratio": 500,
+      "hp_ratio": 300,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7252002,
+      "visible_hp": true,
+      "linked_parts_id": 25200201,
+      "weapon_object": [
+        "ebg002_weaponbody_r_00"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_08"
+      ],
+      "parts_type": "Weapon_05",
+      "parts_object": [
+        "ebg002_weaponbody_r_00"
+      ],
+      "parts_skin": "ebg002_frame_skin002_wpr01",
+      "is_main_part": false
+    },
+    {
+      "id": 25200207,
+      "monster_model_id": 252002,
+      "parts_name_localkey": "parts_name_MaterialH06",
+      "damage_hp_ratio": 500,
+      "hp_ratio": 300,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7252002,
+      "visible_hp": true,
+      "linked_parts_id": 25200201,
+      "weapon_object": [
+        "ebg002_weaponbody_l_00"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_09"
+      ],
+      "parts_type": "Weapon_06",
+      "parts_object": [
+        "ebg002_weaponbody_l_00"
+      ],
+      "parts_skin": "ebg002_frame_skin003_wpl01",
+      "is_main_part": false
+    },
+    {
+      "id": 25200208,
+      "monster_model_id": 252002,
+      "parts_name_localkey": "parts_name_MaterialH07",
+      "damage_hp_ratio": 500,
+      "hp_ratio": 300,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7252002,
+      "visible_hp": true,
+      "linked_parts_id": 25200201,
+      "weapon_object": [
+        "ebg002_weaponjoint_c_01"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_10"
+      ],
+      "parts_type": "Weapon_07",
+      "parts_object": [
+        "ebg002_weaponjoint_c_01"
+      ],
+      "parts_skin": "ebg002_frame_skin001_wpc01",
+      "is_main_part": false
+    },
+    {
+      "id": 25200209,
+      "monster_model_id": 252002,
+      "parts_name_localkey": "parts_name_MaterialH08",
+      "damage_hp_ratio": 200,
+      "hp_ratio": 500,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7252002,
+      "visible_hp": false,
+      "linked_parts_id": 25200201,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "None"
+      ],
+      "parts_type": "Head",
+      "parts_object": [
+        "core_col_01"
+      ],
+      "is_main_part": false
+    },
+    {
+      "id": 25200210,
+      "monster_model_id": 252002,
+      "parts_name_localkey": "parts_name_MaterialH09",
+      "damage_hp_ratio": 0,
+      "hp_ratio": 1,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7252002,
+      "visible_hp": false,
+      "linked_parts_id": 25200201,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "None"
+      ],
+      "parts_type": "Leg_Front_Left",
+      "parts_object": [
+        "ebg002_beamrail_l_01"
+      ],
+      "parts_skin": "ebg002_frame_skin005_wpl03",
+      "is_main_part": false
+    },
+    {
+      "id": 25200211,
+      "monster_model_id": 252002,
+      "parts_name_localkey": "parts_name_MaterialH09",
+      "damage_hp_ratio": 0,
+      "hp_ratio": 1,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7252002,
+      "visible_hp": false,
+      "linked_parts_id": 25200201,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "None"
+      ],
+      "parts_type": "Leg_Front_Right",
+      "parts_object": [
+        "ebg002_beamrail_r_01"
+      ],
+      "parts_skin": "ebg002_frame_skin006_wpr03",
+      "is_main_part": false
+    },
+    {
+      "id": 25200212,
+      "monster_model_id": 252002,
+      "parts_name_localkey": "parts_name_MaterialH09",
+      "damage_hp_ratio": 0,
+      "hp_ratio": 1,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7252002,
+      "visible_hp": false,
+      "linked_parts_id": 25200201,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "None"
+      ],
+      "parts_type": "Leg_Back_Left",
+      "parts_object": [
+        "ebg002_metalbox_03"
+      ],
+      "parts_skin": "ebg002_frame_skin008_wpl05",
+      "is_main_part": false
+    },
+    {
+      "id": 25200213,
+      "monster_model_id": 252002,
+      "parts_name_localkey": "parts_name_MaterialH09",
+      "damage_hp_ratio": 0,
+      "hp_ratio": 1,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7252002,
+      "visible_hp": false,
+      "linked_parts_id": 25200201,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "None"
+      ],
+      "parts_type": "Leg_Back_Right",
+      "parts_object": [
+        "ebg002_metalbox_22"
+      ],
+      "parts_skin": "ebg002_frame_skin011_wpr05",
+      "is_main_part": false
+    },
+    {
+      "id": 25200214,
+      "monster_model_id": 252002,
+      "parts_name_localkey": "parts_name_MaterialH09",
+      "damage_hp_ratio": 0,
+      "hp_ratio": 1,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7252002,
+      "visible_hp": false,
+      "linked_parts_id": 25200201,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "None"
+      ],
+      "parts_type": "Chest",
+      "parts_object": [
+        "ebg002_metalbox_12"
+      ],
+      "is_main_part": false
+    },
+    {
+      "id": 25200215,
+      "monster_model_id": 252002,
+      "parts_name_localkey": "parts_name_MaterialH09",
+      "damage_hp_ratio": 0,
+      "hp_ratio": 1,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7252002,
+      "visible_hp": false,
+      "linked_parts_id": 25200201,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "None"
+      ],
+      "parts_type": "Arm_Left",
+      "parts_object": [
+        "ebg002_beambox_l_01"
+      ],
+      "parts_skin": "ebg002_frame1_skin",
+      "is_main_part": false
+    },
+    {
+      "id": 25200216,
+      "monster_model_id": 252002,
+      "parts_name_localkey": "parts_name_MaterialH09",
+      "damage_hp_ratio": 0,
+      "hp_ratio": 1,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7252002,
+      "visible_hp": false,
+      "linked_parts_id": 25200201,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "None"
+      ],
+      "parts_type": "Arm_Right",
+      "parts_object": [
+        "ebg002_beambox_r_01"
+      ],
+      "parts_skin": "ebg002_frame2_skin",
+      "is_main_part": false
+    },
+    {
+      "id": 31200101,
+      "monster_model_id": 312001,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 31200101,
+      "weapon_object": [
+        "mma001_ar_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_20_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 31100101,
+      "monster_model_id": 311001,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 31100101,
+      "weapon_object": [
+        "mmg002_ar_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_00_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 32100101,
+      "monster_model_id": 321001,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 32100101,
+      "weapon_object": [
+        "mma001_ar_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_00_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 32170101,
+      "monster_model_id": 321701,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 32170101,
+      "weapon_object": [
+        "mma001_ar_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_00_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 32100201,
+      "monster_model_id": 321002,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 32100201,
+      "weapon_object": [
+        "mma002_ar_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_00_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 32170201,
+      "monster_model_id": 321702,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 32170201,
+      "weapon_object": [
+        "mma002_ar_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_00_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 32100301,
+      "monster_model_id": 321003,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 32100301,
+      "weapon_object": [
+        "mma001_ar_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_00_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 32100401,
+      "monster_model_id": 321004,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 32100401,
+      "weapon_object": [
+        "mma004_rl_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_00_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 32200101,
+      "monster_model_id": 322001,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 32200101,
+      "weapon_object": [
+        "mmg001_ar_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_20_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 32200201,
+      "monster_model_id": 322002,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 32200201,
+      "weapon_object": [
+        "mmg002_ar_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_40_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 32200301,
+      "monster_model_id": 322003,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 32200301,
+      "weapon_object": [
+        "mmg003_sr_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_40_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 32200401,
+      "monster_model_id": 322004,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 32200401,
+      "weapon_object": [
+        "mmg001_ar_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_40_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 32200501,
+      "monster_model_id": 322005,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 32200501,
+      "weapon_object": [
+        "mmg005_ar_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_40_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 32270501,
+      "monster_model_id": 322705,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 32270501,
+      "weapon_object": [
+        "mmg005_ar_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_40_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 32200601,
+      "monster_model_id": 322006,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 32200601,
+      "weapon_object": [
+        "mmg006_rl_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_40_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 32200701,
+      "monster_model_id": 322007,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 32200701,
+      "weapon_object": [
+        "mmg007_ar_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_40_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 33100101,
+      "monster_model_id": 331001,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7000012,
+      "visible_hp": true,
+      "linked_parts_id": 33100101,
+      "weapon_object": [
+        "mea001_ar_var",
+        "mea001_sr_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01",
+        "weapon_object_02"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_20_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 33100201,
+      "monster_model_id": 331002,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 33100201,
+      "weapon_object": [
+        "mea002_rl_var",
+        "mea002_ar_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01",
+        "weapon_object_02"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_00_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 33100301,
+      "monster_model_id": 331003,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 33100301,
+      "weapon_object": [
+        "mea003_rl_var",
+        "mea003_ar_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01",
+        "weapon_object_02"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_00_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 33200101,
+      "monster_model_id": 332001,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 33200101,
+      "weapon_object": [
+        "meg001_rl_var",
+        "meg001_ar_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01",
+        "weapon_object_02"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_20_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 33200201,
+      "monster_model_id": 332002,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7000014,
+      "visible_hp": true,
+      "linked_parts_id": 33200201,
+      "weapon_object": [
+        "meg002_sr_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "meg005_bone_00_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 33200301,
+      "monster_model_id": 332003,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 33200301,
+      "weapon_object": [
+        "meg003_rl_var",
+        "meg003_ar_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01",
+        "weapon_object_02"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_40_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 33200401,
+      "monster_model_id": 332004,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 33200401,
+      "weapon_object": [
+        "socket_muzzle_fire_03",
+        "meg004_crane_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01",
+        "weapon_object_02"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_40_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 33200501,
+      "monster_model_id": 332005,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7000014,
+      "visible_hp": true,
+      "linked_parts_id": 33200501,
+      "weapon_object": [
+        "socket_muzzle_fire_07"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "meg005_bone_00_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 33200601,
+      "monster_model_id": 332006,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 33200601,
+      "weapon_object": [
+        "meg006_ar_var",
+        "meg006_rl_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01",
+        "weapon_object_02"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_40_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 33200701,
+      "monster_model_id": 332007,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 33200701,
+      "weapon_object": [
+        "meg007_rl_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_40_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 34100101,
+      "monster_model_id": 341001,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7000008,
+      "visible_hp": false,
+      "linked_parts_id": 34100101,
+      "weapon_object": [
+        "mca001_ar_var",
+        "mca001_sr_var",
+        "mca001_rl_01_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01",
+        "weapon_object_02",
+        "weapon_object_03"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_21_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 34100201,
+      "monster_model_id": 341002,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7000008,
+      "visible_hp": false,
+      "linked_parts_id": 34100201,
+      "weapon_object": [
+        "mca002_ar_var",
+        "mca002_rl_var",
+        "socket_weapon_left_02",
+        "socket_weapon_right_02"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01",
+        "weapon_object_02",
+        "weapon_object_03",
+        "weapon_object_04"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_21_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 34200101,
+      "monster_model_id": 342001,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7000011,
+      "visible_hp": false,
+      "linked_parts_id": 34200101,
+      "weapon_object": [
+        "mcg001_ar_var",
+        "mcg001_rl_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01",
+        "weapon_object_02"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_41_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 34200102,
+      "monster_model_id": 342001,
+      "parts_name_localkey": "parts_name_arm_left",
+      "damage_hp_ratio": 1500,
+      "hp_ratio": 300,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7000011,
+      "visible_hp": true,
+      "linked_parts_id": 34200101,
+      "weapon_object": [
+        "bone_arm_left"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_03"
+      ],
+      "parts_type": "Arm_Left",
+      "parts_object": [
+        "bone_arm_left"
+      ],
+      "is_main_part": false
+    },
+    {
+      "id": 34200103,
+      "monster_model_id": 342001,
+      "parts_name_localkey": "parts_name_arm_right",
+      "damage_hp_ratio": 1500,
+      "hp_ratio": 300,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7000011,
+      "visible_hp": true,
+      "linked_parts_id": 34200101,
+      "weapon_object": [
+        "bone_arm_right"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_03"
+      ],
+      "parts_type": "Arm_Right",
+      "parts_object": [
+        "bone_arm_right"
+      ],
+      "is_main_part": false
+    },
+    {
+      "id": 34200201,
+      "monster_model_id": 342002,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7000008,
+      "visible_hp": false,
+      "linked_parts_id": 34200201,
+      "weapon_object": [
+        "mcg002_ar_var",
+        "mcg002_sr_var",
+        "mcg002_rl_var"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01",
+        "weapon_object_02",
+        "weapon_object_03"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_41_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 34200301,
+      "monster_model_id": 342003,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7000008,
+      "visible_hp": false,
+      "linked_parts_id": 34200301,
+      "weapon_object": [
+        "mma002_ar_var",
+        "mcg002_sr_var",
+        "socket_muzzle_fire_04"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01",
+        "weapon_object_02",
+        "weapon_object_03"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_41_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 34200302,
+      "monster_model_id": 342003,
+      "parts_name_localkey": "parts_name_arm_left",
+      "damage_hp_ratio": 1500,
+      "hp_ratio": 300,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7000008,
+      "visible_hp": true,
+      "linked_parts_id": 34200301,
+      "weapon_object": [
+        "bone_arm_left"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_04"
+      ],
+      "parts_type": "Arm_Left",
+      "parts_object": [
+        "bone_arm_left"
+      ],
+      "is_main_part": false
+    },
+    {
+      "id": 34200303,
+      "monster_model_id": 342003,
+      "parts_name_localkey": "parts_name_arm_right",
+      "damage_hp_ratio": 1500,
+      "hp_ratio": 300,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7000008,
+      "visible_hp": true,
+      "linked_parts_id": 34200301,
+      "weapon_object": [
+        "bone_arm_right"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_04"
+      ],
+      "parts_type": "Arm_Right",
+      "parts_object": [
+        "bone_arm_right"
+      ],
+      "is_main_part": false
+    },
+    {
+      "id": 34200401,
+      "monster_model_id": 342004,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7000008,
+      "visible_hp": false,
+      "linked_parts_id": 34200401,
+      "weapon_object": [
+        "mcg002_sr_var",
+        "mmg001_ar_var",
+        "mmg006_rl_var",
+        "socket_muzzle_fire_04"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01",
+        "weapon_object_02",
+        "weapon_object_03",
+        "weapon_object_04"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_41_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 34200402,
+      "monster_model_id": 342004,
+      "parts_name_localkey": "parts_name_arm_left",
+      "damage_hp_ratio": 1500,
+      "hp_ratio": 300,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7000008,
+      "visible_hp": true,
+      "linked_parts_id": 34200401,
+      "weapon_object": [
+        "bone_arm_left"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_05"
+      ],
+      "parts_type": "Arm_Left",
+      "parts_object": [
+        "bone_arm_left"
+      ],
+      "is_main_part": false
+    },
+    {
+      "id": 34200403,
+      "monster_model_id": 342004,
+      "parts_name_localkey": "parts_name_arm_right",
+      "damage_hp_ratio": 1500,
+      "hp_ratio": 300,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7000008,
+      "visible_hp": true,
+      "linked_parts_id": 34200401,
+      "weapon_object": [
+        "bone_arm_right"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_05"
+      ],
+      "parts_type": "Arm_Right",
+      "parts_object": [
+        "bone_arm_right"
+      ],
+      "is_main_part": false
+    },
+    {
+      "id": 34200501,
+      "monster_model_id": 342005,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7000008,
+      "visible_hp": false,
+      "linked_parts_id": 34200501,
+      "weapon_object": [
+        "socket_muzzle_fire_02",
+        "socket_muzzle_fire_03",
+        "socket_muzzle_fire_04"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_02",
+        "weapon_object_03",
+        "weapon_object_04"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_41_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 34200502,
+      "monster_model_id": 342005,
+      "parts_name_localkey": "parts_name_Doctor01",
+      "damage_hp_ratio": 2000,
+      "hp_ratio": 1200,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7000008,
+      "visible_hp": true,
+      "linked_parts_id": 34200501,
+      "weapon_object": [
+        "socket_muzzle_fire_01"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01"
+      ],
+      "parts_type": "Arm_Left",
+      "parts_object": [
+        "Bone017"
+      ],
+      "parts_skin": "mcg005_rl_healing_left_skin",
+      "is_main_part": false
+    },
+    {
+      "id": 34200503,
+      "monster_model_id": 342005,
+      "parts_name_localkey": "parts_name_Doctor02",
+      "damage_hp_ratio": 2000,
+      "hp_ratio": 1200,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7000008,
+      "visible_hp": true,
+      "linked_parts_id": 34200501,
+      "weapon_object": [
+        "socket_muzzle_fire_01"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01"
+      ],
+      "parts_type": "Arm_Right",
+      "parts_object": [
+        "Bone009"
+      ],
+      "parts_skin": "mcg005_rl_healing_right_skin",
+      "is_main_part": false
+    },
+    {
+      "id": 35200101,
+      "monster_model_id": 352001,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7352001,
+      "visible_hp": false,
+      "linked_parts_id": 35200101,
+      "weapon_object": [
+        "socket_rifle_01",
+        "socket_rifle_03",
+        "socket_launcher",
+        "laser_head_bone_02",
+        "cannon_fire_bone_01"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01",
+        "weapon_object_02",
+        "weapon_object_03",
+        "weapon_object_04",
+        "weapon_object_05"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "mbg001_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 35200102,
+      "monster_model_id": 352001,
+      "parts_name_localkey": "parts_name_weapon_01",
+      "damage_hp_ratio": 333,
+      "hp_ratio": 150,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7352001,
+      "visible_hp": true,
+      "linked_parts_id": 35200101,
+      "weapon_object": [
+        "socket_rotate_rifle_01"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_06"
+      ],
+      "parts_type": "Weapon_01",
+      "parts_object": [
+        "socket_rotate_rifle_01"
+      ],
+      "parts_skin": "mbg001_phase002_rifle_02_a_skin",
+      "is_main_part": false
+    },
+    {
+      "id": 35200103,
+      "monster_model_id": 352001,
+      "parts_name_localkey": "parts_name_weapon_02",
+      "damage_hp_ratio": 333,
+      "hp_ratio": 150,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7352001,
+      "visible_hp": true,
+      "linked_parts_id": 35200101,
+      "weapon_object": [
+        "socket_rotate_rifle_02"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_06"
+      ],
+      "parts_type": "Weapon_02",
+      "parts_object": [
+        "socket_rotate_rifle_02"
+      ],
+      "parts_skin": "mbg001_phase002_rifle_02_b_skin",
+      "is_main_part": false
+    },
+    {
+      "id": 35200104,
+      "monster_model_id": 352001,
+      "parts_name_localkey": "parts_name_weapon_03",
+      "damage_hp_ratio": 333,
+      "hp_ratio": 150,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7352001,
+      "visible_hp": true,
+      "linked_parts_id": 35200101,
+      "weapon_object": [
+        "socket_rotate_rifle_03"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_07"
+      ],
+      "parts_type": "Weapon_03",
+      "parts_object": [
+        "socket_rotate_rifle_03"
+      ],
+      "parts_skin": "mbg001_phase001_rifle_04_a_skin",
+      "is_main_part": false
+    },
+    {
+      "id": 35200105,
+      "monster_model_id": 352001,
+      "parts_name_localkey": "parts_name_weapon_04",
+      "damage_hp_ratio": 333,
+      "hp_ratio": 150,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7352001,
+      "visible_hp": true,
+      "linked_parts_id": 35200101,
+      "weapon_object": [
+        "socket_rotate_rifle_04"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_07"
+      ],
+      "parts_type": "Weapon_04",
+      "parts_object": [
+        "socket_rotate_rifle_04"
+      ],
+      "parts_skin": "mbg001_phase001_rifle_04_b_skin",
+      "is_main_part": false
+    },
+    {
+      "id": 35200106,
+      "monster_model_id": 352001,
+      "parts_name_localkey": "parts_name_weapon_05",
+      "damage_hp_ratio": 333,
+      "hp_ratio": 150,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7352001,
+      "visible_hp": true,
+      "linked_parts_id": 35200101,
+      "weapon_object": [
+        "socket_rocket_01"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_08"
+      ],
+      "parts_type": "Weapon_05",
+      "parts_object": [
+        "socket_rocket_01"
+      ],
+      "parts_skin": "mbg001_phase002_rocket_01_skin",
+      "is_main_part": false
+    },
+    {
+      "id": 35200107,
+      "monster_model_id": 352001,
+      "parts_name_localkey": "parts_name_weapon_06",
+      "damage_hp_ratio": 333,
+      "hp_ratio": 150,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7352001,
+      "visible_hp": true,
+      "linked_parts_id": 35200101,
+      "weapon_object": [
+        "socket_rocket_02"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_09"
+      ],
+      "parts_type": "Weapon_06",
+      "parts_object": [
+        "socket_rocket_02"
+      ],
+      "parts_skin": "mbg001_phase001_rocket_02_skin",
+      "is_main_part": false
+    },
+    {
+      "id": 35200201,
+      "monster_model_id": 352002,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7352002,
+      "visible_hp": false,
+      "linked_parts_id": 35200201,
+      "weapon_object": [
+        "socket_weapon_ar",
+        "S2B_SplineIK_008",
+        "socket_muzzle_fire_101",
+        "socket_muzzle_fire_102",
+        "Dummy_p2_b_c_00",
+        "socket_muzzle_fire_15"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01",
+        "weapon_object_02",
+        "weapon_object_03",
+        "weapon_object_03",
+        "weapon_object_04",
+        "weapon_object_05"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "mbg002_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 35200202,
+      "monster_model_id": 352002,
+      "parts_name_localkey": "parts_name_GraveDigger09",
+      "damage_hp_ratio": 1000,
+      "hp_ratio": 450,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7352002,
+      "visible_hp": true,
+      "linked_parts_id": 35200201,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "None"
+      ],
+      "parts_type": "Arm_Right",
+      "parts_object": [
+        "Bone_P1_H_00"
+      ],
+      "parts_skin": "mbg002_1phase_parts_right_skin",
+      "is_main_part": false
+    },
+    {
+      "id": 35200203,
+      "monster_model_id": 352002,
+      "parts_name_localkey": "parts_name_GraveDigger10",
+      "damage_hp_ratio": 1000,
+      "hp_ratio": 450,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7352002,
+      "visible_hp": true,
+      "linked_parts_id": 35200201,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "None"
+      ],
+      "parts_type": "Arm_Left",
+      "parts_object": [
+        "Bone_P1_H_02"
+      ],
+      "parts_skin": "mbg002_1phase_parts_left_skin",
+      "is_main_part": false
+    },
+    {
+      "id": 35200204,
+      "monster_model_id": 352002,
+      "parts_name_localkey": "parts_name_GraveDigger11",
+      "damage_hp_ratio": 1000,
+      "hp_ratio": 450,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7352002,
+      "visible_hp": true,
+      "linked_parts_id": 35200201,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "None"
+      ],
+      "parts_type": "Head",
+      "parts_object": [
+        "Dummy_Phase1_C04"
+      ],
+      "parts_skin": "mbg002_1phase_sawtooth_skin",
+      "is_main_part": false
+    },
+    {
+      "id": 35200205,
+      "monster_model_id": 352002,
+      "parts_name_localkey": "parts_name_GraveDigger12",
+      "damage_hp_ratio": 1000,
+      "hp_ratio": 1200,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7352002,
+      "visible_hp": true,
+      "linked_parts_id": 35200201,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "None"
+      ],
+      "parts_type": "Weapon_09",
+      "parts_object": [
+        "Dummy_p2_b_c_01"
+      ],
+      "parts_skin": "mbg002_2phase_drill_skin",
+      "is_main_part": false
+    },
+    {
+      "id": 35200401,
+      "monster_model_id": 352004,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7352004,
+      "visible_hp": false,
+      "linked_parts_id": 35200401,
+      "weapon_object": [
+        "socket_rifle",
+        "L_arm01",
+        "socket_missile_left",
+        "socket_missile_right",
+        "socket_laser"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01",
+        "weapon_object_03",
+        "weapon_object_04",
+        "weapon_object_04",
+        "weapon_object_05"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "mbg004_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 35200402,
+      "monster_model_id": 352004,
+      "parts_name_localkey": "parts_name_Mordernia01",
+      "damage_hp_ratio": 556,
+      "hp_ratio": 167,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7352004,
+      "visible_hp": true,
+      "linked_parts_id": 35200401,
+      "weapon_object": [
+        "L_socket_launcher07",
+        "socket_muzzle_fire_19"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_02",
+        "weapon_object_07"
+      ],
+      "parts_type": "Weapon_01",
+      "parts_object": [
+        "L_socket_launcher04"
+      ],
+      "parts_skin": "mbg004_left_rifle",
+      "is_main_part": false
+    },
+    {
+      "id": 35200403,
+      "monster_model_id": 352004,
+      "parts_name_localkey": "parts_name_Mordernia02",
+      "damage_hp_ratio": 556,
+      "hp_ratio": 167,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7352004,
+      "visible_hp": true,
+      "linked_parts_id": 35200401,
+      "weapon_object": [
+        "R_socket_launcher08",
+        "socket_muzzle_fire_06"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_06",
+        "weapon_object_08"
+      ],
+      "parts_type": "Weapon_02",
+      "parts_object": [
+        "R_socket_launcher04"
+      ],
+      "parts_skin": "mbg004_right_rifle",
+      "is_main_part": false
+    },
+    {
+      "id": 35200404,
+      "monster_model_id": 352004,
+      "parts_name_localkey": "parts_name_Mordernia03",
+      "damage_hp_ratio": 556,
+      "hp_ratio": 250,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7352004,
+      "visible_hp": true,
+      "linked_parts_id": 35200401,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "None"
+      ],
+      "parts_type": "Weapon_03",
+      "parts_object": [
+        "core_col"
+      ],
+      "parts_skin": "mbg004_head",
+      "is_main_part": false
+    }
+  ]
+}

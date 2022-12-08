@@ -1,0 +1,57 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 9990001,
+      "description_localkey": "emergency_quest_description_9990001",
+      "condition_stage": 6002019,
+      "clear_trigger": "NpcTalk",
+      "clear_condition_id": 9900006,
+      "clear_condition_value": 1,
+      "reward_id": 22011,
+      "attribute": "Bio",
+      "move_type": "Fly",
+      "class": "Attacker",
+      "difficulty": "Veryeasy"
+    },
+    {
+      "id": 9990002,
+      "description_localkey": "emergency_quest_description_9990002",
+      "condition_stage": 6002019,
+      "clear_trigger": "CampaignGroupClear",
+      "clear_condition_id": 9990002,
+      "clear_condition_value": 3,
+      "reward_id": 22012,
+      "attribute": "Energy",
+      "move_type": "Walk",
+      "class": "Defender",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 9990003,
+      "description_localkey": "emergency_quest_description_9990003",
+      "condition_stage": 6003023,
+      "clear_trigger": "FieldObjectCollection",
+      "clear_condition_id": 9900012,
+      "clear_condition_value": 4,
+      "reward_id": 22012,
+      "attribute": "Metal",
+      "move_type": "Fly",
+      "class": "Supporter",
+      "difficulty": "Normal"
+    },
+    {
+      "id": 9990004,
+      "description_localkey": "emergency_quest_description_9990004",
+      "condition_stage": 6003023,
+      "clear_trigger": "CampaignGroupClear",
+      "clear_condition_id": 9990004,
+      "clear_condition_value": 3,
+      "reward_id": 22011,
+      "attribute": "Bio",
+      "move_type": "Walk",
+      "class": "Attacker",
+      "difficulty": "Hard"
+    }
+  ]
+}

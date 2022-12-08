@@ -1,0 +1,215 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1001,
+      "renew_group_id": 1000,
+      "renew_step": 1,
+      "price_id": 99,
+      "price_value": 100
+    },
+    {
+      "id": 1002,
+      "renew_group_id": 1000,
+      "renew_step": 2,
+      "price_id": 99,
+      "price_value": 200
+    },
+    {
+      "id": 1003,
+      "renew_group_id": 1000,
+      "renew_step": 3,
+      "price_id": 99,
+      "price_value": 300
+    },
+    {
+      "id": 1004,
+      "renew_group_id": 1000,
+      "renew_step": 4,
+      "price_id": 99,
+      "price_value": 400
+    },
+    {
+      "id": 1005,
+      "renew_group_id": 1000,
+      "renew_step": 5,
+      "price_id": 99,
+      "price_value": 500
+    },
+    {
+      "id": 1006,
+      "renew_group_id": 1000,
+      "renew_step": 6,
+      "price_id": 99,
+      "price_value": 600
+    },
+    {
+      "id": 1007,
+      "renew_group_id": 1000,
+      "renew_step": 7,
+      "price_id": 99,
+      "price_value": 700
+    },
+    {
+      "id": 1008,
+      "renew_group_id": 1000,
+      "renew_step": 8,
+      "price_id": 99,
+      "price_value": 800
+    },
+    {
+      "id": 1009,
+      "renew_group_id": 1000,
+      "renew_step": 9,
+      "price_id": 99,
+      "price_value": 900
+    },
+    {
+      "id": 1010,
+      "renew_group_id": 1000,
+      "renew_step": 10,
+      "price_id": 99,
+      "price_value": 1000
+    },
+    {
+      "id": 1011,
+      "renew_group_id": 1000,
+      "renew_step": 11,
+      "price_id": 99,
+      "price_value": 1100
+    },
+    {
+      "id": 1012,
+      "renew_group_id": 1000,
+      "renew_step": 12,
+      "price_id": 99,
+      "price_value": 1200
+    },
+    {
+      "id": 1013,
+      "renew_group_id": 1000,
+      "renew_step": 13,
+      "price_id": 99,
+      "price_value": 1300
+    },
+    {
+      "id": 1014,
+      "renew_group_id": 1000,
+      "renew_step": 14,
+      "price_id": 99,
+      "price_value": 1400
+    },
+    {
+      "id": 1015,
+      "renew_group_id": 1000,
+      "renew_step": 15,
+      "price_id": 99,
+      "price_value": 1500
+    },
+    {
+      "id": 1016,
+      "renew_group_id": 1000,
+      "renew_step": 16,
+      "price_id": 99,
+      "price_value": 1600
+    },
+    {
+      "id": 1017,
+      "renew_group_id": 1000,
+      "renew_step": 17,
+      "price_id": 99,
+      "price_value": 1700
+    },
+    {
+      "id": 1018,
+      "renew_group_id": 1000,
+      "renew_step": 18,
+      "price_id": 99,
+      "price_value": 1800
+    },
+    {
+      "id": 1019,
+      "renew_group_id": 1000,
+      "renew_step": 19,
+      "price_id": 99,
+      "price_value": 1900
+    },
+    {
+      "id": 1020,
+      "renew_group_id": 1000,
+      "renew_step": 20,
+      "price_id": 99,
+      "price_value": 2000
+    },
+    {
+      "id": 2001,
+      "renew_group_id": 2000,
+      "renew_step": 1,
+      "price_id": 99,
+      "price_value": 1000
+    },
+    {
+      "id": 2002,
+      "renew_group_id": 2000,
+      "renew_step": 2,
+      "price_id": 99,
+      "price_value": 2000
+    },
+    {
+      "id": 2003,
+      "renew_group_id": 2000,
+      "renew_step": 3,
+      "price_id": 99,
+      "price_value": 3000
+    },
+    {
+      "id": 2004,
+      "renew_group_id": 2000,
+      "renew_step": 4,
+      "price_id": 99,
+      "price_value": 4000
+    },
+    {
+      "id": 2005,
+      "renew_group_id": 2000,
+      "renew_step": 5,
+      "price_id": 99,
+      "price_value": 5000
+    },
+    {
+      "id": 2006,
+      "renew_group_id": 2000,
+      "renew_step": 6,
+      "price_id": 99,
+      "price_value": 6000
+    },
+    {
+      "id": 2007,
+      "renew_group_id": 2000,
+      "renew_step": 7,
+      "price_id": 99,
+      "price_value": 7000
+    },
+    {
+      "id": 2008,
+      "renew_group_id": 2000,
+      "renew_step": 8,
+      "price_id": 99,
+      "price_value": 8000
+    },
+    {
+      "id": 2009,
+      "renew_group_id": 2000,
+      "renew_step": 9,
+      "price_id": 99,
+      "price_value": 9000
+    },
+    {
+      "id": 2010,
+      "renew_group_id": 2000,
+      "renew_step": 10,
+      "price_id": 99,
+      "price_value": 10000
+    }
+  ]
+}

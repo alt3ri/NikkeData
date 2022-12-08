@@ -1,0 +1,599 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1,
+      "info_d": "타이틀씬에서 로비씬으로",
+      "depart_scene_code": "Title",
+      "arrive_scene_code": "Lobby",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 3,
+      "is_gauge": true
+    },
+    {
+      "id": 2,
+      "info_d": "타이틀씬에서 배틀씬으로",
+      "depart_scene_code": "Title",
+      "arrive_scene_code": "Battle",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 3,
+      "is_gauge": true
+    },
+    {
+      "id": 3,
+      "info_d": "로비씬에서 캠페인씬으로",
+      "depart_scene_code": "Lobby",
+      "arrive_scene_code": "Campaign",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 2,
+      "is_gauge": true,
+      "loading_tip_group": 2
+    },
+    {
+      "id": 4,
+      "info_d": "캠페인씬에서 로비씬으로",
+      "depart_scene_code": "Campaign",
+      "arrive_scene_code": "Lobby",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 2,
+      "is_gauge": true,
+      "loading_tip_group": 1
+    },
+    {
+      "id": 5,
+      "info_d": "캠페인씬에서 캠페인씬으로",
+      "depart_scene_code": "Campaign",
+      "arrive_scene_code": "Campaign",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 2,
+      "is_gauge": true,
+      "loading_tip_group": 2
+    },
+    {
+      "id": 6,
+      "info_d": "캠페인씬에서 배틀씬으로",
+      "depart_scene_code": "Campaign",
+      "arrive_scene_code": "Battle",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 3,
+      "is_gauge": true,
+      "loading_tip_group": 2
+    },
+    {
+      "id": 7,
+      "info_d": "배틀씬에서 캠페인씬으로",
+      "depart_scene_code": "Battle",
+      "arrive_scene_code": "Campaign",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 3,
+      "is_gauge": true,
+      "loading_tip_group": 2
+    },
+    {
+      "id": 8,
+      "info_d": "로비에서 전초기지로",
+      "depart_scene_code": "Lobby",
+      "arrive_scene_code": "Outpost",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 2,
+      "is_gauge": true,
+      "loading_tip_group": 3
+    },
+    {
+      "id": 9,
+      "info_d": "전초기지에서 로비로",
+      "depart_scene_code": "Outpost",
+      "arrive_scene_code": "Lobby",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 2,
+      "is_gauge": true,
+      "loading_tip_group": 1
+    },
+    {
+      "id": 10,
+      "info_d": "로비씬에서 로스트섹터씬으로",
+      "depart_scene_code": "Lobby",
+      "arrive_scene_code": "LostSector",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 3,
+      "is_gauge": true,
+      "loading_tip_group": 4
+    },
+    {
+      "id": 11,
+      "info_d": "로스트섹터씬에서 로비씬으로",
+      "depart_scene_code": "LostSector",
+      "arrive_scene_code": "Lobby",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 3,
+      "is_gauge": true,
+      "loading_tip_group": 1
+    },
+    {
+      "id": 12,
+      "info_d": "로스트섹터씬에서 로스트섹터씬으로",
+      "depart_scene_code": "LostSector",
+      "arrive_scene_code": "LostSector",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 3,
+      "is_gauge": true,
+      "loading_tip_group": 4
+    },
+    {
+      "id": 13,
+      "info_d": "로스트섹터씬에서 전투진입씬으로",
+      "depart_scene_code": "LostSector",
+      "arrive_scene_code": "Battle",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 3,
+      "is_gauge": true,
+      "loading_tip_group": 4
+    },
+    {
+      "id": 14,
+      "info_d": "전투진입씬에서 로스트섹터씬으로",
+      "depart_scene_code": "Battle",
+      "arrive_scene_code": "LostSector",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 3,
+      "is_gauge": true,
+      "loading_tip_group": 4
+    },
+    {
+      "id": 15,
+      "info_d": "로비씬에서 아레나씬으로",
+      "depart_scene_code": "Lobby",
+      "arrive_scene_code": "Arena",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 2,
+      "is_gauge": false
+    },
+    {
+      "id": 16,
+      "info_d": "아레나씬에서 로비씬으로",
+      "depart_scene_code": "Arena",
+      "arrive_scene_code": "Lobby",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 3,
+      "is_gauge": false
+    },
+    {
+      "id": 17,
+      "info_d": "전투진입씬에서 아레나씬으로",
+      "depart_scene_code": "BattleIntro",
+      "arrive_scene_code": "Arena",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 2,
+      "is_gauge": false
+    },
+    {
+      "id": 18,
+      "info_d": "아레나씬에서 전투진입씬으로",
+      "depart_scene_code": "Arena",
+      "arrive_scene_code": "BattleIntro",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 3,
+      "is_gauge": false
+    },
+    {
+      "id": 19,
+      "info_d": "로비씬에서 배틀씬으로",
+      "depart_scene_code": "Lobby",
+      "arrive_scene_code": "Battle",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 3,
+      "is_gauge": true,
+      "loading_tip_group": 4
+    },
+    {
+      "id": 20,
+      "info_d": "타이틀씬에서 캠페인씬으로",
+      "depart_scene_code": "Title",
+      "arrive_scene_code": "Campaign",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 2,
+      "is_gauge": true,
+      "loading_tip_group": 2
+    },
+    {
+      "id": 21,
+      "info_d": "배틀씬에서 배틀씬으로",
+      "depart_scene_code": "Battle",
+      "arrive_scene_code": "Battle",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 3,
+      "is_gauge": true,
+      "loading_tip_group": 99
+    },
+    {
+      "id": 22,
+      "info_d": "배틀씬에서 로비씬으로",
+      "depart_scene_code": "Battle",
+      "arrive_scene_code": "Lobby",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 3,
+      "is_gauge": true,
+      "loading_tip_group": 99
+    },
+    {
+      "id": 23,
+      "info_d": "전초기지씬에서 시나리오씬으로",
+      "depart_scene_code": "Outpost",
+      "arrive_scene_code": "Scenario",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 2,
+      "is_gauge": true,
+      "loading_tip_group": 3
+    },
+    {
+      "id": 24,
+      "info_d": "시나리오씬에서 전초기지씬으로",
+      "depart_scene_code": "Scenario",
+      "arrive_scene_code": "Outpost",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 2,
+      "is_gauge": true,
+      "loading_tip_group": 3
+    },
+    {
+      "id": 25,
+      "info_d": "전초기지씬에서 전초기지UI씬으로",
+      "depart_scene_code": "Outpost",
+      "arrive_scene_code": "OutpostUI",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 2,
+      "is_gauge": true,
+      "loading_tip_group": 3
+    },
+    {
+      "id": 26,
+      "info_d": "전초기지UI씬에서 전초기지씬으로",
+      "depart_scene_code": "OutpostUI",
+      "arrive_scene_code": "Outpost",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 2,
+      "is_gauge": true,
+      "loading_tip_group": 3
+    },
+    {
+      "id": 27,
+      "info_d": "전초기지UI씬에서 로비씬으로",
+      "depart_scene_code": "OutpostUI",
+      "arrive_scene_code": "Lobby",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 2,
+      "is_gauge": true,
+      "loading_tip_group": 3
+    },
+    {
+      "id": 28,
+      "info_d": "로비씬에서 이벤트 필드 씬으로",
+      "depart_scene_code": "Lobby",
+      "arrive_scene_code": "EventField",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 2,
+      "is_gauge": false
+    },
+    {
+      "id": 29,
+      "info_d": "이벤트 필드 씬에서 로비 씬으로",
+      "depart_scene_code": "EventField",
+      "arrive_scene_code": "Lobby",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 2,
+      "is_gauge": false
+    },
+    {
+      "id": 30,
+      "info_d": "전초기지씬에서 캠페인씬으로",
+      "depart_scene_code": "Outpost",
+      "arrive_scene_code": "Campaign",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 2,
+      "is_gauge": true,
+      "loading_tip_group": 2
+    },
+    {
+      "id": 31,
+      "info_d": "이벤트 필드 씬에서 배틀씬으로",
+      "depart_scene_code": "EventField",
+      "arrive_scene_code": "Battle",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 3,
+      "is_gauge": true,
+      "loading_tip_group": 99
+    },
+    {
+      "id": 32,
+      "info_d": "배틀씬에서 이벤트 필드 씬으로",
+      "depart_scene_code": "Battle",
+      "arrive_scene_code": "EventField",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 3,
+      "is_gauge": true,
+      "loading_tip_group": 99
+    },
+    {
+      "id": 1001,
+      "info_d": "로비뷰에서 상점뷰로",
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 6028,
+      "arrive_view_type": 30001,
+      "transition_type": 2,
+      "is_gauge": false
+    },
+    {
+      "id": 1002,
+      "info_d": "상점뷰에서 로비뷰로",
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 30001,
+      "arrive_view_type": 6028,
+      "transition_type": 2,
+      "is_gauge": false
+    },
+    {
+      "id": 1003,
+      "info_d": "로비뷰에서 방주뷰로",
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 6028,
+      "arrive_view_type": 6008,
+      "transition_type": 3,
+      "is_gauge": false
+    },
+    {
+      "id": 1004,
+      "info_d": "방주뷰에서 로비뷰로",
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 6008,
+      "arrive_view_type": 6028,
+      "transition_type": 2,
+      "is_gauge": false
+    },
+    {
+      "id": 1005,
+      "info_d": "방주뷰에서 로스트섹터뷰로",
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 6008,
+      "arrive_view_type": 6031,
+      "transition_type": 3,
+      "is_gauge": false
+    },
+    {
+      "id": 1006,
+      "info_d": "로스트섹터뷰에서 방주뷰로",
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 6031,
+      "arrive_view_type": 6008,
+      "transition_type": 3,
+      "is_gauge": false
+    },
+    {
+      "id": 1007,
+      "info_d": "방주뷰에서 아레나뷰로",
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 6008,
+      "arrive_view_type": 13000,
+      "transition_type": 3,
+      "is_gauge": false
+    },
+    {
+      "id": 1008,
+      "info_d": "아레나뷰에서 방주뷰로",
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 13000,
+      "arrive_view_type": 6008,
+      "transition_type": 3,
+      "is_gauge": false
+    },
+    {
+      "id": 1009,
+      "info_d": "방주뷰에서 타워뷰로",
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 6008,
+      "arrive_view_type": 6035,
+      "transition_type": 1,
+      "is_gauge": false
+    },
+    {
+      "id": 1010,
+      "info_d": "타워뷰에서 방주뷰로",
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 6035,
+      "arrive_view_type": 6008,
+      "transition_type": 3,
+      "is_gauge": false
+    },
+    {
+      "id": 1012,
+      "info_d": "방주뷰에서 타워입장뷰로",
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 6008,
+      "arrive_view_type": 6047,
+      "transition_type": 3,
+      "is_gauge": false
+    },
+    {
+      "id": 1013,
+      "info_d": "타워입장뷰에서 방주뷰로",
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 6047,
+      "arrive_view_type": 6008,
+      "transition_type": 3,
+      "is_gauge": false
+    },
+    {
+      "id": 2001,
+      "info_d": "어디서든 상세정보 뷰로 (오버레이)",
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": -1,
+      "arrive_view_type": 6014,
+      "transition_type": 5,
+      "is_gauge": false
+    },
+    {
+      "id": 2002,
+      "info_d": "상세정보 뷰에서 어디로든 (오버레이)",
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 6014,
+      "arrive_view_type": -1,
+      "transition_type": 3,
+      "is_gauge": false
+    },
+    {
+      "id": 2018,
+      "info_d": "방주에서 시뮬레이션룸 로비로",
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 6008,
+      "arrive_view_type": 17001,
+      "transition_type": 6,
+      "is_gauge": false
+    },
+    {
+      "id": 2019,
+      "info_d": "방주에서 시뮬레이션룸 플레이로",
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 6008,
+      "arrive_view_type": 17003,
+      "transition_type": 6,
+      "is_gauge": false
+    },
+    {
+      "id": 2020,
+      "info_d": "시뮬레이션룸 로비에서 플레이로",
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 17001,
+      "arrive_view_type": 17003,
+      "transition_type": 6,
+      "is_gauge": false
+    },
+    {
+      "id": 2021,
+      "info_d": "플레이에서 시뮬레이션룸 로비로",
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 17003,
+      "arrive_view_type": 17001,
+      "transition_type": 6,
+      "is_gauge": false
+    },
+    {
+      "id": 2022,
+      "info_d": "시뮬레이션룸 팀세팅에서 상세정보 뷰로",
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 4109,
+      "arrive_view_type": 6014,
+      "transition_type": 5,
+      "is_gauge": false
+    },
+    {
+      "id": 2023,
+      "info_d": "어디서든 상세정보 뷰로",
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": -1,
+      "arrive_view_type": 6012,
+      "transition_type": 5,
+      "is_gauge": false
+    },
+    {
+      "id": 2024,
+      "info_d": "상세정보 뷰에서 어디로든",
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 6012,
+      "arrive_view_type": -1,
+      "transition_type": 3,
+      "is_gauge": false
+    },
+    {
+      "id": 2025,
+      "info_d": "길드 정보에서 길드 상점으로",
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 5002,
+      "arrive_view_type": 30001,
+      "transition_type": 2,
+      "is_gauge": false
+    },
+    {
+      "id": 2026,
+      "info_d": "길드 상점에서 길드 정보로",
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 30001,
+      "arrive_view_type": 5002,
+      "transition_type": 2,
+      "is_gauge": false
+    },
+    {
+      "id": 3001,
+      "info_d": "캐시샵이 새로 생성될 때",
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": -1,
+      "arrive_view_type": 31001,
+      "transition_type": 2,
+      "is_gauge": false
+    },
+    {
+      "id": 3002,
+      "info_d": "캐시샵이 닫힐 때",
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 31001,
+      "arrive_view_type": -1,
+      "transition_type": 2,
+      "is_gauge": false
+    }
+  ]
+}

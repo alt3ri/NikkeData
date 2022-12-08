@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1,
+      "point_type": "ArenaSpecialPoint",
+      "name_localkey": "SPECIAL_ARENA_POINT_NAME",
+      "description_localkey": "SPECIAL_ARENA_POINT_DESC",
+      "resource_id": 1009
+    }
+  ]
+}

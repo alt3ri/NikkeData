@@ -1,0 +1,307 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": "d_counseling_isabel_02_1",
+      "group_id": "d_counseling_isabel_02",
+      "speech_window": "Speech",
+      "attractive_point": 0,
+      "highlight": "isabel",
+      "speaker": "isabel",
+      "scenario_localkey": "d_counseling_isabel_02_1",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "show_char_id": "isabel",
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "CommanderRoom",
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "play_bgm": "bgm_story_backtonormal",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_counseling_isabel_02_2",
+      "group_id": "d_counseling_isabel_02",
+      "speech_window": "Speech",
+      "attractive_point": 0,
+      "highlight": "isabel",
+      "speaker": "isabel",
+      "scenario_localkey": "d_counseling_isabel_02_2",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_counseling_isabel_02_3",
+      "group_id": "d_counseling_isabel_02",
+      "speech_window": "Speech",
+      "attractive_point": 0,
+      "highlight": "isabel",
+      "speaker": "isabel",
+      "scenario_localkey": "d_counseling_isabel_02_3",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_counseling_isabel_02_4",
+      "group_id": "d_counseling_isabel_02",
+      "speech_window": "Choice",
+      "attractive_point": 100,
+      "highlight": "isabel",
+      "scenario_localkey": "d_counseling_isabel_02_4",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "d_counseling_isabel_02_6"
+    },
+    {
+      "id": "d_counseling_isabel_02_5",
+      "group_id": "d_counseling_isabel_02",
+      "speech_window": "Choice",
+      "attractive_point": 50,
+      "highlight": "isabel",
+      "scenario_localkey": "d_counseling_isabel_02_5",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "d_counseling_isabel_02_9"
+    },
+    {
+      "id": "d_counseling_isabel_02_6",
+      "group_id": "d_counseling_isabel_02",
+      "speech_window": "Speech",
+      "attractive_point": 0,
+      "highlight": "isabel",
+      "speaker": "isabel",
+      "scenario_localkey": "d_counseling_isabel_02_6",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "good"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_counseling_isabel_02_7",
+      "group_id": "d_counseling_isabel_02",
+      "speech_window": "Speech",
+      "attractive_point": 0,
+      "highlight": "isabel",
+      "speaker": "isabel",
+      "scenario_localkey": "d_counseling_isabel_02_7",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_counseling_isabel_02_8",
+      "group_id": "d_counseling_isabel_02",
+      "speech_window": "Speech",
+      "attractive_point": 0,
+      "highlight": "isabel",
+      "speaker": "isabel",
+      "scenario_localkey": "d_counseling_isabel_02_8",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "d_counseling_isabel_02_11"
+    },
+    {
+      "id": "d_counseling_isabel_02_9",
+      "group_id": "d_counseling_isabel_02",
+      "speech_window": "Speech",
+      "attractive_point": 0,
+      "highlight": "isabel",
+      "speaker": "isabel",
+      "scenario_localkey": "d_counseling_isabel_02_9",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_counseling_isabel_02_10",
+      "group_id": "d_counseling_isabel_02",
+      "speech_window": "Speech",
+      "attractive_point": 0,
+      "highlight": "isabel",
+      "speaker": "isabel",
+      "scenario_localkey": "d_counseling_isabel_02_10",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "good"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_counseling_isabel_02_11",
+      "group_id": "d_counseling_isabel_02",
+      "speech_window": "Narration",
+      "attractive_point": 0,
+      "highlight": "isabel",
+      "scenario_localkey": "d_counseling_isabel_02_11",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "hide_char_id": "isabel",
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "none",
+      "set_start_camera": "100",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": "fcbg_cityforest_001",
+      "CameraPoint": [
+        {
+          "positionId": "bb4054fa-1f8f-4635-bfc0-ebd3ef527eb8"
+        }
+      ],
+      "SquadSpawner": [
+        {
+          "positionId": "ebf5f1ee-aad8-44d3-be29-9be293933cae"
+        }
+      ],
+      "StageSpawner": [
+        {
+          "positionId": "765aaab7-ea22-499b-b5dd-5489113cf0dc",
+          "stageId": 6002001,
+          "eventState": 0
+        },
+        {
+          "positionId": "9adcb767-40a7-415c-a3be-6eefc757ebce",
+          "stageId": 6002002,
+          "eventState": 0
+        },
+        {
+          "positionId": "67c9420c-eec7-4850-a1f3-87c699f02b60",
+          "stageId": 6002003,
+          "eventState": 0
+        },
+        {
+          "positionId": "714bcfb7-dae2-4c69-a4f0-7ed6ab2035d1",
+          "stageId": 6002004,
+          "eventState": 0
+        },
+        {
+          "positionId": "6667bef2-2310-4bbe-a751-68dd2310d166",
+          "stageId": 6002005,
+          "eventState": 0
+        },
+        {
+          "positionId": "edbffc72-239d-44f4-b689-f46bd2564247",
+          "stageId": 6002006,
+          "eventState": 2
+        },
+        {
+          "positionId": "b2c2ca4d-bae1-4f97-8473-2155c75756a2",
+          "stageId": 6002007,
+          "eventState": 2
+        },
+        {
+          "positionId": "c5041c58-e034-428e-a7fa-3e1b3f1db07b",
+          "stageId": 6002008,
+          "eventState": 0
+        },
+        {
+          "positionId": "e969c177-b533-4b16-971e-d3f7dff303ff",
+          "stageId": 6002009,
+          "eventState": 0
+        },
+        {
+          "positionId": "9c7b74bc-b196-4960-bdb1-3e58b71ab63e",
+          "stageId": 6002010,
+          "eventState": 0
+        },
+        {
+          "positionId": "5a867a06-cb9e-4b6f-8415-dac71e988952",
+          "stageId": 6002011,
+          "eventState": 0
+        },
+        {
+          "positionId": "bcc0b556-8bfd-4dfa-b6e0-d4e34127f60c",
+          "stageId": 6002012,
+          "eventState": 0
+        },
+        {
+          "positionId": "e2fd94a7-5e7b-42d6-9d2c-53473da5b09c",
+          "stageId": 6002013,
+          "eventState": 0
+        },
+        {
+          "positionId": "55000283-c1fc-45e0-aadd-cd46b040c63f",
+          "stageId": 6002014,
+          "eventState": 2
+        },
+        {
+          "positionId": "ea4885e2-adb2-4bda-804a-27ff221df52c",
+          "stageId": 6002015,
+          "eventState": 2
+        },
+        {
+          "positionId": "fe541dd4-2146-417d-bc78-bb340bf29210",
+          "stageId": 6002016,
+          "eventState": 0
+        },
+        {
+          "positionId": "83e6daf7-876a-46a1-8c91-4e23a493fec8",
+          "stageId": 6002017,
+          "eventState": 2
+        },
+        {
+          "positionId": "d6ce38cf-d8d5-43d5-bcb6-b31cab660d42",
+          "stageId": 6002018,
+          "eventState": 2
+        },
+        {
+          "positionId": "d32c65cd-b786-4caa-b16d-c7eab8d4bdc4",
+          "stageId": 6002019,
+          "eventState": 2
+        }
+      ],
+      "Door": [
+        {
+          "positionId": "4ea45a42-09ff-4cd9-a7fb-4b3ce5800334",
+          "OnTrigger": false
+        }
+      ],
+      "ItemSpawner": [
+        {
+          "positionId": "b6189831-53e2-447c-804e-3634dc2c34dd",
+          "itemId": 50002001,
+          "isCompleteReward": false
+        },
+        {
+          "positionId": "0bbe62fb-e8c5-4e28-b0c1-84edbbc09c01",
+          "itemId": 50002301,
+          "isCompleteReward": false
+        },
+        {
+          "positionId": "3dedf545-7115-489b-b42b-109b11e1229c",
+          "itemId": 50002302,
+          "isCompleteReward": false
+        },
+        {
+          "positionId": "2f61ed84-bd6d-4f0d-8ee4-494bf7d88f2f",
+          "itemId": 50002303,
+          "isCompleteReward": false
+        },
+        {
+          "positionId": "c6295bdb-790e-4731-8d54-ef5863093838",
+          "itemId": 50002304,
+          "isCompleteReward": false
+        }
+      ],
+      "QuestObjectSpawner": [
+        {
+          "positionId": "f125bcc3-4bcf-4c8e-80e9-47a797e5166c",
+          "questObjectId": 1002001
+        },
+        {
+          "positionId": "e8c26b1b-25af-4588-a673-7ac33f02f7e4",
+          "questObjectId": 1002002
+        }
+      ],
+      "LevelTrigger": [
+        {
+          "positionId": "1dd205a5-bb6a-4350-938e-da93bb73c484",
+          "switchType": 1,
+          "OnTrigger": false
+        }
+      ]
+    }
+  ]
+}

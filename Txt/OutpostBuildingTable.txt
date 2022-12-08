@@ -1,0 +1,2174 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 10101,
+      "resource_group_id": 10101,
+      "building_Lv": 1,
+      "init_building_slot": 0,
+      "category": "None",
+      "display_category": "Assist",
+      "category_localkey": "300_building_type",
+      "type_id": 10100,
+      "time": 5,
+      "build_condition": [
+        {
+          "build_condition_type": "None",
+          "build_condition_value": 0
+        },
+        {
+          "build_condition_type": "None",
+          "build_condition_value": 0
+        }
+      ],
+      "cost": [
+        {
+          "cost_type": "Item",
+          "cost_id": 7035001,
+          "cost_value": 1
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        }
+      ],
+      "fast_comp_currency_type": 99,
+      "fast_comp_currency_value": 10,
+      "function": [
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        }
+      ],
+      "open_episode": "0",
+      "reward_id": 0,
+      "contents_open": 0
+    },
+    {
+      "id": 10201,
+      "resource_group_id": 10201,
+      "building_Lv": 1,
+      "init_building_slot": 0,
+      "category": "None",
+      "display_category": "Assist",
+      "category_localkey": "300_building_type",
+      "type_id": 10200,
+      "time": 5,
+      "build_condition": [
+        {
+          "build_condition_type": "None",
+          "build_condition_value": 0
+        },
+        {
+          "build_condition_type": "None",
+          "build_condition_value": 0
+        }
+      ],
+      "cost": [
+        {
+          "cost_type": "Item",
+          "cost_id": 7035002,
+          "cost_value": 1
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        }
+      ],
+      "fast_comp_currency_type": 99,
+      "fast_comp_currency_value": 10,
+      "function": [
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        }
+      ],
+      "open_episode": "0",
+      "reward_id": 0,
+      "contents_open": 0
+    },
+    {
+      "id": 10301,
+      "resource_group_id": 10301,
+      "building_Lv": 1,
+      "init_building_slot": 0,
+      "category": "None",
+      "display_category": "Assist",
+      "category_localkey": "300_building_type",
+      "type_id": 10300,
+      "time": 5,
+      "build_condition": [
+        {
+          "build_condition_type": "None",
+          "build_condition_value": 0
+        },
+        {
+          "build_condition_type": "None",
+          "build_condition_value": 0
+        }
+      ],
+      "cost": [
+        {
+          "cost_type": "Item",
+          "cost_id": 7035003,
+          "cost_value": 1
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        }
+      ],
+      "fast_comp_currency_type": 99,
+      "fast_comp_currency_value": 10,
+      "function": [
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        }
+      ],
+      "open_episode": "0",
+      "reward_id": 0,
+      "contents_open": 0
+    },
+    {
+      "id": 10401,
+      "resource_group_id": 10401,
+      "building_Lv": 1,
+      "init_building_slot": 0,
+      "category": "None",
+      "display_category": "Assist",
+      "category_localkey": "300_building_type",
+      "type_id": 10400,
+      "time": 5,
+      "build_condition": [
+        {
+          "build_condition_type": "None",
+          "build_condition_value": 0
+        },
+        {
+          "build_condition_type": "None",
+          "build_condition_value": 0
+        }
+      ],
+      "cost": [
+        {
+          "cost_type": "Item",
+          "cost_id": 7035004,
+          "cost_value": 1
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        }
+      ],
+      "fast_comp_currency_type": 99,
+      "fast_comp_currency_value": 10,
+      "function": [
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        }
+      ],
+      "open_episode": "0",
+      "reward_id": 0,
+      "contents_open": 0
+    },
+    {
+      "id": 10501,
+      "resource_group_id": 10501,
+      "building_Lv": 1,
+      "init_building_slot": 0,
+      "category": "None",
+      "display_category": "Assist",
+      "category_localkey": "300_building_type",
+      "type_id": 10500,
+      "time": 5,
+      "build_condition": [
+        {
+          "build_condition_type": "None",
+          "build_condition_value": 0
+        },
+        {
+          "build_condition_type": "None",
+          "build_condition_value": 0
+        }
+      ],
+      "cost": [
+        {
+          "cost_type": "Item",
+          "cost_id": 7035005,
+          "cost_value": 1
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        }
+      ],
+      "fast_comp_currency_type": 99,
+      "fast_comp_currency_value": 10,
+      "function": [
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        }
+      ],
+      "open_episode": "0",
+      "reward_id": 0,
+      "contents_open": 0
+    },
+    {
+      "id": 10601,
+      "resource_group_id": 10601,
+      "building_Lv": 1,
+      "init_building_slot": 0,
+      "category": "None",
+      "display_category": "Assist",
+      "category_localkey": "300_building_type",
+      "type_id": 10600,
+      "time": 5,
+      "build_condition": [
+        {
+          "build_condition_type": "None",
+          "build_condition_value": 0
+        },
+        {
+          "build_condition_type": "None",
+          "build_condition_value": 0
+        }
+      ],
+      "cost": [
+        {
+          "cost_type": "Item",
+          "cost_id": 7035006,
+          "cost_value": 1
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        }
+      ],
+      "fast_comp_currency_type": 99,
+      "fast_comp_currency_value": 10,
+      "function": [
+        {
+          "function_type": "UnlockLesson",
+          "function_value_type": "Id",
+          "function_value": 2001,
+          "function_title_localkey": "outpost_function_title_academy",
+          "function_description_localkey": "academy_function_description_01"
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        }
+      ],
+      "open_episode": "0",
+      "reward_id": 0,
+      "contents_open": 0
+    },
+    {
+      "id": 10701,
+      "resource_group_id": 10701,
+      "building_Lv": 1,
+      "init_building_slot": 0,
+      "category": "None",
+      "display_category": "Assist",
+      "category_localkey": "300_building_type",
+      "type_id": 10700,
+      "time": 5,
+      "build_condition": [
+        {
+          "build_condition_type": "Build",
+          "build_condition_value": 10601
+        },
+        {
+          "build_condition_type": "None",
+          "build_condition_value": 0
+        }
+      ],
+      "cost": [
+        {
+          "cost_type": "Item",
+          "cost_id": 7035007,
+          "cost_value": 1
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        }
+      ],
+      "fast_comp_currency_type": 99,
+      "fast_comp_currency_value": 10,
+      "function": [
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        }
+      ],
+      "open_episode": "0",
+      "reward_id": 0,
+      "contents_open": 0
+    },
+    {
+      "id": 10801,
+      "resource_group_id": 10801,
+      "building_Lv": 1,
+      "init_building_slot": 0,
+      "category": "None",
+      "display_category": "Welfare",
+      "category_localkey": "200_building_type",
+      "type_id": 10800,
+      "time": 5,
+      "build_condition": [
+        {
+          "build_condition_type": "Build",
+          "build_condition_value": 10601
+        },
+        {
+          "build_condition_type": "None",
+          "build_condition_value": 0
+        }
+      ],
+      "cost": [
+        {
+          "cost_type": "Item",
+          "cost_id": 7035008,
+          "cost_value": 1
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        }
+      ],
+      "fast_comp_currency_type": 99,
+      "fast_comp_currency_value": 10,
+      "function": [
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        }
+      ],
+      "open_episode": "0",
+      "reward_id": 0,
+      "contents_open": 0
+    },
+    {
+      "id": 10901,
+      "resource_group_id": 10901,
+      "building_Lv": 1,
+      "init_building_slot": 0,
+      "category": "None",
+      "display_category": "Assist",
+      "category_localkey": "300_building_type",
+      "type_id": 10900,
+      "time": 5,
+      "build_condition": [
+        {
+          "build_condition_type": "Build",
+          "build_condition_value": 10601
+        },
+        {
+          "build_condition_type": "None",
+          "build_condition_value": 0
+        }
+      ],
+      "cost": [
+        {
+          "cost_type": "Item",
+          "cost_id": 7035009,
+          "cost_value": 1
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        }
+      ],
+      "fast_comp_currency_type": 99,
+      "fast_comp_currency_value": 10,
+      "function": [
+        {
+          "function_type": "UnlockLesson",
+          "function_value_type": "Id",
+          "function_value": 3001,
+          "function_title_localkey": "outpost_function_title_academy",
+          "function_description_localkey": "academy_function_description_01"
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        }
+      ],
+      "open_episode": "0",
+      "reward_id": 0,
+      "contents_open": 0
+    },
+    {
+      "id": 11001,
+      "resource_group_id": 11001,
+      "building_Lv": 1,
+      "init_building_slot": 0,
+      "category": "None",
+      "display_category": "Assist",
+      "category_localkey": "300_building_type",
+      "type_id": 11000,
+      "time": 5,
+      "build_condition": [
+        {
+          "build_condition_type": "Build",
+          "build_condition_value": 10901
+        },
+        {
+          "build_condition_type": "None",
+          "build_condition_value": 0
+        }
+      ],
+      "cost": [
+        {
+          "cost_type": "Item",
+          "cost_id": 7035010,
+          "cost_value": 1
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        }
+      ],
+      "fast_comp_currency_type": 99,
+      "fast_comp_currency_value": 10,
+      "function": [
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        }
+      ],
+      "open_episode": "0",
+      "reward_id": 0,
+      "contents_open": 0
+    },
+    {
+      "id": 11101,
+      "resource_group_id": 11101,
+      "building_Lv": 1,
+      "init_building_slot": 0,
+      "category": "None",
+      "display_category": "Assist",
+      "category_localkey": "300_building_type",
+      "type_id": 11100,
+      "time": 5,
+      "build_condition": [
+        {
+          "build_condition_type": "Build",
+          "build_condition_value": 10901
+        },
+        {
+          "build_condition_type": "None",
+          "build_condition_value": 0
+        }
+      ],
+      "cost": [
+        {
+          "cost_type": "Item",
+          "cost_id": 7035011,
+          "cost_value": 1
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        }
+      ],
+      "fast_comp_currency_type": 99,
+      "fast_comp_currency_value": 10,
+      "function": [
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        }
+      ],
+      "open_episode": "0",
+      "reward_id": 0,
+      "contents_open": 0
+    },
+    {
+      "id": 11201,
+      "resource_group_id": 11201,
+      "building_Lv": 1,
+      "init_building_slot": 0,
+      "category": "None",
+      "display_category": "Assist",
+      "category_localkey": "300_building_type",
+      "type_id": 11200,
+      "time": 5,
+      "build_condition": [
+        {
+          "build_condition_type": "Build",
+          "build_condition_value": 10901
+        },
+        {
+          "build_condition_type": "None",
+          "build_condition_value": 0
+        }
+      ],
+      "cost": [
+        {
+          "cost_type": "Item",
+          "cost_id": 7035012,
+          "cost_value": 1
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        }
+      ],
+      "fast_comp_currency_type": 99,
+      "fast_comp_currency_value": 10,
+      "function": [
+        {
+          "function_type": "UnlockLesson",
+          "function_value_type": "Id",
+          "function_value": 4001,
+          "function_title_localkey": "outpost_function_title_academy",
+          "function_description_localkey": "academy_function_description_01"
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        }
+      ],
+      "open_episode": "0",
+      "reward_id": 0,
+      "contents_open": 0
+    },
+    {
+      "id": 11301,
+      "resource_group_id": 11301,
+      "building_Lv": 1,
+      "init_building_slot": 0,
+      "category": "None",
+      "display_category": "Assist",
+      "category_localkey": "300_building_type",
+      "type_id": 11300,
+      "time": 5,
+      "build_condition": [
+        {
+          "build_condition_type": "Build",
+          "build_condition_value": 11201
+        },
+        {
+          "build_condition_type": "None",
+          "build_condition_value": 0
+        }
+      ],
+      "cost": [
+        {
+          "cost_type": "Item",
+          "cost_id": 7035013,
+          "cost_value": 1
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        }
+      ],
+      "fast_comp_currency_type": 99,
+      "fast_comp_currency_value": 10,
+      "function": [
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        }
+      ],
+      "open_episode": "0",
+      "reward_id": 0,
+      "contents_open": 0
+    },
+    {
+      "id": 11401,
+      "resource_group_id": 11401,
+      "building_Lv": 1,
+      "init_building_slot": 0,
+      "category": "None",
+      "display_category": "Assist",
+      "category_localkey": "300_building_type",
+      "type_id": 11400,
+      "time": 5,
+      "build_condition": [
+        {
+          "build_condition_type": "Build",
+          "build_condition_value": 11201
+        },
+        {
+          "build_condition_type": "None",
+          "build_condition_value": 0
+        }
+      ],
+      "cost": [
+        {
+          "cost_type": "Item",
+          "cost_id": 7035014,
+          "cost_value": 1
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        }
+      ],
+      "fast_comp_currency_type": 99,
+      "fast_comp_currency_value": 10,
+      "function": [
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        }
+      ],
+      "open_episode": "0",
+      "reward_id": 0,
+      "contents_open": 0
+    },
+    {
+      "id": 11501,
+      "resource_group_id": 11501,
+      "building_Lv": 1,
+      "init_building_slot": 0,
+      "category": "None",
+      "display_category": "Assist",
+      "category_localkey": "300_building_type",
+      "type_id": 11500,
+      "time": 5,
+      "build_condition": [
+        {
+          "build_condition_type": "Build",
+          "build_condition_value": 11201
+        },
+        {
+          "build_condition_type": "None",
+          "build_condition_value": 0
+        }
+      ],
+      "cost": [
+        {
+          "cost_type": "Item",
+          "cost_id": 7035015,
+          "cost_value": 1
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        }
+      ],
+      "fast_comp_currency_type": 99,
+      "fast_comp_currency_value": 10,
+      "function": [
+        {
+          "function_type": "UnlockLesson",
+          "function_value_type": "Id",
+          "function_value": 5001,
+          "function_title_localkey": "outpost_function_title_academy",
+          "function_description_localkey": "academy_function_description_01"
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        }
+      ],
+      "open_episode": "0",
+      "reward_id": 0,
+      "contents_open": 0
+    },
+    {
+      "id": 11601,
+      "resource_group_id": 11601,
+      "building_Lv": 1,
+      "init_building_slot": 0,
+      "category": "None",
+      "display_category": "Assist",
+      "category_localkey": "300_building_type",
+      "type_id": 11600,
+      "time": 5,
+      "build_condition": [
+        {
+          "build_condition_type": "Build",
+          "build_condition_value": 11501
+        },
+        {
+          "build_condition_type": "None",
+          "build_condition_value": 0
+        }
+      ],
+      "cost": [
+        {
+          "cost_type": "Item",
+          "cost_id": 7035016,
+          "cost_value": 1
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        }
+      ],
+      "fast_comp_currency_type": 99,
+      "fast_comp_currency_value": 10,
+      "function": [
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        }
+      ],
+      "open_episode": "0",
+      "reward_id": 0,
+      "contents_open": 0
+    },
+    {
+      "id": 11701,
+      "resource_group_id": 11701,
+      "building_Lv": 1,
+      "init_building_slot": 0,
+      "category": "None",
+      "display_category": "Assist",
+      "category_localkey": "300_building_type",
+      "type_id": 11700,
+      "time": 5,
+      "build_condition": [
+        {
+          "build_condition_type": "Build",
+          "build_condition_value": 11501
+        },
+        {
+          "build_condition_type": "None",
+          "build_condition_value": 0
+        }
+      ],
+      "cost": [
+        {
+          "cost_type": "Item",
+          "cost_id": 7035017,
+          "cost_value": 1
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        }
+      ],
+      "fast_comp_currency_type": 99,
+      "fast_comp_currency_value": 10,
+      "function": [
+        {
+          "function_type": "UnlockLesson",
+          "function_value_type": "Id",
+          "function_value": 6001,
+          "function_title_localkey": "outpost_function_title_academy",
+          "function_description_localkey": "academy_function_description_01"
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        }
+      ],
+      "open_episode": "0",
+      "reward_id": 0,
+      "contents_open": 0
+    },
+    {
+      "id": 11801,
+      "resource_group_id": 11801,
+      "building_Lv": 1,
+      "init_building_slot": 0,
+      "category": "None",
+      "display_category": "Assist",
+      "category_localkey": "300_building_type",
+      "type_id": 11800,
+      "time": 5,
+      "build_condition": [
+        {
+          "build_condition_type": "Build",
+          "build_condition_value": 11701
+        },
+        {
+          "build_condition_type": "None",
+          "build_condition_value": 0
+        }
+      ],
+      "cost": [
+        {
+          "cost_type": "Item",
+          "cost_id": 7035018,
+          "cost_value": 1
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        }
+      ],
+      "fast_comp_currency_type": 99,
+      "fast_comp_currency_value": 10,
+      "function": [
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        }
+      ],
+      "open_episode": "0",
+      "reward_id": 0,
+      "contents_open": 0
+    },
+    {
+      "id": 11901,
+      "resource_group_id": 11901,
+      "building_Lv": 1,
+      "init_building_slot": 0,
+      "category": "None",
+      "display_category": "Assist",
+      "category_localkey": "300_building_type",
+      "type_id": 11900,
+      "time": 5,
+      "build_condition": [
+        {
+          "build_condition_type": "Build",
+          "build_condition_value": 11701
+        },
+        {
+          "build_condition_type": "None",
+          "build_condition_value": 0
+        }
+      ],
+      "cost": [
+        {
+          "cost_type": "Item",
+          "cost_id": 7035019,
+          "cost_value": 1
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        }
+      ],
+      "fast_comp_currency_type": 99,
+      "fast_comp_currency_value": 10,
+      "function": [
+        {
+          "function_type": "UnlockLesson",
+          "function_value_type": "Id",
+          "function_value": 7001,
+          "function_title_localkey": "outpost_function_title_academy",
+          "function_description_localkey": "academy_function_description_01"
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        }
+      ],
+      "open_episode": "0",
+      "reward_id": 0,
+      "contents_open": 0
+    },
+    {
+      "id": 12001,
+      "resource_group_id": 12001,
+      "building_Lv": 1,
+      "init_building_slot": 0,
+      "category": "None",
+      "display_category": "Welfare",
+      "category_localkey": "200_building_type",
+      "type_id": 12000,
+      "time": 5,
+      "build_condition": [
+        {
+          "build_condition_type": "Build",
+          "build_condition_value": 11901
+        },
+        {
+          "build_condition_type": "None",
+          "build_condition_value": 0
+        }
+      ],
+      "cost": [
+        {
+          "cost_type": "Item",
+          "cost_id": 7035020,
+          "cost_value": 1
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        }
+      ],
+      "fast_comp_currency_type": 99,
+      "fast_comp_currency_value": 10,
+      "function": [
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        }
+      ],
+      "open_episode": "0",
+      "reward_id": 0,
+      "contents_open": 0
+    },
+    {
+      "id": 12101,
+      "resource_group_id": 12101,
+      "building_Lv": 1,
+      "init_building_slot": 0,
+      "category": "None",
+      "display_category": "Welfare",
+      "category_localkey": "200_building_type",
+      "type_id": 12100,
+      "time": 5,
+      "build_condition": [
+        {
+          "build_condition_type": "Build",
+          "build_condition_value": 11901
+        },
+        {
+          "build_condition_type": "None",
+          "build_condition_value": 0
+        }
+      ],
+      "cost": [
+        {
+          "cost_type": "Item",
+          "cost_id": 7035021,
+          "cost_value": 1
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        }
+      ],
+      "fast_comp_currency_type": 99,
+      "fast_comp_currency_value": 10,
+      "function": [
+        {
+          "function_type": "UnlockLesson",
+          "function_value_type": "Id",
+          "function_value": 8001,
+          "function_title_localkey": "outpost_function_title_academy",
+          "function_description_localkey": "academy_function_description_01"
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        }
+      ],
+      "open_episode": "0",
+      "reward_id": 0,
+      "contents_open": 0
+    },
+    {
+      "id": 12201,
+      "resource_group_id": 12201,
+      "building_Lv": 1,
+      "init_building_slot": 0,
+      "category": "None",
+      "display_category": "Welfare",
+      "category_localkey": "200_building_type",
+      "type_id": 12200,
+      "time": 5,
+      "build_condition": [
+        {
+          "build_condition_type": "Build",
+          "build_condition_value": 12101
+        },
+        {
+          "build_condition_type": "None",
+          "build_condition_value": 0
+        }
+      ],
+      "cost": [
+        {
+          "cost_type": "Item",
+          "cost_id": 7035022,
+          "cost_value": 1
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        }
+      ],
+      "fast_comp_currency_type": 99,
+      "fast_comp_currency_value": 10,
+      "function": [
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        }
+      ],
+      "open_episode": "0",
+      "reward_id": 0,
+      "contents_open": 0
+    },
+    {
+      "id": 12301,
+      "resource_group_id": 12301,
+      "building_Lv": 1,
+      "init_building_slot": 0,
+      "category": "None",
+      "display_category": "Assist",
+      "category_localkey": "300_building_type",
+      "type_id": 12300,
+      "time": 5,
+      "build_condition": [
+        {
+          "build_condition_type": "Build",
+          "build_condition_value": 12101
+        },
+        {
+          "build_condition_type": "None",
+          "build_condition_value": 0
+        }
+      ],
+      "cost": [
+        {
+          "cost_type": "Item",
+          "cost_id": 7035023,
+          "cost_value": 1
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        }
+      ],
+      "fast_comp_currency_type": 99,
+      "fast_comp_currency_value": 10,
+      "function": [
+        {
+          "function_type": "UnlockLesson",
+          "function_value_type": "Id",
+          "function_value": 9001,
+          "function_title_localkey": "outpost_function_title_academy",
+          "function_description_localkey": "academy_function_description_01"
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        }
+      ],
+      "open_episode": "0",
+      "reward_id": 0,
+      "contents_open": 0
+    },
+    {
+      "id": 22401,
+      "resource_group_id": 22401,
+      "building_Lv": 1,
+      "init_building_slot": 1,
+      "category": "CommanderCenter",
+      "display_category": "Growth",
+      "category_localkey": "100_building_type",
+      "type_id": 22400,
+      "time": 0,
+      "build_condition": [
+        {
+          "build_condition_type": "None",
+          "build_condition_value": 0
+        },
+        {
+          "build_condition_type": "None",
+          "build_condition_value": 0
+        }
+      ],
+      "cost": [
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        }
+      ],
+      "fast_comp_currency_type": 0,
+      "fast_comp_currency_value": 0,
+      "function": [
+        {
+          "function_type": "UnlockOutpostSlot",
+          "function_value_type": "Integer",
+          "function_value": 16,
+          "function_title_localkey": "outpost_function_title_unlockslot",
+          "function_description_localkey": "outpost_function_description_unlockslot"
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        }
+      ],
+      "open_episode": "0",
+      "reward_id": 0,
+      "contents_open": 0
+    },
+    {
+      "id": 22701,
+      "resource_group_id": 22701,
+      "building_Lv": 1,
+      "init_building_slot": 4,
+      "category": "SynchroDevice",
+      "display_category": "Welfare",
+      "category_localkey": "200_building_type",
+      "type_id": 22700,
+      "time": 0,
+      "build_condition": [
+        {
+          "build_condition_type": "None",
+          "build_condition_value": 0
+        },
+        {
+          "build_condition_type": "None",
+          "build_condition_value": 0
+        }
+      ],
+      "cost": [
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        }
+      ],
+      "fast_comp_currency_type": 0,
+      "fast_comp_currency_value": 0,
+      "function": [
+        {
+          "function_type": "AddSynchroSlot",
+          "function_value_type": "Integer",
+          "function_value": 5,
+          "function_title_localkey": "outpost_function_title_synchro",
+          "function_description_localkey": "CUBE_ENCHANT_SLOT_OPEN"
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        }
+      ],
+      "open_episode": "0",
+      "reward_id": 0,
+      "contents_open": 21
+    },
+    {
+      "id": 22801,
+      "resource_group_id": 22801,
+      "building_Lv": 1,
+      "init_building_slot": 5,
+      "category": "RecycleRoom",
+      "display_category": "Welfare",
+      "category_localkey": "200_building_type",
+      "type_id": 22800,
+      "time": 0,
+      "build_condition": [
+        {
+          "build_condition_type": "None",
+          "build_condition_value": 0
+        },
+        {
+          "build_condition_type": "None",
+          "build_condition_value": 0
+        }
+      ],
+      "cost": [
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        }
+      ],
+      "fast_comp_currency_type": 99,
+      "fast_comp_currency_value": 10,
+      "function": [
+        {
+          "function_type": "RunResearch",
+          "function_value_type": "Id",
+          "function_value": 1001,
+          "function_title_localkey": "outpost_function_title_recycle",
+          "function_description_localkey": "outpost_function_description_recycle"
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        }
+      ],
+      "open_episode": "0",
+      "reward_id": 0,
+      "contents_open": 22
+    },
+    {
+      "id": 22901,
+      "resource_group_id": 22901,
+      "building_Lv": 1,
+      "init_building_slot": 6,
+      "category": "TacticAcademy",
+      "display_category": "Welfare",
+      "category_localkey": "200_building_type",
+      "type_id": 22900,
+      "time": 0,
+      "build_condition": [
+        {
+          "build_condition_type": "None",
+          "build_condition_value": 0
+        },
+        {
+          "build_condition_type": "None",
+          "build_condition_value": 0
+        }
+      ],
+      "cost": [
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 1
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        }
+      ],
+      "fast_comp_currency_type": 99,
+      "fast_comp_currency_value": 10,
+      "function": [
+        {
+          "function_type": "UnlockClass",
+          "function_value_type": "Id",
+          "function_value": 1000,
+          "function_title_localkey": "outpost_function_title_tactic",
+          "function_description_localkey": "outpost_function_description_tactic1"
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        }
+      ],
+      "open_episode": "0",
+      "reward_id": 0,
+      "contents_open": 23
+    },
+    {
+      "id": 23001,
+      "resource_group_id": 23001,
+      "building_Lv": 1,
+      "init_building_slot": 7,
+      "category": "InfraCore",
+      "display_category": "Welfare",
+      "category_localkey": "200_building_type",
+      "type_id": 23000,
+      "time": 0,
+      "build_condition": [
+        {
+          "build_condition_type": "None",
+          "build_condition_value": 0
+        },
+        {
+          "build_condition_type": "None",
+          "build_condition_value": 1
+        }
+      ],
+      "cost": [
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        }
+      ],
+      "fast_comp_currency_type": 0,
+      "fast_comp_currency_value": 0,
+      "function": [
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        }
+      ],
+      "open_episode": "0",
+      "reward_id": 0,
+      "contents_open": 0
+    },
+    {
+      "id": 23101,
+      "resource_group_id": 23101,
+      "building_Lv": 1,
+      "init_building_slot": 3,
+      "category": "Elevator",
+      "display_category": "Growth",
+      "category_localkey": "100_building_type",
+      "type_id": 23100,
+      "time": 0,
+      "build_condition": [
+        {
+          "build_condition_type": "None",
+          "build_condition_value": 0
+        },
+        {
+          "build_condition_type": "None",
+          "build_condition_value": 0
+        }
+      ],
+      "cost": [
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        }
+      ],
+      "fast_comp_currency_type": 0,
+      "fast_comp_currency_value": 0,
+      "function": [
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        }
+      ],
+      "open_episode": "0",
+      "reward_id": 0,
+      "contents_open": 0
+    },
+    {
+      "id": 23201,
+      "resource_group_id": 23201,
+      "building_Lv": 1,
+      "init_building_slot": 2,
+      "category": "DispatchBoard",
+      "display_category": "Welfare",
+      "category_localkey": "200_building_type",
+      "type_id": 23200,
+      "time": 0,
+      "build_condition": [
+        {
+          "build_condition_type": "None",
+          "build_condition_value": 0
+        },
+        {
+          "build_condition_type": "None",
+          "build_condition_value": 0
+        }
+      ],
+      "cost": [
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        }
+      ],
+      "fast_comp_currency_type": 0,
+      "fast_comp_currency_value": 0,
+      "function": [
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        }
+      ],
+      "open_episode": "0",
+      "reward_id": 0,
+      "contents_open": 0
+    },
+    {
+      "id": 23301,
+      "resource_group_id": 23301,
+      "building_Lv": 1,
+      "init_building_slot": 9,
+      "category": "AmusementPark",
+      "display_category": "Welfare",
+      "category_localkey": "200_building_type",
+      "type_id": 23300,
+      "time": 0,
+      "build_condition": [
+        {
+          "build_condition_type": "None",
+          "build_condition_value": 0
+        },
+        {
+          "build_condition_type": "None",
+          "build_condition_value": 0
+        }
+      ],
+      "cost": [
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        }
+      ],
+      "fast_comp_currency_type": 0,
+      "fast_comp_currency_value": 0,
+      "function": [
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        }
+      ],
+      "open_episode": "0",
+      "reward_id": 0,
+      "contents_open": 0
+    },
+    {
+      "id": 23401,
+      "resource_group_id": 23401,
+      "building_Lv": 1,
+      "init_building_slot": 8,
+      "category": "OutdoorPool",
+      "display_category": "Welfare",
+      "category_localkey": "200_building_type",
+      "type_id": 23400,
+      "time": 0,
+      "build_condition": [
+        {
+          "build_condition_type": "None",
+          "build_condition_value": 0
+        },
+        {
+          "build_condition_type": "None",
+          "build_condition_value": 0
+        }
+      ],
+      "cost": [
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        }
+      ],
+      "fast_comp_currency_type": 0,
+      "fast_comp_currency_value": 0,
+      "function": [
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        }
+      ],
+      "open_episode": "0",
+      "reward_id": 0,
+      "contents_open": 0
+    },
+    {
+      "id": 23501,
+      "resource_group_id": 23501,
+      "building_Lv": 1,
+      "init_building_slot": 10,
+      "category": "FlowerPark",
+      "display_category": "Welfare",
+      "category_localkey": "200_building_type",
+      "type_id": 23500,
+      "time": 0,
+      "build_condition": [
+        {
+          "build_condition_type": "None",
+          "build_condition_value": 0
+        },
+        {
+          "build_condition_type": "None",
+          "build_condition_value": 0
+        }
+      ],
+      "cost": [
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        },
+        {
+          "cost_type": "None",
+          "cost_id": 0,
+          "cost_value": 0
+        }
+      ],
+      "fast_comp_currency_type": 0,
+      "fast_comp_currency_value": 0,
+      "function": [
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        },
+        {
+          "function_type": "None",
+          "function_value_type": "None",
+          "function_value": 0
+        }
+      ],
+      "open_episode": "0",
+      "reward_id": 0,
+      "contents_open": 0
+    }
+  ]
+}

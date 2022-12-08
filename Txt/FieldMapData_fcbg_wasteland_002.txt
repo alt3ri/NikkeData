@@ -1,0 +1,323 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": "fcbg_wasteland_002",
+      "CameraPoint": [
+        {
+          "positionId": "a39bb684-0250-4375-bf1f-61ca43b72d11"
+        }
+      ],
+      "StageSpawner": [
+        {
+          "positionId": "15108978-86ec-468d-8c93-a15ad5afb1e1",
+          "stageId": 6009001,
+          "eventState": 0
+        },
+        {
+          "positionId": "b09e921a-c9ed-4cb5-b792-b36f905328c9",
+          "stageId": 6009002,
+          "eventState": 0
+        },
+        {
+          "positionId": "2323ccd1-e5d6-45e8-a674-b9c470647450",
+          "stageId": 6009003,
+          "eventState": 0
+        },
+        {
+          "positionId": "005a4493-bac5-49c8-9193-d5015bd1ac11",
+          "stageId": 6009004,
+          "eventState": 0
+        },
+        {
+          "positionId": "a1ed16c4-ce39-401a-bdfa-55e53f8c8328",
+          "stageId": 6009005,
+          "eventState": 0
+        },
+        {
+          "positionId": "b630dc9f-ba42-4f05-82eb-3299d377d57d",
+          "stageId": 6009006,
+          "eventState": 0
+        },
+        {
+          "positionId": "f8d45d74-5abd-4090-8a31-eeabbfdd5f9a",
+          "stageId": 6009007,
+          "eventState": 0
+        },
+        {
+          "positionId": "37505cde-2f4a-4006-9bf0-924769e3fef3",
+          "stageId": 6009008,
+          "eventState": 0
+        },
+        {
+          "positionId": "229eed47-68c9-4240-973d-8935d6183688",
+          "stageId": 6009009,
+          "eventState": 0
+        },
+        {
+          "positionId": "9476a5b1-32ff-4965-8127-d8c51bbbe26a",
+          "stageId": 6009010,
+          "eventState": 0
+        },
+        {
+          "positionId": "a95dcb3a-b815-4dd0-9798-74a36b15ab9f",
+          "stageId": 6009011,
+          "eventState": 0
+        },
+        {
+          "positionId": "f5d72a3d-ed2c-4ae0-a1f4-186f23d5da38",
+          "stageId": 6009012,
+          "eventState": 0
+        },
+        {
+          "positionId": "fd85de7d-dbf1-4f12-a890-410fdfe58769",
+          "stageId": 6009013,
+          "eventState": 2
+        },
+        {
+          "positionId": "b73d3e19-2626-4e0b-b052-59a69f7224dc",
+          "stageId": 6009014,
+          "eventState": 2
+        },
+        {
+          "positionId": "c21e9e90-25c1-4160-9b96-daaf90c148d9",
+          "stageId": 6009015,
+          "eventState": 0
+        },
+        {
+          "positionId": "3e19982c-80ba-4db0-a8b5-886c265b1806",
+          "stageId": 6009016,
+          "eventState": 0
+        },
+        {
+          "positionId": "3f59c435-a3eb-47d1-bad8-4487db4af18a",
+          "stageId": 6009017,
+          "eventState": 0
+        },
+        {
+          "positionId": "187caa89-2403-42e1-ab00-a115b512c979",
+          "stageId": 6009018,
+          "eventState": 2
+        },
+        {
+          "positionId": "022452e2-462b-40dd-8a1a-becf2b618218",
+          "stageId": 6009019,
+          "eventState": 2
+        },
+        {
+          "positionId": "74a4627d-3d91-466a-926f-f1261ab726cd",
+          "stageId": 6009020,
+          "eventState": 2
+        },
+        {
+          "positionId": "6d7bd6b4-ac43-4e78-93c6-3ef3e9508180",
+          "stageId": 6009021,
+          "eventState": 0
+        },
+        {
+          "positionId": "0ade5f42-8bad-4dc9-9def-22c0734b637b",
+          "stageId": 6009022,
+          "eventState": 0
+        },
+        {
+          "positionId": "4071a99f-e23b-4891-87c6-45b0309feba4",
+          "stageId": 6009023,
+          "eventState": 0
+        },
+        {
+          "positionId": "5901cb72-358e-488d-82eb-747e6cd9c0e7",
+          "stageId": 6009024,
+          "eventState": 0
+        },
+        {
+          "positionId": "3bf849d8-a37b-49bf-8a8a-5cd989a2c63d",
+          "stageId": 6009025,
+          "eventState": 0
+        },
+        {
+          "positionId": "90aa67b4-1066-438a-abfd-00f4324dee26",
+          "stageId": 6009026,
+          "eventState": 0
+        },
+        {
+          "positionId": "da1ba7bb-6625-4524-a868-04142b2a0fb9",
+          "stageId": 6009027,
+          "eventState": 0
+        },
+        {
+          "positionId": "c3e7fab8-5a35-42aa-a2af-8ebd133d2c59",
+          "stageId": 6009028,
+          "eventState": 0
+        },
+        {
+          "positionId": "33dbdbbb-9ba7-44b0-9f56-5125b204a241",
+          "stageId": 6009029,
+          "eventState": 0
+        },
+        {
+          "positionId": "5ce1abb2-1edb-4d0d-94e4-17e18e8f6622",
+          "stageId": 6009030,
+          "eventState": 0
+        },
+        {
+          "positionId": "8f738f00-85e4-4602-a0ab-2c9da0a4d93c",
+          "stageId": 6009031,
+          "eventState": 0
+        },
+        {
+          "positionId": "558f11ff-66f7-42a1-8e08-ea72eb04914c",
+          "stageId": 6009032,
+          "eventState": 0
+        },
+        {
+          "positionId": "86cec9c6-3527-463f-b05c-2eb1e4eac98d",
+          "stageId": 6009033,
+          "eventState": 2
+        },
+        {
+          "positionId": "5b95c119-e307-46b6-934b-b29b7354e116",
+          "stageId": 6009034,
+          "eventState": 2
+        },
+        {
+          "positionId": "81846165-9dc8-4661-97fb-1663cb306845",
+          "stageId": 6009035,
+          "eventState": 2
+        },
+        {
+          "positionId": "f34e4c99-00ae-4e48-b102-87400d959bda",
+          "stageId": 6009036,
+          "eventState": 2
+        },
+        {
+          "positionId": "6ba7435a-000b-4a19-b31d-ca1856025d41",
+          "stageId": 6009037,
+          "eventState": 2
+        }
+      ],
+      "LevelTrigger": [
+        {
+          "positionId": "9ee30304-6bb6-4ec3-a08a-31b29df0f484",
+          "switchType": 1,
+          "OnTrigger": false
+        },
+        {
+          "positionId": "eddd980e-73bf-40df-a2fe-0f80bfed6efe",
+          "switchType": 1,
+          "OnTrigger": false
+        }
+      ],
+      "Door": [
+        {
+          "positionId": "ce33d04d-c51a-4dcc-91b3-dc3db3fce495",
+          "OnTrigger": false
+        },
+        {
+          "positionId": "de88ec9c-7d8c-4525-9419-d23f3062a8ab",
+          "OnTrigger": false
+        }
+      ],
+      "SquadSpawner": [
+        {
+          "positionId": "352dfea9-0991-4d83-867a-4584216ce1be"
+        }
+      ],
+      "PortalSet": [
+        {
+          "positionId": "cc5e6373-d32c-4436-9f1c-4126a798888a"
+        },
+        {
+          "positionId": "247e25bb-0d89-4d2c-a358-8f33b6330188"
+        }
+      ],
+      "Portal": [
+        {
+          "positionId": "7d077f43-fa36-471c-94bb-8b2889fc361d"
+        },
+        {
+          "positionId": "4856ed8b-bc0c-498e-bfb0-4148434e4e99"
+        },
+        {
+          "positionId": "44b11a57-c469-42b4-b84f-e82698213f5e"
+        },
+        {
+          "positionId": "cf948d95-705e-4d1a-a8b2-c32d1b80f51c"
+        }
+      ],
+      "QuestObjectSpawner": [
+        {
+          "positionId": "1c31e0ed-7b0b-48f2-bff6-0d057591e862",
+          "questObjectId": 1009001
+        }
+      ],
+      "NPCSpawner": [
+        {
+          "positionId": "2c23c03f-cc78-4f40-af21-5f2f1243953f",
+          "npcId": 5009001
+        }
+      ],
+      "ItemSpawner": [
+        {
+          "positionId": "205e90a9-3086-454d-88a5-e0efa2eb518a",
+          "itemId": 50009001,
+          "isCompleteReward": false
+        },
+        {
+          "positionId": "db294479-5899-4f9b-9fca-1320d29eb2f3",
+          "itemId": 50009002,
+          "isCompleteReward": false
+        },
+        {
+          "positionId": "e3862b56-8979-48f7-b0af-d5935ae7481d",
+          "itemId": 50009003,
+          "isCompleteReward": false
+        },
+        {
+          "positionId": "2efd9989-9a4e-4517-8ed7-f79afe6d5417",
+          "itemId": 50009004,
+          "isCompleteReward": false
+        },
+        {
+          "positionId": "7019fffb-d0bf-4a5b-a160-5dfe8630fdfd",
+          "itemId": 50009201,
+          "isCompleteReward": false
+        },
+        {
+          "positionId": "cb59504a-5eaf-4f53-89a4-5264c1674727",
+          "itemId": 50009202,
+          "isCompleteReward": false
+        },
+        {
+          "positionId": "e82c9922-8cea-4f5a-ad59-b477eedbe7f4",
+          "itemId": 50009203,
+          "isCompleteReward": false
+        },
+        {
+          "positionId": "fe3bdcd5-6b09-47d3-8d0d-0ba9abe917c0",
+          "itemId": 50009301,
+          "isCompleteReward": false
+        },
+        {
+          "positionId": "c1bfa55c-20eb-45b4-bf0f-9d3d52b95fab",
+          "itemId": 50009302,
+          "isCompleteReward": false
+        },
+        {
+          "positionId": "cf0424eb-2c28-4910-8b3d-4b5e16b7326d",
+          "itemId": 50009303,
+          "isCompleteReward": false
+        },
+        {
+          "positionId": "252796e4-03f7-4e90-8243-fb14313bfb5b",
+          "itemId": 50009304,
+          "isCompleteReward": false
+        },
+        {
+          "positionId": "3a008529-6fc9-4e0c-ad1c-bc3a6eb26138",
+          "itemId": 50009305,
+          "isCompleteReward": false
+        }
+      ]
+    }
+  ]
+}

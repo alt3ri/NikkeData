@@ -1,0 +1,4085 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1,
+      "level_enhance_id": 10001,
+      "level": 1,
+      "skill_levels": [
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 0
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020001,
+      "material_value": 10,
+      "gold_value": 10000,
+      "slot": 1,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 390
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 78
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 11800
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level_enhance_id": 10001,
+      "level": 2,
+      "skill_levels": [
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 0
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020001,
+      "material_value": 10,
+      "gold_value": 20000,
+      "slot": 2,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 450
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 90
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 13600
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level_enhance_id": 10001,
+      "level": 3,
+      "skill_levels": [
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 0
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020001,
+      "material_value": 10,
+      "gold_value": 40000,
+      "slot": 2,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 520
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 103
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 15600
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level_enhance_id": 10001,
+      "level": 4,
+      "skill_levels": [
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 0
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020001,
+      "material_value": 10,
+      "gold_value": 80000,
+      "slot": 3,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 600
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 119
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 17900
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level_enhance_id": 10001,
+      "level": 5,
+      "skill_levels": [
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020001,
+      "material_value": 10,
+      "gold_value": 160000,
+      "slot": 3,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 690
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 136
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 20600
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "level_enhance_id": 10001,
+      "level": 6,
+      "skill_levels": [
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020001,
+      "material_value": 10,
+      "gold_value": 240000,
+      "slot": 4,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 790
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 157
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 23700
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "level_enhance_id": 10001,
+      "level": 7,
+      "skill_levels": [
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020001,
+      "material_value": 10,
+      "gold_value": 320000,
+      "slot": 4,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 910
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 180
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 27300
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "level_enhance_id": 10001,
+      "level": 8,
+      "skill_levels": [
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020001,
+      "material_value": 10,
+      "gold_value": 400000,
+      "slot": 5,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 1050
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 207
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 31400
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "level_enhance_id": 10001,
+      "level": 9,
+      "skill_levels": [
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020001,
+      "material_value": 10,
+      "gold_value": 480000,
+      "slot": 5,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 1200
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 239
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 36100
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "level_enhance_id": 10001,
+      "level": 10,
+      "skill_levels": [
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020001,
+      "material_value": 0,
+      "gold_value": 0,
+      "slot": 6,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 1380
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 274
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 41500
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "level_enhance_id": 10002,
+      "level": 1,
+      "skill_levels": [
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 0
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020002,
+      "material_value": 10,
+      "gold_value": 10000,
+      "slot": 1,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 390
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 78
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 11800
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "level_enhance_id": 10002,
+      "level": 2,
+      "skill_levels": [
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 0
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020002,
+      "material_value": 10,
+      "gold_value": 20000,
+      "slot": 2,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 450
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 90
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 13600
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "level_enhance_id": 10002,
+      "level": 3,
+      "skill_levels": [
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 0
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020002,
+      "material_value": 10,
+      "gold_value": 40000,
+      "slot": 2,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 520
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 103
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 15600
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "level_enhance_id": 10002,
+      "level": 4,
+      "skill_levels": [
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 0
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020002,
+      "material_value": 10,
+      "gold_value": 80000,
+      "slot": 3,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 600
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 119
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 17900
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "level_enhance_id": 10002,
+      "level": 5,
+      "skill_levels": [
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020002,
+      "material_value": 10,
+      "gold_value": 160000,
+      "slot": 3,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 690
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 136
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 20600
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "level_enhance_id": 10002,
+      "level": 6,
+      "skill_levels": [
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020002,
+      "material_value": 10,
+      "gold_value": 240000,
+      "slot": 4,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 790
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 157
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 23700
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "level_enhance_id": 10002,
+      "level": 7,
+      "skill_levels": [
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020002,
+      "material_value": 10,
+      "gold_value": 320000,
+      "slot": 4,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 910
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 180
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 27300
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "level_enhance_id": 10002,
+      "level": 8,
+      "skill_levels": [
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020002,
+      "material_value": 10,
+      "gold_value": 400000,
+      "slot": 5,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 1050
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 207
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 31400
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "level_enhance_id": 10002,
+      "level": 9,
+      "skill_levels": [
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020002,
+      "material_value": 10,
+      "gold_value": 480000,
+      "slot": 5,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 1200
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 239
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 36100
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "level_enhance_id": 10002,
+      "level": 10,
+      "skill_levels": [
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020002,
+      "material_value": 0,
+      "gold_value": 0,
+      "slot": 6,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 1380
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 274
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 41500
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "level_enhance_id": 10003,
+      "level": 1,
+      "skill_levels": [
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 0
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020003,
+      "material_value": 10,
+      "gold_value": 10000,
+      "slot": 1,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 390
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 78
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 11800
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "level_enhance_id": 10003,
+      "level": 2,
+      "skill_levels": [
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 0
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020003,
+      "material_value": 10,
+      "gold_value": 20000,
+      "slot": 2,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 450
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 90
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 13600
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "level_enhance_id": 10003,
+      "level": 3,
+      "skill_levels": [
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 0
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020003,
+      "material_value": 10,
+      "gold_value": 40000,
+      "slot": 2,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 520
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 103
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 15600
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "level_enhance_id": 10003,
+      "level": 4,
+      "skill_levels": [
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 0
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020003,
+      "material_value": 10,
+      "gold_value": 80000,
+      "slot": 3,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 600
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 119
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 17900
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "level_enhance_id": 10003,
+      "level": 5,
+      "skill_levels": [
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020003,
+      "material_value": 10,
+      "gold_value": 160000,
+      "slot": 3,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 690
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 136
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 20600
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "level_enhance_id": 10003,
+      "level": 6,
+      "skill_levels": [
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020003,
+      "material_value": 10,
+      "gold_value": 240000,
+      "slot": 4,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 790
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 157
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 23700
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "level_enhance_id": 10003,
+      "level": 7,
+      "skill_levels": [
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020003,
+      "material_value": 10,
+      "gold_value": 320000,
+      "slot": 4,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 910
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 180
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 27300
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "level_enhance_id": 10003,
+      "level": 8,
+      "skill_levels": [
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020003,
+      "material_value": 10,
+      "gold_value": 400000,
+      "slot": 5,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 1050
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 207
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 31400
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "level_enhance_id": 10003,
+      "level": 9,
+      "skill_levels": [
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020003,
+      "material_value": 10,
+      "gold_value": 480000,
+      "slot": 5,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 1200
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 239
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 36100
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "level_enhance_id": 10003,
+      "level": 10,
+      "skill_levels": [
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020003,
+      "material_value": 0,
+      "gold_value": 0,
+      "slot": 6,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 1380
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 274
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 41500
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "level_enhance_id": 10004,
+      "level": 1,
+      "skill_levels": [
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 0
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020004,
+      "material_value": 10,
+      "gold_value": 10000,
+      "slot": 1,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 390
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 78
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 11800
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "level_enhance_id": 10004,
+      "level": 2,
+      "skill_levels": [
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 0
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020004,
+      "material_value": 10,
+      "gold_value": 20000,
+      "slot": 2,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 450
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 90
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 13600
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "level_enhance_id": 10004,
+      "level": 3,
+      "skill_levels": [
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 0
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020004,
+      "material_value": 10,
+      "gold_value": 40000,
+      "slot": 2,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 520
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 103
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 15600
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "level_enhance_id": 10004,
+      "level": 4,
+      "skill_levels": [
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 0
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020004,
+      "material_value": 10,
+      "gold_value": 80000,
+      "slot": 3,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 600
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 119
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 17900
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "level_enhance_id": 10004,
+      "level": 5,
+      "skill_levels": [
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020004,
+      "material_value": 10,
+      "gold_value": 160000,
+      "slot": 3,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 690
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 136
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 20600
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "level_enhance_id": 10004,
+      "level": 6,
+      "skill_levels": [
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020004,
+      "material_value": 10,
+      "gold_value": 240000,
+      "slot": 4,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 790
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 157
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 23700
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "level_enhance_id": 10004,
+      "level": 7,
+      "skill_levels": [
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020004,
+      "material_value": 10,
+      "gold_value": 320000,
+      "slot": 4,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 910
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 180
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 27300
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "level_enhance_id": 10004,
+      "level": 8,
+      "skill_levels": [
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020004,
+      "material_value": 10,
+      "gold_value": 400000,
+      "slot": 5,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 1050
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 207
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 31400
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "level_enhance_id": 10004,
+      "level": 9,
+      "skill_levels": [
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020004,
+      "material_value": 10,
+      "gold_value": 480000,
+      "slot": 5,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 1200
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 239
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 36100
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "level_enhance_id": 10004,
+      "level": 10,
+      "skill_levels": [
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020004,
+      "material_value": 0,
+      "gold_value": 0,
+      "slot": 6,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 1380
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 274
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 41500
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "level_enhance_id": 10005,
+      "level": 1,
+      "skill_levels": [
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 0
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020005,
+      "material_value": 10,
+      "gold_value": 10000,
+      "slot": 1,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 390
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 78
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 11800
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "level_enhance_id": 10005,
+      "level": 2,
+      "skill_levels": [
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 0
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020005,
+      "material_value": 10,
+      "gold_value": 20000,
+      "slot": 2,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 450
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 90
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 13600
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "level_enhance_id": 10005,
+      "level": 3,
+      "skill_levels": [
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 0
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020005,
+      "material_value": 10,
+      "gold_value": 40000,
+      "slot": 2,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 520
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 103
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 15600
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "level_enhance_id": 10005,
+      "level": 4,
+      "skill_levels": [
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 0
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020005,
+      "material_value": 10,
+      "gold_value": 80000,
+      "slot": 3,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 600
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 119
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 17900
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "level_enhance_id": 10005,
+      "level": 5,
+      "skill_levels": [
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020005,
+      "material_value": 10,
+      "gold_value": 160000,
+      "slot": 3,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 690
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 136
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 20600
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "level_enhance_id": 10005,
+      "level": 6,
+      "skill_levels": [
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020005,
+      "material_value": 10,
+      "gold_value": 240000,
+      "slot": 4,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 790
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 157
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 23700
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "level_enhance_id": 10005,
+      "level": 7,
+      "skill_levels": [
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020005,
+      "material_value": 10,
+      "gold_value": 320000,
+      "slot": 4,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 910
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 180
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 27300
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "level_enhance_id": 10005,
+      "level": 8,
+      "skill_levels": [
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020005,
+      "material_value": 10,
+      "gold_value": 400000,
+      "slot": 5,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 1050
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 207
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 31400
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "level_enhance_id": 10005,
+      "level": 9,
+      "skill_levels": [
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020005,
+      "material_value": 10,
+      "gold_value": 480000,
+      "slot": 5,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 1200
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 239
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 36100
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "level_enhance_id": 10005,
+      "level": 10,
+      "skill_levels": [
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020005,
+      "material_value": 0,
+      "gold_value": 0,
+      "slot": 6,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 1380
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 274
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 41500
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "level_enhance_id": 10006,
+      "level": 1,
+      "skill_levels": [
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 0
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020006,
+      "material_value": 10,
+      "gold_value": 10000,
+      "slot": 1,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 390
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 78
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 11800
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "level_enhance_id": 10006,
+      "level": 2,
+      "skill_levels": [
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 0
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020006,
+      "material_value": 10,
+      "gold_value": 20000,
+      "slot": 2,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 450
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 90
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 13600
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "level_enhance_id": 10006,
+      "level": 3,
+      "skill_levels": [
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 0
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020006,
+      "material_value": 10,
+      "gold_value": 40000,
+      "slot": 2,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 520
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 103
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 15600
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "level_enhance_id": 10006,
+      "level": 4,
+      "skill_levels": [
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 0
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020006,
+      "material_value": 10,
+      "gold_value": 80000,
+      "slot": 3,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 600
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 119
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 17900
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "level_enhance_id": 10006,
+      "level": 5,
+      "skill_levels": [
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020006,
+      "material_value": 10,
+      "gold_value": 160000,
+      "slot": 3,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 690
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 136
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 20600
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "level_enhance_id": 10006,
+      "level": 6,
+      "skill_levels": [
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020006,
+      "material_value": 10,
+      "gold_value": 240000,
+      "slot": 4,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 790
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 157
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 23700
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "level_enhance_id": 10006,
+      "level": 7,
+      "skill_levels": [
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020006,
+      "material_value": 10,
+      "gold_value": 320000,
+      "slot": 4,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 910
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 180
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 27300
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "level_enhance_id": 10006,
+      "level": 8,
+      "skill_levels": [
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020006,
+      "material_value": 10,
+      "gold_value": 400000,
+      "slot": 5,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 1050
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 207
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 31400
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "level_enhance_id": 10006,
+      "level": 9,
+      "skill_levels": [
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020006,
+      "material_value": 10,
+      "gold_value": 480000,
+      "slot": 5,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 1200
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 239
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 36100
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "level_enhance_id": 10006,
+      "level": 10,
+      "skill_levels": [
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020006,
+      "material_value": 0,
+      "gold_value": 0,
+      "slot": 6,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 1380
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 274
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 41500
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "level_enhance_id": 11001,
+      "level": 1,
+      "skill_levels": [
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020007,
+      "material_value": 10,
+      "gold_value": 10000,
+      "slot": 1,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 1590
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 316
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 47700
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "level_enhance_id": 11001,
+      "level": 2,
+      "skill_levels": [
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020007,
+      "material_value": 10,
+      "gold_value": 20000,
+      "slot": 2,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 1830
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 363
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 54900
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "level_enhance_id": 11001,
+      "level": 3,
+      "skill_levels": [
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020007,
+      "material_value": 10,
+      "gold_value": 40000,
+      "slot": 2,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 2100
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 417
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 63100
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "level_enhance_id": 11001,
+      "level": 4,
+      "skill_levels": [
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020007,
+      "material_value": 10,
+      "gold_value": 80000,
+      "slot": 3,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 2420
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 480
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 72500
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "level_enhance_id": 11001,
+      "level": 5,
+      "skill_levels": [
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 1
+        }
+      ],
+      "material_id": 7020007,
+      "material_value": 10,
+      "gold_value": 160000,
+      "slot": 3,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 2780
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 552
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 83400
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "level_enhance_id": 11001,
+      "level": 6,
+      "skill_levels": [
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 1
+        }
+      ],
+      "material_id": 7020007,
+      "material_value": 10,
+      "gold_value": 240000,
+      "slot": 4,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 3200
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 635
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 95900
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "level_enhance_id": 11001,
+      "level": 7,
+      "skill_levels": [
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 1
+        }
+      ],
+      "material_id": 7020007,
+      "material_value": 10,
+      "gold_value": 320000,
+      "slot": 4,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 3680
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 730
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 110300
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "level_enhance_id": 11001,
+      "level": 8,
+      "skill_levels": [
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 1
+        }
+      ],
+      "material_id": 7020007,
+      "material_value": 10,
+      "gold_value": 400000,
+      "slot": 5,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 4230
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 839
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 126900
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "level_enhance_id": 11001,
+      "level": 9,
+      "skill_levels": [
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 1
+        }
+      ],
+      "material_id": 7020007,
+      "material_value": 10,
+      "gold_value": 480000,
+      "slot": 5,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 4860
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 965
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 145900
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "level_enhance_id": 11001,
+      "level": 10,
+      "skill_levels": [
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 4
+        },
+        {
+          "skill_level": 2
+        }
+      ],
+      "material_id": 7020007,
+      "material_value": 0,
+      "gold_value": 0,
+      "slot": 6,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 5590
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 1110
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 167800
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "level_enhance_id": 11002,
+      "level": 1,
+      "skill_levels": [
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020007,
+      "material_value": 10,
+      "gold_value": 10000,
+      "slot": 1,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 1590
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 316
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 47700
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "level_enhance_id": 11002,
+      "level": 2,
+      "skill_levels": [
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020007,
+      "material_value": 10,
+      "gold_value": 20000,
+      "slot": 2,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 1830
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 363
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 54900
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "level_enhance_id": 11002,
+      "level": 3,
+      "skill_levels": [
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020007,
+      "material_value": 10,
+      "gold_value": 40000,
+      "slot": 2,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 2100
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 417
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 63100
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "level_enhance_id": 11002,
+      "level": 4,
+      "skill_levels": [
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020007,
+      "material_value": 10,
+      "gold_value": 80000,
+      "slot": 3,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 2420
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 480
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 72500
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "level_enhance_id": 11002,
+      "level": 5,
+      "skill_levels": [
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 1
+        }
+      ],
+      "material_id": 7020007,
+      "material_value": 10,
+      "gold_value": 160000,
+      "slot": 3,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 2780
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 552
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 83400
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "level_enhance_id": 11002,
+      "level": 6,
+      "skill_levels": [
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 1
+        }
+      ],
+      "material_id": 7020007,
+      "material_value": 10,
+      "gold_value": 240000,
+      "slot": 4,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 3200
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 635
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 95900
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "level_enhance_id": 11002,
+      "level": 7,
+      "skill_levels": [
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 1
+        }
+      ],
+      "material_id": 7020007,
+      "material_value": 10,
+      "gold_value": 320000,
+      "slot": 4,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 3680
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 730
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 110300
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "level_enhance_id": 11002,
+      "level": 8,
+      "skill_levels": [
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 1
+        }
+      ],
+      "material_id": 7020007,
+      "material_value": 10,
+      "gold_value": 400000,
+      "slot": 5,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 4230
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 839
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 126900
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "level_enhance_id": 11002,
+      "level": 9,
+      "skill_levels": [
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 1
+        }
+      ],
+      "material_id": 7020007,
+      "material_value": 10,
+      "gold_value": 480000,
+      "slot": 5,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 4860
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 965
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 145900
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "level_enhance_id": 11002,
+      "level": 10,
+      "skill_levels": [
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 4
+        },
+        {
+          "skill_level": 2
+        }
+      ],
+      "material_id": 7020007,
+      "material_value": 0,
+      "gold_value": 0,
+      "slot": 6,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 5590
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 1110
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 167800
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "level_enhance_id": 12001,
+      "level": 1,
+      "skill_levels": [
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020008,
+      "material_value": 10,
+      "gold_value": 10000,
+      "slot": 1,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 1590
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 316
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 47700
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "level_enhance_id": 12001,
+      "level": 2,
+      "skill_levels": [
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020008,
+      "material_value": 10,
+      "gold_value": 20000,
+      "slot": 2,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 1830
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 363
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 54900
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "level_enhance_id": 12001,
+      "level": 3,
+      "skill_levels": [
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020008,
+      "material_value": 10,
+      "gold_value": 40000,
+      "slot": 2,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 2100
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 417
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 63100
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "level_enhance_id": 12001,
+      "level": 4,
+      "skill_levels": [
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020008,
+      "material_value": 10,
+      "gold_value": 80000,
+      "slot": 3,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 2420
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 480
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 72500
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "level_enhance_id": 12001,
+      "level": 5,
+      "skill_levels": [
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 1
+        }
+      ],
+      "material_id": 7020008,
+      "material_value": 10,
+      "gold_value": 160000,
+      "slot": 3,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 2780
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 552
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 83400
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "level_enhance_id": 12001,
+      "level": 6,
+      "skill_levels": [
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 1
+        }
+      ],
+      "material_id": 7020008,
+      "material_value": 10,
+      "gold_value": 240000,
+      "slot": 4,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 3200
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 635
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 95900
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "level_enhance_id": 12001,
+      "level": 7,
+      "skill_levels": [
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 1
+        }
+      ],
+      "material_id": 7020008,
+      "material_value": 10,
+      "gold_value": 320000,
+      "slot": 4,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 3680
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 730
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 110300
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "level_enhance_id": 12001,
+      "level": 8,
+      "skill_levels": [
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 1
+        }
+      ],
+      "material_id": 7020008,
+      "material_value": 10,
+      "gold_value": 400000,
+      "slot": 5,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 4230
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 839
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 126900
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "level_enhance_id": 12001,
+      "level": 9,
+      "skill_levels": [
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 1
+        }
+      ],
+      "material_id": 7020008,
+      "material_value": 10,
+      "gold_value": 480000,
+      "slot": 5,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 4860
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 965
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 145900
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "level_enhance_id": 12001,
+      "level": 10,
+      "skill_levels": [
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 4
+        },
+        {
+          "skill_level": 2
+        }
+      ],
+      "material_id": 7020008,
+      "material_value": 0,
+      "gold_value": 0,
+      "slot": 6,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 5590
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 1110
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 167800
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "level_enhance_id": 12002,
+      "level": 1,
+      "skill_levels": [
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020008,
+      "material_value": 10,
+      "gold_value": 10000,
+      "slot": 1,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 1590
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 316
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 47700
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "level_enhance_id": 12002,
+      "level": 2,
+      "skill_levels": [
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020008,
+      "material_value": 10,
+      "gold_value": 20000,
+      "slot": 2,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 1830
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 363
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 54900
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "level_enhance_id": 12002,
+      "level": 3,
+      "skill_levels": [
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020008,
+      "material_value": 10,
+      "gold_value": 40000,
+      "slot": 2,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 2100
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 417
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 63100
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "level_enhance_id": 12002,
+      "level": 4,
+      "skill_levels": [
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020008,
+      "material_value": 10,
+      "gold_value": 80000,
+      "slot": 3,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 2420
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 480
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 72500
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "level_enhance_id": 12002,
+      "level": 5,
+      "skill_levels": [
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 1
+        }
+      ],
+      "material_id": 7020008,
+      "material_value": 10,
+      "gold_value": 160000,
+      "slot": 3,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 2780
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 552
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 83400
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "level_enhance_id": 12002,
+      "level": 6,
+      "skill_levels": [
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 1
+        }
+      ],
+      "material_id": 7020008,
+      "material_value": 10,
+      "gold_value": 240000,
+      "slot": 4,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 3200
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 635
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 95900
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "level_enhance_id": 12002,
+      "level": 7,
+      "skill_levels": [
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 1
+        }
+      ],
+      "material_id": 7020008,
+      "material_value": 10,
+      "gold_value": 320000,
+      "slot": 4,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 3680
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 730
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 110300
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "level_enhance_id": 12002,
+      "level": 8,
+      "skill_levels": [
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 1
+        }
+      ],
+      "material_id": 7020008,
+      "material_value": 10,
+      "gold_value": 400000,
+      "slot": 5,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 4230
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 839
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 126900
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "level_enhance_id": 12002,
+      "level": 9,
+      "skill_levels": [
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 1
+        }
+      ],
+      "material_id": 7020008,
+      "material_value": 10,
+      "gold_value": 480000,
+      "slot": 5,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 4860
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 965
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 145900
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "level_enhance_id": 12002,
+      "level": 10,
+      "skill_levels": [
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 4
+        },
+        {
+          "skill_level": 2
+        }
+      ],
+      "material_id": 7020008,
+      "material_value": 0,
+      "gold_value": 0,
+      "slot": 6,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 5590
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 1110
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 167800
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "level_enhance_id": 13001,
+      "level": 1,
+      "skill_levels": [
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020009,
+      "material_value": 10,
+      "gold_value": 10000,
+      "slot": 1,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 1590
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 316
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 47700
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "level_enhance_id": 13001,
+      "level": 2,
+      "skill_levels": [
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020009,
+      "material_value": 10,
+      "gold_value": 20000,
+      "slot": 2,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 1830
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 363
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 54900
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "level_enhance_id": 13001,
+      "level": 3,
+      "skill_levels": [
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020009,
+      "material_value": 10,
+      "gold_value": 40000,
+      "slot": 2,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 2100
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 417
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 63100
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "level_enhance_id": 13001,
+      "level": 4,
+      "skill_levels": [
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020009,
+      "material_value": 10,
+      "gold_value": 80000,
+      "slot": 3,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 2420
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 480
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 72500
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "level_enhance_id": 13001,
+      "level": 5,
+      "skill_levels": [
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 1
+        }
+      ],
+      "material_id": 7020009,
+      "material_value": 10,
+      "gold_value": 160000,
+      "slot": 3,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 2780
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 552
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 83400
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "level_enhance_id": 13001,
+      "level": 6,
+      "skill_levels": [
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 1
+        }
+      ],
+      "material_id": 7020009,
+      "material_value": 10,
+      "gold_value": 240000,
+      "slot": 4,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 3200
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 635
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 95900
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "level_enhance_id": 13001,
+      "level": 7,
+      "skill_levels": [
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 1
+        }
+      ],
+      "material_id": 7020009,
+      "material_value": 10,
+      "gold_value": 320000,
+      "slot": 4,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 3680
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 730
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 110300
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "level_enhance_id": 13001,
+      "level": 8,
+      "skill_levels": [
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 1
+        }
+      ],
+      "material_id": 7020009,
+      "material_value": 10,
+      "gold_value": 400000,
+      "slot": 5,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 4230
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 839
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 126900
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "level_enhance_id": 13001,
+      "level": 9,
+      "skill_levels": [
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 1
+        }
+      ],
+      "material_id": 7020009,
+      "material_value": 10,
+      "gold_value": 480000,
+      "slot": 5,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 4860
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 965
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 145900
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "level_enhance_id": 13001,
+      "level": 10,
+      "skill_levels": [
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 4
+        },
+        {
+          "skill_level": 2
+        }
+      ],
+      "material_id": 7020009,
+      "material_value": 0,
+      "gold_value": 0,
+      "slot": 6,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 5590
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 1110
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 167800
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "level_enhance_id": 13002,
+      "level": 1,
+      "skill_levels": [
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020009,
+      "material_value": 10,
+      "gold_value": 10000,
+      "slot": 1,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 1590
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 316
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 47700
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "level_enhance_id": 13002,
+      "level": 2,
+      "skill_levels": [
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020009,
+      "material_value": 10,
+      "gold_value": 20000,
+      "slot": 2,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 1830
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 363
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 54900
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "level_enhance_id": 13002,
+      "level": 3,
+      "skill_levels": [
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020009,
+      "material_value": 10,
+      "gold_value": 40000,
+      "slot": 2,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 2100
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 417
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 63100
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "level_enhance_id": 13002,
+      "level": 4,
+      "skill_levels": [
+        {
+          "skill_level": 1
+        },
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 0
+        }
+      ],
+      "material_id": 7020009,
+      "material_value": 10,
+      "gold_value": 80000,
+      "slot": 3,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 2420
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 480
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 72500
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "level_enhance_id": 13002,
+      "level": 5,
+      "skill_levels": [
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 1
+        }
+      ],
+      "material_id": 7020009,
+      "material_value": 10,
+      "gold_value": 160000,
+      "slot": 3,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 2780
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 552
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 83400
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "level_enhance_id": 13002,
+      "level": 6,
+      "skill_levels": [
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 1
+        }
+      ],
+      "material_id": 7020009,
+      "material_value": 10,
+      "gold_value": 240000,
+      "slot": 4,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 3200
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 635
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 95900
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "level_enhance_id": 13002,
+      "level": 7,
+      "skill_levels": [
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 1
+        }
+      ],
+      "material_id": 7020009,
+      "material_value": 10,
+      "gold_value": 320000,
+      "slot": 4,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 3680
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 730
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 110300
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "level_enhance_id": 13002,
+      "level": 8,
+      "skill_levels": [
+        {
+          "skill_level": 2
+        },
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 1
+        }
+      ],
+      "material_id": 7020009,
+      "material_value": 10,
+      "gold_value": 400000,
+      "slot": 5,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 4230
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 839
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 126900
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "level_enhance_id": 13002,
+      "level": 9,
+      "skill_levels": [
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 1
+        }
+      ],
+      "material_id": 7020009,
+      "material_value": 10,
+      "gold_value": 480000,
+      "slot": 5,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 4860
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 965
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 145900
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "level_enhance_id": 13002,
+      "level": 10,
+      "skill_levels": [
+        {
+          "skill_level": 3
+        },
+        {
+          "skill_level": 4
+        },
+        {
+          "skill_level": 2
+        }
+      ],
+      "material_id": 7020009,
+      "material_value": 0,
+      "gold_value": 0,
+      "slot": 6,
+      "harmonycube_stats": [
+        {
+          "stat_type": "Atk",
+          "stat_rate": 5590
+        },
+        {
+          "stat_type": "Defence",
+          "stat_rate": 1110
+        },
+        {
+          "stat_type": "Hp",
+          "stat_rate": 167800
+        }
+      ]
+    }
+  ]
+}

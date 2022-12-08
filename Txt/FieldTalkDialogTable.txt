@@ -1,0 +1,3321 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": "1",
+      "group_id": "cam_talk_01",
+      "speech_window": "Speech",
+      "speak_name": "rapi",
+      "play_animation": "Talk_Idle",
+      "scenario_localekey": "m_subquest_1062_e_1"
+    },
+    {
+      "id": "2",
+      "group_id": "cam_talk_01",
+      "speech_window": "Monologue",
+      "speak_name": "Monologue",
+      "scenario_localekey": "m_subquest_1062_e_2"
+    },
+    {
+      "id": "3",
+      "group_id": "cam_talk_01",
+      "speech_window": "Narration",
+      "speak_name": "Narration",
+      "scenario_localekey": "m_subquest_1062_e_3"
+    },
+    {
+      "id": "4",
+      "group_id": "cam_talk_01",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "play_animation": "Talk_Idle",
+      "scenario_localekey": "m_subquest_1062_e_4"
+    },
+    {
+      "id": "5",
+      "group_id": "cam_talk_01",
+      "speech_window": "Monologue",
+      "speak_name": "Monologue",
+      "scenario_localekey": "m_subquest_1062_e_5"
+    },
+    {
+      "id": "6",
+      "group_id": "cam_talk_01",
+      "speech_window": "Narration",
+      "speak_name": "Narration",
+      "scenario_localekey": "m_subquest_1062_e_6"
+    },
+    {
+      "id": "7",
+      "group_id": "cam_talk_01",
+      "speech_window": "Speech",
+      "speak_name": "rapi",
+      "play_animation": "Talk_Idle",
+      "scenario_localekey": "m_subquest_1062_e_7"
+    },
+    {
+      "id": "8",
+      "group_id": "cam_talk_01",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "play_animation": "Talk_Idle",
+      "scenario_localekey": "m_subquest_1062_e_8"
+    },
+    {
+      "id": "9",
+      "group_id": "cam_talk_01",
+      "speech_window": "Speech",
+      "speak_name": "rapi",
+      "play_animation": "Talk_Idle",
+      "scenario_localekey": "m_subquest_1062_e_9"
+    },
+    {
+      "id": "10",
+      "group_id": "cam_talk_01",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "play_animation": "Talk_Idle",
+      "scenario_localekey": "m_subquest_1062_e_10"
+    },
+    {
+      "id": "11",
+      "group_id": "cam_talk_01",
+      "speech_window": "Speech",
+      "speak_name": "rapi",
+      "play_animation": "Talk_Idle",
+      "scenario_localekey": "m_subquest_1062_e_11"
+    },
+    {
+      "id": "12",
+      "group_id": "cam_talk_01",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "play_animation": "Talk_Idle",
+      "scenario_localekey": "m_subquest_1062_e_12"
+    },
+    {
+      "id": "13",
+      "group_id": "cam_talk_01",
+      "speech_window": "Speech",
+      "speak_name": "rapi",
+      "play_animation": "Talk_Idle",
+      "scenario_localekey": "m_subquest_1062_e_13"
+    },
+    {
+      "id": "14",
+      "group_id": "cam_talk_01",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "play_animation": "Talk_Idle",
+      "scenario_localekey": "m_subquest_1062_e_14"
+    },
+    {
+      "id": "15",
+      "group_id": "lost_talk_01",
+      "speech_window": "Monologue",
+      "speak_name": "Monologue",
+      "scenario_localekey": "d_subquest_1062_1"
+    },
+    {
+      "id": "16",
+      "group_id": "lost_talk_01",
+      "speech_window": "Monologue",
+      "speak_name": "Monologue",
+      "scenario_localekey": "d_subquest_1062_2"
+    },
+    {
+      "id": "17",
+      "group_id": "lost_talk_01",
+      "speech_window": "Narration",
+      "speak_name": "Narration",
+      "scenario_localekey": "d_subquest_1062_3"
+    },
+    {
+      "id": "18",
+      "group_id": "lost_talk_01",
+      "speech_window": "Narration",
+      "speak_name": "Narration",
+      "scenario_localekey": "d_subquest_1062_4"
+    },
+    {
+      "id": "19",
+      "group_id": "lost_talk_01",
+      "speech_window": "Speech",
+      "speak_name": "emma",
+      "play_animation": "Talk_Idle",
+      "scenario_localekey": "d_subquest_1062_5"
+    },
+    {
+      "id": "20",
+      "group_id": "lost_talk_01",
+      "speech_window": "Speech",
+      "speak_name": "poli",
+      "play_animation": "Talk_Idle",
+      "scenario_localekey": "d_subquest_1062_6"
+    },
+    {
+      "id": "21",
+      "group_id": "lost_talk_01",
+      "speech_window": "Speech",
+      "speak_name": "emma",
+      "play_animation": "Talk_Idle",
+      "scenario_localekey": "d_subquest_1062_7"
+    },
+    {
+      "id": "22",
+      "group_id": "lost_talk_01",
+      "speech_window": "Speech",
+      "speak_name": "poli",
+      "play_animation": "Talk_Idle",
+      "scenario_localekey": "d_subquest_1062_8"
+    },
+    {
+      "id": "23",
+      "group_id": "lost_talk_01",
+      "speech_window": "Speech",
+      "speak_name": "emma",
+      "play_animation": "Talk_Idle",
+      "scenario_localekey": "d_subquest_1062_9"
+    },
+    {
+      "id": "24",
+      "group_id": "lost_talk_01",
+      "speech_window": "Speech",
+      "speak_name": "poli",
+      "play_animation": "Talk_Idle",
+      "scenario_localekey": "d_subquest_1062_10"
+    },
+    {
+      "id": "25",
+      "group_id": "lost_talk_01",
+      "speech_window": "Speech",
+      "speak_name": "emma",
+      "play_animation": "Talk_Idle",
+      "scenario_localekey": "d_subquest_1062_11"
+    },
+    {
+      "id": "26",
+      "group_id": "lost_talk_01",
+      "speech_window": "Speech",
+      "speak_name": "poli",
+      "play_animation": "Talk_Idle",
+      "scenario_localekey": "d_subquest_1062_12"
+    },
+    {
+      "id": "27",
+      "group_id": "lost_talk_01",
+      "speech_window": "Speech",
+      "speak_name": "emma",
+      "play_animation": "Talk_Idle",
+      "scenario_localekey": "d_subquest_1062_13"
+    },
+    {
+      "id": "d_subquest_1022_e_1",
+      "group_id": "d_subquest_1022_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_collector",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1022_e_1",
+      "play_bgm": "bgm_theruinedcity"
+    },
+    {
+      "id": "d_subquest_1022_e_2",
+      "group_id": "d_subquest_1022_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_collector",
+      "scenario_localekey": "d_subquest_1022_e_2"
+    },
+    {
+      "id": "d_subquest_1022_e_3",
+      "group_id": "d_subquest_1022_e",
+      "speech_window": "Speech",
+      "speak_name": "rapi",
+      "scenario_localekey": "d_subquest_1022_e_3"
+    },
+    {
+      "id": "d_subquest_1022_e_4",
+      "group_id": "d_subquest_1022_e",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "scenario_localekey": "d_subquest_1022_e_4"
+    },
+    {
+      "id": "d_subquest_1022_e_5",
+      "group_id": "d_subquest_1022_e",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1022_e_5"
+    },
+    {
+      "id": "d_subquest_1022_e_6",
+      "group_id": "d_subquest_1022_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_collector",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1022_e_6"
+    },
+    {
+      "id": "d_subquest_1022_e_7",
+      "group_id": "d_subquest_1022_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_collector",
+      "scenario_localekey": "d_subquest_1022_e_7"
+    },
+    {
+      "id": "d_subquest_1022_e_8",
+      "group_id": "d_subquest_1022_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_collector",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1022_e_8"
+    },
+    {
+      "id": "d_subquest_1022_e_9",
+      "group_id": "d_subquest_1022_e",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1022_e_9"
+    },
+    {
+      "id": "d_subquest_1022_e_10",
+      "group_id": "d_subquest_1022_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_collector",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1022_e_10"
+    },
+    {
+      "id": "d_subquest_1022_e_11",
+      "group_id": "d_subquest_1022_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_collector",
+      "scenario_localekey": "d_subquest_1022_e_11"
+    },
+    {
+      "id": "d_subquest_1022_e_12",
+      "group_id": "d_subquest_1022_e",
+      "speech_window": "Monologue",
+      "scenario_localekey": "d_subquest_1022_e_12"
+    },
+    {
+      "id": "d_subquest_1022_e_13",
+      "group_id": "d_subquest_1022_e",
+      "speech_window": "Speech",
+      "speak_name": "rapi",
+      "scenario_localekey": "d_subquest_1022_e_13"
+    },
+    {
+      "id": "d_subquest_1022_e_14",
+      "group_id": "d_subquest_1022_e",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "scenario_localekey": "d_subquest_1022_e_14"
+    },
+    {
+      "id": "d_subquest_1022_e_15",
+      "group_id": "d_subquest_1022_e",
+      "speech_window": "Monologue",
+      "scenario_localekey": "d_subquest_1022_e_15"
+    },
+    {
+      "id": "d_subquest_1022_e_16",
+      "group_id": "d_subquest_1022_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_collector",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1022_e_16"
+    },
+    {
+      "id": "d_subquest_1022_e_17",
+      "group_id": "d_subquest_1022_e",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1022_e_17"
+    },
+    {
+      "id": "d_subquest_1022_e_18",
+      "group_id": "d_subquest_1022_e",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1022_e_18"
+    },
+    {
+      "id": "d_subquest_1022_e_19",
+      "group_id": "d_subquest_1022_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_collector",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1022_e_19"
+    },
+    {
+      "id": "d_subquest_1022_e_20",
+      "group_id": "d_subquest_1022_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_collector",
+      "scenario_localekey": "d_subquest_1022_e_20"
+    },
+    {
+      "id": "d_subquest_1022_e_21",
+      "group_id": "d_subquest_1022_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_collector",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1022_e_21"
+    },
+    {
+      "id": "d_subquest_1022_e_22",
+      "group_id": "d_subquest_1022_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_collector",
+      "scenario_localekey": "d_subquest_1022_e_22"
+    },
+    {
+      "id": "d_subquest_1022_e_23",
+      "group_id": "d_subquest_1022_e",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1022_e_23"
+    },
+    {
+      "id": "d_subquest_1022_e_24",
+      "group_id": "d_subquest_1022_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_collector",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1022_e_24"
+    },
+    {
+      "id": "d_subquest_1022_e_25",
+      "group_id": "d_subquest_1022_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_collector",
+      "scenario_localekey": "d_subquest_1022_e_25"
+    },
+    {
+      "id": "d_subquest_1022_e_26",
+      "group_id": "d_subquest_1022_e",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1022_e_26"
+    },
+    {
+      "id": "d_subquest_1022_e_27",
+      "group_id": "d_subquest_1022_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_collector",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1022_e_27"
+    },
+    {
+      "id": "d_subquest_1022_e_28",
+      "group_id": "d_subquest_1022_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_collector",
+      "scenario_localekey": "d_subquest_1022_e_28"
+    },
+    {
+      "id": "d_subquest_1022_e_29",
+      "group_id": "d_subquest_1022_e",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1022_e_29"
+    },
+    {
+      "id": "d_subquest_1022_e_30",
+      "group_id": "d_subquest_1022_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_collector",
+      "scenario_localekey": "d_subquest_1022_e_30"
+    },
+    {
+      "id": "d_subquest_1022_e_31",
+      "group_id": "d_subquest_1022_e",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1022_e_31"
+    },
+    {
+      "id": "d_subquest_1022_e_32",
+      "group_id": "d_subquest_1022_e",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "scenario_localekey": "d_subquest_1022_e_32"
+    },
+    {
+      "id": "d_subquest_1022_e_33",
+      "group_id": "d_subquest_1022_e",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1022_e_33"
+    },
+    {
+      "id": "d_subquest_1022_e_34",
+      "group_id": "d_subquest_1022_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_collector",
+      "scenario_localekey": "d_subquest_1022_e_34"
+    },
+    {
+      "id": "d_subquest_1022_e_35",
+      "group_id": "d_subquest_1022_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_collector",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1022_e_35"
+    },
+    {
+      "id": "d_subquest_1022_e_36",
+      "group_id": "d_subquest_1022_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_collector",
+      "scenario_localekey": "d_subquest_1022_e_36"
+    },
+    {
+      "id": "d_subquest_1022_e_37",
+      "group_id": "d_subquest_1022_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_collector",
+      "scenario_localekey": "d_subquest_1022_e_37"
+    },
+    {
+      "id": "d_subquest_1022_e_38",
+      "group_id": "d_subquest_1022_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_collector",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1022_e_38"
+    },
+    {
+      "id": "d_subquest_1022_e_39",
+      "group_id": "d_subquest_1022_e",
+      "speech_window": "Speech",
+      "speak_name": "rapi",
+      "scenario_localekey": "d_subquest_1022_e_39"
+    },
+    {
+      "id": "d_subquest_1022_e_40",
+      "group_id": "d_subquest_1022_e",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "scenario_localekey": "d_subquest_1022_e_40"
+    },
+    {
+      "id": "d_subquest_1022_e_41",
+      "group_id": "d_subquest_1022_e",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1022_e_41"
+    },
+    {
+      "id": "d_subquest_1191_02_1",
+      "group_id": "d_subquest_1191_02",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1191_02_1",
+      "play_bgm": "bgm_story_whosdumber"
+    },
+    {
+      "id": "d_subquest_1191_02_2",
+      "group_id": "d_subquest_1191_02",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1191_02_2"
+    },
+    {
+      "id": "d_subquest_1191_02_3",
+      "group_id": "d_subquest_1191_02",
+      "speech_window": "Speech",
+      "speak_name": "npc_voltjr",
+      "scenario_localekey": "d_subquest_1191_02_3"
+    },
+    {
+      "id": "d_subquest_1191_02_4",
+      "group_id": "d_subquest_1191_02",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1191_02_4"
+    },
+    {
+      "id": "d_subquest_1191_02_5",
+      "group_id": "d_subquest_1191_02",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "scenario_localekey": "d_subquest_1191_02_5"
+    },
+    {
+      "id": "d_subquest_1191_02_6",
+      "group_id": "d_subquest_1191_02",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1191_02_6"
+    },
+    {
+      "id": "d_subquest_1191_02_7",
+      "group_id": "d_subquest_1191_02",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1191_02_7"
+    },
+    {
+      "id": "d_subquest_1191_02_8",
+      "group_id": "d_subquest_1191_02",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "scenario_localekey": "d_subquest_1191_02_8"
+    },
+    {
+      "id": "d_subquest_1191_02_9",
+      "group_id": "d_subquest_1191_02",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "scenario_localekey": "d_subquest_1191_02_9"
+    },
+    {
+      "id": "d_subquest_1191_02_10",
+      "group_id": "d_subquest_1191_02",
+      "speech_window": "Speech",
+      "speak_name": "npc_voltjr",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1191_02_10",
+      "play_sound": "sfx_scn_dogbark"
+    },
+    {
+      "id": "d_subquest_1191_02_11",
+      "group_id": "d_subquest_1191_02",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "scenario_localekey": "d_subquest_1191_02_11"
+    },
+    {
+      "id": "d_subquest_1191_02_12",
+      "group_id": "d_subquest_1191_02",
+      "speech_window": "Speech",
+      "speak_name": "npc_voltjr",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1191_02_12",
+      "play_sound": "sfx_scn_dogbark"
+    },
+    {
+      "id": "d_subquest_1191_02_13",
+      "group_id": "d_subquest_1191_02",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1191_02_13"
+    },
+    {
+      "id": "d_subquest_1191_02_14",
+      "group_id": "d_subquest_1191_02",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1191_02_14"
+    },
+    {
+      "id": "d_subquest_1191_02_15",
+      "group_id": "d_subquest_1191_02",
+      "speech_window": "Speech",
+      "speak_name": "rapi",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1191_02_15"
+    },
+    {
+      "id": "d_subquest_1211_02_1",
+      "group_id": "d_subquest_1211_02",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1211_02_1",
+      "play_bgm": "bgm_inark"
+    },
+    {
+      "id": "d_subquest_1211_02_2",
+      "group_id": "d_subquest_1211_02",
+      "speech_window": "Speech",
+      "speak_name": "npc_canrobot",
+      "scenario_localekey": "d_subquest_1211_02_2"
+    },
+    {
+      "id": "d_subquest_1211_02_3",
+      "group_id": "d_subquest_1211_02",
+      "speech_window": "Speech",
+      "speak_name": "npc_canrobot",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1211_02_3"
+    },
+    {
+      "id": "d_subquest_1211_02_4",
+      "group_id": "d_subquest_1211_02",
+      "speech_window": "Speech",
+      "speak_name": "npc_canrobot",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1211_02_4"
+    },
+    {
+      "id": "d_subquest_1211_02_5",
+      "group_id": "d_subquest_1211_02",
+      "speech_window": "Speech",
+      "speak_name": "npc_canrobot",
+      "scenario_localekey": "d_subquest_1211_02_5"
+    },
+    {
+      "id": "d_subquest_1211_02_6",
+      "group_id": "d_subquest_1211_02",
+      "speech_window": "Speech",
+      "speak_name": "npc_canrobot",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1211_02_6"
+    },
+    {
+      "id": "d_subquest_1211_02_7",
+      "group_id": "d_subquest_1211_02",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1211_02_7"
+    },
+    {
+      "id": "d_subquest_1211_02_8",
+      "group_id": "d_subquest_1211_02",
+      "speech_window": "Speech",
+      "speak_name": "npc_canrobot",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1211_02_8"
+    },
+    {
+      "id": "d_subquest_1221_1",
+      "group_id": "d_subquest_1221",
+      "speech_window": "Speech",
+      "speak_name": "julia",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1221_1",
+      "play_bgm": "bgm_story_weare"
+    },
+    {
+      "id": "d_subquest_1221_2",
+      "group_id": "d_subquest_1221",
+      "speech_window": "Speech",
+      "speak_name": "julia",
+      "scenario_localekey": "d_subquest_1221_2"
+    },
+    {
+      "id": "d_subquest_1221_3",
+      "group_id": "d_subquest_1221",
+      "speech_window": "Speech",
+      "speak_name": "julia",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1221_3"
+    },
+    {
+      "id": "d_subquest_1221_4",
+      "group_id": "d_subquest_1221",
+      "speech_window": "Speech",
+      "speak_name": "npc_musicmaster",
+      "scenario_localekey": "d_subquest_1221_4"
+    },
+    {
+      "id": "d_subquest_1221_5",
+      "group_id": "d_subquest_1221",
+      "speech_window": "Speech",
+      "speak_name": "rapi",
+      "scenario_localekey": "d_subquest_1221_5"
+    },
+    {
+      "id": "d_subquest_1221_6",
+      "group_id": "d_subquest_1221",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "scenario_localekey": "d_subquest_1221_6"
+    },
+    {
+      "id": "d_subquest_1221_7",
+      "group_id": "d_subquest_1221",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1221_7"
+    },
+    {
+      "id": "d_subquest_1221_8",
+      "group_id": "d_subquest_1221",
+      "speech_window": "Speech",
+      "speak_name": "julia",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1221_8"
+    },
+    {
+      "id": "d_subquest_1221_9",
+      "group_id": "d_subquest_1221",
+      "speech_window": "Speech",
+      "speak_name": "julia",
+      "scenario_localekey": "d_subquest_1221_9"
+    },
+    {
+      "id": "d_subquest_1221_10",
+      "group_id": "d_subquest_1221",
+      "speech_window": "Monologue",
+      "scenario_localekey": "d_subquest_1221_10",
+      "play_bgm": "none"
+    },
+    {
+      "id": "d_subquest_1221_11",
+      "group_id": "d_subquest_1221",
+      "speech_window": "Monologue",
+      "scenario_localekey": "d_subquest_1221_11"
+    },
+    {
+      "id": "d_subquest_1221_12",
+      "group_id": "d_subquest_1221",
+      "speech_window": "Speech",
+      "speak_name": "julia",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1221_12"
+    },
+    {
+      "id": "d_subquest_1221_13",
+      "group_id": "d_subquest_1221",
+      "speech_window": "Speech",
+      "speak_name": "npc_musicmaster",
+      "scenario_localekey": "d_subquest_1221_13",
+      "play_sound": "sfx_scn_crackle"
+    },
+    {
+      "id": "d_subquest_1221_14",
+      "group_id": "d_subquest_1221",
+      "speech_window": "Speech",
+      "speak_name": "npc_musicmaster",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1221_14",
+      "play_bgm": "bgm_story_heynewbie"
+    },
+    {
+      "id": "d_subquest_1221_15",
+      "group_id": "d_subquest_1221",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1221_15"
+    },
+    {
+      "id": "d_subquest_1221_16",
+      "group_id": "d_subquest_1221",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "scenario_localekey": "d_subquest_1221_16"
+    },
+    {
+      "id": "d_subquest_1221_17",
+      "group_id": "d_subquest_1221",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1221_17"
+    },
+    {
+      "id": "d_subquest_1221_18",
+      "group_id": "d_subquest_1221",
+      "speech_window": "Speech",
+      "speak_name": "npc_musicmaster",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1221_18",
+      "play_sound": "sfx_scn_fanfare"
+    },
+    {
+      "id": "d_subquest_1221_19",
+      "group_id": "d_subquest_1221",
+      "speech_window": "Speech",
+      "speak_name": "npc_musicmaster",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1221_19"
+    },
+    {
+      "id": "d_subquest_1221_20",
+      "group_id": "d_subquest_1221",
+      "speech_window": "Speech",
+      "speak_name": "npc_musicmaster",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1221_20"
+    },
+    {
+      "id": "d_subquest_1221_21",
+      "group_id": "d_subquest_1221",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "scenario_localekey": "d_subquest_1221_21"
+    },
+    {
+      "id": "d_subquest_1221_22",
+      "group_id": "d_subquest_1221",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "scenario_localekey": "d_subquest_1221_22"
+    },
+    {
+      "id": "d_subquest_1221_23",
+      "group_id": "d_subquest_1221",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1221_23"
+    },
+    {
+      "id": "d_subquest_1221_24",
+      "group_id": "d_subquest_1221",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1221_24"
+    },
+    {
+      "id": "d_subquest_1221_25",
+      "group_id": "d_subquest_1221",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "scenario_localekey": "d_subquest_1221_25"
+    },
+    {
+      "id": "d_subquest_1221_26",
+      "group_id": "d_subquest_1221",
+      "speech_window": "Speech",
+      "speak_name": "npc_musicmaster",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1221_26",
+      "play_sound": "sfx_scn_fanfare"
+    },
+    {
+      "id": "d_subquest_1221_27",
+      "group_id": "d_subquest_1221",
+      "speech_window": "Speech",
+      "speak_name": "npc_musicmaster",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1221_27"
+    },
+    {
+      "id": "d_subquest_1221_28",
+      "group_id": "d_subquest_1221",
+      "speech_window": "Speech",
+      "speak_name": "npc_musicmaster",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1221_28"
+    },
+    {
+      "id": "d_subquest_1221_29",
+      "group_id": "d_subquest_1221",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1221_29"
+    },
+    {
+      "id": "d_subquest_1221_30",
+      "group_id": "d_subquest_1221",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "scenario_localekey": "d_subquest_1221_30"
+    },
+    {
+      "id": "d_subquest_1221_31",
+      "group_id": "d_subquest_1221",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "scenario_localekey": "d_subquest_1221_31"
+    },
+    {
+      "id": "d_subquest_1221_32",
+      "group_id": "d_subquest_1221",
+      "speech_window": "Speech",
+      "speak_name": "npc_musicmaster",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1221_32",
+      "play_sound": "sfx_scn_fanfare"
+    },
+    {
+      "id": "d_subquest_1221_33",
+      "group_id": "d_subquest_1221",
+      "speech_window": "Speech",
+      "speak_name": "npc_musicmaster",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1221_33"
+    },
+    {
+      "id": "d_subquest_1221_34",
+      "group_id": "d_subquest_1221",
+      "speech_window": "Speech",
+      "speak_name": "npc_musicmaster",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1221_34"
+    },
+    {
+      "id": "d_subquest_1221_35",
+      "group_id": "d_subquest_1221",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1221_35"
+    },
+    {
+      "id": "d_subquest_1221_36",
+      "group_id": "d_subquest_1221",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1221_36"
+    },
+    {
+      "id": "d_subquest_1221_37",
+      "group_id": "d_subquest_1221",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "scenario_localekey": "d_subquest_1221_37"
+    },
+    {
+      "id": "d_subquest_1221_38",
+      "group_id": "d_subquest_1221",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1221_38"
+    },
+    {
+      "id": "d_subquest_1221_39",
+      "group_id": "d_subquest_1221",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1221_39"
+    },
+    {
+      "id": "d_subquest_1181_e_1",
+      "group_id": "d_subquest_1181_e",
+      "speech_window": "Speech",
+      "speak_name": "rapi",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1181_e_1",
+      "play_bgm": "bgm_story_tuffguys"
+    },
+    {
+      "id": "d_subquest_1181_e_2",
+      "group_id": "d_subquest_1181_e",
+      "speech_window": "Speech",
+      "speak_name": "rapi",
+      "scenario_localekey": "d_subquest_1181_e_2"
+    },
+    {
+      "id": "d_subquest_1181_e_3",
+      "group_id": "d_subquest_1181_e",
+      "speech_window": "Monologue",
+      "scenario_localekey": "d_subquest_1181_e_3"
+    },
+    {
+      "id": "d_subquest_1181_e_4",
+      "group_id": "d_subquest_1181_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_malecommander",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1181_e_4"
+    },
+    {
+      "id": "d_subquest_1181_e_5",
+      "group_id": "d_subquest_1181_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_malecommander",
+      "scenario_localekey": "d_subquest_1181_e_5"
+    },
+    {
+      "id": "d_subquest_1181_e_6",
+      "group_id": "d_subquest_1181_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_malecommander",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1181_e_6"
+    },
+    {
+      "id": "d_subquest_1181_e_7",
+      "group_id": "d_subquest_1181_e",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1181_e_7"
+    },
+    {
+      "id": "d_subquest_1181_e_8",
+      "group_id": "d_subquest_1181_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_malecommander",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1181_e_8"
+    },
+    {
+      "id": "d_subquest_1181_e_9",
+      "group_id": "d_subquest_1181_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_malecommander",
+      "scenario_localekey": "d_subquest_1181_e_9"
+    },
+    {
+      "id": "d_subquest_1181_e_10",
+      "group_id": "d_subquest_1181_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_malecommander",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1181_e_10"
+    },
+    {
+      "id": "d_subquest_1181_e_11",
+      "group_id": "d_subquest_1181_e",
+      "speech_window": "Monologue",
+      "scenario_localekey": "d_subquest_1181_e_11"
+    },
+    {
+      "id": "d_subquest_1181_e_12",
+      "group_id": "d_subquest_1181_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_malecommander",
+      "scenario_localekey": "d_subquest_1181_e_12"
+    },
+    {
+      "id": "d_subquest_1181_e_13",
+      "group_id": "d_subquest_1181_e",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1181_e_13"
+    },
+    {
+      "id": "d_subquest_1181_e_14",
+      "group_id": "d_subquest_1181_e",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1181_e_14"
+    },
+    {
+      "id": "d_subquest_1181_e_15",
+      "group_id": "d_subquest_1181_e",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "scenario_localekey": "d_subquest_1181_e_15"
+    },
+    {
+      "id": "d_subquest_1181_e_16",
+      "group_id": "d_subquest_1181_e",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "scenario_localekey": "d_subquest_1181_e_16"
+    },
+    {
+      "id": "d_subquest_1181_e_17",
+      "group_id": "d_subquest_1181_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_malecommander",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1181_e_17"
+    },
+    {
+      "id": "d_subquest_1181_e_18",
+      "group_id": "d_subquest_1181_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_malecommander",
+      "scenario_localekey": "d_subquest_1181_e_18"
+    },
+    {
+      "id": "d_subquest_1181_e_19",
+      "group_id": "d_subquest_1181_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_malecommander",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1181_e_19"
+    },
+    {
+      "id": "d_subquest_1181_e_20",
+      "group_id": "d_subquest_1181_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_malecommander",
+      "scenario_localekey": "d_subquest_1181_e_20"
+    },
+    {
+      "id": "d_subquest_1181_e_21",
+      "group_id": "d_subquest_1181_e",
+      "speech_window": "Speech",
+      "speak_name": "rapi",
+      "scenario_localekey": "d_subquest_1181_e_21"
+    },
+    {
+      "id": "d_subquest_1181_e_22",
+      "group_id": "d_subquest_1181_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_malecommander",
+      "scenario_localekey": "d_subquest_1181_e_22"
+    },
+    {
+      "id": "d_subquest_1181_e_23",
+      "group_id": "d_subquest_1181_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_malecommander",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1181_e_23"
+    },
+    {
+      "id": "d_subquest_1181_e_24",
+      "group_id": "d_subquest_1181_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_malecommander",
+      "scenario_localekey": "d_subquest_1181_e_24"
+    },
+    {
+      "id": "d_subquest_1181_e_25",
+      "group_id": "d_subquest_1181_e",
+      "speech_window": "Monologue",
+      "scenario_localekey": "d_subquest_1181_e_25"
+    },
+    {
+      "id": "d_subquest_1181_e_26",
+      "group_id": "d_subquest_1181_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_malecommander",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1181_e_26"
+    },
+    {
+      "id": "d_subquest_1181_e_27",
+      "group_id": "d_subquest_1181_e",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1181_e_27"
+    },
+    {
+      "id": "d_subquest_1181_e_28",
+      "group_id": "d_subquest_1181_e",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "scenario_localekey": "d_subquest_1181_e_28"
+    },
+    {
+      "id": "d_subquest_1181_e_29",
+      "group_id": "d_subquest_1181_e",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1181_e_29"
+    },
+    {
+      "id": "d_subquest_1181_e_30",
+      "group_id": "d_subquest_1181_e",
+      "speech_window": "Speech",
+      "speak_name": "rapi",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1181_e_30"
+    },
+    {
+      "id": "d_subquest_1101_s_1",
+      "group_id": "d_subquest_1101_s",
+      "speech_window": "Speech",
+      "speak_name": "rapi",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1101_s_1",
+      "play_bgm": "bgm_story_whosdumber"
+    },
+    {
+      "id": "d_subquest_1101_s_2",
+      "group_id": "d_subquest_1101_s",
+      "speech_window": "Speech",
+      "speak_name": "rapi",
+      "scenario_localekey": "d_subquest_1101_s_2"
+    },
+    {
+      "id": "d_subquest_1101_s_3",
+      "group_id": "d_subquest_1101_s",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1101_s_3",
+      "play_sound": "sfx_scn_machinefan"
+    },
+    {
+      "id": "d_subquest_1101_s_4",
+      "group_id": "d_subquest_1101_s",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1101_s_4"
+    },
+    {
+      "id": "d_subquest_1101_s_5",
+      "group_id": "d_subquest_1101_s",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1101_s_5"
+    },
+    {
+      "id": "d_subquest_1101_s_6",
+      "group_id": "d_subquest_1101_s",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "scenario_localekey": "d_subquest_1101_s_6"
+    },
+    {
+      "id": "d_subquest_1101_s_7",
+      "group_id": "d_subquest_1101_s",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1101_s_7"
+    },
+    {
+      "id": "d_subquest_1101_s_8",
+      "group_id": "d_subquest_1101_s",
+      "speech_window": "Speech",
+      "speak_name": "rapi",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1101_s_8"
+    },
+    {
+      "id": "d_subquest_1101_s_9",
+      "group_id": "d_subquest_1101_s",
+      "speech_window": "Speech",
+      "speak_name": "rapi",
+      "scenario_localekey": "d_subquest_1101_s_9"
+    },
+    {
+      "id": "d_subquest_1101_s_10",
+      "group_id": "d_subquest_1101_s",
+      "speech_window": "Speech",
+      "speak_name": "rapi",
+      "scenario_localekey": "d_subquest_1101_s_10"
+    },
+    {
+      "id": "d_subquest_1101_e_1",
+      "group_id": "d_subquest_1101_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1101_e_1",
+      "play_sound": "sfx_scn_rapturecry",
+      "play_bgm": "bgm_story_whosdumber"
+    },
+    {
+      "id": "d_subquest_1101_e_2",
+      "group_id": "d_subquest_1101_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1101_e_2"
+    },
+    {
+      "id": "d_subquest_1101_e_3",
+      "group_id": "d_subquest_1101_e",
+      "speech_window": "Speech",
+      "speak_name": "rapi",
+      "scenario_localekey": "d_subquest_1101_e_3"
+    },
+    {
+      "id": "d_subquest_1101_e_4",
+      "group_id": "d_subquest_1101_e",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1101_e_4"
+    },
+    {
+      "id": "d_subquest_1101_e_8",
+      "group_id": "d_subquest_1101_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1101_e_8",
+      "play_sound": "sfx_scn_machinefan"
+    },
+    {
+      "id": "d_subquest_1101_e_9",
+      "group_id": "d_subquest_1101_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1101_e_9"
+    },
+    {
+      "id": "d_subquest_1101_e_10",
+      "group_id": "d_subquest_1101_e",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "scenario_localekey": "d_subquest_1101_e_10"
+    },
+    {
+      "id": "d_subquest_1101_e_11",
+      "group_id": "d_subquest_1101_e",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "scenario_localekey": "d_subquest_1101_e_11"
+    },
+    {
+      "id": "d_subquest_1101_e_12",
+      "group_id": "d_subquest_1101_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1101_e_12"
+    },
+    {
+      "id": "d_subquest_1101_e_13",
+      "group_id": "d_subquest_1101_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1101_e_13"
+    },
+    {
+      "id": "d_subquest_1101_e_14",
+      "group_id": "d_subquest_1101_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1101_e_14"
+    },
+    {
+      "id": "d_subquest_1101_e_15",
+      "group_id": "d_subquest_1101_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1101_e_15"
+    },
+    {
+      "id": "d_subquest_1101_e_16",
+      "group_id": "d_subquest_1101_e",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1101_e_16"
+    },
+    {
+      "id": "d_subquest_1101_e_17",
+      "group_id": "d_subquest_1101_e",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "scenario_localekey": "d_subquest_1101_e_17"
+    },
+    {
+      "id": "d_subquest_1101_e_18",
+      "group_id": "d_subquest_1101_e",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1101_e_18"
+    },
+    {
+      "id": "d_subquest_1101_e_19",
+      "group_id": "d_subquest_1101_e",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1101_e_19"
+    },
+    {
+      "id": "d_subquest_1101_e_20",
+      "group_id": "d_subquest_1101_e",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "scenario_localekey": "d_subquest_1101_e_20"
+    },
+    {
+      "id": "d_subquest_1101_e_21",
+      "group_id": "d_subquest_1101_e",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "scenario_localekey": "d_subquest_1101_e_21"
+    },
+    {
+      "id": "d_subquest_1101_e_22",
+      "group_id": "d_subquest_1101_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1101_e_22"
+    },
+    {
+      "id": "d_subquest_1101_e_23",
+      "group_id": "d_subquest_1101_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1101_e_23"
+    },
+    {
+      "id": "d_subquest_1101_e_24",
+      "group_id": "d_subquest_1101_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1101_e_24"
+    },
+    {
+      "id": "d_subquest_1101_e_25",
+      "group_id": "d_subquest_1101_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1101_e_25"
+    },
+    {
+      "id": "d_subquest_1101_e_26",
+      "group_id": "d_subquest_1101_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1101_e_26"
+    },
+    {
+      "id": "d_subquest_1101_e_27",
+      "group_id": "d_subquest_1101_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1101_e_27"
+    },
+    {
+      "id": "d_subquest_1101_e_28",
+      "group_id": "d_subquest_1101_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1101_e_28"
+    },
+    {
+      "id": "d_subquest_1101_e_29",
+      "group_id": "d_subquest_1101_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1101_e_29",
+      "play_sound": "sfx_scn_machinefan"
+    },
+    {
+      "id": "d_subquest_1101_e_30",
+      "group_id": "d_subquest_1101_e",
+      "speech_window": "Monologue",
+      "scenario_localekey": "d_subquest_1101_e_30"
+    },
+    {
+      "id": "d_subquest_1101_e_31",
+      "group_id": "d_subquest_1101_e",
+      "speech_window": "Monologue",
+      "scenario_localekey": "d_subquest_1101_e_31"
+    },
+    {
+      "id": "d_subquest_1102_s_1",
+      "group_id": "d_subquest_1102_s",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1102_s_1",
+      "play_bgm": "bgm_story_whosdumber"
+    },
+    {
+      "id": "d_subquest_1102_s_2",
+      "group_id": "d_subquest_1102_s",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "scenario_localekey": "d_subquest_1102_s_2"
+    },
+    {
+      "id": "d_subquest_1102_s_3",
+      "group_id": "d_subquest_1102_s",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1102_s_3"
+    },
+    {
+      "id": "d_subquest_1102_s_4",
+      "group_id": "d_subquest_1102_s",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1102_s_4"
+    },
+    {
+      "id": "d_subquest_1102_s_5",
+      "group_id": "d_subquest_1102_s",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1102_s_5"
+    },
+    {
+      "id": "d_subquest_1102_s_6",
+      "group_id": "d_subquest_1102_s",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1102_s_6"
+    },
+    {
+      "id": "d_subquest_1102_s_7",
+      "group_id": "d_subquest_1102_s",
+      "speech_window": "Speech",
+      "speak_name": "rapi",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1102_s_7"
+    },
+    {
+      "id": "d_subquest_1102_s_8",
+      "group_id": "d_subquest_1102_s",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1102_s_8"
+    },
+    {
+      "id": "d_subquest_1102_s_9",
+      "group_id": "d_subquest_1102_s",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1102_s_9"
+    },
+    {
+      "id": "d_subquest_1102_s_10",
+      "group_id": "d_subquest_1102_s",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1102_s_10"
+    },
+    {
+      "id": "d_subquest_1102_s_11",
+      "group_id": "d_subquest_1102_s",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1102_s_11"
+    },
+    {
+      "id": "d_subquest_1102_s_12",
+      "group_id": "d_subquest_1102_s",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1102_s_12"
+    },
+    {
+      "id": "d_subquest_1102_s_13",
+      "group_id": "d_subquest_1102_s",
+      "speech_window": "Narration",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1102_s_13",
+      "play_sound": "sfx_scn_machinefan"
+    },
+    {
+      "id": "d_subquest_1102_s_14",
+      "group_id": "d_subquest_1102_s",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1102_s_14"
+    },
+    {
+      "id": "d_subquest_1102_s_15",
+      "group_id": "d_subquest_1102_s",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1102_s_15"
+    },
+    {
+      "id": "d_subquest_1102_s_16",
+      "group_id": "d_subquest_1102_s",
+      "speech_window": "Monologue",
+      "scenario_localekey": "d_subquest_1102_s_16"
+    },
+    {
+      "id": "d_subquest_1102_s_17",
+      "group_id": "d_subquest_1102_s",
+      "speech_window": "Narration",
+      "speak_name": "npc_fakerapture_me",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1102_s_17",
+      "play_sound": "sfx_scn_machinefanhard"
+    },
+    {
+      "id": "d_subquest_1102_s_18",
+      "group_id": "d_subquest_1102_s",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1102_s_18"
+    },
+    {
+      "id": "d_subquest_1102_s_19",
+      "group_id": "d_subquest_1102_s",
+      "speech_window": "Narration",
+      "scenario_localekey": "d_subquest_1102_s_19",
+      "play_sound": "sfx_scn_rapturehowl"
+    },
+    {
+      "id": "d_subquest_1102_s_20",
+      "group_id": "d_subquest_1102_s",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1102_s_20"
+    },
+    {
+      "id": "d_subquest_1102_s_21",
+      "group_id": "d_subquest_1102_s",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "scenario_localekey": "d_subquest_1102_s_21"
+    },
+    {
+      "id": "d_subquest_1102_s_22",
+      "group_id": "d_subquest_1102_s",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "scenario_localekey": "d_subquest_1102_s_22"
+    },
+    {
+      "id": "d_subquest_1102_s_23",
+      "group_id": "d_subquest_1102_s",
+      "speech_window": "Speech",
+      "speak_name": "rapi",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1102_s_23",
+      "play_sound": "sfx_scn_earthquake"
+    },
+    {
+      "id": "d_subquest_1102_s_24",
+      "group_id": "d_subquest_1102_s",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1102_s_24"
+    },
+    {
+      "id": "d_subquest_1102_s_25",
+      "group_id": "d_subquest_1102_s",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1102_s_25"
+    },
+    {
+      "id": "d_subquest_1102_e_1",
+      "group_id": "d_subquest_1102_e",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1102_e_1",
+      "play_bgm": "bgm_story_whosdumber"
+    },
+    {
+      "id": "d_subquest_1102_e_2",
+      "group_id": "d_subquest_1102_e",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "scenario_localekey": "d_subquest_1102_e_2"
+    },
+    {
+      "id": "d_subquest_1102_e_3",
+      "group_id": "d_subquest_1102_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1102_e_3"
+    },
+    {
+      "id": "d_subquest_1102_e_4",
+      "group_id": "d_subquest_1102_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1102_e_4"
+    },
+    {
+      "id": "d_subquest_1102_e_5",
+      "group_id": "d_subquest_1102_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1102_e_5"
+    },
+    {
+      "id": "d_subquest_1102_e_6",
+      "group_id": "d_subquest_1102_e",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1102_e_6"
+    },
+    {
+      "id": "d_subquest_1102_e_7",
+      "group_id": "d_subquest_1102_e",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1102_e_7"
+    },
+    {
+      "id": "d_subquest_1102_e_8",
+      "group_id": "d_subquest_1102_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1102_e_8"
+    },
+    {
+      "id": "d_subquest_1102_e_9",
+      "group_id": "d_subquest_1102_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1102_e_9"
+    },
+    {
+      "id": "d_subquest_1102_e_10",
+      "group_id": "d_subquest_1102_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1102_e_10"
+    },
+    {
+      "id": "d_subquest_1102_e_11",
+      "group_id": "d_subquest_1102_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1102_e_11"
+    },
+    {
+      "id": "d_subquest_1102_e_12",
+      "group_id": "d_subquest_1102_e",
+      "speech_window": "Speech",
+      "speak_name": "rapi",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1102_e_12"
+    },
+    {
+      "id": "d_subquest_1102_e_13",
+      "group_id": "d_subquest_1102_e",
+      "speech_window": "Speech",
+      "speak_name": "rapi",
+      "scenario_localekey": "d_subquest_1102_e_13"
+    },
+    {
+      "id": "d_subquest_1103_1",
+      "group_id": "d_subquest_1103",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1103_1",
+      "play_bgm": "bgm_story_inwonderland"
+    },
+    {
+      "id": "d_subquest_1103_2",
+      "group_id": "d_subquest_1103",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1103_2"
+    },
+    {
+      "id": "d_subquest_1103_3",
+      "group_id": "d_subquest_1103",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1103_3"
+    },
+    {
+      "id": "d_subquest_1103_4",
+      "group_id": "d_subquest_1103",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1103_4"
+    },
+    {
+      "id": "d_subquest_1103_5",
+      "group_id": "d_subquest_1103",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1103_5"
+    },
+    {
+      "id": "d_subquest_1103_6",
+      "group_id": "d_subquest_1103",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1103_6"
+    },
+    {
+      "id": "d_subquest_1103_7",
+      "group_id": "d_subquest_1103",
+      "speech_window": "Monologue",
+      "speak_name": "npc_fakerapture_me",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1103_7"
+    },
+    {
+      "id": "d_subquest_1103_8",
+      "group_id": "d_subquest_1103",
+      "speech_window": "Monologue",
+      "speak_name": "npc_fakerapture_me",
+      "scenario_localekey": "d_subquest_1103_8"
+    },
+    {
+      "id": "d_subquest_1103_9",
+      "group_id": "d_subquest_1103",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1103_9"
+    },
+    {
+      "id": "d_subquest_1103_10",
+      "group_id": "d_subquest_1103",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1103_10"
+    },
+    {
+      "id": "d_subquest_1103_11",
+      "group_id": "d_subquest_1103",
+      "speech_window": "Speech",
+      "speak_name": "rapi",
+      "scenario_localekey": "d_subquest_1103_11"
+    },
+    {
+      "id": "d_subquest_1103_12",
+      "group_id": "d_subquest_1103",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1103_12"
+    },
+    {
+      "id": "d_subquest_1103_13",
+      "group_id": "d_subquest_1103",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1103_13"
+    },
+    {
+      "id": "d_subquest_1103_14",
+      "group_id": "d_subquest_1103",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1103_14"
+    },
+    {
+      "id": "d_subquest_1103_15",
+      "group_id": "d_subquest_1103",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1103_15"
+    },
+    {
+      "id": "d_subquest_1103_16",
+      "group_id": "d_subquest_1103",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1103_16"
+    },
+    {
+      "id": "d_subquest_1103_17",
+      "group_id": "d_subquest_1103",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1103_17"
+    },
+    {
+      "id": "d_subquest_1103_18",
+      "group_id": "d_subquest_1103",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1103_18"
+    },
+    {
+      "id": "d_subquest_1103_19",
+      "group_id": "d_subquest_1103",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1103_19"
+    },
+    {
+      "id": "d_subquest_1103_20",
+      "group_id": "d_subquest_1103",
+      "speech_window": "Monologue",
+      "speak_name": "npc_fakerapture_me",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1103_20",
+      "play_sound": "sfx_scn_machinefan"
+    },
+    {
+      "id": "d_subquest_1103_21",
+      "group_id": "d_subquest_1103",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1103_21"
+    },
+    {
+      "id": "d_subquest_1103_22",
+      "group_id": "d_subquest_1103",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1103_22"
+    },
+    {
+      "id": "d_subquest_1103_23",
+      "group_id": "d_subquest_1103",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1103_23"
+    },
+    {
+      "id": "d_subquest_1103_24",
+      "group_id": "d_subquest_1103",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1103_24"
+    },
+    {
+      "id": "d_subquest_1103_25",
+      "group_id": "d_subquest_1103",
+      "speech_window": "Monologue",
+      "speak_name": "npc_fakerapture_me",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1103_25",
+      "play_sound": "sfx_scn_machinefan"
+    },
+    {
+      "id": "d_subquest_1103_26",
+      "group_id": "d_subquest_1103",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1103_26"
+    },
+    {
+      "id": "d_subquest_1103_27",
+      "group_id": "d_subquest_1103",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1103_27"
+    },
+    {
+      "id": "d_subquest_1103_28",
+      "group_id": "d_subquest_1103",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1103_28"
+    },
+    {
+      "id": "d_subquest_1103_29",
+      "group_id": "d_subquest_1103",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1103_29"
+    },
+    {
+      "id": "d_subquest_1103_30",
+      "group_id": "d_subquest_1103",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1103_30"
+    },
+    {
+      "id": "d_subquest_1103_31",
+      "group_id": "d_subquest_1103",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1103_31"
+    },
+    {
+      "id": "d_subquest_1103_32",
+      "group_id": "d_subquest_1103",
+      "speech_window": "Narration",
+      "speak_name": "npc_fakerapture_me",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1103_32"
+    },
+    {
+      "id": "d_subquest_1103_33",
+      "group_id": "d_subquest_1103",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1103_33"
+    },
+    {
+      "id": "d_subquest_1103_34",
+      "group_id": "d_subquest_1103",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1103_34"
+    },
+    {
+      "id": "d_subquest_1103_35",
+      "group_id": "d_subquest_1103",
+      "speech_window": "Monologue",
+      "speak_name": "npc_fakerapture_me",
+      "scenario_localekey": "d_subquest_1103_35"
+    },
+    {
+      "id": "d_subquest_1104_1",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Speech",
+      "speak_name": "landcrab",
+      "play_animation": "Shot",
+      "scenario_localekey": "d_subquest_1104_1",
+      "play_sound": "sfx_scn_machinefan",
+      "play_bgm": "bgm_story_inwonderland"
+    },
+    {
+      "id": "d_subquest_1104_2",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Speech",
+      "speak_name": "squid",
+      "play_animation": "Shot",
+      "scenario_localekey": "d_subquest_1104_2",
+      "play_sound": "sfx_scn_machinefan"
+    },
+    {
+      "id": "d_subquest_1104_3",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1104_3",
+      "play_sound": "sfx_scn_machinefan"
+    },
+    {
+      "id": "d_subquest_1104_4",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Monologue",
+      "speak_name": "npc_fakerapture_me",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1104_4"
+    },
+    {
+      "id": "d_subquest_1104_5",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1104_5"
+    },
+    {
+      "id": "d_subquest_1104_6",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1104_6"
+    },
+    {
+      "id": "d_subquest_1104_7",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1104_7"
+    },
+    {
+      "id": "d_subquest_1104_8",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1104_8"
+    },
+    {
+      "id": "d_subquest_1104_9",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1104_9"
+    },
+    {
+      "id": "d_subquest_1104_10",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1104_10"
+    },
+    {
+      "id": "d_subquest_1104_11",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1104_11"
+    },
+    {
+      "id": "d_subquest_1104_12",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Monologue",
+      "speak_name": "npc_fakerapture_me",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1104_12",
+      "play_sound": "sfx_scn_machinefan"
+    },
+    {
+      "id": "d_subquest_1104_13",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1104_13"
+    },
+    {
+      "id": "d_subquest_1104_14",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1104_14"
+    },
+    {
+      "id": "d_subquest_1104_15",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Speech",
+      "speak_name": "landcrab",
+      "play_animation": "Shot",
+      "scenario_localekey": "d_subquest_1104_15",
+      "play_sound": "sfx_scn_machinefan"
+    },
+    {
+      "id": "d_subquest_1104_16",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1104_16"
+    },
+    {
+      "id": "d_subquest_1104_17",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1104_17"
+    },
+    {
+      "id": "d_subquest_1104_18",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1104_18"
+    },
+    {
+      "id": "d_subquest_1104_19",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1104_19"
+    },
+    {
+      "id": "d_subquest_1104_20",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1104_20"
+    },
+    {
+      "id": "d_subquest_1104_21",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1104_21"
+    },
+    {
+      "id": "d_subquest_1104_22",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Speech",
+      "speak_name": "squid",
+      "play_animation": "Shot",
+      "scenario_localekey": "d_subquest_1104_22"
+    },
+    {
+      "id": "d_subquest_1104_23",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1104_23"
+    },
+    {
+      "id": "d_subquest_1104_24",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1104_24"
+    },
+    {
+      "id": "d_subquest_1104_25",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Monologue",
+      "scenario_localekey": "d_subquest_1104_25"
+    },
+    {
+      "id": "d_subquest_1104_26",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Narration",
+      "speak_name": "npc_fakerapture_me",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1104_26"
+    },
+    {
+      "id": "d_subquest_1104_27",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Speech",
+      "speak_name": "squid",
+      "play_animation": "Shot",
+      "scenario_localekey": "d_subquest_1104_27",
+      "play_sound": "sfx_scn_rapturecry"
+    },
+    {
+      "id": "d_subquest_1104_28",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1104_28"
+    },
+    {
+      "id": "d_subquest_1104_29",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1104_29"
+    },
+    {
+      "id": "d_subquest_1104_30",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1104_30"
+    },
+    {
+      "id": "d_subquest_1104_31",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1104_31"
+    },
+    {
+      "id": "d_subquest_1104_32",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1104_32"
+    },
+    {
+      "id": "d_subquest_1104_33",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1104_33"
+    },
+    {
+      "id": "d_subquest_1105_s_1",
+      "group_id": "d_subquest_1105_s",
+      "speech_window": "Monologue",
+      "speak_name": "npc_fakerapture_me",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1105_s_1",
+      "play_sound": "sfx_scn_machinefan",
+      "play_bgm": "bgm_secondhand"
+    },
+    {
+      "id": "d_subquest_1105_s_2",
+      "group_id": "d_subquest_1105_s",
+      "speech_window": "Monologue",
+      "scenario_localekey": "d_subquest_1105_s_2"
+    },
+    {
+      "id": "d_subquest_1105_s_3",
+      "group_id": "d_subquest_1105_s",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1105_s_3"
+    },
+    {
+      "id": "d_subquest_1105_s_4",
+      "group_id": "d_subquest_1105_s",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1105_s_4"
+    },
+    {
+      "id": "d_subquest_1105_s_5",
+      "group_id": "d_subquest_1105_s",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1105_s_5"
+    },
+    {
+      "id": "d_subquest_1105_s_6",
+      "group_id": "d_subquest_1105_s",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1105_s_6"
+    },
+    {
+      "id": "d_subquest_1105_s_7",
+      "group_id": "d_subquest_1105_s",
+      "speech_window": "Speech",
+      "speak_name": "sinister",
+      "play_animation": "Shot",
+      "scenario_localekey": "d_subquest_1105_s_7",
+      "play_sound": "sfx_scn_tyrantnormal"
+    },
+    {
+      "id": "d_subquest_1105_s_8",
+      "group_id": "d_subquest_1105_s",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1105_s_8"
+    },
+    {
+      "id": "d_subquest_1105_s_9",
+      "group_id": "d_subquest_1105_s",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1105_s_9"
+    },
+    {
+      "id": "d_subquest_1105_s_10",
+      "group_id": "d_subquest_1105_s",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1105_s_10"
+    },
+    {
+      "id": "d_subquest_1105_s_11",
+      "group_id": "d_subquest_1105_s",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1105_s_11"
+    },
+    {
+      "id": "d_subquest_1105_s_12",
+      "group_id": "d_subquest_1105_s",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1105_s_12"
+    },
+    {
+      "id": "d_subquest_1105_s_13",
+      "group_id": "d_subquest_1105_s",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1105_s_13"
+    },
+    {
+      "id": "d_subquest_1105_s_14",
+      "group_id": "d_subquest_1105_s",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1105_s_14"
+    },
+    {
+      "id": "d_subquest_1105_s_15",
+      "group_id": "d_subquest_1105_s",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1105_s_15"
+    },
+    {
+      "id": "d_subquest_1105_s_16",
+      "group_id": "d_subquest_1105_s",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1105_s_16"
+    },
+    {
+      "id": "d_subquest_1105_s_17",
+      "group_id": "d_subquest_1105_s",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1105_s_17"
+    },
+    {
+      "id": "d_subquest_1105_s_18",
+      "group_id": "d_subquest_1105_s",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1105_s_18"
+    },
+    {
+      "id": "d_subquest_1105_s_19",
+      "group_id": "d_subquest_1105_s",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1105_s_19"
+    },
+    {
+      "id": "d_subquest_1105_s_20",
+      "group_id": "d_subquest_1105_s",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1105_s_20"
+    },
+    {
+      "id": "d_subquest_1105_s_21",
+      "group_id": "d_subquest_1105_s",
+      "speech_window": "Speech",
+      "speak_name": "sinister",
+      "play_animation": "Shot",
+      "scenario_localekey": "d_subquest_1105_s_21",
+      "play_sound": "sfx_scn_tyrantnormal"
+    },
+    {
+      "id": "d_subquest_1105_s_22",
+      "group_id": "d_subquest_1105_s",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1105_s_22"
+    },
+    {
+      "id": "d_subquest_1105_s_23",
+      "group_id": "d_subquest_1105_s",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1105_s_23"
+    },
+    {
+      "id": "d_subquest_1105_s_24",
+      "group_id": "d_subquest_1105_s",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1105_s_24"
+    },
+    {
+      "id": "d_subquest_1105_s_25",
+      "group_id": "d_subquest_1105_s",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1105_s_25"
+    },
+    {
+      "id": "d_subquest_1105_s_26",
+      "group_id": "d_subquest_1105_s",
+      "speech_window": "Speech",
+      "speak_name": "sinister",
+      "play_animation": "Shot",
+      "scenario_localekey": "d_subquest_1105_s_26",
+      "play_sound": "sfx_scn_rapturehowl"
+    },
+    {
+      "id": "d_subquest_1105_s_27",
+      "group_id": "d_subquest_1105_s",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1105_s_27"
+    },
+    {
+      "id": "d_subquest_1105_s_28",
+      "group_id": "d_subquest_1105_s",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1105_s_28"
+    },
+    {
+      "id": "d_subquest_1105_s_29",
+      "group_id": "d_subquest_1105_s",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1105_s_29"
+    },
+    {
+      "id": "d_subquest_1105_s_30",
+      "group_id": "d_subquest_1105_s",
+      "speech_window": "Narration",
+      "speak_name": "npc_fakerapture_me",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1105_s_30"
+    },
+    {
+      "id": "d_subquest_1105_s_31",
+      "group_id": "d_subquest_1105_s",
+      "speech_window": "Monologue",
+      "scenario_localekey": "d_subquest_1105_s_31"
+    },
+    {
+      "id": "d_subquest_1105_s_32",
+      "group_id": "d_subquest_1105_s",
+      "speech_window": "Speech",
+      "speak_name": "sinister",
+      "play_animation": "Shot",
+      "scenario_localekey": "d_subquest_1105_s_32",
+      "play_sound": "sfx_scn_tyrantcry"
+    },
+    {
+      "id": "d_subquest_1105_s_33",
+      "group_id": "d_subquest_1105_s",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1105_s_33"
+    },
+    {
+      "id": "d_subquest_1105_s_34",
+      "group_id": "d_subquest_1105_s",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "scenario_localekey": "d_subquest_1105_s_34"
+    },
+    {
+      "id": "d_subquest_1105_s_35",
+      "group_id": "d_subquest_1105_s",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "scenario_localekey": "d_subquest_1105_s_35"
+    },
+    {
+      "id": "d_subquest_1105_s_36",
+      "group_id": "d_subquest_1105_s",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "scenario_localekey": "d_subquest_1105_s_36"
+    },
+    {
+      "id": "d_subquest_1105_s_37",
+      "group_id": "d_subquest_1105_s",
+      "speech_window": "Speech",
+      "speak_name": "rapi",
+      "scenario_localekey": "d_subquest_1105_s_37"
+    },
+    {
+      "id": "d_subquest_1105_e_1",
+      "group_id": "d_subquest_1105_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1105_e_1",
+      "play_bgm": "bgm_story_tuffguys"
+    },
+    {
+      "id": "d_subquest_1105_e_2",
+      "group_id": "d_subquest_1105_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1105_e_2"
+    },
+    {
+      "id": "d_subquest_1105_e_3",
+      "group_id": "d_subquest_1105_e",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1105_e_3"
+    },
+    {
+      "id": "d_subquest_1105_e_4",
+      "group_id": "d_subquest_1105_e",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1105_e_4"
+    },
+    {
+      "id": "d_subquest_1105_e_5",
+      "group_id": "d_subquest_1105_e",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "scenario_localekey": "d_subquest_1105_e_5"
+    },
+    {
+      "id": "d_subquest_1105_e_6",
+      "group_id": "d_subquest_1105_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1105_e_6"
+    },
+    {
+      "id": "d_subquest_1105_e_7",
+      "group_id": "d_subquest_1105_e",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1105_e_7"
+    },
+    {
+      "id": "d_subquest_1105_e_8",
+      "group_id": "d_subquest_1105_e",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1105_e_8"
+    },
+    {
+      "id": "d_subquest_1105_e_9",
+      "group_id": "d_subquest_1105_e",
+      "speech_window": "Speech",
+      "speak_name": "rapi",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1105_e_9"
+    },
+    {
+      "id": "d_subquest_1106_s_1",
+      "group_id": "d_subquest_1106_s",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1106_s_1",
+      "play_bgm": "bgm_story_fairytalesend_if"
+    },
+    {
+      "id": "d_subquest_1106_s_2",
+      "group_id": "d_subquest_1106_s",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "scenario_localekey": "d_subquest_1106_s_2"
+    },
+    {
+      "id": "d_subquest_1106_s_3",
+      "group_id": "d_subquest_1106_s",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1106_s_3"
+    },
+    {
+      "id": "d_subquest_1106_s_4",
+      "group_id": "d_subquest_1106_s",
+      "speech_window": "Monologue",
+      "scenario_localekey": "d_subquest_1106_s_4"
+    },
+    {
+      "id": "d_subquest_1106_s_5",
+      "group_id": "d_subquest_1106_s",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1106_s_5"
+    },
+    {
+      "id": "d_subquest_1106_s_6",
+      "group_id": "d_subquest_1106_s",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "scenario_localekey": "d_subquest_1106_s_6"
+    },
+    {
+      "id": "d_subquest_1106_s_7",
+      "group_id": "d_subquest_1106_s",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1106_s_7"
+    },
+    {
+      "id": "d_subquest_1106_s_8",
+      "group_id": "d_subquest_1106_s",
+      "speech_window": "Speech",
+      "speak_name": "rapi",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1106_s_8"
+    },
+    {
+      "id": "d_subquest_1106_s_9",
+      "group_id": "d_subquest_1106_s",
+      "speech_window": "Speech",
+      "speak_name": "rapi",
+      "scenario_localekey": "d_subquest_1106_s_9"
+    },
+    {
+      "id": "d_subquest_1106_s_10",
+      "group_id": "d_subquest_1106_s",
+      "speech_window": "Monologue",
+      "scenario_localekey": "d_subquest_1106_s_10"
+    },
+    {
+      "id": "d_subquest_1106_s_11",
+      "group_id": "d_subquest_1106_s",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1106_s_11",
+      "play_sound": "sfx_scn_machinefan"
+    },
+    {
+      "id": "d_subquest_1106_s_12",
+      "group_id": "d_subquest_1106_s",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1106_s_12"
+    },
+    {
+      "id": "d_subquest_1106_s_13",
+      "group_id": "d_subquest_1106_s",
+      "speech_window": "Speech",
+      "speak_name": "rapi",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1106_s_13"
+    },
+    {
+      "id": "d_subquest_1106_s_14",
+      "group_id": "d_subquest_1106_s",
+      "speech_window": "Speech",
+      "speak_name": "rapi",
+      "scenario_localekey": "d_subquest_1106_s_14"
+    },
+    {
+      "id": "d_subquest_1106_s_15",
+      "group_id": "d_subquest_1106_s",
+      "speech_window": "Speech",
+      "speak_name": "rapi",
+      "scenario_localekey": "d_subquest_1106_s_15"
+    },
+    {
+      "id": "d_subquest_1106_s_16",
+      "group_id": "d_subquest_1106_s",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1106_s_16"
+    },
+    {
+      "id": "d_subquest_1106_s_17",
+      "group_id": "d_subquest_1106_s",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "scenario_localekey": "d_subquest_1106_s_17"
+    },
+    {
+      "id": "d_subquest_1106_s_18",
+      "group_id": "d_subquest_1106_s",
+      "speech_window": "Speech",
+      "speak_name": "landcrab",
+      "play_animation": "Shot",
+      "scenario_localekey": "d_subquest_1106_s_18",
+      "play_sound": "sfx_scn_riflewhizby"
+    },
+    {
+      "id": "d_subquest_1106_s_19",
+      "group_id": "d_subquest_1106_s",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1106_s_19"
+    },
+    {
+      "id": "d_subquest_1106_s_20",
+      "group_id": "d_subquest_1106_s",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1106_s_20"
+    },
+    {
+      "id": "d_subquest_1106_s_21",
+      "group_id": "d_subquest_1106_s",
+      "speech_window": "Speech",
+      "speak_name": "rapi",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1106_s_21"
+    },
+    {
+      "id": "d_subquest_1106_s_22",
+      "group_id": "d_subquest_1106_s",
+      "speech_window": "Speech",
+      "speak_name": "rapi",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1106_s_22"
+    },
+    {
+      "id": "d_subquest_1106_s_23",
+      "group_id": "d_subquest_1106_s",
+      "speech_window": "Speech",
+      "speak_name": "rapi",
+      "scenario_localekey": "d_subquest_1106_s_23"
+    },
+    {
+      "id": "d_subquest_1106_s_24",
+      "group_id": "d_subquest_1106_s",
+      "speech_window": "Monologue",
+      "scenario_localekey": "d_subquest_1106_s_24"
+    },
+    {
+      "id": "d_subquest_1106_e_1",
+      "group_id": "d_subquest_1106_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_fakerapture",
+      "scenario_localekey": "d_subquest_1106_e_1",
+      "play_bgm": "bgm_distress"
+    },
+    {
+      "id": "d_subquest_1106_e_2",
+      "group_id": "d_subquest_1106_e",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1106_e_2"
+    },
+    {
+      "id": "d_subquest_1106_e_3",
+      "group_id": "d_subquest_1106_e",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1106_e_3"
+    },
+    {
+      "id": "d_subquest_1106_e_4",
+      "group_id": "d_subquest_1106_e",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "scenario_localekey": "d_subquest_1106_e_4"
+    },
+    {
+      "id": "d_subquest_1106_e_5",
+      "group_id": "d_subquest_1106_e",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1106_e_5"
+    },
+    {
+      "id": "d_subquest_1106_e_6",
+      "group_id": "d_subquest_1106_e",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "scenario_localekey": "d_subquest_1106_e_6"
+    },
+    {
+      "id": "d_subquest_1106_e_7",
+      "group_id": "d_subquest_1106_e",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "scenario_localekey": "d_subquest_1106_e_7"
+    },
+    {
+      "id": "d_subquest_1106_e_8",
+      "group_id": "d_subquest_1106_e",
+      "speech_window": "Speech",
+      "speak_name": "rapi",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1106_e_8"
+    },
+    {
+      "id": "d_subquest_1106_e_9",
+      "group_id": "d_subquest_1106_e",
+      "speech_window": "Speech",
+      "speak_name": "rapi",
+      "scenario_localekey": "d_subquest_1106_e_9"
+    },
+    {
+      "id": "d_subquest_1212_e_1",
+      "group_id": "d_subquest_1212_e",
+      "speech_window": "Monologue",
+      "scenario_localekey": "d_subquest_1212_e_1",
+      "play_bgm": "bgm_story_inwonderland"
+    },
+    {
+      "id": "d_subquest_1212_e_2",
+      "group_id": "d_subquest_1212_e",
+      "speech_window": "Speech",
+      "speak_name": "rapi",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1212_e_2"
+    },
+    {
+      "id": "d_subquest_1212_e_3",
+      "group_id": "d_subquest_1212_e",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1212_e_3"
+    },
+    {
+      "id": "d_subquest_1212_e_4",
+      "group_id": "d_subquest_1212_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_canrobot",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1212_e_4"
+    },
+    {
+      "id": "d_subquest_1212_e_5",
+      "group_id": "d_subquest_1212_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_canrobot",
+      "scenario_localekey": "d_subquest_1212_e_5"
+    },
+    {
+      "id": "d_subquest_1212_e_6",
+      "group_id": "d_subquest_1212_e",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1212_e_6"
+    },
+    {
+      "id": "d_subquest_1212_e_7",
+      "group_id": "d_subquest_1212_e",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "scenario_localekey": "d_subquest_1212_e_7"
+    },
+    {
+      "id": "d_subquest_1212_e_8",
+      "group_id": "d_subquest_1212_e",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1212_e_8"
+    },
+    {
+      "id": "d_subquest_1212_e_9",
+      "group_id": "d_subquest_1212_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_canrobot",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1212_e_9"
+    },
+    {
+      "id": "d_subquest_1212_e_10",
+      "group_id": "d_subquest_1212_e",
+      "speech_window": "Speech",
+      "speak_name": "npc_canrobot",
+      "scenario_localekey": "d_subquest_1212_e_10"
+    },
+    {
+      "id": "d_subquest_1212_e_11",
+      "group_id": "d_subquest_1212_e",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1212_e_11"
+    },
+    {
+      "id": "d_subquest_1212_e_13",
+      "group_id": "d_subquest_1212_e",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1212_e_13"
+    },
+    {
+      "id": "d_subquest_1212_e_14",
+      "group_id": "d_subquest_1212_e",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1212_e_14"
+    },
+    {
+      "id": "d_subquest_1212_e_15",
+      "group_id": "d_subquest_1212_e",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "scenario_localekey": "d_subquest_1212_e_15"
+    },
+    {
+      "id": "d_subquest_1212_e_16",
+      "group_id": "d_subquest_1212_e",
+      "speech_window": "Monologue",
+      "scenario_localekey": "d_subquest_1212_e_16"
+    },
+    {
+      "id": "d_subquest_1192_s_1",
+      "group_id": "d_subquest_1192_s",
+      "speech_window": "Speech",
+      "speak_name": "rapi",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1192_s_1",
+      "play_bgm": "bgm_story_herecomestrouble"
+    },
+    {
+      "id": "d_subquest_1192_s_2",
+      "group_id": "d_subquest_1192_s",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1192_s_2"
+    },
+    {
+      "id": "d_subquest_1192_s_3",
+      "group_id": "d_subquest_1192_s",
+      "speech_window": "Speech",
+      "speak_name": "npc_voltjr",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1192_s_3",
+      "play_sound": "sfx_scn_dogbark"
+    },
+    {
+      "id": "d_subquest_1192_s_4",
+      "group_id": "d_subquest_1192_s",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1192_s_4"
+    },
+    {
+      "id": "d_subquest_1192_s_5",
+      "group_id": "d_subquest_1192_s",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "scenario_localekey": "d_subquest_1192_s_5"
+    },
+    {
+      "id": "d_subquest_1192_s_6",
+      "group_id": "d_subquest_1192_s",
+      "speech_window": "Monologue",
+      "scenario_localekey": "d_subquest_1192_s_6"
+    },
+    {
+      "id": "d_subquest_1192_s_7",
+      "group_id": "d_subquest_1192_s",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1192_s_7"
+    },
+    {
+      "id": "d_subquest_1192_s_8",
+      "group_id": "d_subquest_1192_s",
+      "speech_window": "Speech",
+      "speak_name": "rapi",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1192_s_8"
+    },
+    {
+      "id": "d_subquest_1192_s_9",
+      "group_id": "d_subquest_1192_s",
+      "speech_window": "Speech",
+      "speak_name": "rapi",
+      "scenario_localekey": "d_subquest_1192_s_9"
+    },
+    {
+      "id": "d_subquest_1192_s_10",
+      "group_id": "d_subquest_1192_s",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1192_s_10"
+    },
+    {
+      "id": "d_subquest_1192_s_11",
+      "group_id": "d_subquest_1192_s",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "scenario_localekey": "d_subquest_1192_s_11"
+    },
+    {
+      "id": "d_subquest_1192_s_12",
+      "group_id": "d_subquest_1192_s",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1192_s_12"
+    },
+    {
+      "id": "d_subquest_1192_s_13",
+      "group_id": "d_subquest_1192_s",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1192_s_13"
+    },
+    {
+      "id": "d_subquest_1192_s_14",
+      "group_id": "d_subquest_1192_s",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "scenario_localekey": "d_subquest_1192_s_14"
+    },
+    {
+      "id": "d_subquest_1192_s_15",
+      "group_id": "d_subquest_1192_s",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1192_s_15"
+    },
+    {
+      "id": "d_subquest_1192_s_16",
+      "group_id": "d_subquest_1192_s",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1192_s_16"
+    },
+    {
+      "id": "d_subquest_1192_s_17",
+      "group_id": "d_subquest_1192_s",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1192_s_17"
+    },
+    {
+      "id": "d_subquest_1192_s_18",
+      "group_id": "d_subquest_1192_s",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1192_s_18"
+    },
+    {
+      "id": "d_subquest_1192_s_19",
+      "group_id": "d_subquest_1192_s",
+      "speech_window": "Speech",
+      "speak_name": "rapi",
+      "scenario_localekey": "d_subquest_1192_s_19"
+    },
+    {
+      "id": "d_subquest_1192_s_20",
+      "group_id": "d_subquest_1192_s",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1192_s_20"
+    },
+    {
+      "id": "d_subquest_1192_s_21",
+      "group_id": "d_subquest_1192_s",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "scenario_localekey": "d_subquest_1192_s_21"
+    },
+    {
+      "id": "d_subquest_1192_s_22",
+      "group_id": "d_subquest_1192_s",
+      "speech_window": "Speech",
+      "speak_name": "rapi",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1192_s_22"
+    },
+    {
+      "id": "d_subquest_1192_s_23",
+      "group_id": "d_subquest_1192_s",
+      "speech_window": "Monologue",
+      "scenario_localekey": "d_subquest_1192_s_23"
+    },
+    {
+      "id": "d_subquest_1192_s_24",
+      "group_id": "d_subquest_1192_s",
+      "speech_window": "Speech",
+      "speak_name": "rapi",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1192_s_24"
+    },
+    {
+      "id": "d_subquest_1192_s_25",
+      "group_id": "d_subquest_1192_s",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1192_s_25"
+    },
+    {
+      "id": "d_subquest_1192_s_26",
+      "group_id": "d_subquest_1192_s",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "scenario_localekey": "d_subquest_1192_s_26"
+    },
+    {
+      "id": "d_subquest_1192_s_27",
+      "group_id": "d_subquest_1192_s",
+      "speech_window": "Speech",
+      "speak_name": "rapi",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1192_s_27"
+    },
+    {
+      "id": "d_subquest_1192_s_28",
+      "group_id": "d_subquest_1192_s",
+      "speech_window": "Speech",
+      "speak_name": "rapi",
+      "scenario_localekey": "d_subquest_1192_s_28"
+    },
+    {
+      "id": "d_subquest_1192_s_29",
+      "group_id": "d_subquest_1192_s",
+      "speech_window": "Speech",
+      "speak_name": "rapi",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1192_s_29"
+    },
+    {
+      "id": "d_subquest_1192_s_30",
+      "group_id": "d_subquest_1192_s",
+      "speech_window": "Speech",
+      "speak_name": "rapi",
+      "scenario_localekey": "d_subquest_1192_s_30"
+    },
+    {
+      "id": "d_subquest_1192_s_31",
+      "group_id": "d_subquest_1192_s",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1192_s_31"
+    },
+    {
+      "id": "d_subquest_1192_s_32",
+      "group_id": "d_subquest_1192_s",
+      "speech_window": "Speech",
+      "speak_name": "rapi",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1192_s_32"
+    },
+    {
+      "id": "d_subquest_1192_s_33",
+      "group_id": "d_subquest_1192_s",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "scenario_localekey": "d_subquest_1192_s_33"
+    },
+    {
+      "id": "d_subquest_1192_s_34",
+      "group_id": "d_subquest_1192_s",
+      "speech_window": "Speech",
+      "speak_name": "rapi",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1192_s_34"
+    },
+    {
+      "id": "d_subquest_1192_s_35",
+      "group_id": "d_subquest_1192_s",
+      "speech_window": "Speech",
+      "speak_name": "neon",
+      "play_animation": "Talk_01",
+      "scenario_localekey": "d_subquest_1192_s_35"
+    },
+    {
+      "id": "d_subquest_1192_s_36",
+      "group_id": "d_subquest_1192_s",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "play_animation": "Talk_02",
+      "scenario_localekey": "d_subquest_1192_s_36"
+    },
+    {
+      "id": "d_subquest_1192_s_37",
+      "group_id": "d_subquest_1192_s",
+      "speech_window": "Speech",
+      "speak_name": "anis",
+      "scenario_localekey": "d_subquest_1192_s_37"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1,
+      "group_id": 10,
+      "skip_step": 1,
+      "price_id": 98,
+      "price_value": 200
+    }
+  ]
+}

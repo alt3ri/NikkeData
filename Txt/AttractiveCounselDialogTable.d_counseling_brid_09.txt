@@ -1,0 +1,388 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": "d_counseling_brid_09_1",
+      "group_id": "d_counseling_brid_09",
+      "speech_window": "Speech",
+      "attractive_point": 0,
+      "highlight": "brid",
+      "speaker": "brid",
+      "scenario_localkey": "d_counseling_brid_09_1",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "show_char_id": "brid",
+          "set_char_position": "1",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "CommanderRoom",
+      "set_start_camera": "L_10",
+      "set_end_camera": "L_10",
+      "set_camera_duration": 1.0,
+      "play_bgm": "bgm_story_backtonormal",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_counseling_brid_09_2",
+      "group_id": "d_counseling_brid_09",
+      "speech_window": "Speech",
+      "attractive_point": 0,
+      "highlight": "brid",
+      "speaker": "brid",
+      "scenario_localkey": "d_counseling_brid_09_2",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "L_10",
+      "set_end_camera": "L_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_counseling_brid_09_3",
+      "group_id": "d_counseling_brid_09",
+      "speech_window": "Speech",
+      "attractive_point": 0,
+      "highlight": "brid",
+      "speaker": "brid",
+      "scenario_localkey": "d_counseling_brid_09_3",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "L_10",
+      "set_end_camera": "L_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_counseling_brid_09_4",
+      "group_id": "d_counseling_brid_09",
+      "speech_window": "Speech",
+      "attractive_point": 0,
+      "highlight": "brid",
+      "speaker": "brid",
+      "scenario_localkey": "d_counseling_brid_09_4",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "L_10",
+      "set_end_camera": "L_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_counseling_brid_09_5",
+      "group_id": "d_counseling_brid_09",
+      "speech_window": "Choice",
+      "attractive_point": 50,
+      "highlight": "brid",
+      "scenario_localkey": "d_counseling_brid_09_5",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "L_10",
+      "set_end_camera": "L_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "d_counseling_brid_09_7"
+    },
+    {
+      "id": "d_counseling_brid_09_6",
+      "group_id": "d_counseling_brid_09",
+      "speech_window": "Choice",
+      "attractive_point": 100,
+      "highlight": "brid",
+      "scenario_localkey": "d_counseling_brid_09_6",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "L_10",
+      "set_end_camera": "L_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "d_counseling_brid_09_10"
+    },
+    {
+      "id": "d_counseling_brid_09_7",
+      "group_id": "d_counseling_brid_09",
+      "speech_window": "Speech",
+      "attractive_point": 0,
+      "highlight": "brid",
+      "speaker": "brid",
+      "scenario_localkey": "d_counseling_brid_09_7",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "L_10",
+      "set_end_camera": "L_100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_counseling_brid_09_8",
+      "group_id": "d_counseling_brid_09",
+      "speech_window": "Speech",
+      "attractive_point": 0,
+      "highlight": "brid",
+      "speaker": "brid",
+      "scenario_localkey": "d_counseling_brid_09_8",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "L_100",
+      "set_end_camera": "L_100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_counseling_brid_09_9",
+      "group_id": "d_counseling_brid_09",
+      "speech_window": "Speech",
+      "attractive_point": 0,
+      "highlight": "brid",
+      "speaker": "brid",
+      "scenario_localkey": "d_counseling_brid_09_9",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "L_100",
+      "set_end_camera": "L_100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "d_counseling_brid_09_14"
+    },
+    {
+      "id": "d_counseling_brid_09_10",
+      "group_id": "d_counseling_brid_09",
+      "speech_window": "Speech",
+      "attractive_point": 0,
+      "highlight": "brid",
+      "speaker": "brid",
+      "scenario_localkey": "d_counseling_brid_09_10",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "L_10",
+      "set_end_camera": "L_100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_counseling_brid_09_11",
+      "group_id": "d_counseling_brid_09",
+      "speech_window": "Speech",
+      "attractive_point": 0,
+      "highlight": "brid",
+      "speaker": "brid",
+      "scenario_localkey": "d_counseling_brid_09_11",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "L_100",
+      "set_end_camera": "L_100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_counseling_brid_09_12",
+      "group_id": "d_counseling_brid_09",
+      "speech_window": "Speech",
+      "attractive_point": 0,
+      "highlight": "brid",
+      "speaker": "brid",
+      "scenario_localkey": "d_counseling_brid_09_12",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "L_100",
+      "set_end_camera": "L_100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_counseling_brid_09_13",
+      "group_id": "d_counseling_brid_09",
+      "speech_window": "Speech",
+      "attractive_point": 0,
+      "highlight": "brid",
+      "speaker": "brid",
+      "scenario_localkey": "d_counseling_brid_09_13",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "L_100",
+      "set_end_camera": "L_100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_counseling_brid_09_14",
+      "group_id": "d_counseling_brid_09",
+      "speech_window": "Narration",
+      "attractive_point": 0,
+      "highlight": "brid",
+      "scenario_localkey": "d_counseling_brid_09_14",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "hide_char_id": "brid",
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "none",
+      "set_start_camera": "L_100",
+      "set_end_camera": "L_100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    }
+  ]
+}

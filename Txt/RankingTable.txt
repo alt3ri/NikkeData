@@ -1,0 +1,1256 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 10101,
+      "ranking_type": "GroupPointMissilis",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 3000,
+      "description_localkey": "RANKING_MISSILIS_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10102,
+      "ranking_type": "GroupPointMissilis",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 6000,
+      "description_localkey": "RANKING_MISSILIS_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10103,
+      "ranking_type": "GroupPointMissilis",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 10000,
+      "description_localkey": "RANKING_MISSILIS_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10104,
+      "ranking_type": "GroupPointMissilis",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 14000,
+      "description_localkey": "RANKING_MISSILIS_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10105,
+      "ranking_type": "GroupPointMissilis",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 18000,
+      "description_localkey": "RANKING_MISSILIS_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10106,
+      "ranking_type": "GroupPointMissilis",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 22000,
+      "description_localkey": "RANKING_MISSILIS_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10107,
+      "ranking_type": "GroupPointMissilis",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 26000,
+      "description_localkey": "RANKING_MISSILIS_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10108,
+      "ranking_type": "GroupPointMissilis",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 30000,
+      "description_localkey": "RANKING_MISSILIS_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10109,
+      "ranking_type": "GroupPointMissilis",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 34000,
+      "description_localkey": "RANKING_MISSILIS_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10110,
+      "ranking_type": "GroupPointMissilis",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 38000,
+      "description_localkey": "RANKING_MISSILIS_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10111,
+      "ranking_type": "GroupPointMissilis",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 42000,
+      "description_localkey": "RANKING_MISSILIS_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10112,
+      "ranking_type": "GroupPointMissilis",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 46000,
+      "description_localkey": "RANKING_MISSILIS_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10113,
+      "ranking_type": "GroupPointMissilis",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 50000,
+      "description_localkey": "RANKING_MISSILIS_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10114,
+      "ranking_type": "GroupPointMissilis",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 54000,
+      "description_localkey": "RANKING_MISSILIS_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10115,
+      "ranking_type": "GroupPointMissilis",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 58000,
+      "description_localkey": "RANKING_MISSILIS_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10116,
+      "ranking_type": "GroupPointMissilis",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 62000,
+      "description_localkey": "RANKING_MISSILIS_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10117,
+      "ranking_type": "GroupPointMissilis",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 66000,
+      "description_localkey": "RANKING_MISSILIS_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10118,
+      "ranking_type": "GroupPointMissilis",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 70000,
+      "description_localkey": "RANKING_MISSILIS_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10119,
+      "ranking_type": "GroupPointMissilis",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 74000,
+      "description_localkey": "RANKING_MISSILIS_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10120,
+      "ranking_type": "GroupPointMissilis",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 78000,
+      "description_localkey": "RANKING_MISSILIS_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10201,
+      "ranking_type": "GroupPointElysion",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 3000,
+      "description_localkey": "RANKING_ELYSION_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10202,
+      "ranking_type": "GroupPointElysion",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 6000,
+      "description_localkey": "RANKING_ELYSION_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10203,
+      "ranking_type": "GroupPointElysion",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 10000,
+      "description_localkey": "RANKING_ELYSION_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10204,
+      "ranking_type": "GroupPointElysion",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 14000,
+      "description_localkey": "RANKING_ELYSION_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10205,
+      "ranking_type": "GroupPointElysion",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 18000,
+      "description_localkey": "RANKING_ELYSION_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10206,
+      "ranking_type": "GroupPointElysion",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 22000,
+      "description_localkey": "RANKING_ELYSION_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10207,
+      "ranking_type": "GroupPointElysion",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 26000,
+      "description_localkey": "RANKING_ELYSION_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10208,
+      "ranking_type": "GroupPointElysion",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 30000,
+      "description_localkey": "RANKING_ELYSION_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10209,
+      "ranking_type": "GroupPointElysion",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 34000,
+      "description_localkey": "RANKING_ELYSION_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10210,
+      "ranking_type": "GroupPointElysion",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 38000,
+      "description_localkey": "RANKING_ELYSION_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10211,
+      "ranking_type": "GroupPointElysion",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 42000,
+      "description_localkey": "RANKING_ELYSION_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10212,
+      "ranking_type": "GroupPointElysion",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 46000,
+      "description_localkey": "RANKING_ELYSION_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10213,
+      "ranking_type": "GroupPointElysion",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 50000,
+      "description_localkey": "RANKING_ELYSION_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10214,
+      "ranking_type": "GroupPointElysion",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 54000,
+      "description_localkey": "RANKING_ELYSION_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10215,
+      "ranking_type": "GroupPointElysion",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 58000,
+      "description_localkey": "RANKING_ELYSION_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10216,
+      "ranking_type": "GroupPointElysion",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 62000,
+      "description_localkey": "RANKING_ELYSION_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10217,
+      "ranking_type": "GroupPointElysion",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 66000,
+      "description_localkey": "RANKING_ELYSION_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10218,
+      "ranking_type": "GroupPointElysion",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 70000,
+      "description_localkey": "RANKING_ELYSION_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10219,
+      "ranking_type": "GroupPointElysion",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 74000,
+      "description_localkey": "RANKING_ELYSION_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10220,
+      "ranking_type": "GroupPointElysion",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 78000,
+      "description_localkey": "RANKING_ELYSION_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10301,
+      "ranking_type": "GroupPointTetra",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 3000,
+      "description_localkey": "RANKING_TETRA_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10302,
+      "ranking_type": "GroupPointTetra",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 6000,
+      "description_localkey": "RANKING_TETRA_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10303,
+      "ranking_type": "GroupPointTetra",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 10000,
+      "description_localkey": "RANKING_TETRA_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10304,
+      "ranking_type": "GroupPointTetra",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 14000,
+      "description_localkey": "RANKING_TETRA_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10305,
+      "ranking_type": "GroupPointTetra",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 18000,
+      "description_localkey": "RANKING_TETRA_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10306,
+      "ranking_type": "GroupPointTetra",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 22000,
+      "description_localkey": "RANKING_TETRA_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10307,
+      "ranking_type": "GroupPointTetra",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 26000,
+      "description_localkey": "RANKING_TETRA_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10308,
+      "ranking_type": "GroupPointTetra",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 30000,
+      "description_localkey": "RANKING_TETRA_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10309,
+      "ranking_type": "GroupPointTetra",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 34000,
+      "description_localkey": "RANKING_TETRA_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10310,
+      "ranking_type": "GroupPointTetra",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 38000,
+      "description_localkey": "RANKING_TETRA_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10311,
+      "ranking_type": "GroupPointTetra",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 42000,
+      "description_localkey": "RANKING_TETRA_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10312,
+      "ranking_type": "GroupPointTetra",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 46000,
+      "description_localkey": "RANKING_TETRA_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10313,
+      "ranking_type": "GroupPointTetra",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 50000,
+      "description_localkey": "RANKING_TETRA_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10314,
+      "ranking_type": "GroupPointTetra",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 54000,
+      "description_localkey": "RANKING_TETRA_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10315,
+      "ranking_type": "GroupPointTetra",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 58000,
+      "description_localkey": "RANKING_TETRA_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10316,
+      "ranking_type": "GroupPointTetra",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 62000,
+      "description_localkey": "RANKING_TETRA_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10317,
+      "ranking_type": "GroupPointTetra",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 66000,
+      "description_localkey": "RANKING_TETRA_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10318,
+      "ranking_type": "GroupPointTetra",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 70000,
+      "description_localkey": "RANKING_TETRA_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10319,
+      "ranking_type": "GroupPointTetra",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 74000,
+      "description_localkey": "RANKING_TETRA_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10320,
+      "ranking_type": "GroupPointTetra",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 78000,
+      "description_localkey": "RANKING_TETRA_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10401,
+      "ranking_type": "GroupPointPilgrim",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 3000,
+      "description_localkey": "RANKING_PILGRIM_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10402,
+      "ranking_type": "GroupPointPilgrim",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 6000,
+      "description_localkey": "RANKING_PILGRIM_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10403,
+      "ranking_type": "GroupPointPilgrim",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 10000,
+      "description_localkey": "RANKING_PILGRIM_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10404,
+      "ranking_type": "GroupPointPilgrim",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 14000,
+      "description_localkey": "RANKING_PILGRIM_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10405,
+      "ranking_type": "GroupPointPilgrim",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 18000,
+      "description_localkey": "RANKING_PILGRIM_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10406,
+      "ranking_type": "GroupPointPilgrim",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 22000,
+      "description_localkey": "RANKING_PILGRIM_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10407,
+      "ranking_type": "GroupPointPilgrim",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 26000,
+      "description_localkey": "RANKING_PILGRIM_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10408,
+      "ranking_type": "GroupPointPilgrim",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 30000,
+      "description_localkey": "RANKING_PILGRIM_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10409,
+      "ranking_type": "GroupPointPilgrim",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 34000,
+      "description_localkey": "RANKING_PILGRIM_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10410,
+      "ranking_type": "GroupPointPilgrim",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 38000,
+      "description_localkey": "RANKING_PILGRIM_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10411,
+      "ranking_type": "GroupPointPilgrim",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 42000,
+      "description_localkey": "RANKING_PILGRIM_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10412,
+      "ranking_type": "GroupPointPilgrim",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 46000,
+      "description_localkey": "RANKING_PILGRIM_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10413,
+      "ranking_type": "GroupPointPilgrim",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 50000,
+      "description_localkey": "RANKING_PILGRIM_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10414,
+      "ranking_type": "GroupPointPilgrim",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 54000,
+      "description_localkey": "RANKING_PILGRIM_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10415,
+      "ranking_type": "GroupPointPilgrim",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 58000,
+      "description_localkey": "RANKING_PILGRIM_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10416,
+      "ranking_type": "GroupPointPilgrim",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 62000,
+      "description_localkey": "RANKING_PILGRIM_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10417,
+      "ranking_type": "GroupPointPilgrim",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 66000,
+      "description_localkey": "RANKING_PILGRIM_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10418,
+      "ranking_type": "GroupPointPilgrim",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 70000,
+      "description_localkey": "RANKING_PILGRIM_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10419,
+      "ranking_type": "GroupPointPilgrim",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 74000,
+      "description_localkey": "RANKING_PILGRIM_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 10420,
+      "ranking_type": "GroupPointPilgrim",
+      "condition_type": "None",
+      "condition_id": 0,
+      "condition_value": 78000,
+      "description_localkey": "RANKING_PILGRIM_POINT",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 20001,
+      "ranking_type": "HardCampaign",
+      "condition_type": "None",
+      "condition_id": 1,
+      "condition_value": 1,
+      "description_localkey": "RANKING_HARD_STAGE_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 20002,
+      "ranking_type": "HardCampaign",
+      "condition_type": "None",
+      "condition_id": 2,
+      "condition_value": 1,
+      "description_localkey": "RANKING_HARD_STAGE_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 20003,
+      "ranking_type": "HardCampaign",
+      "condition_type": "None",
+      "condition_id": 3,
+      "condition_value": 1,
+      "description_localkey": "RANKING_HARD_STAGE_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 20004,
+      "ranking_type": "HardCampaign",
+      "condition_type": "None",
+      "condition_id": 4,
+      "condition_value": 1,
+      "description_localkey": "RANKING_HARD_STAGE_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 20005,
+      "ranking_type": "HardCampaign",
+      "condition_type": "None",
+      "condition_id": 5,
+      "condition_value": 1,
+      "description_localkey": "RANKING_HARD_STAGE_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 20006,
+      "ranking_type": "HardCampaign",
+      "condition_type": "None",
+      "condition_id": 6,
+      "condition_value": 1,
+      "description_localkey": "RANKING_HARD_STAGE_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 20007,
+      "ranking_type": "HardCampaign",
+      "condition_type": "None",
+      "condition_id": 7,
+      "condition_value": 1,
+      "description_localkey": "RANKING_HARD_STAGE_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 20008,
+      "ranking_type": "HardCampaign",
+      "condition_type": "None",
+      "condition_id": 8,
+      "condition_value": 1,
+      "description_localkey": "RANKING_HARD_STAGE_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 20009,
+      "ranking_type": "HardCampaign",
+      "condition_type": "None",
+      "condition_id": 9,
+      "condition_value": 1,
+      "description_localkey": "RANKING_HARD_STAGE_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 20010,
+      "ranking_type": "HardCampaign",
+      "condition_type": "None",
+      "condition_id": 10,
+      "condition_value": 1,
+      "description_localkey": "RANKING_HARD_STAGE_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 20011,
+      "ranking_type": "HardCampaign",
+      "condition_type": "None",
+      "condition_id": 11,
+      "condition_value": 1,
+      "description_localkey": "RANKING_HARD_STAGE_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 20012,
+      "ranking_type": "HardCampaign",
+      "condition_type": "None",
+      "condition_id": 12,
+      "condition_value": 1,
+      "description_localkey": "RANKING_HARD_STAGE_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 20013,
+      "ranking_type": "HardCampaign",
+      "condition_type": "None",
+      "condition_id": 13,
+      "condition_value": 1,
+      "description_localkey": "RANKING_HARD_STAGE_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 20014,
+      "ranking_type": "HardCampaign",
+      "condition_type": "None",
+      "condition_id": 14,
+      "condition_value": 1,
+      "description_localkey": "RANKING_HARD_STAGE_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 20015,
+      "ranking_type": "HardCampaign",
+      "condition_type": "None",
+      "condition_id": 15,
+      "condition_value": 1,
+      "description_localkey": "RANKING_HARD_STAGE_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 20016,
+      "ranking_type": "HardCampaign",
+      "condition_type": "None",
+      "condition_id": 16,
+      "condition_value": 1,
+      "description_localkey": "RANKING_HARD_STAGE_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 20017,
+      "ranking_type": "HardCampaign",
+      "condition_type": "None",
+      "condition_id": 17,
+      "condition_value": 1,
+      "description_localkey": "RANKING_HARD_STAGE_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 20018,
+      "ranking_type": "HardCampaign",
+      "condition_type": "None",
+      "condition_id": 18,
+      "condition_value": 1,
+      "description_localkey": "RANKING_HARD_STAGE_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 20019,
+      "ranking_type": "HardCampaign",
+      "condition_type": "None",
+      "condition_id": 19,
+      "condition_value": 1,
+      "description_localkey": "RANKING_HARD_STAGE_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 30101,
+      "ranking_type": "TowerTribe",
+      "condition_type": "None",
+      "condition_id": 10030,
+      "condition_value": 1,
+      "description_localkey": "RANKING_TOWER_BASIC_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 30102,
+      "ranking_type": "TowerTribe",
+      "condition_type": "None",
+      "condition_id": 10040,
+      "condition_value": 1,
+      "description_localkey": "RANKING_TOWER_BASIC_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 30103,
+      "ranking_type": "TowerTribe",
+      "condition_type": "None",
+      "condition_id": 10055,
+      "condition_value": 1,
+      "description_localkey": "RANKING_TOWER_BASIC_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 30104,
+      "ranking_type": "TowerTribe",
+      "condition_type": "None",
+      "condition_id": 10070,
+      "condition_value": 1,
+      "description_localkey": "RANKING_TOWER_BASIC_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 30105,
+      "ranking_type": "TowerTribe",
+      "condition_type": "None",
+      "condition_id": 10085,
+      "condition_value": 1,
+      "description_localkey": "RANKING_TOWER_BASIC_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 30106,
+      "ranking_type": "TowerTribe",
+      "condition_type": "None",
+      "condition_id": 10100,
+      "condition_value": 1,
+      "description_localkey": "RANKING_TOWER_BASIC_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 30107,
+      "ranking_type": "TowerTribe",
+      "condition_type": "None",
+      "condition_id": 10125,
+      "condition_value": 1,
+      "description_localkey": "RANKING_TOWER_BASIC_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 30108,
+      "ranking_type": "TowerTribe",
+      "condition_type": "None",
+      "condition_id": 10150,
+      "condition_value": 1,
+      "description_localkey": "RANKING_TOWER_BASIC_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 30201,
+      "ranking_type": "TowerElysion",
+      "condition_type": "None",
+      "condition_id": 20030,
+      "condition_value": 1,
+      "description_localkey": "RANKING_TOWER_ELYSION_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 30202,
+      "ranking_type": "TowerElysion",
+      "condition_type": "None",
+      "condition_id": 20040,
+      "condition_value": 1,
+      "description_localkey": "RANKING_TOWER_ELYSION_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 30203,
+      "ranking_type": "TowerElysion",
+      "condition_type": "None",
+      "condition_id": 20055,
+      "condition_value": 1,
+      "description_localkey": "RANKING_TOWER_ELYSION_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 30204,
+      "ranking_type": "TowerElysion",
+      "condition_type": "None",
+      "condition_id": 20070,
+      "condition_value": 1,
+      "description_localkey": "RANKING_TOWER_ELYSION_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 30205,
+      "ranking_type": "TowerElysion",
+      "condition_type": "None",
+      "condition_id": 20085,
+      "condition_value": 1,
+      "description_localkey": "RANKING_TOWER_ELYSION_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 30206,
+      "ranking_type": "TowerElysion",
+      "condition_type": "None",
+      "condition_id": 20100,
+      "condition_value": 1,
+      "description_localkey": "RANKING_TOWER_ELYSION_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 30207,
+      "ranking_type": "TowerElysion",
+      "condition_type": "None",
+      "condition_id": 20125,
+      "condition_value": 1,
+      "description_localkey": "RANKING_TOWER_ELYSION_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 30208,
+      "ranking_type": "TowerElysion",
+      "condition_type": "None",
+      "condition_id": 20150,
+      "condition_value": 1,
+      "description_localkey": "RANKING_TOWER_ELYSION_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 30301,
+      "ranking_type": "TowerMissilis",
+      "condition_type": "None",
+      "condition_id": 30030,
+      "condition_value": 1,
+      "description_localkey": "RANKING_TOWER_MISSILIS_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 30302,
+      "ranking_type": "TowerMissilis",
+      "condition_type": "None",
+      "condition_id": 30040,
+      "condition_value": 1,
+      "description_localkey": "RANKING_TOWER_MISSILIS_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 30303,
+      "ranking_type": "TowerMissilis",
+      "condition_type": "None",
+      "condition_id": 30055,
+      "condition_value": 1,
+      "description_localkey": "RANKING_TOWER_MISSILIS_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 30304,
+      "ranking_type": "TowerMissilis",
+      "condition_type": "None",
+      "condition_id": 30070,
+      "condition_value": 1,
+      "description_localkey": "RANKING_TOWER_MISSILIS_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 30305,
+      "ranking_type": "TowerMissilis",
+      "condition_type": "None",
+      "condition_id": 30085,
+      "condition_value": 1,
+      "description_localkey": "RANKING_TOWER_MISSILIS_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 30306,
+      "ranking_type": "TowerMissilis",
+      "condition_type": "None",
+      "condition_id": 30100,
+      "condition_value": 1,
+      "description_localkey": "RANKING_TOWER_MISSILIS_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 30307,
+      "ranking_type": "TowerMissilis",
+      "condition_type": "None",
+      "condition_id": 30125,
+      "condition_value": 1,
+      "description_localkey": "RANKING_TOWER_MISSILIS_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 30308,
+      "ranking_type": "TowerMissilis",
+      "condition_type": "None",
+      "condition_id": 30150,
+      "condition_value": 1,
+      "description_localkey": "RANKING_TOWER_MISSILIS_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 30401,
+      "ranking_type": "TowerTetra",
+      "condition_type": "None",
+      "condition_id": 40030,
+      "condition_value": 1,
+      "description_localkey": "RANKING_TOWER_TETRA_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 30402,
+      "ranking_type": "TowerTetra",
+      "condition_type": "None",
+      "condition_id": 40040,
+      "condition_value": 1,
+      "description_localkey": "RANKING_TOWER_TETRA_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 30403,
+      "ranking_type": "TowerTetra",
+      "condition_type": "None",
+      "condition_id": 40055,
+      "condition_value": 1,
+      "description_localkey": "RANKING_TOWER_TETRA_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 30404,
+      "ranking_type": "TowerTetra",
+      "condition_type": "None",
+      "condition_id": 40070,
+      "condition_value": 1,
+      "description_localkey": "RANKING_TOWER_TETRA_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 30405,
+      "ranking_type": "TowerTetra",
+      "condition_type": "None",
+      "condition_id": 40085,
+      "condition_value": 1,
+      "description_localkey": "RANKING_TOWER_TETRA_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 30406,
+      "ranking_type": "TowerTetra",
+      "condition_type": "None",
+      "condition_id": 40100,
+      "condition_value": 1,
+      "description_localkey": "RANKING_TOWER_TETRA_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 30407,
+      "ranking_type": "TowerTetra",
+      "condition_type": "None",
+      "condition_id": 40125,
+      "condition_value": 1,
+      "description_localkey": "RANKING_TOWER_TETRA_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 30408,
+      "ranking_type": "TowerTetra",
+      "condition_type": "None",
+      "condition_id": 40150,
+      "condition_value": 1,
+      "description_localkey": "RANKING_TOWER_TETRA_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 30501,
+      "ranking_type": "TowerPilgrim",
+      "condition_type": "None",
+      "condition_id": 50030,
+      "condition_value": 1,
+      "description_localkey": "RANKING_TOWER_PILGRIM_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 30502,
+      "ranking_type": "TowerPilgrim",
+      "condition_type": "None",
+      "condition_id": 50040,
+      "condition_value": 1,
+      "description_localkey": "RANKING_TOWER_PILGRIM_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 30503,
+      "ranking_type": "TowerPilgrim",
+      "condition_type": "None",
+      "condition_id": 50055,
+      "condition_value": 1,
+      "description_localkey": "RANKING_TOWER_PILGRIM_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 30504,
+      "ranking_type": "TowerPilgrim",
+      "condition_type": "None",
+      "condition_id": 50070,
+      "condition_value": 1,
+      "description_localkey": "RANKING_TOWER_PILGRIM_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 30505,
+      "ranking_type": "TowerPilgrim",
+      "condition_type": "None",
+      "condition_id": 50085,
+      "condition_value": 1,
+      "description_localkey": "RANKING_TOWER_PILGRIM_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 30506,
+      "ranking_type": "TowerPilgrim",
+      "condition_type": "None",
+      "condition_id": 50100,
+      "condition_value": 1,
+      "description_localkey": "RANKING_TOWER_PILGRIM_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 30507,
+      "ranking_type": "TowerPilgrim",
+      "condition_type": "None",
+      "condition_id": 50125,
+      "condition_value": 1,
+      "description_localkey": "RANKING_TOWER_PILGRIM_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 30508,
+      "ranking_type": "TowerPilgrim",
+      "condition_type": "None",
+      "condition_id": 50150,
+      "condition_value": 1,
+      "description_localkey": "RANKING_TOWER_PILGRIM_CLEAR",
+      "server_reward_id": 15000001
+    }
+  ]
+}

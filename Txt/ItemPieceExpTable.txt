@@ -1,0 +1,20 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1,
+      "item_rare": "R",
+      "exp": 10
+    },
+    {
+      "id": 2,
+      "item_rare": "SR",
+      "exp": 1
+    },
+    {
+      "id": 3,
+      "item_rare": "SSR",
+      "exp": 80
+    }
+  ]
+}

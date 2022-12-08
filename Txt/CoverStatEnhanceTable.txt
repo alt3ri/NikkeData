@@ -1,0 +1,3605 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1,
+      "lv": 1,
+      "level_hp": 8400,
+      "level_defence": 100
+    },
+    {
+      "id": 2,
+      "lv": 2,
+      "level_hp": 8800,
+      "level_defence": 100
+    },
+    {
+      "id": 3,
+      "lv": 3,
+      "level_hp": 9300,
+      "level_defence": 100
+    },
+    {
+      "id": 4,
+      "lv": 4,
+      "level_hp": 9700,
+      "level_defence": 100
+    },
+    {
+      "id": 5,
+      "lv": 5,
+      "level_hp": 10100,
+      "level_defence": 100
+    },
+    {
+      "id": 6,
+      "lv": 6,
+      "level_hp": 10500,
+      "level_defence": 100
+    },
+    {
+      "id": 7,
+      "lv": 7,
+      "level_hp": 11000,
+      "level_defence": 100
+    },
+    {
+      "id": 8,
+      "lv": 8,
+      "level_hp": 11400,
+      "level_defence": 110
+    },
+    {
+      "id": 9,
+      "lv": 9,
+      "level_hp": 11800,
+      "level_defence": 120
+    },
+    {
+      "id": 10,
+      "lv": 10,
+      "level_hp": 13900,
+      "level_defence": 130
+    },
+    {
+      "id": 11,
+      "lv": 11,
+      "level_hp": 14700,
+      "level_defence": 130
+    },
+    {
+      "id": 12,
+      "lv": 12,
+      "level_hp": 15200,
+      "level_defence": 140
+    },
+    {
+      "id": 13,
+      "lv": 13,
+      "level_hp": 15600,
+      "level_defence": 140
+    },
+    {
+      "id": 14,
+      "lv": 14,
+      "level_hp": 16000,
+      "level_defence": 170
+    },
+    {
+      "id": 15,
+      "lv": 15,
+      "level_hp": 16400,
+      "level_defence": 180
+    },
+    {
+      "id": 16,
+      "lv": 16,
+      "level_hp": 16800,
+      "level_defence": 180
+    },
+    {
+      "id": 17,
+      "lv": 17,
+      "level_hp": 17300,
+      "level_defence": 190
+    },
+    {
+      "id": 18,
+      "lv": 18,
+      "level_hp": 17700,
+      "level_defence": 190
+    },
+    {
+      "id": 19,
+      "lv": 19,
+      "level_hp": 18100,
+      "level_defence": 200
+    },
+    {
+      "id": 20,
+      "lv": 20,
+      "level_hp": 18500,
+      "level_defence": 200
+    },
+    {
+      "id": 21,
+      "lv": 21,
+      "level_hp": 19400,
+      "level_defence": 210
+    },
+    {
+      "id": 22,
+      "lv": 22,
+      "level_hp": 19800,
+      "level_defence": 210
+    },
+    {
+      "id": 23,
+      "lv": 23,
+      "level_hp": 20200,
+      "level_defence": 220
+    },
+    {
+      "id": 24,
+      "lv": 24,
+      "level_hp": 20600,
+      "level_defence": 220
+    },
+    {
+      "id": 25,
+      "lv": 25,
+      "level_hp": 21100,
+      "level_defence": 230
+    },
+    {
+      "id": 26,
+      "lv": 26,
+      "level_hp": 22100,
+      "level_defence": 240
+    },
+    {
+      "id": 27,
+      "lv": 27,
+      "level_hp": 22600,
+      "level_defence": 240
+    },
+    {
+      "id": 28,
+      "lv": 28,
+      "level_hp": 23000,
+      "level_defence": 250
+    },
+    {
+      "id": 29,
+      "lv": 29,
+      "level_hp": 23400,
+      "level_defence": 250
+    },
+    {
+      "id": 30,
+      "lv": 30,
+      "level_hp": 23800,
+      "level_defence": 260
+    },
+    {
+      "id": 31,
+      "lv": 31,
+      "level_hp": 24200,
+      "level_defence": 270
+    },
+    {
+      "id": 32,
+      "lv": 32,
+      "level_hp": 24700,
+      "level_defence": 270
+    },
+    {
+      "id": 33,
+      "lv": 33,
+      "level_hp": 25100,
+      "level_defence": 280
+    },
+    {
+      "id": 34,
+      "lv": 34,
+      "level_hp": 25500,
+      "level_defence": 280
+    },
+    {
+      "id": 35,
+      "lv": 35,
+      "level_hp": 25900,
+      "level_defence": 290
+    },
+    {
+      "id": 36,
+      "lv": 36,
+      "level_hp": 26400,
+      "level_defence": 290
+    },
+    {
+      "id": 37,
+      "lv": 37,
+      "level_hp": 26800,
+      "level_defence": 300
+    },
+    {
+      "id": 38,
+      "lv": 38,
+      "level_hp": 27200,
+      "level_defence": 300
+    },
+    {
+      "id": 39,
+      "lv": 39,
+      "level_hp": 27600,
+      "level_defence": 310
+    },
+    {
+      "id": 40,
+      "lv": 40,
+      "level_hp": 28500,
+      "level_defence": 310
+    },
+    {
+      "id": 41,
+      "lv": 41,
+      "level_hp": 36700,
+      "level_defence": 320
+    },
+    {
+      "id": 42,
+      "lv": 42,
+      "level_hp": 37500,
+      "level_defence": 320
+    },
+    {
+      "id": 43,
+      "lv": 43,
+      "level_hp": 38400,
+      "level_defence": 330
+    },
+    {
+      "id": 44,
+      "lv": 44,
+      "level_hp": 39900,
+      "level_defence": 340
+    },
+    {
+      "id": 45,
+      "lv": 45,
+      "level_hp": 40700,
+      "level_defence": 430
+    },
+    {
+      "id": 46,
+      "lv": 46,
+      "level_hp": 41600,
+      "level_defence": 440
+    },
+    {
+      "id": 47,
+      "lv": 47,
+      "level_hp": 42400,
+      "level_defence": 450
+    },
+    {
+      "id": 48,
+      "lv": 48,
+      "level_hp": 43400,
+      "level_defence": 470
+    },
+    {
+      "id": 49,
+      "lv": 49,
+      "level_hp": 44600,
+      "level_defence": 480
+    },
+    {
+      "id": 50,
+      "lv": 50,
+      "level_hp": 45400,
+      "level_defence": 490
+    },
+    {
+      "id": 51,
+      "lv": 51,
+      "level_hp": 46500,
+      "level_defence": 500
+    },
+    {
+      "id": 52,
+      "lv": 52,
+      "level_hp": 47400,
+      "level_defence": 510
+    },
+    {
+      "id": 53,
+      "lv": 53,
+      "level_hp": 48400,
+      "level_defence": 520
+    },
+    {
+      "id": 54,
+      "lv": 54,
+      "level_hp": 49500,
+      "level_defence": 530
+    },
+    {
+      "id": 55,
+      "lv": 55,
+      "level_hp": 50600,
+      "level_defence": 540
+    },
+    {
+      "id": 56,
+      "lv": 56,
+      "level_hp": 51500,
+      "level_defence": 550
+    },
+    {
+      "id": 57,
+      "lv": 57,
+      "level_hp": 52300,
+      "level_defence": 560
+    },
+    {
+      "id": 58,
+      "lv": 58,
+      "level_hp": 53200,
+      "level_defence": 570
+    },
+    {
+      "id": 59,
+      "lv": 59,
+      "level_hp": 54400,
+      "level_defence": 580
+    },
+    {
+      "id": 60,
+      "lv": 60,
+      "level_hp": 55700,
+      "level_defence": 590
+    },
+    {
+      "id": 61,
+      "lv": 61,
+      "level_hp": 58400,
+      "level_defence": 600
+    },
+    {
+      "id": 62,
+      "lv": 62,
+      "level_hp": 59300,
+      "level_defence": 610
+    },
+    {
+      "id": 63,
+      "lv": 63,
+      "level_hp": 60200,
+      "level_defence": 630
+    },
+    {
+      "id": 64,
+      "lv": 64,
+      "level_hp": 61200,
+      "level_defence": 640
+    },
+    {
+      "id": 65,
+      "lv": 65,
+      "level_hp": 63000,
+      "level_defence": 670
+    },
+    {
+      "id": 66,
+      "lv": 66,
+      "level_hp": 63800,
+      "level_defence": 680
+    },
+    {
+      "id": 67,
+      "lv": 67,
+      "level_hp": 64700,
+      "level_defence": 690
+    },
+    {
+      "id": 68,
+      "lv": 68,
+      "level_hp": 65500,
+      "level_defence": 700
+    },
+    {
+      "id": 69,
+      "lv": 69,
+      "level_hp": 66400,
+      "level_defence": 720
+    },
+    {
+      "id": 70,
+      "lv": 70,
+      "level_hp": 68000,
+      "level_defence": 730
+    },
+    {
+      "id": 71,
+      "lv": 71,
+      "level_hp": 69100,
+      "level_defence": 740
+    },
+    {
+      "id": 72,
+      "lv": 72,
+      "level_hp": 69900,
+      "level_defence": 750
+    },
+    {
+      "id": 73,
+      "lv": 73,
+      "level_hp": 70800,
+      "level_defence": 760
+    },
+    {
+      "id": 74,
+      "lv": 74,
+      "level_hp": 71700,
+      "level_defence": 780
+    },
+    {
+      "id": 75,
+      "lv": 75,
+      "level_hp": 72500,
+      "level_defence": 790
+    },
+    {
+      "id": 76,
+      "lv": 76,
+      "level_hp": 74200,
+      "level_defence": 800
+    },
+    {
+      "id": 77,
+      "lv": 77,
+      "level_hp": 75000,
+      "level_defence": 810
+    },
+    {
+      "id": 78,
+      "lv": 78,
+      "level_hp": 75900,
+      "level_defence": 820
+    },
+    {
+      "id": 79,
+      "lv": 79,
+      "level_hp": 77000,
+      "level_defence": 830
+    },
+    {
+      "id": 80,
+      "lv": 80,
+      "level_hp": 78400,
+      "level_defence": 840
+    },
+    {
+      "id": 81,
+      "lv": 81,
+      "level_hp": 84900,
+      "level_defence": 850
+    },
+    {
+      "id": 82,
+      "lv": 82,
+      "level_hp": 86700,
+      "level_defence": 860
+    },
+    {
+      "id": 83,
+      "lv": 83,
+      "level_hp": 88000,
+      "level_defence": 870
+    },
+    {
+      "id": 84,
+      "lv": 84,
+      "level_hp": 89400,
+      "level_defence": 890
+    },
+    {
+      "id": 85,
+      "lv": 85,
+      "level_hp": 90700,
+      "level_defence": 960
+    },
+    {
+      "id": 86,
+      "lv": 86,
+      "level_hp": 92300,
+      "level_defence": 980
+    },
+    {
+      "id": 87,
+      "lv": 87,
+      "level_hp": 93800,
+      "level_defence": 1000
+    },
+    {
+      "id": 88,
+      "lv": 88,
+      "level_hp": 95200,
+      "level_defence": 1010
+    },
+    {
+      "id": 89,
+      "lv": 89,
+      "level_hp": 98000,
+      "level_defence": 1030
+    },
+    {
+      "id": 90,
+      "lv": 90,
+      "level_hp": 100000,
+      "level_defence": 1040
+    },
+    {
+      "id": 91,
+      "lv": 91,
+      "level_hp": 101500,
+      "level_defence": 1060
+    },
+    {
+      "id": 92,
+      "lv": 92,
+      "level_hp": 102900,
+      "level_defence": 1070
+    },
+    {
+      "id": 93,
+      "lv": 93,
+      "level_hp": 104200,
+      "level_defence": 1110
+    },
+    {
+      "id": 94,
+      "lv": 94,
+      "level_hp": 108200,
+      "level_defence": 1130
+    },
+    {
+      "id": 95,
+      "lv": 95,
+      "level_hp": 109600,
+      "level_defence": 1150
+    },
+    {
+      "id": 96,
+      "lv": 96,
+      "level_hp": 111600,
+      "level_defence": 1160
+    },
+    {
+      "id": 97,
+      "lv": 97,
+      "level_hp": 113600,
+      "level_defence": 1180
+    },
+    {
+      "id": 98,
+      "lv": 98,
+      "level_hp": 114900,
+      "level_defence": 1210
+    },
+    {
+      "id": 99,
+      "lv": 99,
+      "level_hp": 116200,
+      "level_defence": 1230
+    },
+    {
+      "id": 100,
+      "lv": 100,
+      "level_hp": 119100,
+      "level_defence": 1250
+    },
+    {
+      "id": 101,
+      "lv": 101,
+      "level_hp": 127400,
+      "level_defence": 1280
+    },
+    {
+      "id": 102,
+      "lv": 102,
+      "level_hp": 130600,
+      "level_defence": 1290
+    },
+    {
+      "id": 103,
+      "lv": 103,
+      "level_hp": 132700,
+      "level_defence": 1310
+    },
+    {
+      "id": 104,
+      "lv": 104,
+      "level_hp": 135100,
+      "level_defence": 1340
+    },
+    {
+      "id": 105,
+      "lv": 105,
+      "level_hp": 137300,
+      "level_defence": 1440
+    },
+    {
+      "id": 106,
+      "lv": 106,
+      "level_hp": 139400,
+      "level_defence": 1450
+    },
+    {
+      "id": 107,
+      "lv": 107,
+      "level_hp": 141500,
+      "level_defence": 1490
+    },
+    {
+      "id": 108,
+      "lv": 108,
+      "level_hp": 142800,
+      "level_defence": 1510
+    },
+    {
+      "id": 109,
+      "lv": 109,
+      "level_hp": 145200,
+      "level_defence": 1530
+    },
+    {
+      "id": 110,
+      "lv": 110,
+      "level_hp": 147200,
+      "level_defence": 1560
+    },
+    {
+      "id": 111,
+      "lv": 111,
+      "level_hp": 149500,
+      "level_defence": 1570
+    },
+    {
+      "id": 112,
+      "lv": 112,
+      "level_hp": 150900,
+      "level_defence": 1600
+    },
+    {
+      "id": 113,
+      "lv": 113,
+      "level_hp": 152900,
+      "level_defence": 1620
+    },
+    {
+      "id": 114,
+      "lv": 114,
+      "level_hp": 154300,
+      "level_defence": 1650
+    },
+    {
+      "id": 115,
+      "lv": 115,
+      "level_hp": 155700,
+      "level_defence": 1680
+    },
+    {
+      "id": 116,
+      "lv": 116,
+      "level_hp": 159100,
+      "level_defence": 1700
+    },
+    {
+      "id": 117,
+      "lv": 117,
+      "level_hp": 163000,
+      "level_defence": 1720
+    },
+    {
+      "id": 118,
+      "lv": 118,
+      "level_hp": 165100,
+      "level_defence": 1740
+    },
+    {
+      "id": 119,
+      "lv": 119,
+      "level_hp": 167200,
+      "level_defence": 1760
+    },
+    {
+      "id": 120,
+      "lv": 120,
+      "level_hp": 169000,
+      "level_defence": 1780
+    },
+    {
+      "id": 121,
+      "lv": 121,
+      "level_hp": 176000,
+      "level_defence": 1860
+    },
+    {
+      "id": 122,
+      "lv": 122,
+      "level_hp": 182900,
+      "level_defence": 1880
+    },
+    {
+      "id": 123,
+      "lv": 123,
+      "level_hp": 187000,
+      "level_defence": 1910
+    },
+    {
+      "id": 124,
+      "lv": 124,
+      "level_hp": 191100,
+      "level_defence": 1920
+    },
+    {
+      "id": 125,
+      "lv": 125,
+      "level_hp": 193700,
+      "level_defence": 2000
+    },
+    {
+      "id": 126,
+      "lv": 126,
+      "level_hp": 197400,
+      "level_defence": 2080
+    },
+    {
+      "id": 127,
+      "lv": 127,
+      "level_hp": 199900,
+      "level_defence": 2130
+    },
+    {
+      "id": 128,
+      "lv": 128,
+      "level_hp": 202900,
+      "level_defence": 2180
+    },
+    {
+      "id": 129,
+      "lv": 129,
+      "level_hp": 205500,
+      "level_defence": 2210
+    },
+    {
+      "id": 130,
+      "lv": 130,
+      "level_hp": 211800,
+      "level_defence": 2240
+    },
+    {
+      "id": 131,
+      "lv": 131,
+      "level_hp": 214200,
+      "level_defence": 2280
+    },
+    {
+      "id": 132,
+      "lv": 132,
+      "level_hp": 216700,
+      "level_defence": 2310
+    },
+    {
+      "id": 133,
+      "lv": 133,
+      "level_hp": 219300,
+      "level_defence": 2340
+    },
+    {
+      "id": 134,
+      "lv": 134,
+      "level_hp": 222700,
+      "level_defence": 2410
+    },
+    {
+      "id": 135,
+      "lv": 135,
+      "level_hp": 224600,
+      "level_defence": 2440
+    },
+    {
+      "id": 136,
+      "lv": 136,
+      "level_hp": 229600,
+      "level_defence": 2470
+    },
+    {
+      "id": 137,
+      "lv": 137,
+      "level_hp": 232200,
+      "level_defence": 2510
+    },
+    {
+      "id": 138,
+      "lv": 138,
+      "level_hp": 234500,
+      "level_defence": 2550
+    },
+    {
+      "id": 139,
+      "lv": 139,
+      "level_hp": 237800,
+      "level_defence": 2570
+    },
+    {
+      "id": 140,
+      "lv": 140,
+      "level_hp": 239900,
+      "level_defence": 2630
+    },
+    {
+      "id": 141,
+      "lv": 141,
+      "level_hp": 254200,
+      "level_defence": 2660
+    },
+    {
+      "id": 142,
+      "lv": 142,
+      "level_hp": 256900,
+      "level_defence": 2690
+    },
+    {
+      "id": 143,
+      "lv": 143,
+      "level_hp": 265400,
+      "level_defence": 2720
+    },
+    {
+      "id": 144,
+      "lv": 144,
+      "level_hp": 267300,
+      "level_defence": 2740
+    },
+    {
+      "id": 145,
+      "lv": 145,
+      "level_hp": 270000,
+      "level_defence": 2910
+    },
+    {
+      "id": 146,
+      "lv": 146,
+      "level_hp": 272600,
+      "level_defence": 2940
+    },
+    {
+      "id": 147,
+      "lv": 147,
+      "level_hp": 274600,
+      "level_defence": 3020
+    },
+    {
+      "id": 148,
+      "lv": 148,
+      "level_hp": 278100,
+      "level_defence": 3040
+    },
+    {
+      "id": 149,
+      "lv": 149,
+      "level_hp": 280500,
+      "level_defence": 3070
+    },
+    {
+      "id": 150,
+      "lv": 150,
+      "level_hp": 294800,
+      "level_defence": 3100
+    },
+    {
+      "id": 151,
+      "lv": 151,
+      "level_hp": 298100,
+      "level_defence": 3120
+    },
+    {
+      "id": 152,
+      "lv": 152,
+      "level_hp": 300800,
+      "level_defence": 3170
+    },
+    {
+      "id": 153,
+      "lv": 153,
+      "level_hp": 303000,
+      "level_defence": 3200
+    },
+    {
+      "id": 154,
+      "lv": 154,
+      "level_hp": 305400,
+      "level_defence": 3350
+    },
+    {
+      "id": 155,
+      "lv": 155,
+      "level_hp": 308000,
+      "level_defence": 3400
+    },
+    {
+      "id": 156,
+      "lv": 156,
+      "level_hp": 314500,
+      "level_defence": 3430
+    },
+    {
+      "id": 157,
+      "lv": 157,
+      "level_hp": 318000,
+      "level_defence": 3450
+    },
+    {
+      "id": 158,
+      "lv": 158,
+      "level_hp": 321800,
+      "level_defence": 3480
+    },
+    {
+      "id": 159,
+      "lv": 159,
+      "level_hp": 325400,
+      "level_defence": 3510
+    },
+    {
+      "id": 160,
+      "lv": 160,
+      "level_hp": 327400,
+      "level_defence": 3590
+    },
+    {
+      "id": 161,
+      "lv": 161,
+      "level_hp": 390500,
+      "level_defence": 3620
+    },
+    {
+      "id": 162,
+      "lv": 162,
+      "level_hp": 403200,
+      "level_defence": 3660
+    },
+    {
+      "id": 163,
+      "lv": 163,
+      "level_hp": 405700,
+      "level_defence": 3700
+    },
+    {
+      "id": 164,
+      "lv": 164,
+      "level_hp": 408200,
+      "level_defence": 3720
+    },
+    {
+      "id": 165,
+      "lv": 165,
+      "level_hp": 360900,
+      "level_defence": 3860
+    },
+    {
+      "id": 166,
+      "lv": 166,
+      "level_hp": 363800,
+      "level_defence": 4000
+    },
+    {
+      "id": 167,
+      "lv": 167,
+      "level_hp": 367500,
+      "level_defence": 4030
+    },
+    {
+      "id": 168,
+      "lv": 168,
+      "level_hp": 372000,
+      "level_defence": 4070
+    },
+    {
+      "id": 169,
+      "lv": 169,
+      "level_hp": 378400,
+      "level_defence": 4110
+    },
+    {
+      "id": 170,
+      "lv": 170,
+      "level_hp": 381300,
+      "level_defence": 4140
+    },
+    {
+      "id": 171,
+      "lv": 171,
+      "level_hp": 384800,
+      "level_defence": 4180
+    },
+    {
+      "id": 172,
+      "lv": 172,
+      "level_hp": 388000,
+      "level_defence": 4220
+    },
+    {
+      "id": 173,
+      "lv": 173,
+      "level_hp": 390500,
+      "level_defence": 4290
+    },
+    {
+      "id": 174,
+      "lv": 174,
+      "level_hp": 393700,
+      "level_defence": 4330
+    },
+    {
+      "id": 175,
+      "lv": 175,
+      "level_hp": 399800,
+      "level_defence": 4370
+    },
+    {
+      "id": 176,
+      "lv": 176,
+      "level_hp": 403000,
+      "level_defence": 4400
+    },
+    {
+      "id": 177,
+      "lv": 177,
+      "level_hp": 408700,
+      "level_defence": 4430
+    },
+    {
+      "id": 178,
+      "lv": 178,
+      "level_hp": 411600,
+      "level_defence": 4470
+    },
+    {
+      "id": 179,
+      "lv": 179,
+      "level_hp": 414400,
+      "level_defence": 4540
+    },
+    {
+      "id": 180,
+      "lv": 180,
+      "level_hp": 416800,
+      "level_defence": 4570
+    },
+    {
+      "id": 181,
+      "lv": 181,
+      "level_hp": 477200,
+      "level_defence": 4640
+    },
+    {
+      "id": 182,
+      "lv": 182,
+      "level_hp": 483300,
+      "level_defence": 4670
+    },
+    {
+      "id": 183,
+      "lv": 183,
+      "level_hp": 493800,
+      "level_defence": 4700
+    },
+    {
+      "id": 184,
+      "lv": 184,
+      "level_hp": 496300,
+      "level_defence": 4730
+    },
+    {
+      "id": 185,
+      "lv": 185,
+      "level_hp": 498900,
+      "level_defence": 4900
+    },
+    {
+      "id": 186,
+      "lv": 186,
+      "level_hp": 501400,
+      "level_defence": 4970
+    },
+    {
+      "id": 187,
+      "lv": 187,
+      "level_hp": 461400,
+      "level_defence": 5090
+    },
+    {
+      "id": 188,
+      "lv": 188,
+      "level_hp": 464400,
+      "level_defence": 5120
+    },
+    {
+      "id": 189,
+      "lv": 189,
+      "level_hp": 477500,
+      "level_defence": 5150
+    },
+    {
+      "id": 190,
+      "lv": 190,
+      "level_hp": 480500,
+      "level_defence": 5180
+    },
+    {
+      "id": 191,
+      "lv": 191,
+      "level_hp": 484100,
+      "level_defence": 5230
+    },
+    {
+      "id": 192,
+      "lv": 192,
+      "level_hp": 488800,
+      "level_defence": 5270
+    },
+    {
+      "id": 193,
+      "lv": 193,
+      "level_hp": 491800,
+      "level_defence": 5420
+    },
+    {
+      "id": 194,
+      "lv": 194,
+      "level_hp": 494400,
+      "level_defence": 5450
+    },
+    {
+      "id": 195,
+      "lv": 195,
+      "level_hp": 498800,
+      "level_defence": 5490
+    },
+    {
+      "id": 196,
+      "lv": 196,
+      "level_hp": 508100,
+      "level_defence": 5520
+    },
+    {
+      "id": 197,
+      "lv": 197,
+      "level_hp": 510600,
+      "level_defence": 5560
+    },
+    {
+      "id": 198,
+      "lv": 198,
+      "level_hp": 513900,
+      "level_defence": 5590
+    },
+    {
+      "id": 199,
+      "lv": 199,
+      "level_hp": 516400,
+      "level_defence": 5640
+    },
+    {
+      "id": 200,
+      "lv": 200,
+      "level_hp": 520100,
+      "level_defence": 5740
+    },
+    {
+      "id": 201,
+      "lv": 201,
+      "level_hp": 541100,
+      "level_defence": 5770
+    },
+    {
+      "id": 202,
+      "lv": 202,
+      "level_hp": 544200,
+      "level_defence": 5810
+    },
+    {
+      "id": 203,
+      "lv": 203,
+      "level_hp": 548000,
+      "level_defence": 5840
+    },
+    {
+      "id": 204,
+      "lv": 204,
+      "level_hp": 568400,
+      "level_defence": 5880
+    },
+    {
+      "id": 205,
+      "lv": 205,
+      "level_hp": 571500,
+      "level_defence": 6110
+    },
+    {
+      "id": 206,
+      "lv": 206,
+      "level_hp": 575100,
+      "level_defence": 6150
+    },
+    {
+      "id": 207,
+      "lv": 207,
+      "level_hp": 578500,
+      "level_defence": 6180
+    },
+    {
+      "id": 208,
+      "lv": 208,
+      "level_hp": 582700,
+      "level_defence": 6400
+    },
+    {
+      "id": 209,
+      "lv": 209,
+      "level_hp": 586300,
+      "level_defence": 6430
+    },
+    {
+      "id": 210,
+      "lv": 210,
+      "level_hp": 589700,
+      "level_defence": 6470
+    },
+    {
+      "id": 211,
+      "lv": 211,
+      "level_hp": 592800,
+      "level_defence": 6530
+    },
+    {
+      "id": 212,
+      "lv": 212,
+      "level_hp": 603200,
+      "level_defence": 6560
+    },
+    {
+      "id": 213,
+      "lv": 213,
+      "level_hp": 607400,
+      "level_defence": 6590
+    },
+    {
+      "id": 214,
+      "lv": 214,
+      "level_hp": 610800,
+      "level_defence": 6640
+    },
+    {
+      "id": 215,
+      "lv": 215,
+      "level_hp": 615500,
+      "level_defence": 6670
+    },
+    {
+      "id": 216,
+      "lv": 216,
+      "level_hp": 619100,
+      "level_defence": 6790
+    },
+    {
+      "id": 217,
+      "lv": 217,
+      "level_hp": 622500,
+      "level_defence": 6840
+    },
+    {
+      "id": 218,
+      "lv": 218,
+      "level_hp": 627200,
+      "level_defence": 6870
+    },
+    {
+      "id": 219,
+      "lv": 219,
+      "level_hp": 630600,
+      "level_defence": 6910
+    },
+    {
+      "id": 220,
+      "lv": 220,
+      "level_hp": 642200,
+      "level_defence": 6950
+    },
+    {
+      "id": 221,
+      "lv": 221,
+      "level_hp": 664600,
+      "level_defence": 7000
+    },
+    {
+      "id": 222,
+      "lv": 222,
+      "level_hp": 668100,
+      "level_defence": 7030
+    },
+    {
+      "id": 223,
+      "lv": 223,
+      "level_hp": 676000,
+      "level_defence": 7070
+    },
+    {
+      "id": 224,
+      "lv": 224,
+      "level_hp": 679100,
+      "level_defence": 7190
+    },
+    {
+      "id": 225,
+      "lv": 225,
+      "level_hp": 693600,
+      "level_defence": 7430
+    },
+    {
+      "id": 226,
+      "lv": 226,
+      "level_hp": 696800,
+      "level_defence": 7490
+    },
+    {
+      "id": 227,
+      "lv": 227,
+      "level_hp": 701400,
+      "level_defence": 7520
+    },
+    {
+      "id": 228,
+      "lv": 228,
+      "level_hp": 711900,
+      "level_defence": 7580
+    },
+    {
+      "id": 229,
+      "lv": 229,
+      "level_hp": 715000,
+      "level_defence": 7740
+    },
+    {
+      "id": 230,
+      "lv": 230,
+      "level_hp": 723100,
+      "level_defence": 7780
+    },
+    {
+      "id": 231,
+      "lv": 231,
+      "level_hp": 726200,
+      "level_defence": 7870
+    },
+    {
+      "id": 232,
+      "lv": 232,
+      "level_hp": 730200,
+      "level_defence": 7980
+    },
+    {
+      "id": 233,
+      "lv": 233,
+      "level_hp": 733400,
+      "level_defence": 8030
+    },
+    {
+      "id": 234,
+      "lv": 234,
+      "level_hp": 738300,
+      "level_defence": 8060
+    },
+    {
+      "id": 235,
+      "lv": 235,
+      "level_hp": 741700,
+      "level_defence": 8110
+    },
+    {
+      "id": 236,
+      "lv": 236,
+      "level_hp": 746900,
+      "level_defence": 8160
+    },
+    {
+      "id": 237,
+      "lv": 237,
+      "level_hp": 771400,
+      "level_defence": 8190
+    },
+    {
+      "id": 238,
+      "lv": 238,
+      "level_hp": 774600,
+      "level_defence": 8250
+    },
+    {
+      "id": 239,
+      "lv": 239,
+      "level_hp": 778300,
+      "level_defence": 8290
+    },
+    {
+      "id": 240,
+      "lv": 240,
+      "level_hp": 781700,
+      "level_defence": 8330
+    },
+    {
+      "id": 241,
+      "lv": 241,
+      "level_hp": 808500,
+      "level_defence": 8580
+    },
+    {
+      "id": 242,
+      "lv": 242,
+      "level_hp": 812700,
+      "level_defence": 8640
+    },
+    {
+      "id": 243,
+      "lv": 243,
+      "level_hp": 816800,
+      "level_defence": 8670
+    },
+    {
+      "id": 244,
+      "lv": 244,
+      "level_hp": 824300,
+      "level_defence": 8710
+    },
+    {
+      "id": 245,
+      "lv": 245,
+      "level_hp": 828000,
+      "level_defence": 9030
+    },
+    {
+      "id": 246,
+      "lv": 246,
+      "level_hp": 861100,
+      "level_defence": 9070
+    },
+    {
+      "id": 247,
+      "lv": 247,
+      "level_hp": 865400,
+      "level_defence": 9120
+    },
+    {
+      "id": 248,
+      "lv": 248,
+      "level_hp": 869200,
+      "level_defence": 9160
+    },
+    {
+      "id": 249,
+      "lv": 249,
+      "level_hp": 873300,
+      "level_defence": 9200
+    },
+    {
+      "id": 250,
+      "lv": 250,
+      "level_hp": 881900,
+      "level_defence": 9530
+    },
+    {
+      "id": 251,
+      "lv": 251,
+      "level_hp": 885700,
+      "level_defence": 9570
+    },
+    {
+      "id": 252,
+      "lv": 252,
+      "level_hp": 889800,
+      "level_defence": 9660
+    },
+    {
+      "id": 253,
+      "lv": 253,
+      "level_hp": 894100,
+      "level_defence": 9700
+    },
+    {
+      "id": 254,
+      "lv": 254,
+      "level_hp": 897900,
+      "level_defence": 9790
+    },
+    {
+      "id": 255,
+      "lv": 255,
+      "level_hp": 906900,
+      "level_defence": 9840
+    },
+    {
+      "id": 256,
+      "lv": 256,
+      "level_hp": 923500,
+      "level_defence": 9880
+    },
+    {
+      "id": 257,
+      "lv": 257,
+      "level_hp": 927800,
+      "level_defence": 9920
+    },
+    {
+      "id": 258,
+      "lv": 258,
+      "level_hp": 931600,
+      "level_defence": 10020
+    },
+    {
+      "id": 259,
+      "lv": 259,
+      "level_hp": 935700,
+      "level_defence": 10060
+    },
+    {
+      "id": 260,
+      "lv": 260,
+      "level_hp": 945700,
+      "level_defence": 10250
+    },
+    {
+      "id": 261,
+      "lv": 261,
+      "level_hp": 977900,
+      "level_defence": 10300
+    },
+    {
+      "id": 262,
+      "lv": 262,
+      "level_hp": 981700,
+      "level_defence": 10340
+    },
+    {
+      "id": 263,
+      "lv": 263,
+      "level_hp": 985800,
+      "level_defence": 10440
+    },
+    {
+      "id": 264,
+      "lv": 264,
+      "level_hp": 990100,
+      "level_defence": 10480
+    },
+    {
+      "id": 265,
+      "lv": 265,
+      "level_hp": 1006600,
+      "level_defence": 10840
+    },
+    {
+      "id": 266,
+      "lv": 266,
+      "level_hp": 1010400,
+      "level_defence": 10880
+    },
+    {
+      "id": 267,
+      "lv": 267,
+      "level_hp": 1040300,
+      "level_defence": 10930
+    },
+    {
+      "id": 268,
+      "lv": 268,
+      "level_hp": 1044200,
+      "level_defence": 11040
+    },
+    {
+      "id": 269,
+      "lv": 269,
+      "level_hp": 1048000,
+      "level_defence": 11220
+    },
+    {
+      "id": 270,
+      "lv": 270,
+      "level_hp": 1051900,
+      "level_defence": 11260
+    },
+    {
+      "id": 271,
+      "lv": 271,
+      "level_hp": 1056600,
+      "level_defence": 11470
+    },
+    {
+      "id": 272,
+      "lv": 272,
+      "level_hp": 1060500,
+      "level_defence": 11520
+    },
+    {
+      "id": 273,
+      "lv": 273,
+      "level_hp": 1064300,
+      "level_defence": 11560
+    },
+    {
+      "id": 274,
+      "lv": 274,
+      "level_hp": 1068200,
+      "level_defence": 11610
+    },
+    {
+      "id": 275,
+      "lv": 275,
+      "level_hp": 1093300,
+      "level_defence": 11730
+    },
+    {
+      "id": 276,
+      "lv": 276,
+      "level_hp": 1097200,
+      "level_defence": 11770
+    },
+    {
+      "id": 277,
+      "lv": 277,
+      "level_hp": 1101100,
+      "level_defence": 11820
+    },
+    {
+      "id": 278,
+      "lv": 278,
+      "level_hp": 1105000,
+      "level_defence": 11860
+    },
+    {
+      "id": 279,
+      "lv": 279,
+      "level_hp": 1108800,
+      "level_defence": 12050
+    },
+    {
+      "id": 280,
+      "lv": 280,
+      "level_hp": 1113500,
+      "level_defence": 12100
+    },
+    {
+      "id": 281,
+      "lv": 281,
+      "level_hp": 1151800,
+      "level_defence": 12140
+    },
+    {
+      "id": 282,
+      "lv": 282,
+      "level_hp": 1156200,
+      "level_defence": 12180
+    },
+    {
+      "id": 283,
+      "lv": 283,
+      "level_hp": 1160600,
+      "level_defence": 12320
+    },
+    {
+      "id": 284,
+      "lv": 284,
+      "level_hp": 1165900,
+      "level_defence": 12360
+    },
+    {
+      "id": 285,
+      "lv": 285,
+      "level_hp": 1191900,
+      "level_defence": 12780
+    },
+    {
+      "id": 286,
+      "lv": 286,
+      "level_hp": 1196300,
+      "level_defence": 12830
+    },
+    {
+      "id": 287,
+      "lv": 287,
+      "level_hp": 1200700,
+      "level_defence": 12870
+    },
+    {
+      "id": 288,
+      "lv": 288,
+      "level_hp": 1205100,
+      "level_defence": 12930
+    },
+    {
+      "id": 289,
+      "lv": 289,
+      "level_hp": 1210100,
+      "level_defence": 13120
+    },
+    {
+      "id": 290,
+      "lv": 290,
+      "level_hp": 1214800,
+      "level_defence": 13170
+    },
+    {
+      "id": 291,
+      "lv": 291,
+      "level_hp": 1219200,
+      "level_defence": 13220
+    },
+    {
+      "id": 292,
+      "lv": 292,
+      "level_hp": 1223600,
+      "level_defence": 13280
+    },
+    {
+      "id": 293,
+      "lv": 293,
+      "level_hp": 1228100,
+      "level_defence": 13420
+    },
+    {
+      "id": 294,
+      "lv": 294,
+      "level_hp": 1233000,
+      "level_defence": 13470
+    },
+    {
+      "id": 295,
+      "lv": 295,
+      "level_hp": 1273800,
+      "level_defence": 13520
+    },
+    {
+      "id": 296,
+      "lv": 296,
+      "level_hp": 1278200,
+      "level_defence": 13570
+    },
+    {
+      "id": 297,
+      "lv": 297,
+      "level_hp": 1292700,
+      "level_defence": 13630
+    },
+    {
+      "id": 298,
+      "lv": 298,
+      "level_hp": 1297200,
+      "level_defence": 13670
+    },
+    {
+      "id": 299,
+      "lv": 299,
+      "level_hp": 1302100,
+      "level_defence": 14120
+    },
+    {
+      "id": 300,
+      "lv": 300,
+      "level_hp": 1306500,
+      "level_defence": 14160
+    },
+    {
+      "id": 301,
+      "lv": 301,
+      "level_hp": 1351200,
+      "level_defence": 14210
+    },
+    {
+      "id": 302,
+      "lv": 302,
+      "level_hp": 1355600,
+      "level_defence": 14270
+    },
+    {
+      "id": 303,
+      "lv": 303,
+      "level_hp": 1360000,
+      "level_defence": 14320
+    },
+    {
+      "id": 304,
+      "lv": 304,
+      "level_hp": 1364500,
+      "level_defence": 14370
+    },
+    {
+      "id": 305,
+      "lv": 305,
+      "level_hp": 1369400,
+      "level_defence": 14960
+    },
+    {
+      "id": 306,
+      "lv": 306,
+      "level_hp": 1373800,
+      "level_defence": 15010
+    },
+    {
+      "id": 307,
+      "lv": 307,
+      "level_hp": 1402400,
+      "level_defence": 15070
+    },
+    {
+      "id": 308,
+      "lv": 308,
+      "level_hp": 1406800,
+      "level_defence": 15120
+    },
+    {
+      "id": 309,
+      "lv": 309,
+      "level_hp": 1411200,
+      "level_defence": 15170
+    },
+    {
+      "id": 310,
+      "lv": 310,
+      "level_hp": 1415600,
+      "level_defence": 15220
+    },
+    {
+      "id": 311,
+      "lv": 311,
+      "level_hp": 1420600,
+      "level_defence": 15530
+    },
+    {
+      "id": 312,
+      "lv": 312,
+      "level_hp": 1425000,
+      "level_defence": 15570
+    },
+    {
+      "id": 313,
+      "lv": 313,
+      "level_hp": 1429700,
+      "level_defence": 15630
+    },
+    {
+      "id": 314,
+      "lv": 314,
+      "level_hp": 1445800,
+      "level_defence": 15680
+    },
+    {
+      "id": 315,
+      "lv": 315,
+      "level_hp": 1450200,
+      "level_defence": 15730
+    },
+    {
+      "id": 316,
+      "lv": 316,
+      "level_hp": 1454600,
+      "level_defence": 15780
+    },
+    {
+      "id": 317,
+      "lv": 317,
+      "level_hp": 1459000,
+      "level_defence": 15830
+    },
+    {
+      "id": 318,
+      "lv": 318,
+      "level_hp": 1464000,
+      "level_defence": 15880
+    },
+    {
+      "id": 319,
+      "lv": 319,
+      "level_hp": 1468400,
+      "level_defence": 15930
+    },
+    {
+      "id": 320,
+      "lv": 320,
+      "level_hp": 1496900,
+      "level_defence": 15980
+    },
+    {
+      "id": 321,
+      "lv": 321,
+      "level_hp": 1547700,
+      "level_defence": 16030
+    },
+    {
+      "id": 322,
+      "lv": 322,
+      "level_hp": 1552700,
+      "level_defence": 16210
+    },
+    {
+      "id": 323,
+      "lv": 323,
+      "level_hp": 1557700,
+      "level_defence": 16250
+    },
+    {
+      "id": 324,
+      "lv": 324,
+      "level_hp": 1562600,
+      "level_defence": 16560
+    },
+    {
+      "id": 325,
+      "lv": 325,
+      "level_hp": 1568100,
+      "level_defence": 17120
+    },
+    {
+      "id": 326,
+      "lv": 326,
+      "level_hp": 1573100,
+      "level_defence": 17180
+    },
+    {
+      "id": 327,
+      "lv": 327,
+      "level_hp": 1578400,
+      "level_defence": 17240
+    },
+    {
+      "id": 328,
+      "lv": 328,
+      "level_hp": 1583400,
+      "level_defence": 17290
+    },
+    {
+      "id": 329,
+      "lv": 329,
+      "level_hp": 1588300,
+      "level_defence": 17350
+    },
+    {
+      "id": 330,
+      "lv": 330,
+      "level_hp": 1593300,
+      "level_defence": 17400
+    },
+    {
+      "id": 331,
+      "lv": 331,
+      "level_hp": 1598300,
+      "level_defence": 17460
+    },
+    {
+      "id": 332,
+      "lv": 332,
+      "level_hp": 1627600,
+      "level_defence": 17510
+    },
+    {
+      "id": 333,
+      "lv": 333,
+      "level_hp": 1632600,
+      "level_defence": 17580
+    },
+    {
+      "id": 334,
+      "lv": 334,
+      "level_hp": 1637500,
+      "level_defence": 17630
+    },
+    {
+      "id": 335,
+      "lv": 335,
+      "level_hp": 1642800,
+      "level_defence": 17690
+    },
+    {
+      "id": 336,
+      "lv": 336,
+      "level_hp": 1661100,
+      "level_defence": 18000
+    },
+    {
+      "id": 337,
+      "lv": 337,
+      "level_hp": 1666100,
+      "level_defence": 18050
+    },
+    {
+      "id": 338,
+      "lv": 338,
+      "level_hp": 1671100,
+      "level_defence": 18110
+    },
+    {
+      "id": 339,
+      "lv": 339,
+      "level_hp": 1676000,
+      "level_defence": 18160
+    },
+    {
+      "id": 340,
+      "lv": 340,
+      "level_hp": 1681500,
+      "level_defence": 18230
+    },
+    {
+      "id": 341,
+      "lv": 341,
+      "level_hp": 1739600,
+      "level_defence": 18280
+    },
+    {
+      "id": 342,
+      "lv": 342,
+      "level_hp": 1744600,
+      "level_defence": 18340
+    },
+    {
+      "id": 343,
+      "lv": 343,
+      "level_hp": 1749500,
+      "level_defence": 18390
+    },
+    {
+      "id": 344,
+      "lv": 344,
+      "level_hp": 1754800,
+      "level_defence": 18590
+    },
+    {
+      "id": 345,
+      "lv": 345,
+      "level_hp": 1783600,
+      "level_defence": 19230
+    },
+    {
+      "id": 346,
+      "lv": 346,
+      "level_hp": 1788600,
+      "level_defence": 19280
+    },
+    {
+      "id": 347,
+      "lv": 347,
+      "level_hp": 1793500,
+      "level_defence": 19330
+    },
+    {
+      "id": 348,
+      "lv": 348,
+      "level_hp": 1799000,
+      "level_defence": 19400
+    },
+    {
+      "id": 349,
+      "lv": 349,
+      "level_hp": 1804000,
+      "level_defence": 19710
+    },
+    {
+      "id": 350,
+      "lv": 350,
+      "level_hp": 1809000,
+      "level_defence": 19770
+    },
+    {
+      "id": 351,
+      "lv": 351,
+      "level_hp": 1814000,
+      "level_defence": 19820
+    },
+    {
+      "id": 352,
+      "lv": 352,
+      "level_hp": 1818900,
+      "level_defence": 19880
+    },
+    {
+      "id": 353,
+      "lv": 353,
+      "level_hp": 1824200,
+      "level_defence": 19930
+    },
+    {
+      "id": 354,
+      "lv": 354,
+      "level_hp": 1829200,
+      "level_defence": 19980
+    },
+    {
+      "id": 355,
+      "lv": 355,
+      "level_hp": 1834200,
+      "level_defence": 20040
+    },
+    {
+      "id": 356,
+      "lv": 356,
+      "level_hp": 1839100,
+      "level_defence": 20100
+    },
+    {
+      "id": 357,
+      "lv": 357,
+      "level_hp": 1868400,
+      "level_defence": 20160
+    },
+    {
+      "id": 358,
+      "lv": 358,
+      "level_hp": 1873400,
+      "level_defence": 20210
+    },
+    {
+      "id": 359,
+      "lv": 359,
+      "level_hp": 1878400,
+      "level_defence": 20270
+    },
+    {
+      "id": 360,
+      "lv": 360,
+      "level_hp": 1883400,
+      "level_defence": 20320
+    },
+    {
+      "id": 361,
+      "lv": 361,
+      "level_hp": 1949000,
+      "level_defence": 20640
+    },
+    {
+      "id": 362,
+      "lv": 362,
+      "level_hp": 1954600,
+      "level_defence": 20690
+    },
+    {
+      "id": 363,
+      "lv": 363,
+      "level_hp": 1960400,
+      "level_defence": 20750
+    },
+    {
+      "id": 364,
+      "lv": 364,
+      "level_hp": 1965900,
+      "level_defence": 20800
+    },
+    {
+      "id": 365,
+      "lv": 365,
+      "level_hp": 1971400,
+      "level_defence": 21530
+    },
+    {
+      "id": 366,
+      "lv": 366,
+      "level_hp": 1977000,
+      "level_defence": 21590
+    },
+    {
+      "id": 367,
+      "lv": 367,
+      "level_hp": 1983000,
+      "level_defence": 21650
+    },
+    {
+      "id": 368,
+      "lv": 368,
+      "level_hp": 1988500,
+      "level_defence": 21710
+    },
+    {
+      "id": 369,
+      "lv": 369,
+      "level_hp": 1994100,
+      "level_defence": 21770
+    },
+    {
+      "id": 370,
+      "lv": 370,
+      "level_hp": 1999600,
+      "level_defence": 21830
+    },
+    {
+      "id": 371,
+      "lv": 371,
+      "level_hp": 2005100,
+      "level_defence": 21890
+    },
+    {
+      "id": 372,
+      "lv": 372,
+      "level_hp": 2010600,
+      "level_defence": 21950
+    },
+    {
+      "id": 373,
+      "lv": 373,
+      "level_hp": 2016200,
+      "level_defence": 22010
+    },
+    {
+      "id": 374,
+      "lv": 374,
+      "level_hp": 2022000,
+      "level_defence": 22070
+    },
+    {
+      "id": 375,
+      "lv": 375,
+      "level_hp": 2027500,
+      "level_defence": 22140
+    },
+    {
+      "id": 376,
+      "lv": 376,
+      "level_hp": 2033100,
+      "level_defence": 22210
+    },
+    {
+      "id": 377,
+      "lv": 377,
+      "level_hp": 2038600,
+      "level_defence": 22270
+    },
+    {
+      "id": 378,
+      "lv": 378,
+      "level_hp": 2044600,
+      "level_defence": 22330
+    },
+    {
+      "id": 379,
+      "lv": 379,
+      "level_hp": 2050200,
+      "level_defence": 22390
+    },
+    {
+      "id": 380,
+      "lv": 380,
+      "level_hp": 2055700,
+      "level_defence": 22450
+    },
+    {
+      "id": 381,
+      "lv": 381,
+      "level_hp": 2129900,
+      "level_defence": 22510
+    },
+    {
+      "id": 382,
+      "lv": 382,
+      "level_hp": 2135400,
+      "level_defence": 22570
+    },
+    {
+      "id": 383,
+      "lv": 383,
+      "level_hp": 2140900,
+      "level_defence": 22630
+    },
+    {
+      "id": 384,
+      "lv": 384,
+      "level_hp": 2146500,
+      "level_defence": 22690
+    },
+    {
+      "id": 385,
+      "lv": 385,
+      "level_hp": 2152300,
+      "level_defence": 23500
+    },
+    {
+      "id": 386,
+      "lv": 386,
+      "level_hp": 2157800,
+      "level_defence": 23570
+    },
+    {
+      "id": 387,
+      "lv": 387,
+      "level_hp": 2163300,
+      "level_defence": 23630
+    },
+    {
+      "id": 388,
+      "lv": 388,
+      "level_hp": 2168900,
+      "level_defence": 23690
+    },
+    {
+      "id": 389,
+      "lv": 389,
+      "level_hp": 2174400,
+      "level_defence": 23750
+    },
+    {
+      "id": 390,
+      "lv": 390,
+      "level_hp": 2180400,
+      "level_defence": 23810
+    },
+    {
+      "id": 391,
+      "lv": 391,
+      "level_hp": 2186000,
+      "level_defence": 23870
+    },
+    {
+      "id": 392,
+      "lv": 392,
+      "level_hp": 2191500,
+      "level_defence": 23930
+    },
+    {
+      "id": 393,
+      "lv": 393,
+      "level_hp": 2197000,
+      "level_defence": 24000
+    },
+    {
+      "id": 394,
+      "lv": 394,
+      "level_hp": 2202500,
+      "level_defence": 24060
+    },
+    {
+      "id": 395,
+      "lv": 395,
+      "level_hp": 2208100,
+      "level_defence": 24120
+    },
+    {
+      "id": 396,
+      "lv": 396,
+      "level_hp": 2213600,
+      "level_defence": 24180
+    },
+    {
+      "id": 397,
+      "lv": 397,
+      "level_hp": 2219100,
+      "level_defence": 24240
+    },
+    {
+      "id": 398,
+      "lv": 398,
+      "level_hp": 2224900,
+      "level_defence": 24310
+    },
+    {
+      "id": 399,
+      "lv": 399,
+      "level_hp": 2230500,
+      "level_defence": 24370
+    },
+    {
+      "id": 400,
+      "lv": 400,
+      "level_hp": 2236000,
+      "level_defence": 24430
+    },
+    {
+      "id": 401,
+      "lv": 401,
+      "level_hp": 2328300,
+      "level_defence": 24490
+    },
+    {
+      "id": 402,
+      "lv": 402,
+      "level_hp": 2334900,
+      "level_defence": 24550
+    },
+    {
+      "id": 403,
+      "lv": 403,
+      "level_hp": 2341000,
+      "level_defence": 24610
+    },
+    {
+      "id": 404,
+      "lv": 404,
+      "level_hp": 2347100,
+      "level_defence": 24670
+    },
+    {
+      "id": 405,
+      "lv": 405,
+      "level_hp": 2353200,
+      "level_defence": 25580
+    },
+    {
+      "id": 406,
+      "lv": 406,
+      "level_hp": 2359300,
+      "level_defence": 25650
+    },
+    {
+      "id": 407,
+      "lv": 407,
+      "level_hp": 2365400,
+      "level_defence": 25710
+    },
+    {
+      "id": 408,
+      "lv": 408,
+      "level_hp": 2371500,
+      "level_defence": 25780
+    },
+    {
+      "id": 409,
+      "lv": 409,
+      "level_hp": 2377600,
+      "level_defence": 25850
+    },
+    {
+      "id": 410,
+      "lv": 410,
+      "level_hp": 2383700,
+      "level_defence": 25920
+    },
+    {
+      "id": 411,
+      "lv": 411,
+      "level_hp": 2389800,
+      "level_defence": 25990
+    },
+    {
+      "id": 412,
+      "lv": 412,
+      "level_hp": 2396200,
+      "level_defence": 26060
+    },
+    {
+      "id": 413,
+      "lv": 413,
+      "level_hp": 2402300,
+      "level_defence": 26120
+    },
+    {
+      "id": 414,
+      "lv": 414,
+      "level_hp": 2408400,
+      "level_defence": 26190
+    },
+    {
+      "id": 415,
+      "lv": 415,
+      "level_hp": 2414500,
+      "level_defence": 26260
+    },
+    {
+      "id": 416,
+      "lv": 416,
+      "level_hp": 2421200,
+      "level_defence": 26320
+    },
+    {
+      "id": 417,
+      "lv": 417,
+      "level_hp": 2427300,
+      "level_defence": 26390
+    },
+    {
+      "id": 418,
+      "lv": 418,
+      "level_hp": 2433400,
+      "level_defence": 26460
+    },
+    {
+      "id": 419,
+      "lv": 419,
+      "level_hp": 2439500,
+      "level_defence": 26520
+    },
+    {
+      "id": 420,
+      "lv": 420,
+      "level_hp": 2445600,
+      "level_defence": 26590
+    },
+    {
+      "id": 421,
+      "lv": 421,
+      "level_hp": 2539000,
+      "level_defence": 26660
+    },
+    {
+      "id": 422,
+      "lv": 422,
+      "level_hp": 2545100,
+      "level_defence": 26720
+    },
+    {
+      "id": 423,
+      "lv": 423,
+      "level_hp": 2551200,
+      "level_defence": 26790
+    },
+    {
+      "id": 424,
+      "lv": 424,
+      "level_hp": 2557300,
+      "level_defence": 26870
+    },
+    {
+      "id": 425,
+      "lv": 425,
+      "level_hp": 2563400,
+      "level_defence": 27890
+    },
+    {
+      "id": 426,
+      "lv": 426,
+      "level_hp": 2569500,
+      "level_defence": 27950
+    },
+    {
+      "id": 427,
+      "lv": 427,
+      "level_hp": 2576000,
+      "level_defence": 28020
+    },
+    {
+      "id": 428,
+      "lv": 428,
+      "level_hp": 2582100,
+      "level_defence": 28080
+    },
+    {
+      "id": 429,
+      "lv": 429,
+      "level_hp": 2588200,
+      "level_defence": 28150
+    },
+    {
+      "id": 430,
+      "lv": 430,
+      "level_hp": 2594300,
+      "level_defence": 28220
+    },
+    {
+      "id": 431,
+      "lv": 431,
+      "level_hp": 2600400,
+      "level_defence": 28280
+    },
+    {
+      "id": 432,
+      "lv": 432,
+      "level_hp": 2607000,
+      "level_defence": 28350
+    },
+    {
+      "id": 433,
+      "lv": 433,
+      "level_hp": 2613100,
+      "level_defence": 28420
+    },
+    {
+      "id": 434,
+      "lv": 434,
+      "level_hp": 2619200,
+      "level_defence": 28480
+    },
+    {
+      "id": 435,
+      "lv": 435,
+      "level_hp": 2625300,
+      "level_defence": 28550
+    },
+    {
+      "id": 436,
+      "lv": 436,
+      "level_hp": 2631400,
+      "level_defence": 28620
+    },
+    {
+      "id": 437,
+      "lv": 437,
+      "level_hp": 2637500,
+      "level_defence": 28680
+    },
+    {
+      "id": 438,
+      "lv": 438,
+      "level_hp": 2643600,
+      "level_defence": 28750
+    },
+    {
+      "id": 439,
+      "lv": 439,
+      "level_hp": 2649700,
+      "level_defence": 28820
+    },
+    {
+      "id": 440,
+      "lv": 440,
+      "level_hp": 2655800,
+      "level_defence": 28890
+    },
+    {
+      "id": 441,
+      "lv": 441,
+      "level_hp": 2759700,
+      "level_defence": 28960
+    },
+    {
+      "id": 442,
+      "lv": 442,
+      "level_hp": 2766400,
+      "level_defence": 29030
+    },
+    {
+      "id": 443,
+      "lv": 443,
+      "level_hp": 2773000,
+      "level_defence": 29090
+    },
+    {
+      "id": 444,
+      "lv": 444,
+      "level_hp": 2780000,
+      "level_defence": 29160
+    },
+    {
+      "id": 445,
+      "lv": 445,
+      "level_hp": 2786700,
+      "level_defence": 30290
+    },
+    {
+      "id": 446,
+      "lv": 446,
+      "level_hp": 2793300,
+      "level_defence": 30360
+    },
+    {
+      "id": 447,
+      "lv": 447,
+      "level_hp": 2800000,
+      "level_defence": 30440
+    },
+    {
+      "id": 448,
+      "lv": 448,
+      "level_hp": 2806600,
+      "level_defence": 30510
+    },
+    {
+      "id": 449,
+      "lv": 449,
+      "level_hp": 2813800,
+      "level_defence": 30580
+    },
+    {
+      "id": 450,
+      "lv": 450,
+      "level_hp": 2820500,
+      "level_defence": 30650
+    },
+    {
+      "id": 451,
+      "lv": 451,
+      "level_hp": 2827100,
+      "level_defence": 30730
+    },
+    {
+      "id": 452,
+      "lv": 452,
+      "level_hp": 2833800,
+      "level_defence": 30800
+    },
+    {
+      "id": 453,
+      "lv": 453,
+      "level_hp": 2840400,
+      "level_defence": 30870
+    },
+    {
+      "id": 454,
+      "lv": 454,
+      "level_hp": 2847100,
+      "level_defence": 30940
+    },
+    {
+      "id": 455,
+      "lv": 455,
+      "level_hp": 2853800,
+      "level_defence": 31020
+    },
+    {
+      "id": 456,
+      "lv": 456,
+      "level_hp": 2860400,
+      "level_defence": 31090
+    },
+    {
+      "id": 457,
+      "lv": 457,
+      "level_hp": 2867100,
+      "level_defence": 31170
+    },
+    {
+      "id": 458,
+      "lv": 458,
+      "level_hp": 2873700,
+      "level_defence": 31250
+    },
+    {
+      "id": 459,
+      "lv": 459,
+      "level_hp": 2880400,
+      "level_defence": 31320
+    },
+    {
+      "id": 460,
+      "lv": 460,
+      "level_hp": 2887000,
+      "level_defence": 31390
+    },
+    {
+      "id": 461,
+      "lv": 461,
+      "level_hp": 3002500,
+      "level_defence": 31460
+    },
+    {
+      "id": 462,
+      "lv": 462,
+      "level_hp": 3009100,
+      "level_defence": 31540
+    },
+    {
+      "id": 463,
+      "lv": 463,
+      "level_hp": 3016100,
+      "level_defence": 31610
+    },
+    {
+      "id": 464,
+      "lv": 464,
+      "level_hp": 3022800,
+      "level_defence": 31680
+    },
+    {
+      "id": 465,
+      "lv": 465,
+      "level_hp": 3029400,
+      "level_defence": 32940
+    },
+    {
+      "id": 466,
+      "lv": 466,
+      "level_hp": 3036100,
+      "level_defence": 33010
+    },
+    {
+      "id": 467,
+      "lv": 467,
+      "level_hp": 3043300,
+      "level_defence": 33080
+    },
+    {
+      "id": 468,
+      "lv": 468,
+      "level_hp": 3049900,
+      "level_defence": 33160
+    },
+    {
+      "id": 469,
+      "lv": 469,
+      "level_hp": 3056600,
+      "level_defence": 33230
+    },
+    {
+      "id": 470,
+      "lv": 470,
+      "level_hp": 3063200,
+      "level_defence": 33300
+    },
+    {
+      "id": 471,
+      "lv": 471,
+      "level_hp": 3069900,
+      "level_defence": 33370
+    },
+    {
+      "id": 472,
+      "lv": 472,
+      "level_hp": 3076500,
+      "level_defence": 33450
+    },
+    {
+      "id": 473,
+      "lv": 473,
+      "level_hp": 3083200,
+      "level_defence": 33520
+    },
+    {
+      "id": 474,
+      "lv": 474,
+      "level_hp": 3089900,
+      "level_defence": 33590
+    },
+    {
+      "id": 475,
+      "lv": 475,
+      "level_hp": 3096500,
+      "level_defence": 33680
+    },
+    {
+      "id": 476,
+      "lv": 476,
+      "level_hp": 3103200,
+      "level_defence": 33750
+    },
+    {
+      "id": 477,
+      "lv": 477,
+      "level_hp": 3109800,
+      "level_defence": 33820
+    },
+    {
+      "id": 478,
+      "lv": 478,
+      "level_hp": 3116500,
+      "level_defence": 33890
+    },
+    {
+      "id": 479,
+      "lv": 479,
+      "level_hp": 3123100,
+      "level_defence": 33970
+    },
+    {
+      "id": 480,
+      "lv": 480,
+      "level_hp": 3129800,
+      "level_defence": 34040
+    },
+    {
+      "id": 481,
+      "lv": 481,
+      "level_hp": 3257300,
+      "level_defence": 34110
+    },
+    {
+      "id": 482,
+      "lv": 482,
+      "level_hp": 3264500,
+      "level_defence": 34180
+    },
+    {
+      "id": 483,
+      "lv": 483,
+      "level_hp": 3271800,
+      "level_defence": 34260
+    },
+    {
+      "id": 484,
+      "lv": 484,
+      "level_hp": 3279300,
+      "level_defence": 34330
+    },
+    {
+      "id": 485,
+      "lv": 485,
+      "level_hp": 3286500,
+      "level_defence": 35720
+    },
+    {
+      "id": 486,
+      "lv": 486,
+      "level_hp": 3293700,
+      "level_defence": 35800
+    },
+    {
+      "id": 487,
+      "lv": 487,
+      "level_hp": 3300900,
+      "level_defence": 35870
+    },
+    {
+      "id": 488,
+      "lv": 488,
+      "level_hp": 3308600,
+      "level_defence": 35950
+    },
+    {
+      "id": 489,
+      "lv": 489,
+      "level_hp": 3315900,
+      "level_defence": 36030
+    },
+    {
+      "id": 490,
+      "lv": 490,
+      "level_hp": 3323100,
+      "level_defence": 36110
+    },
+    {
+      "id": 491,
+      "lv": 491,
+      "level_hp": 3330300,
+      "level_defence": 36190
+    },
+    {
+      "id": 492,
+      "lv": 492,
+      "level_hp": 3337500,
+      "level_defence": 36270
+    },
+    {
+      "id": 493,
+      "lv": 493,
+      "level_hp": 3344700,
+      "level_defence": 36350
+    },
+    {
+      "id": 494,
+      "lv": 494,
+      "level_hp": 3351900,
+      "level_defence": 36420
+    },
+    {
+      "id": 495,
+      "lv": 495,
+      "level_hp": 3359100,
+      "level_defence": 36500
+    },
+    {
+      "id": 496,
+      "lv": 496,
+      "level_hp": 3366300,
+      "level_defence": 36590
+    },
+    {
+      "id": 497,
+      "lv": 497,
+      "level_hp": 3373500,
+      "level_defence": 36670
+    },
+    {
+      "id": 498,
+      "lv": 498,
+      "level_hp": 3380800,
+      "level_defence": 36750
+    },
+    {
+      "id": 499,
+      "lv": 499,
+      "level_hp": 3388000,
+      "level_defence": 36830
+    },
+    {
+      "id": 500,
+      "lv": 500,
+      "level_hp": 3395200,
+      "level_defence": 36910
+    },
+    {
+      "id": 501,
+      "lv": 501,
+      "level_hp": 3535900,
+      "level_defence": 36990
+    },
+    {
+      "id": 502,
+      "lv": 502,
+      "level_hp": 3543200,
+      "level_defence": 37060
+    },
+    {
+      "id": 503,
+      "lv": 503,
+      "level_hp": 3550400,
+      "level_defence": 37140
+    },
+    {
+      "id": 504,
+      "lv": 504,
+      "level_hp": 3557600,
+      "level_defence": 37220
+    },
+    {
+      "id": 505,
+      "lv": 505,
+      "level_hp": 3564800,
+      "level_defence": 38750
+    },
+    {
+      "id": 506,
+      "lv": 506,
+      "level_hp": 3572000,
+      "level_defence": 38830
+    },
+    {
+      "id": 507,
+      "lv": 507,
+      "level_hp": 3579200,
+      "level_defence": 38910
+    },
+    {
+      "id": 508,
+      "lv": 508,
+      "level_hp": 3586700,
+      "level_defence": 38990
+    },
+    {
+      "id": 509,
+      "lv": 509,
+      "level_hp": 3593900,
+      "level_defence": 39070
+    },
+    {
+      "id": 510,
+      "lv": 510,
+      "level_hp": 3601200,
+      "level_defence": 39150
+    },
+    {
+      "id": 511,
+      "lv": 511,
+      "level_hp": 3608400,
+      "level_defence": 39230
+    },
+    {
+      "id": 512,
+      "lv": 512,
+      "level_hp": 3616100,
+      "level_defence": 39300
+    },
+    {
+      "id": 513,
+      "lv": 513,
+      "level_hp": 3623300,
+      "level_defence": 39380
+    },
+    {
+      "id": 514,
+      "lv": 514,
+      "level_hp": 3630500,
+      "level_defence": 39460
+    },
+    {
+      "id": 515,
+      "lv": 515,
+      "level_hp": 3637700,
+      "level_defence": 39540
+    },
+    {
+      "id": 516,
+      "lv": 516,
+      "level_hp": 3644900,
+      "level_defence": 39620
+    },
+    {
+      "id": 517,
+      "lv": 517,
+      "level_hp": 3652200,
+      "level_defence": 39700
+    },
+    {
+      "id": 518,
+      "lv": 518,
+      "level_hp": 3659400,
+      "level_defence": 39780
+    },
+    {
+      "id": 519,
+      "lv": 519,
+      "level_hp": 3666600,
+      "level_defence": 39850
+    },
+    {
+      "id": 520,
+      "lv": 520,
+      "level_hp": 3673800,
+      "level_defence": 39940
+    },
+    {
+      "id": 521,
+      "lv": 521,
+      "level_hp": 3828400,
+      "level_defence": 40020
+    },
+    {
+      "id": 522,
+      "lv": 522,
+      "level_hp": 3836200,
+      "level_defence": 40100
+    },
+    {
+      "id": 523,
+      "lv": 523,
+      "level_hp": 3844000,
+      "level_defence": 40180
+    },
+    {
+      "id": 524,
+      "lv": 524,
+      "level_hp": 3851700,
+      "level_defence": 40260
+    },
+    {
+      "id": 525,
+      "lv": 525,
+      "level_hp": 3859500,
+      "level_defence": 41940
+    },
+    {
+      "id": 526,
+      "lv": 526,
+      "level_hp": 3867300,
+      "level_defence": 42030
+    },
+    {
+      "id": 527,
+      "lv": 527,
+      "level_hp": 3875000,
+      "level_defence": 42110
+    },
+    {
+      "id": 528,
+      "lv": 528,
+      "level_hp": 3882800,
+      "level_defence": 42200
+    },
+    {
+      "id": 529,
+      "lv": 529,
+      "level_hp": 3890600,
+      "level_defence": 42280
+    },
+    {
+      "id": 530,
+      "lv": 530,
+      "level_hp": 3898300,
+      "level_defence": 42370
+    },
+    {
+      "id": 531,
+      "lv": 531,
+      "level_hp": 3906100,
+      "level_defence": 42450
+    },
+    {
+      "id": 532,
+      "lv": 532,
+      "level_hp": 3913900,
+      "level_defence": 42540
+    },
+    {
+      "id": 533,
+      "lv": 533,
+      "level_hp": 3921600,
+      "level_defence": 42620
+    },
+    {
+      "id": 534,
+      "lv": 534,
+      "level_hp": 3929400,
+      "level_defence": 42700
+    },
+    {
+      "id": 535,
+      "lv": 535,
+      "level_hp": 3937500,
+      "level_defence": 42790
+    },
+    {
+      "id": 536,
+      "lv": 536,
+      "level_hp": 3945200,
+      "level_defence": 42870
+    },
+    {
+      "id": 537,
+      "lv": 537,
+      "level_hp": 3953000,
+      "level_defence": 42960
+    },
+    {
+      "id": 538,
+      "lv": 538,
+      "level_hp": 3960800,
+      "level_defence": 43040
+    },
+    {
+      "id": 539,
+      "lv": 539,
+      "level_hp": 3969100,
+      "level_defence": 43130
+    },
+    {
+      "id": 540,
+      "lv": 540,
+      "level_hp": 3976800,
+      "level_defence": 43210
+    },
+    {
+      "id": 541,
+      "lv": 541,
+      "level_hp": 4146600,
+      "level_defence": 43300
+    },
+    {
+      "id": 542,
+      "lv": 542,
+      "level_hp": 4154400,
+      "level_defence": 43380
+    },
+    {
+      "id": 543,
+      "lv": 543,
+      "level_hp": 4162100,
+      "level_defence": 43470
+    },
+    {
+      "id": 544,
+      "lv": 544,
+      "level_hp": 4169900,
+      "level_defence": 43550
+    },
+    {
+      "id": 545,
+      "lv": 545,
+      "level_hp": 4177700,
+      "level_defence": 45400
+    },
+    {
+      "id": 546,
+      "lv": 546,
+      "level_hp": 4185400,
+      "level_defence": 45480
+    },
+    {
+      "id": 547,
+      "lv": 547,
+      "level_hp": 4193200,
+      "level_defence": 45580
+    },
+    {
+      "id": 548,
+      "lv": 548,
+      "level_hp": 4201000,
+      "level_defence": 45670
+    },
+    {
+      "id": 549,
+      "lv": 549,
+      "level_hp": 4208700,
+      "level_defence": 45750
+    },
+    {
+      "id": 550,
+      "lv": 550,
+      "level_hp": 4216500,
+      "level_defence": 45830
+    },
+    {
+      "id": 551,
+      "lv": 551,
+      "level_hp": 4224300,
+      "level_defence": 45920
+    },
+    {
+      "id": 552,
+      "lv": 552,
+      "level_hp": 4232000,
+      "level_defence": 46000
+    },
+    {
+      "id": 553,
+      "lv": 553,
+      "level_hp": 4239800,
+      "level_defence": 46090
+    },
+    {
+      "id": 554,
+      "lv": 554,
+      "level_hp": 4247500,
+      "level_defence": 46170
+    },
+    {
+      "id": 555,
+      "lv": 555,
+      "level_hp": 4255300,
+      "level_defence": 46260
+    },
+    {
+      "id": 556,
+      "lv": 556,
+      "level_hp": 4263100,
+      "level_defence": 46340
+    },
+    {
+      "id": 557,
+      "lv": 557,
+      "level_hp": 4270800,
+      "level_defence": 46430
+    },
+    {
+      "id": 558,
+      "lv": 558,
+      "level_hp": 4278600,
+      "level_defence": 46510
+    },
+    {
+      "id": 559,
+      "lv": 559,
+      "level_hp": 4286400,
+      "level_defence": 46600
+    },
+    {
+      "id": 560,
+      "lv": 560,
+      "level_hp": 4294100,
+      "level_defence": 46680
+    },
+    {
+      "id": 561,
+      "lv": 561,
+      "level_hp": 4479800,
+      "level_defence": 46770
+    },
+    {
+      "id": 562,
+      "lv": 562,
+      "level_hp": 4488100,
+      "level_defence": 46850
+    },
+    {
+      "id": 563,
+      "lv": 563,
+      "level_hp": 4496400,
+      "level_defence": 46930
+    },
+    {
+      "id": 564,
+      "lv": 564,
+      "level_hp": 4504700,
+      "level_defence": 47020
+    },
+    {
+      "id": 565,
+      "lv": 565,
+      "level_hp": 4513400,
+      "level_defence": 49040
+    },
+    {
+      "id": 566,
+      "lv": 566,
+      "level_hp": 4521700,
+      "level_defence": 49130
+    },
+    {
+      "id": 567,
+      "lv": 567,
+      "level_hp": 4530000,
+      "level_defence": 49220
+    },
+    {
+      "id": 568,
+      "lv": 568,
+      "level_hp": 4538300,
+      "level_defence": 49310
+    },
+    {
+      "id": 569,
+      "lv": 569,
+      "level_hp": 4546700,
+      "level_defence": 49400
+    },
+    {
+      "id": 570,
+      "lv": 570,
+      "level_hp": 4555500,
+      "level_defence": 49490
+    },
+    {
+      "id": 571,
+      "lv": 571,
+      "level_hp": 4563800,
+      "level_defence": 49590
+    },
+    {
+      "id": 572,
+      "lv": 572,
+      "level_hp": 4572100,
+      "level_defence": 49680
+    },
+    {
+      "id": 573,
+      "lv": 573,
+      "level_hp": 4580500,
+      "level_defence": 49770
+    },
+    {
+      "id": 574,
+      "lv": 574,
+      "level_hp": 4588800,
+      "level_defence": 49860
+    },
+    {
+      "id": 575,
+      "lv": 575,
+      "level_hp": 4597100,
+      "level_defence": 49950
+    },
+    {
+      "id": 576,
+      "lv": 576,
+      "level_hp": 4605400,
+      "level_defence": 50040
+    },
+    {
+      "id": 577,
+      "lv": 577,
+      "level_hp": 4613700,
+      "level_defence": 50130
+    },
+    {
+      "id": 578,
+      "lv": 578,
+      "level_hp": 4622100,
+      "level_defence": 50230
+    },
+    {
+      "id": 579,
+      "lv": 579,
+      "level_hp": 4630400,
+      "level_defence": 50320
+    },
+    {
+      "id": 580,
+      "lv": 580,
+      "level_hp": 4638700,
+      "level_defence": 50410
+    },
+    {
+      "id": 581,
+      "lv": 581,
+      "level_hp": 4841500,
+      "level_defence": 50500
+    },
+    {
+      "id": 582,
+      "lv": 582,
+      "level_hp": 4849800,
+      "level_defence": 50590
+    },
+    {
+      "id": 583,
+      "lv": 583,
+      "level_hp": 4858200,
+      "level_defence": 50680
+    },
+    {
+      "id": 584,
+      "lv": 584,
+      "level_hp": 4866500,
+      "level_defence": 50780
+    },
+    {
+      "id": 585,
+      "lv": 585,
+      "level_hp": 4874800,
+      "level_defence": 52990
+    },
+    {
+      "id": 586,
+      "lv": 586,
+      "level_hp": 4883100,
+      "level_defence": 53080
+    },
+    {
+      "id": 587,
+      "lv": 587,
+      "level_hp": 4891400,
+      "level_defence": 53170
+    },
+    {
+      "id": 588,
+      "lv": 588,
+      "level_hp": 4899800,
+      "level_defence": 53260
+    },
+    {
+      "id": 589,
+      "lv": 589,
+      "level_hp": 4908100,
+      "level_defence": 53350
+    },
+    {
+      "id": 590,
+      "lv": 590,
+      "level_hp": 4916400,
+      "level_defence": 53440
+    },
+    {
+      "id": 591,
+      "lv": 591,
+      "level_hp": 4924700,
+      "level_defence": 53530
+    },
+    {
+      "id": 592,
+      "lv": 592,
+      "level_hp": 4933000,
+      "level_defence": 53620
+    },
+    {
+      "id": 593,
+      "lv": 593,
+      "level_hp": 4941400,
+      "level_defence": 53710
+    },
+    {
+      "id": 594,
+      "lv": 594,
+      "level_hp": 4949700,
+      "level_defence": 53800
+    },
+    {
+      "id": 595,
+      "lv": 595,
+      "level_hp": 4958000,
+      "level_defence": 53890
+    },
+    {
+      "id": 596,
+      "lv": 596,
+      "level_hp": 4966300,
+      "level_defence": 53980
+    },
+    {
+      "id": 597,
+      "lv": 597,
+      "level_hp": 4974600,
+      "level_defence": 54070
+    },
+    {
+      "id": 598,
+      "lv": 598,
+      "level_hp": 4983000,
+      "level_defence": 54160
+    },
+    {
+      "id": 599,
+      "lv": 599,
+      "level_hp": 4991300,
+      "level_defence": 54250
+    },
+    {
+      "id": 600,
+      "lv": 600,
+      "level_hp": 4999600,
+      "level_defence": 54340
+    }
+  ]
+}

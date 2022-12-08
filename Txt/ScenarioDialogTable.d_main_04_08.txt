@@ -1,0 +1,141 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": "d_main_04_08_1",
+      "group_id": "d_main_04_08",
+      "speech_window": "Narration",
+      "highlight": "Narration",
+      "speaker": "Narration",
+      "scenario_localkey": "d_main_04_08_1",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "CityForest_02",
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "play_sound": "sfx_scn_phonevibration",
+      "play_bgm": "none",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_04_08_2",
+      "group_id": "d_main_04_08",
+      "speech_window": "Monologue",
+      "scenario_localkey": "d_main_04_08_2",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_04_08_3",
+      "group_id": "d_main_04_08",
+      "speech_window": "Monologue",
+      "scenario_localkey": "d_main_04_08_3",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "conversation_id": "m_main_04_08",
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_04_08_4",
+      "group_id": "d_main_04_08",
+      "speech_window": "Monologue",
+      "scenario_localkey": "d_main_04_08_4",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_04_08_5",
+      "group_id": "d_main_04_08",
+      "speech_window": "Monologue",
+      "scenario_localkey": "d_main_04_08_5",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    }
+  ]
+}

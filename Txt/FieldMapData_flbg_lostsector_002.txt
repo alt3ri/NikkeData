@@ -1,0 +1,153 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": "flbg_lostsector_002",
+      "CameraPoint": [
+        {
+          "positionId": "3fa7225d-fe3b-4831-80c3-0fbbe4a86ee8"
+        }
+      ],
+      "StartingPoint": [
+        {
+          "positionId": "6148622c-e7ff-478a-aaec-bb94a471e722"
+        }
+      ],
+      "StageSpawner": [
+        {
+          "positionId": "d9fc213a-4956-4b14-a2c4-f9b3042c7891",
+          "stageId": 6102001,
+          "eventState": 0
+        },
+        {
+          "positionId": "cd6d0bbc-6f3c-4e58-bb0d-b6412b078ae6",
+          "stageId": 6102002,
+          "eventState": 0
+        },
+        {
+          "positionId": "48833051-9aef-4225-b766-74c6eed3a243",
+          "stageId": 6102003,
+          "eventState": 0
+        },
+        {
+          "positionId": "0a37893e-e7d1-4ebe-bcf4-882c59f3d271",
+          "stageId": 6102004,
+          "eventState": 0
+        },
+        {
+          "positionId": "3d698a1a-00fd-4fc3-89c9-57a5a384f364",
+          "stageId": 6102005,
+          "eventState": 0
+        },
+        {
+          "positionId": "84020ea4-b9bd-4cc8-b7b8-77eeee8c0bf7",
+          "stageId": 6102006,
+          "eventState": 0
+        },
+        {
+          "positionId": "7e69d0e6-a828-4431-b477-812c53627d5c",
+          "stageId": 6102007,
+          "eventState": 0
+        },
+        {
+          "positionId": "019ee95c-e8e8-4380-806a-dc2545348619",
+          "stageId": 6102008,
+          "eventState": 0
+        },
+        {
+          "positionId": "8dcf7ca9-aa5f-4142-8067-ef4b2bfb7aec",
+          "stageId": 6102009,
+          "eventState": 0
+        }
+      ],
+      "ItemSpawner": [
+        {
+          "positionId": "eaaee867-4748-4ef8-a9bf-1b64aa006b72",
+          "itemId": 51002001,
+          "isCompleteReward": false
+        },
+        {
+          "positionId": "8110432e-d538-40cf-ab9c-3ddb0fefa1fb",
+          "itemId": 51002002,
+          "isCompleteReward": false
+        },
+        {
+          "positionId": "4e3a6449-8b1e-48ac-859e-9d839677688a",
+          "itemId": 51002003,
+          "isCompleteReward": true
+        }
+      ],
+      "PortalSet": [
+        {
+          "positionId": "0ae07b7e-55c1-46db-87a2-cb4357b95e08"
+        },
+        {
+          "positionId": "f590515d-6cf6-4046-b313-791741e6c635"
+        },
+        {
+          "positionId": "6f0327c9-5072-4260-81db-b0c4861fa8a6"
+        },
+        {
+          "positionId": "c117e9c5-7da2-4484-af60-24e0526d9e62"
+        }
+      ],
+      "Portal": [
+        {
+          "positionId": "6da1eb89-b34f-437c-847f-7970377ddb31"
+        },
+        {
+          "positionId": "324493de-9b6e-4bc5-9310-0a49cbc66821"
+        },
+        {
+          "positionId": "0cccf2be-c5c8-4ee3-a8c2-fb00b777abb2"
+        },
+        {
+          "positionId": "f6bcf72f-68b3-4082-b942-ba6b00f32334"
+        },
+        {
+          "positionId": "e7b801df-d5fe-43f8-968a-8b438672c825"
+        },
+        {
+          "positionId": "8a4b6e12-b8ba-49eb-abc6-913f16127805"
+        },
+        {
+          "positionId": "518ac19b-20c4-4216-9889-c676979fb60d"
+        },
+        {
+          "positionId": "ce56e16e-f686-41bd-8950-1beba68349a4"
+        }
+      ],
+      "Door": [
+        {
+          "positionId": "0aea53b2-db75-4d39-88ae-cc8252356b70",
+          "OnTrigger": false
+        },
+        {
+          "positionId": "8ab9173a-cf69-4a78-be0e-ccd1cb5ebe7a",
+          "OnTrigger": false
+        },
+        {
+          "positionId": "bcb3b401-b667-4c67-9481-44b4101d7493",
+          "OnTrigger": false
+        }
+      ],
+      "LevelTrigger": [
+        {
+          "positionId": "1a572838-eec1-4f2f-9d6a-653b782f2232",
+          "switchType": 1,
+          "OnTrigger": false
+        },
+        {
+          "positionId": "8b96b2b4-23d7-441b-8766-1d9dc0dc919c",
+          "switchType": 1,
+          "OnTrigger": false
+        },
+        {
+          "positionId": "01b97105-6541-497e-930a-53c3b68f927a",
+          "switchType": 1,
+          "OnTrigger": false
+        }
+      ]
+    }
+  ]
+}

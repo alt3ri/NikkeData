@@ -1,0 +1,173 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 23201,
+      "dispatch_board_lv": 1,
+      "dispatch_board_description": "DISPATCH_BOARD_LEVEL_1",
+      "dispatch_max": 3,
+      "dispatch_list": [
+        {
+          "dispatch_group": 10000,
+          "dispatch_prob": 100
+        },
+        {
+          "dispatch_group": 0,
+          "dispatch_prob": 0
+        },
+        {
+          "dispatch_group": 0,
+          "dispatch_prob": 0
+        },
+        {
+          "dispatch_group": 0,
+          "dispatch_prob": 0
+        }
+      ]
+    },
+    {
+      "id": 23202,
+      "dispatch_board_lv": 2,
+      "dispatch_board_description": "DISPATCH_BOARD_LEVEL_2",
+      "dispatch_max": 3,
+      "dispatch_list": [
+        {
+          "dispatch_group": 10000,
+          "dispatch_prob": 70
+        },
+        {
+          "dispatch_group": 20000,
+          "dispatch_prob": 30
+        },
+        {
+          "dispatch_group": 0,
+          "dispatch_prob": 0
+        },
+        {
+          "dispatch_group": 0,
+          "dispatch_prob": 0
+        }
+      ]
+    },
+    {
+      "id": 23203,
+      "dispatch_board_lv": 3,
+      "dispatch_board_description": "DISPATCH_BOARD_LEVEL_3",
+      "dispatch_max": 3,
+      "dispatch_list": [
+        {
+          "dispatch_group": 10000,
+          "dispatch_prob": 50
+        },
+        {
+          "dispatch_group": 20000,
+          "dispatch_prob": 30
+        },
+        {
+          "dispatch_group": 30000,
+          "dispatch_prob": 20
+        },
+        {
+          "dispatch_group": 0,
+          "dispatch_prob": 0
+        }
+      ]
+    },
+    {
+      "id": 23204,
+      "dispatch_board_lv": 4,
+      "dispatch_board_description": "DISPATCH_BOARD_LEVEL_4",
+      "dispatch_max": 3,
+      "dispatch_list": [
+        {
+          "dispatch_group": 10000,
+          "dispatch_prob": 20
+        },
+        {
+          "dispatch_group": 20000,
+          "dispatch_prob": 30
+        },
+        {
+          "dispatch_group": 30000,
+          "dispatch_prob": 30
+        },
+        {
+          "dispatch_group": 40000,
+          "dispatch_prob": 20
+        }
+      ]
+    },
+    {
+      "id": 23205,
+      "dispatch_board_lv": 5,
+      "dispatch_board_description": "DISPATCH_BOARD_LEVEL_5",
+      "dispatch_max": 3,
+      "dispatch_list": [
+        {
+          "dispatch_group": 10000,
+          "dispatch_prob": 15
+        },
+        {
+          "dispatch_group": 20000,
+          "dispatch_prob": 15
+        },
+        {
+          "dispatch_group": 30000,
+          "dispatch_prob": 50
+        },
+        {
+          "dispatch_group": 40000,
+          "dispatch_prob": 20
+        }
+      ]
+    },
+    {
+      "id": 23206,
+      "dispatch_board_lv": 6,
+      "dispatch_board_description": "DISPATCH_BOARD_LEVEL_6",
+      "dispatch_max": 3,
+      "dispatch_list": [
+        {
+          "dispatch_group": 25000,
+          "dispatch_prob": 20
+        },
+        {
+          "dispatch_group": 30000,
+          "dispatch_prob": 30
+        },
+        {
+          "dispatch_group": 40000,
+          "dispatch_prob": 30
+        },
+        {
+          "dispatch_group": 50000,
+          "dispatch_prob": 20
+        }
+      ]
+    },
+    {
+      "id": 23207,
+      "dispatch_board_lv": 7,
+      "dispatch_board_description": "DISPATCH_BOARD_LEVEL_7",
+      "dispatch_max": 3,
+      "dispatch_list": [
+        {
+          "dispatch_group": 25000,
+          "dispatch_prob": 15
+        },
+        {
+          "dispatch_group": 30000,
+          "dispatch_prob": 15
+        },
+        {
+          "dispatch_group": 40000,
+          "dispatch_prob": 50
+        },
+        {
+          "dispatch_group": 50000,
+          "dispatch_prob": 20
+        }
+      ]
+    }
+  ]
+}

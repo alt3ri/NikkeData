@@ -1,0 +1,43 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1,
+      "contents_open_id": "None",
+      "name": "GUILD_RAID_BASIC_NAME",
+      "description": "GUILD_RAID_BASIC_DESC",
+      "thumbnail": "full_bbg001",
+      "order": 1,
+      "daily_play_count": 3,
+      "stage_level": 10,
+      "monster_stage_lv": 2,
+      "dynamic_object_stage_lv": 3,
+      "cover_stage_lv": 2,
+      "monster_stage_lv_change_group": 101,
+      "spot_id": 6301001,
+      "time_limit": 60,
+      "theme": "Desert",
+      "theme_time": "Day",
+      "condition_reward_group": 102101
+    },
+    {
+      "id": 2,
+      "contents_open_id": "InterceptNormalLevel2",
+      "name": "GUILD_RAID_ADVANCED_NAME",
+      "description": "GUILD_RAID_ADVANCED_DESC",
+      "thumbnail": "full_ebg001",
+      "order": 2,
+      "daily_play_count": 3,
+      "stage_level": 20,
+      "monster_stage_lv": 4,
+      "dynamic_object_stage_lv": 4,
+      "cover_stage_lv": 1,
+      "monster_stage_lv_change_group": 102,
+      "spot_id": 6301002,
+      "time_limit": 60,
+      "theme": "IceLand",
+      "theme_time": "Day",
+      "condition_reward_group": 102102
+    }
+  ]
+}

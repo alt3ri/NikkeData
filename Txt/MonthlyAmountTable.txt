@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 2,
+      "order_group_id": 600,
+      "name_localkey": "PRODUCT_MONTHLY_AMOUNT_NORMAL_NAME",
+      "description_localkey": "PRODUCT_MONTHLY_AMOUNT_DESC",
+      "product_resource_id": "icn_inappshop_monthly_amount_normal_01",
+      "buy_package_group_id": 600001,
+      "daily_package_group_id": 600002,
+      "period": 30,
+      "infracore_point": 0,
+      "midas_product_id": 40000001
+    }
+  ]
+}

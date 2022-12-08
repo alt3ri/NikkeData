@@ -1,0 +1,255 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "lv": 1,
+      "minion_reward": 30001,
+      "boss_reward": 31001
+    },
+    {
+      "lv": 2,
+      "minion_reward": 30002,
+      "boss_reward": 31002
+    },
+    {
+      "lv": 3,
+      "minion_reward": 30003,
+      "boss_reward": 31003
+    },
+    {
+      "lv": 4,
+      "minion_reward": 30004,
+      "boss_reward": 31004
+    },
+    {
+      "lv": 5,
+      "minion_reward": 30005,
+      "boss_reward": 31005
+    },
+    {
+      "lv": 6,
+      "minion_reward": 30006,
+      "boss_reward": 31006
+    },
+    {
+      "lv": 7,
+      "minion_reward": 30007,
+      "boss_reward": 31007
+    },
+    {
+      "lv": 8,
+      "minion_reward": 30008,
+      "boss_reward": 31008
+    },
+    {
+      "lv": 9,
+      "minion_reward": 30009,
+      "boss_reward": 31009
+    },
+    {
+      "lv": 10,
+      "minion_reward": 30010,
+      "boss_reward": 31010
+    },
+    {
+      "lv": 11,
+      "minion_reward": 30011,
+      "boss_reward": 31011
+    },
+    {
+      "lv": 12,
+      "minion_reward": 30012,
+      "boss_reward": 31012
+    },
+    {
+      "lv": 13,
+      "minion_reward": 30013,
+      "boss_reward": 31013
+    },
+    {
+      "lv": 14,
+      "minion_reward": 30014,
+      "boss_reward": 31014
+    },
+    {
+      "lv": 15,
+      "minion_reward": 30015,
+      "boss_reward": 31015
+    },
+    {
+      "lv": 16,
+      "minion_reward": 30016,
+      "boss_reward": 31016
+    },
+    {
+      "lv": 17,
+      "minion_reward": 30017,
+      "boss_reward": 31017
+    },
+    {
+      "lv": 18,
+      "minion_reward": 30018,
+      "boss_reward": 31018
+    },
+    {
+      "lv": 19,
+      "minion_reward": 30019,
+      "boss_reward": 31019
+    },
+    {
+      "lv": 20,
+      "minion_reward": 30020,
+      "boss_reward": 31020
+    },
+    {
+      "lv": 21,
+      "minion_reward": 30021,
+      "boss_reward": 31021
+    },
+    {
+      "lv": 22,
+      "minion_reward": 30022,
+      "boss_reward": 31022
+    },
+    {
+      "lv": 23,
+      "minion_reward": 30023,
+      "boss_reward": 31023
+    },
+    {
+      "lv": 24,
+      "minion_reward": 30024,
+      "boss_reward": 31024
+    },
+    {
+      "lv": 25,
+      "minion_reward": 30025,
+      "boss_reward": 31025
+    },
+    {
+      "lv": 26,
+      "minion_reward": 30026,
+      "boss_reward": 31026
+    },
+    {
+      "lv": 27,
+      "minion_reward": 30027,
+      "boss_reward": 31027
+    },
+    {
+      "lv": 28,
+      "minion_reward": 30028,
+      "boss_reward": 31028
+    },
+    {
+      "lv": 29,
+      "minion_reward": 30029,
+      "boss_reward": 31029
+    },
+    {
+      "lv": 30,
+      "minion_reward": 30030,
+      "boss_reward": 31030
+    },
+    {
+      "lv": 31,
+      "minion_reward": 30031,
+      "boss_reward": 31031
+    },
+    {
+      "lv": 32,
+      "minion_reward": 30032,
+      "boss_reward": 31032
+    },
+    {
+      "lv": 33,
+      "minion_reward": 30033,
+      "boss_reward": 31033
+    },
+    {
+      "lv": 34,
+      "minion_reward": 30034,
+      "boss_reward": 31034
+    },
+    {
+      "lv": 35,
+      "minion_reward": 30035,
+      "boss_reward": 31035
+    },
+    {
+      "lv": 36,
+      "minion_reward": 30036,
+      "boss_reward": 31036
+    },
+    {
+      "lv": 37,
+      "minion_reward": 30037,
+      "boss_reward": 31037
+    },
+    {
+      "lv": 38,
+      "minion_reward": 30038,
+      "boss_reward": 31038
+    },
+    {
+      "lv": 39,
+      "minion_reward": 30039,
+      "boss_reward": 31039
+    },
+    {
+      "lv": 40,
+      "minion_reward": 30040,
+      "boss_reward": 31040
+    },
+    {
+      "lv": 41,
+      "minion_reward": 30041,
+      "boss_reward": 31041
+    },
+    {
+      "lv": 42,
+      "minion_reward": 30042,
+      "boss_reward": 31042
+    },
+    {
+      "lv": 43,
+      "minion_reward": 30043,
+      "boss_reward": 31043
+    },
+    {
+      "lv": 44,
+      "minion_reward": 30044,
+      "boss_reward": 31044
+    },
+    {
+      "lv": 45,
+      "minion_reward": 30045,
+      "boss_reward": 31045
+    },
+    {
+      "lv": 46,
+      "minion_reward": 30046,
+      "boss_reward": 31046
+    },
+    {
+      "lv": 47,
+      "minion_reward": 30047,
+      "boss_reward": 31047
+    },
+    {
+      "lv": 48,
+      "minion_reward": 30048,
+      "boss_reward": 31048
+    },
+    {
+      "lv": 49,
+      "minion_reward": 30049,
+      "boss_reward": 31049
+    },
+    {
+      "lv": 50,
+      "minion_reward": 30050,
+      "boss_reward": 31050
+    }
+  ]
+}

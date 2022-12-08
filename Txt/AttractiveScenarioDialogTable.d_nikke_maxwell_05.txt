@@ -1,0 +1,3081 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": "d_nikke_maxwell_05_1",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "syuen",
+      "speaker": "syuen",
+      "scenario_localkey": "d_nikke_maxwell_05_1",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "show_char_id": "maxwell",
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "syuen",
+          "set_char_position": "3",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "Office",
+      "set_start_camera": "3",
+      "set_end_camera": "S_30",
+      "set_camera_duration": 0.5,
+      "play_bgm": "bgm_story_epicjazzymoods",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_2",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "syuen",
+      "speaker": "syuen",
+      "scenario_localkey": "d_nikke_maxwell_05_2",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_30",
+      "set_end_camera": "S_30",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_3",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "syuen",
+      "speaker": "syuen",
+      "scenario_localkey": "d_nikke_maxwell_05_3",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_30",
+      "set_end_camera": "S_30",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_4",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "maxwell",
+      "speaker": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_4",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_5",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "syuen",
+      "speaker": "syuen",
+      "scenario_localkey": "d_nikke_maxwell_05_5",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "2",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_6",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "syuen",
+      "speaker": "syuen",
+      "scenario_localkey": "d_nikke_maxwell_05_6",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "2",
+      "set_end_camera": "2",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_7",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "maxwell",
+      "speaker": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_7",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "2",
+      "set_end_camera": "2",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_8",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "maxwell",
+      "speaker": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_8",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "2",
+      "set_end_camera": "10",
+      "set_camera_duration": 2.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_9",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "maxwell",
+      "speaker": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_9",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_10",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "syuen",
+      "speaker": "syuen",
+      "scenario_localkey": "d_nikke_maxwell_05_10",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_30",
+      "set_end_camera": "S_30",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_11",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "maxwell",
+      "speaker": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_11",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_12",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "syuen",
+      "speaker": "syuen",
+      "scenario_localkey": "d_nikke_maxwell_05_12",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 0.5,
+      "play_bgm": "none",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_13",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "syuen",
+      "speaker": "syuen",
+      "scenario_localkey": "d_nikke_maxwell_05_13",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_30",
+      "set_end_camera": "S_300",
+      "set_camera_duration": 2.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_14",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "syuen",
+      "speaker": "syuen",
+      "scenario_localkey": "d_nikke_maxwell_05_14",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_300",
+      "set_end_camera": "S_300",
+      "set_camera_duration": 1.0,
+      "play_bgm": "bgm_recognition_underworld",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_15",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "syuen",
+      "speaker": "syuen",
+      "scenario_localkey": "d_nikke_maxwell_05_15",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_300",
+      "set_end_camera": "S_300",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_16",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "syuen",
+      "speaker": "syuen",
+      "scenario_localkey": "d_nikke_maxwell_05_16",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_300",
+      "set_end_camera": "S_300",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_17",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "syuen",
+      "speaker": "syuen",
+      "scenario_localkey": "d_nikke_maxwell_05_17",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_300",
+      "set_end_camera": "S_300",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_18",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "syuen",
+      "speaker": "syuen",
+      "scenario_localkey": "d_nikke_maxwell_05_18",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_300",
+      "set_end_camera": "S_300",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_19",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "maxwell",
+      "speaker": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_19",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "2",
+      "set_end_camera": "2",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_20",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "syuen",
+      "speaker": "syuen",
+      "scenario_localkey": "d_nikke_maxwell_05_20",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "2",
+      "set_end_camera": "2",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_21",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "maxwell",
+      "speaker": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_21",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "2",
+      "set_end_camera": "2",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_22",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "maxwell",
+      "speaker": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_22",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "2",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_23",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "maxwell",
+      "speaker": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_23",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_24",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "syuen",
+      "speaker": "syuen",
+      "scenario_localkey": "d_nikke_maxwell_05_24",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_300",
+      "set_end_camera": "S_300",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_25",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "syuen",
+      "speaker": "syuen",
+      "scenario_localkey": "d_nikke_maxwell_05_25",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_300",
+      "set_end_camera": "S_30",
+      "set_camera_duration": 0.5,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_26",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "syuen",
+      "speaker": "syuen",
+      "scenario_localkey": "d_nikke_maxwell_05_26",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_30",
+      "set_end_camera": "S_30",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_27",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "syuen",
+      "speaker": "syuen",
+      "scenario_localkey": "d_nikke_maxwell_05_27",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_30",
+      "set_end_camera": "S_30",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_28",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "maxwell",
+      "speaker": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_28",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_29",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "syuen",
+      "speaker": "syuen",
+      "scenario_localkey": "d_nikke_maxwell_05_29",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_30",
+      "set_end_camera": "S_30",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_30",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "syuen",
+      "speaker": "syuen",
+      "scenario_localkey": "d_nikke_maxwell_05_30",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_30",
+      "set_end_camera": "S_30",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_31",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "syuen",
+      "speaker": "syuen",
+      "scenario_localkey": "d_nikke_maxwell_05_31",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_30",
+      "set_end_camera": "S_300",
+      "set_camera_duration": 0.5,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_32",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "syuen",
+      "speaker": "syuen",
+      "scenario_localkey": "d_nikke_maxwell_05_32",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_300",
+      "set_end_camera": "S_300",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_33",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "syuen",
+      "speaker": "syuen",
+      "scenario_localkey": "d_nikke_maxwell_05_33",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_300",
+      "set_end_camera": "S_300",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_34",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "maxwell",
+      "speaker": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_34",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_35",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "maxwell",
+      "speaker": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_35",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "hide_char_id": "maxwell",
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "hide_char_id": "syuen",
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "none",
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "play_bgm": "none",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_36",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "maxwell",
+      "speaker": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_36",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "show_char_id": "maxwell",
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "CommanderRoom",
+      "set_start_camera": "50",
+      "set_end_camera": "10",
+      "set_camera_duration": 2.0,
+      "play_bgm": "bgm_story_epicjazzymoods",
+      "effects": [
+        {},
+        {}
+      ],
+      "fade": "black"
+    },
+    {
+      "id": "d_nikke_maxwell_05_37",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "maxwell",
+      "speaker": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_37",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_38",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "maxwell",
+      "speaker": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_38",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_39",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Self",
+      "highlight": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_39",
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_40",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "maxwell",
+      "speaker": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_40",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_41",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Self",
+      "highlight": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_41",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_42",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "maxwell",
+      "speaker": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_42",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_43",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Self",
+      "highlight": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_43",
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_44",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "maxwell",
+      "speaker": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_44",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_45",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Self",
+      "highlight": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_45",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_46",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "maxwell",
+      "speaker": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_46",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "100",
+      "set_camera_duration": 0.5,
+      "play_bgm": "none",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_47",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "maxwell",
+      "speaker": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_47",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_48",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "maxwell",
+      "speaker": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_48",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_49",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "maxwell",
+      "speaker": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_49",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_50",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Self",
+      "highlight": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_50",
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_51",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Narration",
+      "highlight": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_51",
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "10",
+      "set_camera_duration": 0.5,
+      "play_bgm": "bgm_story_herecomestrouble",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_52",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "maxwell",
+      "speaker": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_52",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_53",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "maxwell",
+      "speaker": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_53",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_54",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Self",
+      "highlight": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_54",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_55",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "maxwell",
+      "speaker": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_55",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_56",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "maxwell",
+      "speaker": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_56",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_57",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Self",
+      "highlight": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_57",
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_58",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "maxwell",
+      "speaker": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_58",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "shy"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_59",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "maxwell",
+      "speaker": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_59",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "shy"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_60",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Self",
+      "highlight": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_60",
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "shy"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_61",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "maxwell",
+      "speaker": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_61",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_62",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "maxwell",
+      "speaker": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_62",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_63",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Self",
+      "highlight": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_63",
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_64",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "maxwell",
+      "speaker": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_64",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_65",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "maxwell",
+      "speaker": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_65",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_66",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "maxwell",
+      "speaker": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_66",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_67",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "maxwell",
+      "speaker": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_67",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_68",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Self",
+      "highlight": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_68",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_69",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "maxwell",
+      "speaker": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_69",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_70",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Narration",
+      "highlight": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_70",
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_71",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "maxwell",
+      "speaker": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_71",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_72",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "maxwell",
+      "speaker": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_72",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_73",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Self",
+      "highlight": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_73",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_74",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "maxwell",
+      "speaker": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_74",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_75",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Self",
+      "highlight": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_75",
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_76",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Narration",
+      "highlight": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_76",
+      "characters": [
+        {
+          "hide_char_id": "maxwell",
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "6001",
+      "set_camera_duration": 1.0,
+      "play_sound": "sfx_scn_heavytrip",
+      "effects": [
+        {},
+        {}
+      ],
+      "set_camera_shake": "Low_1"
+    },
+    {
+      "id": "d_nikke_maxwell_05_77",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Narration",
+      "highlight": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_77",
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_78",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "maxwell",
+      "speaker": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_78",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_79",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "maxwell",
+      "speaker": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_79",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_80",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "maxwell",
+      "speaker": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_80",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_81",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Narration",
+      "highlight": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_81",
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_82",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Self",
+      "highlight": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_82",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_83",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "maxwell",
+      "speaker": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_83",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "show_char_id": "maxwell",
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "10",
+      "set_camera_duration": 2.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_84",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "maxwell",
+      "speaker": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_84",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_85",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Self",
+      "highlight": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_85",
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_86",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "maxwell",
+      "speaker": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_86",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "100",
+      "set_camera_duration": 0.5,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_87",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "maxwell",
+      "speaker": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_87",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_88",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Self",
+      "highlight": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_88",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_89",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "maxwell",
+      "speaker": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_89",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_90",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Self",
+      "highlight": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_90",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_91",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "maxwell",
+      "speaker": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_91",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_92",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "maxwell",
+      "speaker": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_92",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_93",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Speech",
+      "highlight": "maxwell",
+      "speaker": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_93",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "100",
+      "set_camera_duration": 0.5,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_94",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Narration",
+      "highlight": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_94",
+      "characters": [
+        {
+          "hide_char_id": "maxwell",
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "none",
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_95",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Self",
+      "highlight": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_95",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_96",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Monologue",
+      "highlight": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_96",
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "play_bgm": "none",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_maxwell_05_97",
+      "group_id": "d_nikke_maxwell_05",
+      "speech_window": "Monologue",
+      "highlight": "maxwell",
+      "scenario_localkey": "d_nikke_maxwell_05_97",
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1,
+      "shop_type": "Main_Shop",
+      "shop_category": "Shop_Recommend",
+      "name_localkey": "SHOP_CATE_RECOMMEND",
+      "shop_open_level": 1,
+      "bundle_id": 1000,
+      "bundle_value": 1,
+      "renew_time_min": 0,
+      "renew_price_type": "None",
+      "renew_price_id": 0,
+      "renew_price_value": 0
+    },
+    {
+      "id": 2,
+      "shop_type": "Main_Shop",
+      "shop_category": "Shop_Cash",
+      "name_localkey": "SHOP_CATE_CASH",
+      "shop_open_level": 1,
+      "bundle_id": 2000,
+      "bundle_value": 6,
+      "renew_time_min": 0,
+      "renew_price_type": "None",
+      "renew_price_id": 0,
+      "renew_price_value": 0
+    },
+    {
+      "id": 3,
+      "shop_type": "Main_Shop",
+      "shop_category": "Shop_Package",
+      "name_localkey": "SHOP_CATE_PACKAGE",
+      "shop_open_level": 1,
+      "bundle_id": 3000,
+      "bundle_value": 4,
+      "renew_time_min": 0,
+      "renew_price_type": "None",
+      "renew_price_id": 0,
+      "renew_price_value": 0
+    }
+  ]
+}

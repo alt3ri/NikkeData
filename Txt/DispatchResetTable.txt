@@ -1,0 +1,80 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1,
+      "currency_type": 99,
+      "currency_value": 50
+    },
+    {
+      "id": 2,
+      "currency_type": 99,
+      "currency_value": 50
+    },
+    {
+      "id": 3,
+      "currency_type": 99,
+      "currency_value": 50
+    },
+    {
+      "id": 4,
+      "currency_type": 99,
+      "currency_value": 50
+    },
+    {
+      "id": 5,
+      "currency_type": 99,
+      "currency_value": 50
+    },
+    {
+      "id": 6,
+      "currency_type": 99,
+      "currency_value": 50
+    },
+    {
+      "id": 7,
+      "currency_type": 99,
+      "currency_value": 50
+    },
+    {
+      "id": 8,
+      "currency_type": 99,
+      "currency_value": 50
+    },
+    {
+      "id": 9,
+      "currency_type": 99,
+      "currency_value": 50
+    },
+    {
+      "id": 10,
+      "currency_type": 99,
+      "currency_value": 50
+    },
+    {
+      "id": 11,
+      "currency_type": 99,
+      "currency_value": 50
+    },
+    {
+      "id": 12,
+      "currency_type": 99,
+      "currency_value": 50
+    },
+    {
+      "id": 13,
+      "currency_type": 99,
+      "currency_value": 50
+    },
+    {
+      "id": 14,
+      "currency_type": 99,
+      "currency_value": 50
+    },
+    {
+      "id": 15,
+      "currency_type": 99,
+      "currency_value": 50
+    }
+  ]
+}

@@ -1,0 +1,2526 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": "d_ex_hospital_03_1",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Speech",
+      "highlight": "mary",
+      "speaker": "mary",
+      "scenario_localkey": "d_ex_hospital_03_1",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "show_char_id": "mary",
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "Hospital",
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "play_bgm": "bgm_story_orangepop",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_2",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Self",
+      "scenario_localkey": "d_ex_hospital_03_2",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_3",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Speech",
+      "highlight": "mary",
+      "speaker": "mary",
+      "scenario_localkey": "d_ex_hospital_03_3",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_4",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Speech",
+      "highlight": "mary",
+      "speaker": "mary",
+      "scenario_localkey": "d_ex_hospital_03_4",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_100",
+      "set_end_camera": "XS_100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_5",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Speech",
+      "highlight": "mary",
+      "speaker": "mary",
+      "scenario_localkey": "d_ex_hospital_03_5",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_100",
+      "set_end_camera": "XS_100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_6",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Self",
+      "scenario_localkey": "d_ex_hospital_03_6",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_100",
+      "set_end_camera": "XS_100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_7",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Speech",
+      "highlight": "mary",
+      "speaker": "mary",
+      "scenario_localkey": "d_ex_hospital_03_7",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_100",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_8",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Speech",
+      "highlight": "mary",
+      "speaker": "mary",
+      "scenario_localkey": "d_ex_hospital_03_8",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_9",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Self",
+      "scenario_localkey": "d_ex_hospital_03_9",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_10",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Speech",
+      "highlight": "mary",
+      "speaker": "mary",
+      "scenario_localkey": "d_ex_hospital_03_10",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_11",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Speech",
+      "highlight": "mary",
+      "speaker": "mary",
+      "scenario_localkey": "d_ex_hospital_03_11",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_12",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Self",
+      "scenario_localkey": "d_ex_hospital_03_12",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_13",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Speech",
+      "highlight": "mary",
+      "speaker": "mary",
+      "scenario_localkey": "d_ex_hospital_03_13",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_14",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Speech",
+      "highlight": "mary",
+      "speaker": "mary",
+      "scenario_localkey": "d_ex_hospital_03_14",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_15",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Self",
+      "scenario_localkey": "d_ex_hospital_03_15",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "hide_char_id": "mary",
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_16",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Monologue",
+      "scenario_localkey": "d_ex_hospital_03_16",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Blur_Low"
+    },
+    {
+      "id": "d_ex_hospital_03_17",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Monologue",
+      "scenario_localkey": "d_ex_hospital_03_17",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Blur_Middle",
+      "set_filter_02": "Vignetting"
+    },
+    {
+      "id": "d_ex_hospital_03_18",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Monologue",
+      "scenario_localkey": "d_ex_hospital_03_18",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "none",
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "play_bgm": "none",
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Blur_High",
+      "set_filter_02": "Vignetting"
+    },
+    {
+      "id": "d_ex_hospital_03_19",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Narration",
+      "scenario_localkey": "d_ex_hospital_03_19",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "Hospital",
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "play_sound": "sfx_scn_trip",
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Blur_High",
+      "set_filter_02": "Vignetting"
+    },
+    {
+      "id": "d_ex_hospital_03_20",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Self",
+      "scenario_localkey": "d_ex_hospital_03_20",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_21",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Speech",
+      "highlight": "noah",
+      "speaker": "noah",
+      "scenario_localkey": "d_ex_hospital_03_21",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "show_char_id": "noah",
+          "set_char_position": "1",
+          "set_char_anim": "good"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "play_bgm": "bgm_story_whosdumber",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_22",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Speech",
+      "highlight": "noah",
+      "speaker": "noah",
+      "scenario_localkey": "d_ex_hospital_03_22",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "good"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_23",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Speech",
+      "highlight": "noah",
+      "speaker": "noah",
+      "scenario_localkey": "d_ex_hospital_03_23",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_24",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Self",
+      "scenario_localkey": "d_ex_hospital_03_24",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_25",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Speech",
+      "highlight": "noah",
+      "speaker": "noah",
+      "scenario_localkey": "d_ex_hospital_03_25",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_26",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Speech",
+      "highlight": "noah",
+      "speaker": "noah",
+      "scenario_localkey": "d_ex_hospital_03_26",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_27",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Speech",
+      "highlight": "noah",
+      "speaker": "noah",
+      "scenario_localkey": "d_ex_hospital_03_27",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "good"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_28",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Self",
+      "scenario_localkey": "d_ex_hospital_03_28",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "good"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_29",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Speech",
+      "highlight": "noah",
+      "speaker": "noah",
+      "scenario_localkey": "d_ex_hospital_03_29",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_30",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Speech",
+      "highlight": "noah",
+      "speaker": "noah",
+      "scenario_localkey": "d_ex_hospital_03_30",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_31",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Speech",
+      "highlight": "noah",
+      "speaker": "noah",
+      "scenario_localkey": "d_ex_hospital_03_31",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "good"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_100",
+      "set_camera_duration": 0.5,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_32",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Speech",
+      "highlight": "noah",
+      "speaker": "noah",
+      "scenario_localkey": "d_ex_hospital_03_32",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "good"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_100",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_33",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Self",
+      "scenario_localkey": "d_ex_hospital_03_33",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "good"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_34",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Speech",
+      "highlight": "noah",
+      "speaker": "noah",
+      "scenario_localkey": "d_ex_hospital_03_34",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_35",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Speech",
+      "highlight": "noah",
+      "speaker": "noah",
+      "scenario_localkey": "d_ex_hospital_03_35",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "shy"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_36",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Speech",
+      "highlight": "noah",
+      "speaker": "noah",
+      "scenario_localkey": "d_ex_hospital_03_36",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "shy"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_37",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Speech",
+      "highlight": "noah",
+      "speaker": "noah",
+      "scenario_localkey": "d_ex_hospital_03_37",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_38",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Choice",
+      "scenario_localkey": "d_ex_hospital_03_38",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "d_ex_hospital_03_40"
+    },
+    {
+      "id": "d_ex_hospital_03_39",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Choice",
+      "scenario_localkey": "d_ex_hospital_03_39",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "d_ex_hospital_03_50"
+    },
+    {
+      "id": "d_ex_hospital_03_40",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Speech",
+      "highlight": "noah",
+      "speaker": "noah",
+      "scenario_localkey": "d_ex_hospital_03_40",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_41",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Self",
+      "scenario_localkey": "d_ex_hospital_03_41",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_42",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Speech",
+      "highlight": "noah",
+      "speaker": "noah",
+      "scenario_localkey": "d_ex_hospital_03_42",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_43",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Speech",
+      "highlight": "noah",
+      "speaker": "noah",
+      "scenario_localkey": "d_ex_hospital_03_43",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_44",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Choice",
+      "scenario_localkey": "d_ex_hospital_03_44",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "d_ex_hospital_03_46"
+    },
+    {
+      "id": "d_ex_hospital_03_45",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Choice",
+      "scenario_localkey": "d_ex_hospital_03_45",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "d_ex_hospital_03_48"
+    },
+    {
+      "id": "d_ex_hospital_03_46",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Speech",
+      "highlight": "noah",
+      "speaker": "noah",
+      "scenario_localkey": "d_ex_hospital_03_46",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "good"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_100",
+      "set_camera_duration": 0.5,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_47",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Speech",
+      "highlight": "noah",
+      "speaker": "noah",
+      "scenario_localkey": "d_ex_hospital_03_47",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "good"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_100",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "d_ex_hospital_03_58"
+    },
+    {
+      "id": "d_ex_hospital_03_48",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Speech",
+      "highlight": "noah",
+      "speaker": "noah",
+      "scenario_localkey": "d_ex_hospital_03_48",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_49",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Speech",
+      "highlight": "noah",
+      "speaker": "noah",
+      "scenario_localkey": "d_ex_hospital_03_49",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "d_ex_hospital_03_58"
+    },
+    {
+      "id": "d_ex_hospital_03_50",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Speech",
+      "highlight": "noah",
+      "speaker": "noah",
+      "scenario_localkey": "d_ex_hospital_03_50",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_51",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Speech",
+      "highlight": "noah",
+      "speaker": "noah",
+      "scenario_localkey": "d_ex_hospital_03_51",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_52",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Monologue",
+      "scenario_localkey": "d_ex_hospital_03_52",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_53",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Speech",
+      "highlight": "noah",
+      "speaker": "noah",
+      "scenario_localkey": "d_ex_hospital_03_53",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_54",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Self",
+      "scenario_localkey": "d_ex_hospital_03_54",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_100",
+      "set_end_camera": "XS_100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_55",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Self",
+      "scenario_localkey": "d_ex_hospital_03_55",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_100",
+      "set_end_camera": "XS_100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_56",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Monologue",
+      "scenario_localkey": "d_ex_hospital_03_56",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_100",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "play_sound": "sfx_scn_paperfly",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_57",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Speech",
+      "highlight": "noah",
+      "speaker": "noah",
+      "scenario_localkey": "d_ex_hospital_03_57",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "good"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "d_ex_hospital_03_58"
+    },
+    {
+      "id": "d_ex_hospital_03_58",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Monologue",
+      "scenario_localkey": "d_ex_hospital_03_58",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_59",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Monologue",
+      "scenario_localkey": "d_ex_hospital_03_59",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Blur_Low",
+      "set_filter_02": "Vignetting"
+    },
+    {
+      "id": "d_ex_hospital_03_60",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Speech",
+      "highlight": "noah",
+      "speaker": "noah",
+      "scenario_localkey": "d_ex_hospital_03_60",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "good"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Blur_Low",
+      "set_filter_02": "Vignetting"
+    },
+    {
+      "id": "d_ex_hospital_03_61",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Monologue",
+      "scenario_localkey": "d_ex_hospital_03_61",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "hide_char_id": "noah",
+          "set_char_position": "1",
+          "set_char_anim": "good"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "none",
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Blur_Low",
+      "set_filter_02": "Vignetting"
+    },
+    {
+      "id": "d_ex_hospital_03_62",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Speech",
+      "highlight": "noah",
+      "speaker": "noah",
+      "scenario_localkey": "d_ex_hospital_03_62",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_63",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Speech",
+      "highlight": "noah",
+      "speaker": "noah",
+      "scenario_localkey": "d_ex_hospital_03_63",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_64",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Speech",
+      "highlight": "noah",
+      "speaker": "noah",
+      "scenario_localkey": "d_ex_hospital_03_64",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_65",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Speech",
+      "highlight": "noah",
+      "speaker": "noah",
+      "scenario_localkey": "d_ex_hospital_03_65",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_66",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Speech",
+      "highlight": "noah",
+      "speaker": "noah",
+      "scenario_localkey": "d_ex_hospital_03_66",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_67",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Speech",
+      "highlight": "noah",
+      "speaker": "noah",
+      "scenario_localkey": "d_ex_hospital_03_67",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "play_bgm": "none",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_68",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Speech",
+      "highlight": "noah",
+      "speaker": "noah",
+      "scenario_localkey": "d_ex_hospital_03_68",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_69",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Narration",
+      "scenario_localkey": "d_ex_hospital_03_69",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "Hospital",
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Blur_Low",
+      "fade": "black"
+    },
+    {
+      "id": "d_ex_hospital_03_70",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Self",
+      "scenario_localkey": "d_ex_hospital_03_70",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Blur_Low"
+    },
+    {
+      "id": "d_ex_hospital_03_71",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Speech",
+      "highlight": "mary",
+      "speaker": "mary",
+      "scenario_localkey": "d_ex_hospital_03_71",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "show_char_id": "mary",
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "play_bgm": "bgm_story_backtonormal",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_72",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Speech",
+      "highlight": "mary",
+      "speaker": "mary",
+      "scenario_localkey": "d_ex_hospital_03_72",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_73",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Self",
+      "scenario_localkey": "d_ex_hospital_03_73",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_74",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Speech",
+      "highlight": "mary",
+      "speaker": "mary",
+      "scenario_localkey": "d_ex_hospital_03_74",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_75",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Speech",
+      "highlight": "mary",
+      "speaker": "mary",
+      "scenario_localkey": "d_ex_hospital_03_75",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_76",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Self",
+      "scenario_localkey": "d_ex_hospital_03_76",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_77",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Monologue",
+      "scenario_localkey": "d_ex_hospital_03_77",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "noah",
+          "set_char_position": "15",
+          "set_char_anim": "expression"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "none",
+      "set_start_camera": "XS_150",
+      "set_end_camera": "XS_150",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Blur_Low",
+      "set_filter_02": "Vignetting"
+    },
+    {
+      "id": "d_ex_hospital_03_78",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Speech",
+      "highlight": "mary",
+      "speaker": "mary",
+      "scenario_localkey": "d_ex_hospital_03_78",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "hide_char_id": "noah",
+          "set_char_position": "15",
+          "set_char_anim": "expression"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "Hospital",
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_79",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Speech",
+      "highlight": "mary",
+      "speaker": "mary",
+      "scenario_localkey": "d_ex_hospital_03_79",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_80",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Self",
+      "scenario_localkey": "d_ex_hospital_03_80",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_81",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Speech",
+      "highlight": "mary",
+      "speaker": "mary",
+      "scenario_localkey": "d_ex_hospital_03_81",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_82",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Speech",
+      "highlight": "mary",
+      "speaker": "mary",
+      "scenario_localkey": "d_ex_hospital_03_82",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_hospital_03_83",
+      "group_id": "d_ex_hospital_03",
+      "speech_window": "Monologue",
+      "scenario_localkey": "d_ex_hospital_03_83",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "hide_char_id": "mary",
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "none",
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    }
+  ]
+}

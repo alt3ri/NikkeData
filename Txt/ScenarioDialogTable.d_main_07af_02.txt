@@ -1,0 +1,1286 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": "d_main_07af_02_1",
+      "group_id": "d_main_07af_02",
+      "speech_window": "Narration",
+      "highlight": "Narration",
+      "speaker": "Narration",
+      "scenario_localkey": "d_main_07af_02_1",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "CommanderRoom",
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "play_bgm": "none",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_07af_02_2",
+      "group_id": "d_main_07af_02",
+      "speech_window": "Narration",
+      "highlight": "Narration",
+      "scenario_localkey": "d_main_07af_02_2",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "play_bgm": "bgm_inark",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_07af_02_3",
+      "group_id": "d_main_07af_02",
+      "speech_window": "Narration",
+      "highlight": "Narration",
+      "scenario_localkey": "d_main_07af_02_3",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_07af_02_4",
+      "group_id": "d_main_07af_02",
+      "speech_window": "Narration",
+      "highlight": "Narration",
+      "scenario_localkey": "d_main_07af_02_4",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_07af_02_5",
+      "group_id": "d_main_07af_02",
+      "speech_window": "Narration",
+      "highlight": "Narration",
+      "speaker": "Narration",
+      "scenario_localkey": "d_main_07af_02_5",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "play_sound": "sfx_scn_steelfall",
+      "effects": [
+        {},
+        {}
+      ],
+      "set_camera_shake": "Low_2"
+    },
+    {
+      "id": "d_main_07af_02_6",
+      "group_id": "d_main_07af_02",
+      "speech_window": "Narration",
+      "highlight": "Narration",
+      "scenario_localkey": "d_main_07af_02_6",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_07af_02_7",
+      "group_id": "d_main_07af_02",
+      "speech_window": "Narration",
+      "highlight": "Narration",
+      "scenario_localkey": "d_main_07af_02_7",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_07af_02_8",
+      "group_id": "d_main_07af_02",
+      "speech_window": "Narration",
+      "highlight": "Narration",
+      "scenario_localkey": "d_main_07af_02_8",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "show_char_id": "snowwhite",
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_07af_02_9",
+      "group_id": "d_main_07af_02",
+      "speech_window": "Speech",
+      "highlight": "snowwhite",
+      "speaker": "snowwhite",
+      "scenario_localkey": "d_main_07af_02_9",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_07af_02_10",
+      "group_id": "d_main_07af_02",
+      "speech_window": "Speech",
+      "highlight": "snowwhite",
+      "speaker": "snowwhite",
+      "scenario_localkey": "d_main_07af_02_10",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_07af_02_11",
+      "group_id": "d_main_07af_02",
+      "speech_window": "Monologue",
+      "scenario_localkey": "d_main_07af_02_11",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_07af_02_12",
+      "group_id": "d_main_07af_02",
+      "speech_window": "Speech",
+      "highlight": "snowwhite",
+      "speaker": "snowwhite",
+      "scenario_localkey": "d_main_07af_02_12",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_07af_02_13",
+      "group_id": "d_main_07af_02",
+      "speech_window": "Self",
+      "highlight": "snowwhite",
+      "speaker": "Self",
+      "scenario_localkey": "d_main_07af_02_13",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_07af_02_14",
+      "group_id": "d_main_07af_02",
+      "speech_window": "Speech",
+      "highlight": "snowwhite",
+      "speaker": "snowwhite",
+      "scenario_localkey": "d_main_07af_02_14",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_07af_02_15",
+      "group_id": "d_main_07af_02",
+      "speech_window": "Speech",
+      "highlight": "snowwhite",
+      "speaker": "snowwhite",
+      "scenario_localkey": "d_main_07af_02_15",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_07af_02_16",
+      "group_id": "d_main_07af_02",
+      "speech_window": "Self",
+      "highlight": "snowwhite",
+      "speaker": "Self",
+      "scenario_localkey": "d_main_07af_02_16",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_07af_02_17",
+      "group_id": "d_main_07af_02",
+      "speech_window": "Speech",
+      "highlight": "snowwhite",
+      "speaker": "snowwhite",
+      "scenario_localkey": "d_main_07af_02_17",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_07af_02_18",
+      "group_id": "d_main_07af_02",
+      "speech_window": "Speech",
+      "highlight": "snowwhite",
+      "speaker": "snowwhite",
+      "scenario_localkey": "d_main_07af_02_18",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_07af_02_19",
+      "group_id": "d_main_07af_02",
+      "speech_window": "Narration",
+      "highlight": "Narration",
+      "speaker": "Narration",
+      "scenario_localkey": "d_main_07af_02_19",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_07af_02_20",
+      "group_id": "d_main_07af_02",
+      "speech_window": "Speech",
+      "highlight": "snowwhite",
+      "speaker": "snowwhite",
+      "scenario_localkey": "d_main_07af_02_20",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_07af_02_21",
+      "group_id": "d_main_07af_02",
+      "speech_window": "Speech",
+      "highlight": "snowwhite",
+      "speaker": "snowwhite",
+      "scenario_localkey": "d_main_07af_02_21",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_07af_02_22",
+      "group_id": "d_main_07af_02",
+      "speech_window": "Self",
+      "highlight": "snowwhite",
+      "speaker": "Self",
+      "scenario_localkey": "d_main_07af_02_22",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_07af_02_23",
+      "group_id": "d_main_07af_02",
+      "speech_window": "Speech",
+      "highlight": "snowwhite",
+      "speaker": "snowwhite",
+      "scenario_localkey": "d_main_07af_02_23",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_07af_02_24",
+      "group_id": "d_main_07af_02",
+      "speech_window": "Self",
+      "highlight": "snowwhite",
+      "speaker": "Self",
+      "scenario_localkey": "d_main_07af_02_24",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_07af_02_25",
+      "group_id": "d_main_07af_02",
+      "speech_window": "Speech",
+      "highlight": "snowwhite",
+      "speaker": "snowwhite",
+      "scenario_localkey": "d_main_07af_02_25",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_07af_02_26",
+      "group_id": "d_main_07af_02",
+      "speech_window": "Speech",
+      "highlight": "snowwhite",
+      "speaker": "snowwhite",
+      "scenario_localkey": "d_main_07af_02_26",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_07af_02_27",
+      "group_id": "d_main_07af_02",
+      "speech_window": "Speech",
+      "highlight": "snowwhite",
+      "speaker": "snowwhite",
+      "scenario_localkey": "d_main_07af_02_27",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_07af_02_28",
+      "group_id": "d_main_07af_02",
+      "speech_window": "Self",
+      "highlight": "snowwhite",
+      "speaker": "Self",
+      "scenario_localkey": "d_main_07af_02_28",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_07af_02_29",
+      "group_id": "d_main_07af_02",
+      "speech_window": "Speech",
+      "highlight": "ludmilla",
+      "speaker": "ludmilla",
+      "scenario_localkey": "d_main_07af_02_29",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "hide_char_id": "snowwhite",
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "ludmilla",
+          "set_char_position": "5",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "IceLand_03",
+      "set_start_camera": "50",
+      "set_end_camera": "50",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Grey"
+    },
+    {
+      "id": "d_main_07af_02_30",
+      "group_id": "d_main_07af_02",
+      "speech_window": "Speech",
+      "highlight": "ludmilla",
+      "speaker": "ludmilla",
+      "scenario_localkey": "d_main_07af_02_30",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {
+          "set_char_position": "5",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "50",
+      "set_end_camera": "50",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Grey"
+    },
+    {
+      "id": "d_main_07af_02_31",
+      "group_id": "d_main_07af_02",
+      "speech_window": "Speech",
+      "highlight": "ludmilla",
+      "speaker": "ludmilla",
+      "scenario_localkey": "d_main_07af_02_31",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {
+          "set_char_position": "5",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "50",
+      "set_end_camera": "50",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Grey"
+    },
+    {
+      "id": "d_main_07af_02_32",
+      "group_id": "d_main_07af_02",
+      "speech_window": "Speech",
+      "highlight": "ludmilla",
+      "speaker": "ludmilla",
+      "scenario_localkey": "d_main_07af_02_32",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {
+          "set_char_position": "5",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "50",
+      "set_end_camera": "50",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Grey"
+    },
+    {
+      "id": "d_main_07af_02_33",
+      "group_id": "d_main_07af_02",
+      "speech_window": "Self",
+      "speaker": "Self",
+      "scenario_localkey": "d_main_07af_02_33",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "show_char_id": "snowwhite",
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "hide_char_id": "ludmilla",
+          "set_char_position": "5",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "CommanderRoom",
+      "set_start_camera": "100",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_07af_02_34",
+      "group_id": "d_main_07af_02",
+      "speech_window": "Speech",
+      "highlight": "snowwhite",
+      "speaker": "snowwhite",
+      "scenario_localkey": "d_main_07af_02_34",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_07af_02_35",
+      "group_id": "d_main_07af_02",
+      "speech_window": "Speech",
+      "highlight": "snowwhite",
+      "speaker": "snowwhite",
+      "scenario_localkey": "d_main_07af_02_35",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_07af_02_36",
+      "group_id": "d_main_07af_02",
+      "speech_window": "Speech",
+      "highlight": "snowwhite",
+      "speaker": "snowwhite",
+      "scenario_localkey": "d_main_07af_02_36",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_07af_02_37",
+      "group_id": "d_main_07af_02",
+      "speech_window": "Speech",
+      "highlight": "snowwhite",
+      "speaker": "snowwhite",
+      "scenario_localkey": "d_main_07af_02_37",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_07af_02_38",
+      "group_id": "d_main_07af_02",
+      "speech_window": "Narration",
+      "highlight": "Narration",
+      "speaker": "Narration",
+      "scenario_localkey": "d_main_07af_02_38",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "hide_char_id": "snowwhite",
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_07af_02_39",
+      "group_id": "d_main_07af_02",
+      "speech_window": "Self",
+      "speaker": "Self",
+      "scenario_localkey": "d_main_07af_02_39",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_07af_02_40",
+      "group_id": "d_main_07af_02",
+      "speech_window": "Narration",
+      "highlight": "Narration",
+      "speaker": "Narration",
+      "scenario_localkey": "d_main_07af_02_40",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "play_sound": "sfx_scn_phonevibration",
+      "play_bgm": "none",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_07af_02_41",
+      "group_id": "d_main_07af_02",
+      "speech_window": "Monologue",
+      "scenario_localkey": "d_main_07af_02_41",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "conversation_id": "m_main_07af",
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_07af_02_42",
+      "group_id": "d_main_07af_02",
+      "speech_window": "Monologue",
+      "scenario_localkey": "d_main_07af_02_42",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    }
+  ]
+}

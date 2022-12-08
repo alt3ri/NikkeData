@@ -1,0 +1,1082 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": "d_subquest_1104_1",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Speech",
+      "speaker": "landcrab",
+      "scenario_localkey": "d_subquest_1104_1",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "show_char_id": "raptilion",
+          "set_char_position": "5",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "raptilion_me",
+          "set_char_position": "9",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "IceLand_02",
+      "set_start_camera": "15",
+      "set_end_camera": "15",
+      "set_camera_duration": 1.0,
+      "play_bgm": "bgm_story_herecomestrouble",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_subquest_1104_2",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Speech",
+      "speaker": "squid",
+      "scenario_localkey": "d_subquest_1104_2",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "5",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "9",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "15",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_subquest_1104_3",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Speech",
+      "speaker": "raptilion",
+      "scenario_localkey": "d_subquest_1104_3",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "5",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "9",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "raptilion_5",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_subquest_1104_4",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Monologue",
+      "scenario_localkey": "d_subquest_1104_4",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "5",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "9",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_subquest_1104_5",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Speech",
+      "speaker": "raptilion",
+      "scenario_localkey": "d_subquest_1104_5",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "5",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "9",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "raptilion_5",
+      "set_end_camera": "raptilion_5",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_subquest_1104_6",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Speech",
+      "speaker": "raptilion",
+      "scenario_localkey": "d_subquest_1104_6",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "5",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "9",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "raptilion_5",
+      "set_end_camera": "raptilion_5",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_subquest_1104_7",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Speech",
+      "speaker": "raptilion",
+      "scenario_localkey": "d_subquest_1104_7",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "5",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "9",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "raptilion_5",
+      "set_end_camera": "15",
+      "set_camera_duration": 2.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_subquest_1104_8",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Speech",
+      "speaker": "raptilion",
+      "scenario_localkey": "d_subquest_1104_8",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "5",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "9",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "15",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_subquest_1104_9",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Speech",
+      "speaker": "raptilion",
+      "scenario_localkey": "d_subquest_1104_9",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "5",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "9",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "raptilion_5",
+      "set_end_camera": "raptilion_5",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_subquest_1104_10",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Speech",
+      "speaker": "raptilion",
+      "scenario_localkey": "d_subquest_1104_10",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "5",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "9",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "raptilion_5",
+      "set_end_camera": "raptilion_5",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_subquest_1104_11",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Speech",
+      "speaker": "raptilion",
+      "scenario_localkey": "d_subquest_1104_11",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "5",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "9",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "raptilion_5",
+      "set_end_camera": "raptilion_5",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_subquest_1104_12",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Monologue",
+      "scenario_localkey": "d_subquest_1104_12",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "5",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "9",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "raptilion_5",
+      "set_end_camera": "raptilion_9",
+      "set_camera_duration": 1.0,
+      "play_sound": "sfx_scn_machinefan",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_subquest_1104_13",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Speech",
+      "speaker": "raptilion",
+      "scenario_localkey": "d_subquest_1104_13",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "5",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "9",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "raptilion_9",
+      "set_end_camera": "raptilion_5",
+      "set_camera_duration": 0.5,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_subquest_1104_14",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Speech",
+      "speaker": "raptilion",
+      "scenario_localkey": "d_subquest_1104_14",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "5",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "9",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "raptilion_5",
+      "set_end_camera": "12",
+      "set_camera_duration": 2.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_subquest_1104_15",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Speech",
+      "speaker": "landcrab",
+      "scenario_localkey": "d_subquest_1104_15",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "5",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "9",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_subquest_1104_16",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Speech",
+      "speaker": "raptilion",
+      "scenario_localkey": "d_subquest_1104_16",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "5",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "9",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "raptilion_5",
+      "set_end_camera": "raptilion_5",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_subquest_1104_17",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Speech",
+      "speaker": "raptilion",
+      "scenario_localkey": "d_subquest_1104_17",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "5",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "9",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "raptilion_5",
+      "set_end_camera": "raptilion_5",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_subquest_1104_18",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Speech",
+      "speaker": "raptilion",
+      "scenario_localkey": "d_subquest_1104_18",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "5",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "9",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "raptilion_5",
+      "set_end_camera": "raptilion_5",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_subquest_1104_19",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Speech",
+      "speaker": "raptilion",
+      "scenario_localkey": "d_subquest_1104_19",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "5",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "9",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "raptilion_5",
+      "set_end_camera": "raptilion_5",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_subquest_1104_20",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Speech",
+      "speaker": "raptilion",
+      "scenario_localkey": "d_subquest_1104_20",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "5",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "9",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "15",
+      "set_camera_duration": 2.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_subquest_1104_21",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Speech",
+      "speaker": "raptilion",
+      "scenario_localkey": "d_subquest_1104_21",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "5",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "9",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "15",
+      "set_end_camera": "15",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_subquest_1104_22",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Speech",
+      "speaker": "squid",
+      "scenario_localkey": "d_subquest_1104_22",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "5",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "9",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_subquest_1104_23",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Speech",
+      "speaker": "raptilion",
+      "scenario_localkey": "d_subquest_1104_23",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "5",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "9",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "raptilion_5",
+      "set_end_camera": "raptilion_5",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_subquest_1104_24",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Speech",
+      "speaker": "raptilion",
+      "scenario_localkey": "d_subquest_1104_24",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "5",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "9",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "raptilion_5",
+      "set_end_camera": "raptilion_5",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_subquest_1104_25",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Monologue",
+      "scenario_localkey": "d_subquest_1104_25",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "5",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "9",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "raptilion_5",
+      "set_end_camera": "raptilion_9",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_subquest_1104_26",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Narration",
+      "scenario_localkey": "d_subquest_1104_26",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "5",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "9",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "raptilion_9",
+      "set_end_camera": "raptilion_9",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_subquest_1104_27",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Speech",
+      "speaker": "squid",
+      "scenario_localkey": "d_subquest_1104_27",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "5",
+          "set_char_anim": "idle"
+        },
+        {
+          "hide_char_id": "raptilion_me",
+          "set_char_position": "9",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "raptilion_9",
+      "set_end_camera": "15",
+      "set_camera_duration": 0.5,
+      "play_sound": "sfx_scn_rapturecry",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_subquest_1104_28",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Speech",
+      "speaker": "raptilion",
+      "scenario_localkey": "d_subquest_1104_28",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "5",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "raptilion_5",
+      "set_end_camera": "raptilion_5",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_subquest_1104_29",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Speech",
+      "speaker": "raptilion",
+      "scenario_localkey": "d_subquest_1104_29",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "5",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "raptilion_5",
+      "set_end_camera": "raptilion_5",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_subquest_1104_30",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Speech",
+      "speaker": "raptilion",
+      "scenario_localkey": "d_subquest_1104_30",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "5",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "raptilion_5",
+      "set_end_camera": "raptilion_5",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_subquest_1104_31",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Speech",
+      "speaker": "raptilion",
+      "scenario_localkey": "d_subquest_1104_31",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "7",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "raptilion_5",
+      "set_end_camera": "raptilion_7",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_camera_shake": "Low_2"
+    },
+    {
+      "id": "d_subquest_1104_32",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Speech",
+      "speaker": "raptilion",
+      "scenario_localkey": "d_subquest_1104_32",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "9",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "raptilion_7",
+      "set_end_camera": "raptilion_9",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_camera_shake": "Low_2"
+    },
+    {
+      "id": "d_subquest_1104_33",
+      "group_id": "d_subquest_1104",
+      "speech_window": "Speech",
+      "speaker": "raptilion",
+      "scenario_localkey": "d_subquest_1104_33",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "7",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "raptilion_9",
+      "set_end_camera": "raptilion_7",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_camera_shake": "Low_2"
+    }
+  ]
+}

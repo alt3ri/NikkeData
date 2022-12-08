@@ -1,0 +1,38 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1,
+      "rarity": "R",
+      "reward": {
+        "reward_percent": 1000000,
+        "percent_display_type": "None",
+        "reward_type": "Currency",
+        "reward_id": 9000,
+        "reward_value": 150
+      }
+    },
+    {
+      "id": 2,
+      "rarity": "SR",
+      "reward": {
+        "reward_percent": 1000000,
+        "percent_display_type": "None",
+        "reward_type": "Currency",
+        "reward_id": 9000,
+        "reward_value": 200
+      }
+    },
+    {
+      "id": 3,
+      "rarity": "SSR",
+      "reward": {
+        "reward_percent": 1000000,
+        "percent_display_type": "None",
+        "reward_type": "Currency",
+        "reward_id": 9000,
+        "reward_value": 6000
+      }
+    }
+  ]
+}

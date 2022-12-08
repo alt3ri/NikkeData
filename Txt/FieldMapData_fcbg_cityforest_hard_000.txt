@@ -1,0 +1,35 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": "fcbg_cityforest_hard_000",
+      "CameraPoint": [
+        {
+          "positionId": "3934a8fa-7b57-47d0-b6fe-aefa3a189eab"
+        }
+      ],
+      "SquadSpawner": [
+        {
+          "positionId": "b9b48e26-e6d5-4840-abd7-9888b5fc54e2"
+        }
+      ],
+      "StageSpawner": [
+        {
+          "positionId": "62686b45-f560-4060-b9d1-ee3c02a45aef",
+          "stageId": 7000001,
+          "eventState": 0
+        },
+        {
+          "positionId": "d622cbba-ab04-42cb-80bc-a8d5ab7ab3b0",
+          "stageId": 7000002,
+          "eventState": 0
+        },
+        {
+          "positionId": "de2b0557-6e7a-4685-971b-d82d3ee42dd7",
+          "stageId": 7000003,
+          "eventState": 0
+        }
+      ]
+    }
+  ]
+}

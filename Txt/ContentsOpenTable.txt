@@ -1,0 +1,1192 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 0,
+      "view_condition_type": "None",
+      "view_condition_value": 0,
+      "open_condition": [
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "enable_unlock_play_popup": false,
+      "enable_unlock_play_button": false
+    },
+    {
+      "id": 1,
+      "view_condition_type": "None",
+      "view_condition_value": 0,
+      "open_condition": [
+        {
+          "open_condition_type": "StageClear",
+          "open_condition_value": 6003003
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": true,
+      "enable_unlock_play_button": true
+    },
+    {
+      "id": 2,
+      "view_condition_type": "None",
+      "view_condition_value": 0,
+      "open_condition": [
+        {
+          "open_condition_type": "StageClear",
+          "open_condition_value": 6002008
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": true,
+      "enable_unlock_play_button": true
+    },
+    {
+      "id": 3,
+      "view_condition_type": "None",
+      "view_condition_value": 0,
+      "open_condition": [
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": true,
+      "enable_unlock_play_button": true
+    },
+    {
+      "id": 4,
+      "view_condition_type": "None",
+      "view_condition_value": 0,
+      "open_condition": [
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": true,
+      "enable_unlock_play_button": true
+    },
+    {
+      "id": 5,
+      "view_condition_type": "None",
+      "view_condition_value": 0,
+      "open_condition": [
+        {
+          "open_condition_type": "MainQuest",
+          "open_condition_value": 21
+        },
+        {
+          "open_condition_type": "StageClear",
+          "open_condition_value": 6002016
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": true,
+      "enable_unlock_play_button": true
+    },
+    {
+      "id": 6,
+      "view_condition_type": "None",
+      "view_condition_value": 0,
+      "open_condition": [
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": true,
+      "enable_unlock_play_button": true
+    },
+    {
+      "id": 7,
+      "view_condition_type": "None",
+      "view_condition_value": 0,
+      "open_condition": [
+        {
+          "open_condition_type": "StageClear",
+          "open_condition_value": 6005003
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": true,
+      "enable_unlock_play_button": true
+    },
+    {
+      "id": 8,
+      "view_condition_type": "None",
+      "view_condition_value": 0,
+      "open_condition": [
+        {
+          "open_condition_type": "UserLevel",
+          "open_condition_value": 10
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": true,
+      "enable_unlock_play_button": true
+    },
+    {
+      "id": 9,
+      "view_condition_type": "UserLevel",
+      "view_condition_value": 10,
+      "open_condition": [
+        {
+          "open_condition_type": "UserLevel",
+          "open_condition_value": 10
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": true,
+      "enable_unlock_play_button": true
+    },
+    {
+      "id": 10,
+      "view_condition_type": "StageClear",
+      "view_condition_value": 6003021,
+      "open_condition": [
+        {
+          "open_condition_type": "StageClear",
+          "open_condition_value": 6003021
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": true,
+      "enable_unlock_play_button": true
+    },
+    {
+      "id": 11,
+      "view_condition_type": "None",
+      "view_condition_value": 0,
+      "open_condition": [
+        {
+          "open_condition_type": "StageClear",
+          "open_condition_value": 6003021
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": true,
+      "enable_unlock_play_button": true
+    },
+    {
+      "id": 12,
+      "view_condition_type": "None",
+      "view_condition_value": 0,
+      "open_condition": [
+        {
+          "open_condition_type": "StageClear",
+          "open_condition_value": 6011018
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": true,
+      "enable_unlock_play_button": true
+    },
+    {
+      "id": 13,
+      "view_condition_type": "None",
+      "view_condition_value": 0,
+      "open_condition": [
+        {
+          "open_condition_type": "Preparing",
+          "open_condition_value": 0
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": true,
+      "enable_unlock_play_button": true
+    },
+    {
+      "id": 14,
+      "view_condition_type": "None",
+      "view_condition_value": 0,
+      "open_condition": [
+        {
+          "open_condition_type": "StageClear",
+          "open_condition_value": 6007021
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": true,
+      "enable_unlock_play_button": true
+    },
+    {
+      "id": 15,
+      "view_condition_type": "None",
+      "view_condition_value": 0,
+      "open_condition": [
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": true,
+      "enable_unlock_play_button": true
+    },
+    {
+      "id": 16,
+      "view_condition_type": "None",
+      "view_condition_value": 0,
+      "open_condition": [
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": true,
+      "enable_unlock_play_button": true
+    },
+    {
+      "id": 17,
+      "view_condition_type": "UserLevel",
+      "view_condition_value": 9999,
+      "open_condition": [
+        {
+          "open_condition_type": "Preparing",
+          "open_condition_value": 0
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": true,
+      "enable_unlock_play_button": true
+    },
+    {
+      "id": 18,
+      "view_condition_type": "None",
+      "view_condition_value": 0,
+      "open_condition": [
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": true,
+      "enable_unlock_play_button": true
+    },
+    {
+      "id": 19,
+      "view_condition_type": "None",
+      "view_condition_value": 0,
+      "open_condition": [
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": true,
+      "enable_unlock_play_button": true
+    },
+    {
+      "id": 20,
+      "view_condition_type": "UserLevel",
+      "view_condition_value": 9999,
+      "open_condition": [
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": false,
+      "enable_unlock_play_button": false
+    },
+    {
+      "id": 21,
+      "view_condition_type": "None",
+      "view_condition_value": 0,
+      "open_condition": [
+        {
+          "open_condition_type": "StageClear",
+          "open_condition_value": 6004018
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE_SYNCHRODEVICE",
+      "enable_unlock_play_popup": true,
+      "enable_unlock_play_button": true
+    },
+    {
+      "id": 22,
+      "view_condition_type": "None",
+      "view_condition_value": 0,
+      "open_condition": [
+        {
+          "open_condition_type": "StageClear",
+          "open_condition_value": 6005013
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE_RECYCLEROOM",
+      "enable_unlock_play_popup": true,
+      "enable_unlock_play_button": true
+    },
+    {
+      "id": 23,
+      "view_condition_type": "None",
+      "view_condition_value": 0,
+      "open_condition": [
+        {
+          "open_condition_type": "StageClear",
+          "open_condition_value": 6003009
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE_TACTICACADEMY",
+      "enable_unlock_play_popup": true,
+      "enable_unlock_play_button": true
+    },
+    {
+      "id": 24,
+      "view_condition_type": "None",
+      "view_condition_value": 0,
+      "open_condition": [
+        {
+          "open_condition_type": "StageClear",
+          "open_condition_value": 6003012
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": false,
+      "enable_unlock_play_button": true
+    },
+    {
+      "id": 25,
+      "view_condition_type": "None",
+      "view_condition_value": 0,
+      "open_condition": [
+        {
+          "open_condition_type": "StageClear",
+          "open_condition_value": 6009017
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": true,
+      "enable_unlock_play_button": true
+    },
+    {
+      "id": 26,
+      "view_condition_type": "None",
+      "view_condition_value": 0,
+      "open_condition": [
+        {
+          "open_condition_type": "StageClear",
+          "open_condition_value": 6016039
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": true,
+      "enable_unlock_play_button": true
+    },
+    {
+      "id": 27,
+      "view_condition_type": "UserLevel",
+      "view_condition_value": 99,
+      "open_condition": [
+        {
+          "open_condition_type": "UserLevel",
+          "open_condition_value": 99
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": false,
+      "enable_unlock_play_button": false
+    },
+    {
+      "id": 28,
+      "view_condition_type": "StageClear",
+      "view_condition_value": 6001004,
+      "open_condition": [
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": false,
+      "enable_unlock_play_button": false
+    },
+    {
+      "id": 29,
+      "view_condition_type": "StageClear",
+      "view_condition_value": 6000003,
+      "open_condition": [
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": false,
+      "enable_unlock_play_button": false
+    },
+    {
+      "id": 30,
+      "view_condition_type": "StageClear",
+      "view_condition_value": 6000001,
+      "open_condition": [
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": false,
+      "enable_unlock_play_button": false
+    },
+    {
+      "id": 31,
+      "view_condition_type": "StageClear",
+      "view_condition_value": 6001004,
+      "open_condition": [
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": false,
+      "enable_unlock_play_button": false
+    },
+    {
+      "id": 32,
+      "view_condition_type": "None",
+      "view_condition_value": 0,
+      "open_condition": [
+        {
+          "open_condition_type": "MainQuest",
+          "open_condition_value": 12
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": false,
+      "enable_unlock_play_button": false
+    },
+    {
+      "id": 33,
+      "view_condition_type": "None",
+      "view_condition_value": 0,
+      "open_condition": [
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": false,
+      "enable_unlock_play_button": false
+    },
+    {
+      "id": 34,
+      "view_condition_type": "None",
+      "view_condition_value": 0,
+      "open_condition": [
+        {
+          "open_condition_type": "StageClear",
+          "open_condition_value": 6002001
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": false,
+      "enable_unlock_play_button": false
+    },
+    {
+      "id": 35,
+      "view_condition_type": "None",
+      "view_condition_value": 0,
+      "open_condition": [
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": false,
+      "enable_unlock_play_button": false
+    },
+    {
+      "id": 36,
+      "view_condition_type": "None",
+      "view_condition_value": 0,
+      "open_condition": [
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": false,
+      "enable_unlock_play_button": false
+    },
+    {
+      "id": 37,
+      "view_condition_type": "None",
+      "view_condition_value": 0,
+      "open_condition": [
+        {
+          "open_condition_type": "StageClear",
+          "open_condition_value": 6001004
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": false,
+      "enable_unlock_play_button": false
+    },
+    {
+      "id": 38,
+      "view_condition_type": "None",
+      "view_condition_value": 0,
+      "open_condition": [
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": false,
+      "enable_unlock_play_button": false
+    },
+    {
+      "id": 39,
+      "view_condition_type": "None",
+      "view_condition_value": 0,
+      "open_condition": [
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": false,
+      "enable_unlock_play_button": false
+    },
+    {
+      "id": 40,
+      "view_condition_type": "None",
+      "view_condition_value": 0,
+      "open_condition": [
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": false,
+      "enable_unlock_play_button": false
+    },
+    {
+      "id": 41,
+      "view_condition_type": "None",
+      "view_condition_value": 0,
+      "open_condition": [
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": false,
+      "enable_unlock_play_button": false
+    },
+    {
+      "id": 42,
+      "view_condition_type": "StageClear",
+      "view_condition_value": 6002001,
+      "open_condition": [
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": false,
+      "enable_unlock_play_button": false
+    },
+    {
+      "id": 43,
+      "view_condition_type": "StageClear",
+      "view_condition_value": 6001004,
+      "open_condition": [
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": false,
+      "enable_unlock_play_button": false
+    },
+    {
+      "id": 44,
+      "view_condition_type": "None",
+      "view_condition_value": 0,
+      "open_condition": [
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": false,
+      "enable_unlock_play_button": false
+    },
+    {
+      "id": 45,
+      "view_condition_type": "None",
+      "view_condition_value": 0,
+      "open_condition": [
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": false,
+      "enable_unlock_play_button": false
+    },
+    {
+      "id": 46,
+      "view_condition_type": "UserLevel",
+      "view_condition_value": 9999,
+      "open_condition": [
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": false,
+      "enable_unlock_play_button": false
+    },
+    {
+      "id": 47,
+      "view_condition_type": "UserLevel",
+      "view_condition_value": 9999,
+      "open_condition": [
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": false,
+      "enable_unlock_play_button": false
+    },
+    {
+      "id": 48,
+      "view_condition_type": "None",
+      "view_condition_value": 0,
+      "open_condition": [
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": false,
+      "enable_unlock_play_button": false
+    },
+    {
+      "id": 49,
+      "view_condition_type": "None",
+      "view_condition_value": 0,
+      "open_condition": [
+        {
+          "open_condition_type": "StageClear",
+          "open_condition_value": 6004023
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": false,
+      "enable_unlock_play_button": false
+    },
+    {
+      "id": 50,
+      "view_condition_type": "None",
+      "view_condition_value": 0,
+      "open_condition": [
+        {
+          "open_condition_type": "MainQuest",
+          "open_condition_value": 22
+        },
+        {
+          "open_condition_type": "StageClear",
+          "open_condition_value": 6002016
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": false,
+      "enable_unlock_play_button": false
+    },
+    {
+      "id": 51,
+      "view_condition_type": "None",
+      "view_condition_value": 0,
+      "open_condition": [
+        {
+          "open_condition_type": "MainQuest",
+          "open_condition_value": 25
+        },
+        {
+          "open_condition_type": "StageClear",
+          "open_condition_value": 6002016
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": false,
+      "enable_unlock_play_button": false
+    },
+    {
+      "id": 52,
+      "view_condition_type": "None",
+      "view_condition_value": 0,
+      "open_condition": [
+        {
+          "open_condition_type": "MainQuest",
+          "open_condition_value": 21
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": false,
+      "enable_unlock_play_button": false
+    },
+    {
+      "id": 53,
+      "view_condition_type": "None",
+      "view_condition_value": 0,
+      "open_condition": [
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": false,
+      "enable_unlock_play_button": false
+    },
+    {
+      "id": 54,
+      "view_condition_type": "None",
+      "view_condition_value": 0,
+      "open_condition": [
+        {
+          "open_condition_type": "MaxGachaPremiumCount",
+          "open_condition_value": 40
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": true,
+      "enable_unlock_play_button": true
+    },
+    {
+      "id": 55,
+      "view_condition_type": "MainQuest",
+      "view_condition_value": 22,
+      "open_condition": [
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": false,
+      "enable_unlock_play_button": false
+    },
+    {
+      "id": 56,
+      "view_condition_type": "None",
+      "view_condition_value": 0,
+      "open_condition": [
+        {
+          "open_condition_type": "StageClear",
+          "open_condition_value": 6001004
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": false,
+      "enable_unlock_play_button": false
+    },
+    {
+      "id": 57,
+      "view_condition_type": "None",
+      "view_condition_value": 0,
+      "open_condition": [
+        {
+          "open_condition_type": "StageClear",
+          "open_condition_value": 6001004
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": false,
+      "enable_unlock_play_button": false
+    },
+    {
+      "id": 58,
+      "view_condition_type": "StageClear",
+      "view_condition_value": 6001004,
+      "open_condition": [
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": false,
+      "enable_unlock_play_button": false
+    },
+    {
+      "id": 59,
+      "view_condition_type": "MaxGachaCount",
+      "view_condition_value": 10,
+      "open_condition": [
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": false,
+      "enable_unlock_play_button": false
+    },
+    {
+      "id": 60,
+      "view_condition_type": "None",
+      "view_condition_value": 0,
+      "open_condition": [
+        {
+          "open_condition_type": "MainQuest",
+          "open_condition_value": 9
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": true,
+      "enable_unlock_play_button": true
+    },
+    {
+      "id": 61,
+      "view_condition_type": "UserLevel",
+      "view_condition_value": 9999,
+      "open_condition": [
+        {
+          "open_condition_type": "Preparing",
+          "open_condition_value": 0
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": false,
+      "enable_unlock_play_button": false
+    },
+    {
+      "id": 62,
+      "view_condition_type": "None",
+      "view_condition_value": 0,
+      "open_condition": [
+        {
+          "open_condition_type": "StageClear",
+          "open_condition_value": 6003012
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": true,
+      "enable_unlock_play_button": true
+    },
+    {
+      "id": 63,
+      "view_condition_type": "StageClear",
+      "view_condition_value": 6001004,
+      "open_condition": [
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": false,
+      "enable_unlock_play_button": false
+    },
+    {
+      "id": 64,
+      "view_condition_type": "UserLevel",
+      "view_condition_value": 99,
+      "open_condition": [
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": false,
+      "enable_unlock_play_button": false
+    },
+    {
+      "id": 65,
+      "view_condition_type": "UserLevel",
+      "view_condition_value": 99,
+      "open_condition": [
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": false,
+      "enable_unlock_play_button": false
+    }
+  ]
+}

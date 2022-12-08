@@ -1,0 +1,25 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1,
+      "mileage_count": 20,
+      "reward_id": 80020
+    },
+    {
+      "id": 2,
+      "mileage_count": 50,
+      "reward_id": 80050
+    },
+    {
+      "id": 3,
+      "mileage_count": 70,
+      "reward_id": 80070
+    },
+    {
+      "id": 4,
+      "mileage_count": 100,
+      "reward_id": 80100
+    }
+  ]
+}

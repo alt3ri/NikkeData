@@ -1,0 +1,320 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 111,
+      "location": "Start",
+      "chapter": 1,
+      "dialogue_localkey": "SIMULATIONROOM_DIALOGUE_LOCATION_Start_1_1",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_LOCATION_Start_1_1",
+      "set_char_anim": "idle",
+      "weight": 1000
+    },
+    {
+      "id": 112,
+      "location": "Start",
+      "chapter": 1,
+      "dialogue_localkey": "SIMULATIONROOM_DIALOGUE_LOCATION_Start_1_2",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_LOCATION_Start_1_2",
+      "set_char_anim": "idle",
+      "weight": 1000
+    },
+    {
+      "id": 113,
+      "location": "Start",
+      "chapter": 1,
+      "dialogue_localkey": "SIMULATIONROOM_DIALOGUE_LOCATION_Start_1_3",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_LOCATION_Start_1_3",
+      "set_char_anim": "idle",
+      "weight": 1000
+    },
+    {
+      "id": 121,
+      "location": "Start",
+      "chapter": 2,
+      "dialogue_localkey": "SIMULATIONROOM_DIALOGUE_LOCATION_Start_2_1",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_LOCATION_Start_2_1",
+      "set_char_anim": "idle",
+      "weight": 1000
+    },
+    {
+      "id": 122,
+      "location": "Start",
+      "chapter": 2,
+      "dialogue_localkey": "SIMULATIONROOM_DIALOGUE_LOCATION_Start_2_2",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_LOCATION_Start_2_2",
+      "set_char_anim": "idle",
+      "weight": 1000
+    },
+    {
+      "id": 123,
+      "location": "Start",
+      "chapter": 2,
+      "dialogue_localkey": "SIMULATIONROOM_DIALOGUE_LOCATION_Start_2_3",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_LOCATION_Start_2_3",
+      "set_char_anim": "angry",
+      "weight": 1000
+    },
+    {
+      "id": 131,
+      "location": "Start",
+      "chapter": 3,
+      "dialogue_localkey": "SIMULATIONROOM_DIALOGUE_LOCATION_Start_3_1",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_LOCATION_Start_3_1",
+      "set_char_anim": "idle",
+      "weight": 1000
+    },
+    {
+      "id": 132,
+      "location": "Start",
+      "chapter": 3,
+      "dialogue_localkey": "SIMULATIONROOM_DIALOGUE_LOCATION_Start_3_2",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_LOCATION_Start_3_2",
+      "set_char_anim": "idle",
+      "weight": 1000
+    },
+    {
+      "id": 133,
+      "location": "Start",
+      "chapter": 3,
+      "dialogue_localkey": "SIMULATIONROOM_DIALOGUE_LOCATION_Start_3_3",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_LOCATION_Start_3_3",
+      "set_char_anim": "special",
+      "weight": 1000
+    },
+    {
+      "id": 211,
+      "location": "JustBeforeEnd",
+      "chapter": 1,
+      "dialogue_localkey": "SIMULATIONROOM_DIALOGUE_LOCATION_JustBeforeEnd_1_1",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_LOCATION_JustBeforeEnd_1_1",
+      "set_char_anim": "think",
+      "weight": 1000
+    },
+    {
+      "id": 212,
+      "location": "JustBeforeEnd",
+      "chapter": 1,
+      "dialogue_localkey": "SIMULATIONROOM_DIALOGUE_LOCATION_JustBeforeEnd_1_2",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_LOCATION_JustBeforeEnd_1_2",
+      "set_char_anim": "think",
+      "weight": 1000
+    },
+    {
+      "id": 213,
+      "location": "JustBeforeEnd",
+      "chapter": 1,
+      "dialogue_localkey": "SIMULATIONROOM_DIALOGUE_LOCATION_JustBeforeEnd_1_3",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_LOCATION_JustBeforeEnd_1_3",
+      "set_char_anim": "think",
+      "weight": 1000
+    },
+    {
+      "id": 221,
+      "location": "JustBeforeEnd",
+      "chapter": 2,
+      "dialogue_localkey": "SIMULATIONROOM_DIALOGUE_LOCATION_JustBeforeEnd_2_1",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_LOCATION_JustBeforeEnd_2_1",
+      "set_char_anim": "idle",
+      "weight": 1000
+    },
+    {
+      "id": 222,
+      "location": "JustBeforeEnd",
+      "chapter": 2,
+      "dialogue_localkey": "SIMULATIONROOM_DIALOGUE_LOCATION_JustBeforeEnd_2_2",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_LOCATION_JustBeforeEnd_2_2",
+      "set_char_anim": "idle",
+      "weight": 1000
+    },
+    {
+      "id": 223,
+      "location": "JustBeforeEnd",
+      "chapter": 2,
+      "dialogue_localkey": "SIMULATIONROOM_DIALOGUE_LOCATION_JustBeforeEnd_2_3",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_LOCATION_JustBeforeEnd_2_3",
+      "set_char_anim": "idle",
+      "weight": 1000
+    },
+    {
+      "id": 231,
+      "location": "JustBeforeEnd",
+      "chapter": 3,
+      "dialogue_localkey": "SIMULATIONROOM_DIALOGUE_LOCATION_JustBeforeEnd_3_1",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_LOCATION_JustBeforeEnd_3_1",
+      "set_char_anim": "delight",
+      "weight": 1000
+    },
+    {
+      "id": 232,
+      "location": "JustBeforeEnd",
+      "chapter": 3,
+      "dialogue_localkey": "SIMULATIONROOM_DIALOGUE_LOCATION_JustBeforeEnd_3_2",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_LOCATION_JustBeforeEnd_3_2",
+      "set_char_anim": "angry",
+      "weight": 1000
+    },
+    {
+      "id": 233,
+      "location": "JustBeforeEnd",
+      "chapter": 3,
+      "dialogue_localkey": "SIMULATIONROOM_DIALOGUE_LOCATION_JustBeforeEnd_3_3",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_LOCATION_JustBeforeEnd_3_3",
+      "set_char_anim": "angry",
+      "weight": 1000
+    },
+    {
+      "id": 311,
+      "location": "End",
+      "chapter": 1,
+      "dialogue_localkey": "SIMULATIONROOM_DIALOGUE_LOCATION_End_1_1",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_LOCATION_End_1_1",
+      "set_char_anim": "idle",
+      "weight": 1000
+    },
+    {
+      "id": 312,
+      "location": "End",
+      "chapter": 1,
+      "dialogue_localkey": "SIMULATIONROOM_DIALOGUE_LOCATION_End_1_2",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_LOCATION_End_1_2",
+      "set_char_anim": "idle",
+      "weight": 1000
+    },
+    {
+      "id": 313,
+      "location": "End",
+      "chapter": 1,
+      "dialogue_localkey": "SIMULATIONROOM_DIALOGUE_LOCATION_End_1_3",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_LOCATION_End_1_3",
+      "set_char_anim": "idle",
+      "weight": 1000
+    },
+    {
+      "id": 321,
+      "location": "End",
+      "chapter": 2,
+      "dialogue_localkey": "SIMULATIONROOM_DIALOGUE_LOCATION_End_2_1",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_LOCATION_End_2_1",
+      "set_char_anim": "idle",
+      "weight": 1000
+    },
+    {
+      "id": 322,
+      "location": "End",
+      "chapter": 2,
+      "dialogue_localkey": "SIMULATIONROOM_DIALOGUE_LOCATION_End_2_2",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_LOCATION_End_2_2",
+      "set_char_anim": "angry",
+      "weight": 1000
+    },
+    {
+      "id": 323,
+      "location": "End",
+      "chapter": 2,
+      "dialogue_localkey": "SIMULATIONROOM_DIALOGUE_LOCATION_End_2_3",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_LOCATION_End_2_3",
+      "set_char_anim": "angry",
+      "weight": 1000
+    },
+    {
+      "id": 331,
+      "location": "End",
+      "chapter": 3,
+      "dialogue_localkey": "SIMULATIONROOM_DIALOGUE_LOCATION_End_3_1",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_LOCATION_End_3_1",
+      "set_char_anim": "angry",
+      "weight": 1000
+    },
+    {
+      "id": 332,
+      "location": "End",
+      "chapter": 3,
+      "dialogue_localkey": "SIMULATIONROOM_DIALOGUE_LOCATION_End_3_2",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_LOCATION_End_3_2",
+      "set_char_anim": "angry",
+      "weight": 1000
+    },
+    {
+      "id": 333,
+      "location": "End",
+      "chapter": 3,
+      "dialogue_localkey": "SIMULATIONROOM_DIALOGUE_LOCATION_End_3_3",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_LOCATION_End_3_3",
+      "set_char_anim": "angry",
+      "weight": 1000
+    },
+    {
+      "id": 412,
+      "location": "Random",
+      "chapter": 1,
+      "dialogue_localkey": "SIMULATIONROOM_DIALOGUE_LOCATION_Random_1_2",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_LOCATION_Random_1_2",
+      "set_char_anim": "delight",
+      "weight": 1000
+    },
+    {
+      "id": 413,
+      "location": "Random",
+      "chapter": 1,
+      "dialogue_localkey": "SIMULATIONROOM_DIALOGUE_LOCATION_Random_1_3",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_LOCATION_Random_1_3",
+      "set_char_anim": "delight",
+      "weight": 1000
+    },
+    {
+      "id": 421,
+      "location": "Random",
+      "chapter": 2,
+      "dialogue_localkey": "SIMULATIONROOM_DIALOGUE_LOCATION_Random_2_1",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_LOCATION_Random_2_1",
+      "set_char_anim": "think",
+      "weight": 1000
+    },
+    {
+      "id": 422,
+      "location": "Random",
+      "chapter": 2,
+      "dialogue_localkey": "SIMULATIONROOM_DIALOGUE_LOCATION_Random_2_2",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_LOCATION_Random_2_2",
+      "set_char_anim": "special",
+      "weight": 1000
+    },
+    {
+      "id": 423,
+      "location": "Random",
+      "chapter": 2,
+      "dialogue_localkey": "SIMULATIONROOM_DIALOGUE_LOCATION_Random_2_3",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_LOCATION_Random_2_3",
+      "set_char_anim": "special",
+      "weight": 1000
+    },
+    {
+      "id": 431,
+      "location": "Random",
+      "chapter": 3,
+      "dialogue_localkey": "SIMULATIONROOM_DIALOGUE_LOCATION_Random_3_1",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_LOCATION_Random_3_1",
+      "set_char_anim": "angry",
+      "weight": 1000
+    },
+    {
+      "id": 432,
+      "location": "Random",
+      "chapter": 3,
+      "dialogue_localkey": "SIMULATIONROOM_DIALOGUE_LOCATION_Random_3_2",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_LOCATION_Random_3_2",
+      "set_char_anim": "idle",
+      "weight": 1000
+    },
+    {
+      "id": 433,
+      "location": "Random",
+      "chapter": 3,
+      "dialogue_localkey": "SIMULATIONROOM_DIALOGUE_LOCATION_Random_3_3",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_LOCATION_Random_3_3",
+      "set_char_anim": "think",
+      "weight": 1000
+    }
+  ]
+}

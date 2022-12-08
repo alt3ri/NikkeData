@@ -1,0 +1,358 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": "fcbg_cityforest_006",
+      "CameraPoint": [
+        {
+          "positionId": "2f29db80-8655-4173-aa60-c8e875ac0a18"
+        }
+      ],
+      "SquadSpawner": [
+        {
+          "positionId": "d71edc37-3ff4-4018-8219-310efbc9f38d"
+        }
+      ],
+      "StageSpawner": [
+        {
+          "positionId": "4b221cb3-8f43-4869-867a-16bc75477cdb",
+          "stageId": 6015001,
+          "eventState": 0
+        },
+        {
+          "positionId": "7f892c92-83ba-437c-9e08-57169ec431fc",
+          "stageId": 6015002,
+          "eventState": 0
+        },
+        {
+          "positionId": "01424836-c8ff-42a9-9cc5-dc7002654c61",
+          "stageId": 6015003,
+          "eventState": 0
+        },
+        {
+          "positionId": "435d91e5-de76-4b0c-bbd1-d03cdf4d611e",
+          "stageId": 6015004,
+          "eventState": 0
+        },
+        {
+          "positionId": "6bdf9579-3689-4a39-8f45-433a61cfb2ee",
+          "stageId": 6015005,
+          "eventState": 0
+        },
+        {
+          "positionId": "c598cc52-e94f-403d-b179-df7f600438cb",
+          "stageId": 6015006,
+          "eventState": 0
+        },
+        {
+          "positionId": "5418a355-ee53-4147-a7c4-054ba962384d",
+          "stageId": 6015007,
+          "eventState": 0
+        },
+        {
+          "positionId": "0ff37f79-5112-4223-b385-93816349d65e",
+          "stageId": 6015008,
+          "eventState": 0
+        },
+        {
+          "positionId": "8ecab9b6-100e-478c-b7e0-408719da9817",
+          "stageId": 6015009,
+          "eventState": 0
+        },
+        {
+          "positionId": "c6607348-27b7-43bf-b7d3-4707a0148a4b",
+          "stageId": 6015013,
+          "eventState": 0
+        },
+        {
+          "positionId": "8779af93-cfc8-4ac8-bcbf-190b2f8d9048",
+          "stageId": 6015014,
+          "eventState": 0
+        },
+        {
+          "positionId": "fe1b4bed-c8b2-4b5c-ae88-57bbc5260837",
+          "stageId": 6015015,
+          "eventState": 0
+        },
+        {
+          "positionId": "7702f8fa-1544-4817-b34b-3c2f57748938",
+          "stageId": 6015016,
+          "eventState": 0
+        },
+        {
+          "positionId": "2e5a1d1a-7a28-4a9f-b122-54ed39dce9f5",
+          "stageId": 6015017,
+          "eventState": 0
+        },
+        {
+          "positionId": "a6d376e6-66ba-4247-854a-b6474029063d",
+          "stageId": 6015018,
+          "eventState": 0
+        },
+        {
+          "positionId": "7d6fefbd-46ac-4090-94ad-70179088e7b0",
+          "stageId": 6015019,
+          "eventState": 0
+        },
+        {
+          "positionId": "6df36d6f-929d-4766-950e-76237a055968",
+          "stageId": 6015020,
+          "eventState": 0
+        },
+        {
+          "positionId": "ee34162c-be4b-48c2-80e4-142009dee7d8",
+          "stageId": 6015021,
+          "eventState": 0
+        },
+        {
+          "positionId": "b9f1e0cb-e6cb-40b8-a83b-ff1740d7f60e",
+          "stageId": 6015024,
+          "eventState": 0
+        },
+        {
+          "positionId": "4f9facf5-e37f-4c70-86ed-9b38df6ba271",
+          "stageId": 6015025,
+          "eventState": 0
+        },
+        {
+          "positionId": "9bbdc001-a6d5-4519-93c5-79009c892632",
+          "stageId": 6015026,
+          "eventState": 0
+        },
+        {
+          "positionId": "c45e38ee-9aa8-4b42-ad15-a0402f61c1c1",
+          "stageId": 6015027,
+          "eventState": 0
+        },
+        {
+          "positionId": "b322db84-684f-486b-b8ee-f703fc9dd17d",
+          "stageId": 6015028,
+          "eventState": 0
+        },
+        {
+          "positionId": "80106cc6-0b16-4269-86ef-e889a0b2973d",
+          "stageId": 6015029,
+          "eventState": 0
+        },
+        {
+          "positionId": "95e1c504-ad6f-4261-8a95-9c21ca54dfee",
+          "stageId": 6015030,
+          "eventState": 0
+        },
+        {
+          "positionId": "83254f81-3b45-4cc2-893b-4d6b8665a633",
+          "stageId": 6015031,
+          "eventState": 0
+        },
+        {
+          "positionId": "c707c18d-125d-4ada-aab9-3b0860ba1f66",
+          "stageId": 6015032,
+          "eventState": 0
+        },
+        {
+          "positionId": "735237cf-aa99-4f46-86c5-521674ce6c56",
+          "stageId": 6015033,
+          "eventState": 0
+        },
+        {
+          "positionId": "da4aaf72-c004-45bc-8814-5f73c9f8b0b1",
+          "stageId": 6015034,
+          "eventState": 0
+        },
+        {
+          "positionId": "6699c519-2bb8-4f3b-a1d8-a6dd805e2621",
+          "stageId": 6015035,
+          "eventState": 0
+        },
+        {
+          "positionId": "486246e4-3e0c-4a81-b840-5ff45f831007",
+          "stageId": 6015036,
+          "eventState": 0
+        },
+        {
+          "positionId": "658c1983-3744-4d79-8d9f-42d1df606ba6",
+          "stageId": 6015037,
+          "eventState": 0
+        },
+        {
+          "positionId": "70a41e91-789a-4180-a433-b2ed8dca095e",
+          "stageId": 6015038,
+          "eventState": 0
+        },
+        {
+          "positionId": "eff7f37a-0d53-4fa3-a35a-91fc9aed4fb2",
+          "stageId": 6015039,
+          "eventState": 0
+        },
+        {
+          "positionId": "0de13ab1-6e9a-4cce-aa8e-ffb5fd457f65",
+          "stageId": 6015040,
+          "eventState": 0
+        },
+        {
+          "positionId": "7e9b6760-80eb-4440-a46a-4c07d76f904b",
+          "stageId": 6015041,
+          "eventState": 0
+        },
+        {
+          "positionId": "f200b496-0f15-42f3-8b79-e6aeb6f4939b",
+          "stageId": 6015042,
+          "eventState": 0
+        },
+        {
+          "positionId": "5563e476-59b4-41e0-80e1-44012c701bdc",
+          "stageId": 6015046,
+          "eventState": 2
+        },
+        {
+          "positionId": "f1962161-8303-4176-bf48-a610a792ac18",
+          "stageId": 6015047,
+          "eventState": 2
+        },
+        {
+          "positionId": "7fea111b-a47d-4603-bfd1-f55668d9ef68",
+          "stageId": 6015010,
+          "eventState": 2
+        },
+        {
+          "positionId": "6441dc39-71b2-4da3-972d-1cb3e7e2a314",
+          "stageId": 6015011,
+          "eventState": 2
+        },
+        {
+          "positionId": "8127f53d-4504-4a82-bfdd-8179dfbcd1b7",
+          "stageId": 6015012,
+          "eventState": 2
+        },
+        {
+          "positionId": "f2c9e084-2092-4090-962a-1e8f6e0b9e0d",
+          "stageId": 6015022,
+          "eventState": 2
+        },
+        {
+          "positionId": "9392b14c-30c1-4691-9d2e-c41a55676933",
+          "stageId": 6015023,
+          "eventState": 2
+        },
+        {
+          "positionId": "7fbd4d12-eb32-452d-9bd3-1ed76a193a21",
+          "stageId": 6015043,
+          "eventState": 2
+        },
+        {
+          "positionId": "e5c30071-a527-49fb-ac4c-4cb7a2be1636",
+          "stageId": 6015044,
+          "eventState": 2
+        },
+        {
+          "positionId": "4420982e-8513-4a94-b95b-b6665c0b84bc",
+          "stageId": 6015045,
+          "eventState": 2
+        }
+      ],
+      "Door": [
+        {
+          "positionId": "f0aed4f7-e533-41e2-8208-b53207668b1e",
+          "OnTrigger": false
+        },
+        {
+          "positionId": "21fe667d-0604-4307-8f59-ee15b71dc0a6",
+          "OnTrigger": false
+        },
+        {
+          "positionId": "48389664-98fb-4522-83f1-48dc5e27433e",
+          "OnTrigger": false
+        }
+      ],
+      "LevelTrigger": [
+        {
+          "positionId": "1a2eaa8c-af70-4482-b65b-8883c87ab8d5",
+          "switchType": 1,
+          "OnTrigger": false
+        },
+        {
+          "positionId": "b2d1276b-9b1c-431f-b207-13e909802a3d",
+          "switchType": 1,
+          "OnTrigger": false
+        },
+        {
+          "positionId": "65e15b2e-1d90-4fcb-ad8f-a0973be2da4d",
+          "switchType": 1,
+          "OnTrigger": false
+        }
+      ],
+      "ItemSpawner": [
+        {
+          "positionId": "ab570fc1-d1d5-4e23-9417-f517f479ef06",
+          "itemId": 50015001,
+          "isCompleteReward": false
+        },
+        {
+          "positionId": "cedb0fad-b3fd-4b08-8fae-410c3bff1c9e",
+          "itemId": 50015002,
+          "isCompleteReward": false
+        },
+        {
+          "positionId": "292d86d4-aab9-41bb-86a5-cded0f91d84b",
+          "itemId": 50015201,
+          "isCompleteReward": false
+        },
+        {
+          "positionId": "f47d34c7-8686-4f03-bf10-0ace891f0846",
+          "itemId": 50015202,
+          "isCompleteReward": false
+        },
+        {
+          "positionId": "ddbcce98-4532-4249-b1a4-c5037beb5941",
+          "itemId": 50015203,
+          "isCompleteReward": false
+        },
+        {
+          "positionId": "9f2c7be8-b3c8-4765-b8a7-0183b9aad096",
+          "itemId": 50015204,
+          "isCompleteReward": false
+        },
+        {
+          "positionId": "22636469-4cd1-4330-86ac-73248d8ef165",
+          "itemId": 50015205,
+          "isCompleteReward": false
+        },
+        {
+          "positionId": "63f6cc48-2777-4abe-b142-1994ce4e8df6",
+          "itemId": 50015301,
+          "isCompleteReward": false
+        },
+        {
+          "positionId": "2198ade0-e292-4a89-9c41-10066bc2568c",
+          "itemId": 50015302,
+          "isCompleteReward": false
+        },
+        {
+          "positionId": "7619f274-101f-42ca-8907-01dc988be651",
+          "itemId": 50015303,
+          "isCompleteReward": false
+        },
+        {
+          "positionId": "9a6dcbab-41eb-4b41-b34a-4f4ce2180f72",
+          "itemId": 50015304,
+          "isCompleteReward": false
+        },
+        {
+          "positionId": "d12f1b38-1dfe-424d-8288-d82772297da2",
+          "itemId": 50015305,
+          "isCompleteReward": false
+        },
+        {
+          "positionId": "68ed37bf-da48-4419-9f2e-c9de58ee0abb",
+          "itemId": 50015306,
+          "isCompleteReward": false
+        },
+        {
+          "positionId": "0920c9d8-9eb9-4969-827c-31d7604b16e6",
+          "itemId": 50015307,
+          "isCompleteReward": false
+        }
+      ]
+    }
+  ]
+}

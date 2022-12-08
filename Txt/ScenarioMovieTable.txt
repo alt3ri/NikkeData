@@ -1,0 +1,54 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": "opening_pv01_en",
+      "group_id": "opening_pv01",
+      "Language": "en",
+      "movie_link": "https://cloud.nikke-kr.com/media/ch01_end_en.mp4",
+      "subtitles": "https://cloud.nikke-kr.com/media/ch01_end_en.srt"
+    },
+    {
+      "id": "opening_pv01_ja",
+      "group_id": "opening_pv01",
+      "Language": "ja",
+      "movie_link": "https://cloud.nikke-kr.com/media/ch01_end_ja.mp4",
+      "subtitles": "https://cloud.nikke-kr.com/media/ch01_end_ja.srt"
+    },
+    {
+      "id": "opening_pv01_ko",
+      "group_id": "opening_pv01",
+      "Language": "ko",
+      "movie_link": "https://cloud.nikke-kr.com/media/ch01_end_ko.mp4",
+      "subtitles": "https://cloud.nikke-kr.com/media/ch01_end_ko.srt"
+    },
+    {
+      "id": "opening_pv01_zh-TW",
+      "group_id": "opening_pv01",
+      "Language": "zh-TW",
+      "movie_link": "https://cloud.nikke-kr.com/media/ch01_end_ko.mp4",
+      "subtitles": "https://cloud.nikke-kr.com/media/ch01_end_zh-TW.srt"
+    },
+    {
+      "id": "opening_pv01_zh-CN",
+      "group_id": "opening_pv01",
+      "Language": "zh-CN",
+      "movie_link": "https://cloud.nikke-kr.com/media/ch01_end_ko.mp4",
+      "subtitles": "https://cloud.nikke-kr.com/media/ch01_end_zh-CN.srt"
+    },
+    {
+      "id": "opening_pv01_de",
+      "group_id": "opening_pv01",
+      "Language": "de",
+      "movie_link": "https://cloud.nikke-kr.com/media/ch01_end_ko.mp4",
+      "subtitles": "https://cloud.nikke-kr.com/media/ch01_end_de.srt"
+    },
+    {
+      "id": "opening_pv01_th",
+      "group_id": "opening_pv01",
+      "Language": "th",
+      "movie_link": "https://cloud.nikke-kr.com/media/ch01_end_ko.mp4",
+      "subtitles": "https://cloud.nikke-kr.com/media/ch01_end_th.srt"
+    }
+  ]
+}

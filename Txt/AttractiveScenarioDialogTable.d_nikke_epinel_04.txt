@@ -1,0 +1,2876 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": "d_nikke_epinel_04_1",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Narration",
+      "speaker": "Narration",
+      "scenario_localkey": "d_nikke_epinel_04_1",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "Park",
+      "set_start_camera": "15",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "play_bgm": "bgm_story_sundayintheark",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_2",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Speech",
+      "highlight": "epinel",
+      "speaker": "epinel",
+      "scenario_localkey": "d_nikke_epinel_04_2",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "show_char_id": "epinel",
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_3",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Speech",
+      "highlight": "epinel",
+      "speaker": "epinel",
+      "scenario_localkey": "d_nikke_epinel_04_3",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_4",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Speech",
+      "highlight": "epinel",
+      "speaker": "epinel",
+      "scenario_localkey": "d_nikke_epinel_04_4",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_5",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Speech",
+      "highlight": "epinel",
+      "speaker": "epinel",
+      "scenario_localkey": "d_nikke_epinel_04_5",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "pain"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_6",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Speech",
+      "highlight": "epinel",
+      "speaker": "epinel",
+      "scenario_localkey": "d_nikke_epinel_04_6",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "pain"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_7",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Speech",
+      "highlight": "epinel",
+      "speaker": "epinel",
+      "scenario_localkey": "d_nikke_epinel_04_7",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_8",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Speech",
+      "highlight": "epinel",
+      "speaker": "epinel",
+      "scenario_localkey": "d_nikke_epinel_04_8",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_9",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Speech",
+      "highlight": "epinel",
+      "speaker": "epinel",
+      "scenario_localkey": "d_nikke_epinel_04_9",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_10",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Narration",
+      "highlight": "epinel",
+      "speaker": "Narration",
+      "scenario_localkey": "d_nikke_epinel_04_10",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_11",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Speech",
+      "highlight": "epinel",
+      "speaker": "epinel",
+      "scenario_localkey": "d_nikke_epinel_04_11",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_12",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Speech",
+      "highlight": "epinel",
+      "speaker": "epinel",
+      "scenario_localkey": "d_nikke_epinel_04_12",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "13",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_13",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Speech",
+      "highlight": "epinel",
+      "speaker": "epinel",
+      "scenario_localkey": "d_nikke_epinel_04_13",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "13",
+      "set_end_camera": "13",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_14",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Speech",
+      "highlight": "epinel",
+      "speaker": "epinel",
+      "scenario_localkey": "d_nikke_epinel_04_14",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "13",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_15",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Speech",
+      "highlight": "epinel",
+      "speaker": "epinel",
+      "scenario_localkey": "d_nikke_epinel_04_15",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_16",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Choice",
+      "highlight": "epinel",
+      "speaker": "Choice",
+      "scenario_localkey": "d_nikke_epinel_04_16",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "d_nikke_epinel_04_18"
+    },
+    {
+      "id": "d_nikke_epinel_04_17",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Choice",
+      "highlight": "epinel",
+      "speaker": "Choice",
+      "scenario_localkey": "d_nikke_epinel_04_17",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "d_nikke_epinel_04_23"
+    },
+    {
+      "id": "d_nikke_epinel_04_18",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Monologue",
+      "highlight": "epinel",
+      "speaker": "Monologue",
+      "scenario_localkey": "d_nikke_epinel_04_18",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_19",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Narration",
+      "highlight": "epinel",
+      "speaker": "Narration",
+      "scenario_localkey": "d_nikke_epinel_04_19",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "5",
+      "set_camera_duration": 2.0,
+      "play_sound": "sfx_scn_skateboarding",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_20",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Narration",
+      "highlight": "epinel",
+      "speaker": "Narration",
+      "scenario_localkey": "d_nikke_epinel_04_20",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "5",
+      "set_end_camera": "5",
+      "set_camera_duration": 1.0,
+      "play_sound": "sfx_scn_trip",
+      "effects": [
+        {},
+        {}
+      ],
+      "set_camera_shake": "Low_2"
+    },
+    {
+      "id": "d_nikke_epinel_04_21",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Speech",
+      "highlight": "epinel",
+      "speaker": "epinel",
+      "scenario_localkey": "d_nikke_epinel_04_21",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "5",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_22",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Speech",
+      "highlight": "epinel",
+      "speaker": "epinel",
+      "scenario_localkey": "d_nikke_epinel_04_22",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "d_nikke_epinel_04_24"
+    },
+    {
+      "id": "d_nikke_epinel_04_23",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Speech",
+      "highlight": "epinel",
+      "speaker": "epinel",
+      "scenario_localkey": "d_nikke_epinel_04_23",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_24",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Speech",
+      "highlight": "epinel",
+      "speaker": "epinel",
+      "scenario_localkey": "d_nikke_epinel_04_24",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "pain"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_25",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Choice",
+      "highlight": "epinel",
+      "speaker": "Choice",
+      "scenario_localkey": "d_nikke_epinel_04_25",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "pain"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "d_nikke_epinel_04_27"
+    },
+    {
+      "id": "d_nikke_epinel_04_26",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Choice",
+      "highlight": "epinel",
+      "speaker": "Choice",
+      "scenario_localkey": "d_nikke_epinel_04_26",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "pain"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "d_nikke_epinel_04_30"
+    },
+    {
+      "id": "d_nikke_epinel_04_27",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Speech",
+      "highlight": "epinel",
+      "speaker": "epinel",
+      "scenario_localkey": "d_nikke_epinel_04_27",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "pain"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_28",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Speech",
+      "highlight": "epinel",
+      "speaker": "epinel",
+      "scenario_localkey": "d_nikke_epinel_04_28",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_29",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Speech",
+      "highlight": "epinel",
+      "speaker": "epinel",
+      "scenario_localkey": "d_nikke_epinel_04_29",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "d_nikke_epinel_04_32"
+    },
+    {
+      "id": "d_nikke_epinel_04_30",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Speech",
+      "highlight": "epinel",
+      "speaker": "epinel",
+      "scenario_localkey": "d_nikke_epinel_04_30",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_31",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Speech",
+      "highlight": "epinel",
+      "speaker": "epinel",
+      "scenario_localkey": "d_nikke_epinel_04_31",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_32",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Narration",
+      "highlight": "epinel",
+      "speaker": "Narration",
+      "scenario_localkey": "d_nikke_epinel_04_32",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_33",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Narration",
+      "highlight": "epinel",
+      "speaker": "Narration",
+      "scenario_localkey": "d_nikke_epinel_04_33",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "5",
+      "set_end_camera": "5",
+      "set_camera_duration": 1.0,
+      "play_sound": "sfx_scn_trip",
+      "effects": [
+        {},
+        {}
+      ],
+      "set_camera_shake": "Low_2"
+    },
+    {
+      "id": "d_nikke_epinel_04_34",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Speech",
+      "highlight": "epinel",
+      "speaker": "epinel",
+      "scenario_localkey": "d_nikke_epinel_04_34",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "pain"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "5",
+      "set_end_camera": "1",
+      "set_camera_duration": 0.5,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_35",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Speech",
+      "highlight": "epinel",
+      "speaker": "epinel",
+      "scenario_localkey": "d_nikke_epinel_04_35",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "pain"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_36",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Speech",
+      "highlight": "epinel",
+      "speaker": "epinel",
+      "scenario_localkey": "d_nikke_epinel_04_36",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "pain"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_37",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Choice",
+      "highlight": "epinel",
+      "speaker": "Choice",
+      "scenario_localkey": "d_nikke_epinel_04_37",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "pain"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "d_nikke_epinel_04_39"
+    },
+    {
+      "id": "d_nikke_epinel_04_38",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Choice",
+      "highlight": "epinel",
+      "speaker": "Choice",
+      "scenario_localkey": "d_nikke_epinel_04_38",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "pain"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "d_nikke_epinel_04_39"
+    },
+    {
+      "id": "d_nikke_epinel_04_39",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Speech",
+      "highlight": "epinel",
+      "speaker": "epinel",
+      "scenario_localkey": "d_nikke_epinel_04_39",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_40",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Speech",
+      "highlight": "epinel",
+      "speaker": "epinel",
+      "scenario_localkey": "d_nikke_epinel_04_40",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_41",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Speech",
+      "highlight": "epinel",
+      "speaker": "epinel",
+      "scenario_localkey": "d_nikke_epinel_04_41",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_42",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Speech",
+      "highlight": "epinel",
+      "speaker": "epinel",
+      "scenario_localkey": "d_nikke_epinel_04_42",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_43",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Narration",
+      "highlight": "epinel",
+      "speaker": "Narration",
+      "scenario_localkey": "d_nikke_epinel_04_43",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "Park_n",
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_44",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Speech",
+      "highlight": "epinel",
+      "speaker": "epinel",
+      "scenario_localkey": "d_nikke_epinel_04_44",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_45",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Speech",
+      "highlight": "epinel",
+      "speaker": "epinel",
+      "scenario_localkey": "d_nikke_epinel_04_45",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_46",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Self",
+      "highlight": "epinel",
+      "speaker": "Self",
+      "scenario_localkey": "d_nikke_epinel_04_46",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_47",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Speech",
+      "highlight": "epinel",
+      "speaker": "epinel",
+      "scenario_localkey": "d_nikke_epinel_04_47",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_48",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Speech",
+      "highlight": "epinel",
+      "speaker": "epinel",
+      "scenario_localkey": "d_nikke_epinel_04_48",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_49",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Speech",
+      "highlight": "epinel",
+      "speaker": "epinel",
+      "scenario_localkey": "d_nikke_epinel_04_49",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_50",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Speech",
+      "highlight": "epinel",
+      "speaker": "epinel",
+      "scenario_localkey": "d_nikke_epinel_04_50",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_51",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Speech",
+      "highlight": "epinel",
+      "speaker": "epinel",
+      "scenario_localkey": "d_nikke_epinel_04_51",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_52",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Choice",
+      "highlight": "epinel",
+      "speaker": "Choice",
+      "scenario_localkey": "d_nikke_epinel_04_52",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "d_nikke_epinel_04_54"
+    },
+    {
+      "id": "d_nikke_epinel_04_53",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Choice",
+      "highlight": "epinel",
+      "speaker": "Choice",
+      "scenario_localkey": "d_nikke_epinel_04_53",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "d_nikke_epinel_04_59"
+    },
+    {
+      "id": "d_nikke_epinel_04_54",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Speech",
+      "highlight": "epinel",
+      "speaker": "epinel",
+      "scenario_localkey": "d_nikke_epinel_04_54",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "shy"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_55",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Speech",
+      "highlight": "epinel",
+      "speaker": "epinel",
+      "scenario_localkey": "d_nikke_epinel_04_55",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "shy"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_56",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Speech",
+      "highlight": "epinel",
+      "speaker": "epinel",
+      "scenario_localkey": "d_nikke_epinel_04_56",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "shy"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_57",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Speech",
+      "highlight": "epinel",
+      "speaker": "epinel",
+      "scenario_localkey": "d_nikke_epinel_04_57",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_58",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Speech",
+      "highlight": "epinel",
+      "speaker": "epinel",
+      "scenario_localkey": "d_nikke_epinel_04_58",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "d_nikke_epinel_04_62"
+    },
+    {
+      "id": "d_nikke_epinel_04_59",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Speech",
+      "highlight": "epinel",
+      "speaker": "epinel",
+      "scenario_localkey": "d_nikke_epinel_04_59",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_60",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Speech",
+      "highlight": "epinel",
+      "speaker": "epinel",
+      "scenario_localkey": "d_nikke_epinel_04_60",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_61",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Speech",
+      "highlight": "epinel",
+      "speaker": "epinel",
+      "scenario_localkey": "d_nikke_epinel_04_61",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_62",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Monologue",
+      "highlight": "epinel",
+      "speaker": "Monologue",
+      "scenario_localkey": "d_nikke_epinel_04_62",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_63",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Narration",
+      "highlight": "epinel",
+      "speaker": "Narration",
+      "scenario_localkey": "d_nikke_epinel_04_63",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "hide_char_id": "epinel",
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "conversation_id": "m_nikke_epinel_04",
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "play_sound": "sfx_scn_phonevibration",
+      "play_bgm": "none",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_64",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Narration",
+      "highlight": "epinel",
+      "speaker": "Narration",
+      "scenario_localkey": "d_nikke_epinel_04_64",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "Park",
+      "set_start_camera": "4",
+      "set_end_camera": "1",
+      "set_camera_duration": 2.0,
+      "play_bgm": "bgm_story_weare",
+      "effects": [
+        {},
+        {}
+      ],
+      "fade": "black"
+    },
+    {
+      "id": "d_nikke_epinel_04_65",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Narration",
+      "highlight": "epinel",
+      "speaker": "Narration",
+      "scenario_localkey": "d_nikke_epinel_04_65",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "show_char_id": "epinel",
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_66",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Speech",
+      "highlight": "epinel",
+      "speaker": "epinel",
+      "scenario_localkey": "d_nikke_epinel_04_66",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_67",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Self",
+      "highlight": "epinel",
+      "speaker": "Self",
+      "scenario_localkey": "d_nikke_epinel_04_67",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_68",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Speech",
+      "highlight": "epinel",
+      "speaker": "epinel",
+      "scenario_localkey": "d_nikke_epinel_04_68",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "pain"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_69",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Speech",
+      "highlight": "epinel",
+      "speaker": "epinel",
+      "scenario_localkey": "d_nikke_epinel_04_69",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "pain"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_70",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Speech",
+      "highlight": "epinel",
+      "speaker": "epinel",
+      "scenario_localkey": "d_nikke_epinel_04_70",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "pain"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_71",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Choice",
+      "highlight": "epinel",
+      "speaker": "Choice",
+      "scenario_localkey": "d_nikke_epinel_04_71",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "pain"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "d_nikke_epinel_04_73"
+    },
+    {
+      "id": "d_nikke_epinel_04_72",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Choice",
+      "highlight": "epinel",
+      "speaker": "Choice",
+      "scenario_localkey": "d_nikke_epinel_04_72",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "pain"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "d_nikke_epinel_04_73"
+    },
+    {
+      "id": "d_nikke_epinel_04_73",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Speech",
+      "highlight": "epinel",
+      "speaker": "epinel",
+      "scenario_localkey": "d_nikke_epinel_04_73",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_74",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Speech",
+      "highlight": "epinel",
+      "speaker": "epinel",
+      "scenario_localkey": "d_nikke_epinel_04_74",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_75",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Speech",
+      "highlight": "epinel",
+      "speaker": "epinel",
+      "scenario_localkey": "d_nikke_epinel_04_75",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_76",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Monologue",
+      "highlight": "epinel",
+      "speaker": "Monologue",
+      "scenario_localkey": "d_nikke_epinel_04_76",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "12",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_77",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Monologue",
+      "highlight": "epinel",
+      "speaker": "Monologue",
+      "scenario_localkey": "d_nikke_epinel_04_77",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "13",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_78",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Narration",
+      "highlight": "epinel",
+      "speaker": "Narration",
+      "scenario_localkey": "d_nikke_epinel_04_78",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "play_sound": "sfx_scn_trip",
+      "effects": [
+        {},
+        {}
+      ],
+      "set_camera_shake": "Low_2"
+    },
+    {
+      "id": "d_nikke_epinel_04_79",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Speech",
+      "highlight": "epinel",
+      "speaker": "epinel",
+      "scenario_localkey": "d_nikke_epinel_04_79",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "pain"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 2.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_80",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Self",
+      "highlight": "epinel",
+      "speaker": "Self",
+      "scenario_localkey": "d_nikke_epinel_04_80",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "pain"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_81",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Speech",
+      "highlight": "epinel",
+      "speaker": "epinel",
+      "scenario_localkey": "d_nikke_epinel_04_81",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "pain"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_82",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Speech",
+      "highlight": "epinel",
+      "speaker": "epinel",
+      "scenario_localkey": "d_nikke_epinel_04_82",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "shy"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_83",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Speech",
+      "highlight": "epinel",
+      "speaker": "epinel",
+      "scenario_localkey": "d_nikke_epinel_04_83",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "shy"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_84",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Speech",
+      "highlight": "epinel",
+      "speaker": "epinel",
+      "scenario_localkey": "d_nikke_epinel_04_84",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "shy"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_85",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Speech",
+      "highlight": "epinel",
+      "speaker": "epinel",
+      "scenario_localkey": "d_nikke_epinel_04_85",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_86",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Monologue",
+      "speaker": "Monologue",
+      "scenario_localkey": "d_nikke_epinel_04_86",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_87",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Monologue",
+      "speaker": "Monologue",
+      "scenario_localkey": "d_nikke_epinel_04_87",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "12",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "play_sound": "sfx_scn_skateboarding",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_88",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Narration",
+      "speaker": "Narration",
+      "scenario_localkey": "d_nikke_epinel_04_88",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "12",
+          "set_char_anim": "pain"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "XS_120",
+      "set_camera_duration": 1.0,
+      "play_sound": "sfx_scn_heavytrip",
+      "effects": [
+        {},
+        {}
+      ],
+      "set_camera_shake": "Low_2"
+    },
+    {
+      "id": "d_nikke_epinel_04_89",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Self",
+      "speaker": "Self",
+      "scenario_localkey": "d_nikke_epinel_04_89",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "12",
+          "set_char_anim": "pain"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_120",
+      "set_end_camera": "XS_120",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_90",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Monologue",
+      "speaker": "Monologue",
+      "scenario_localkey": "d_nikke_epinel_04_90",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "hide_char_id": "epinel",
+          "set_char_position": "12",
+          "set_char_anim": "pain"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_91",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Monologue",
+      "speaker": "Monologue",
+      "scenario_localkey": "d_nikke_epinel_04_91",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_epinel_04_92",
+      "group_id": "d_nikke_epinel_04",
+      "speech_window": "Monologue",
+      "speaker": "Monologue",
+      "scenario_localkey": "d_nikke_epinel_04_92",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "City",
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "play_bgm": "none",
+      "effects": [
+        {},
+        {}
+      ],
+      "fade": "black"
+    }
+  ]
+}

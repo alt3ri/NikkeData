@@ -1,0 +1,2297 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1011,
+      "group_id": 1010,
+      "description_localkey": "sub_quest_description_1011",
+      "trigger_list": [
+        {
+          "trigger": "CampaignClear",
+          "condition_id": 6002003,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "conversation_id": "m_subquest_1011_s",
+      "clear_trigger": "FieldObjectCollection",
+      "clear_condition_id": 1002001,
+      "clear_condition_value": 1,
+      "scenario_type": "Dialog",
+      "episode_id": "d_subquest_1011",
+      "end_messenger_conversation_id": "m_subquest_1011_e",
+      "before_sub_quest_id": 0
+    },
+    {
+      "id": 1021,
+      "group_id": 1020,
+      "description_localkey": "sub_quest_description_1021",
+      "trigger_list": [
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1011,
+          "condition_value": 1
+        },
+        {
+          "trigger": "CampaignClear",
+          "condition_id": 6002010,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "conversation_id": "m_subquest_1021_s",
+      "clear_trigger": "FieldObjectCollection",
+      "clear_condition_id": 1002002,
+      "clear_condition_value": 1,
+      "scenario_type": "Dialog",
+      "episode_id": "d_subquest_1021",
+      "end_messenger_conversation_id": "m_subquest_1021_e",
+      "before_sub_quest_id": 0
+    },
+    {
+      "id": 1031,
+      "group_id": 1030,
+      "description_localkey": "sub_quest_description_1031",
+      "trigger_list": [
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1011,
+          "condition_value": 1
+        },
+        {
+          "trigger": "MainQuestClear",
+          "condition_id": 25,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "conversation_id": "m_subquest_1031_s",
+      "clear_trigger": "CampaignGroupClear",
+      "clear_condition_id": 2001,
+      "clear_condition_value": 1,
+      "episode_id": "0",
+      "end_messenger_conversation_id": "m_subquest_1031_e",
+      "before_sub_quest_id": 0
+    },
+    {
+      "id": 1091,
+      "group_id": 1090,
+      "description_localkey": "sub_quest_description_1091",
+      "trigger_list": [
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1011,
+          "condition_value": 1
+        },
+        {
+          "trigger": "CampaignClear",
+          "condition_id": 6003002,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "conversation_id": "m_subquest_1091_s",
+      "clear_trigger": "CampaignGroupClear",
+      "clear_condition_id": 3001,
+      "clear_condition_value": 1,
+      "scenario_type": "Dialog",
+      "episode_id": "d_subquest_1091",
+      "end_messenger_conversation_id": "m_subquest_1091_e",
+      "before_sub_quest_id": 0
+    },
+    {
+      "id": 1061,
+      "group_id": 1060,
+      "description_localkey": "sub_quest_description_1061",
+      "trigger_list": [
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1021,
+          "condition_value": 1
+        },
+        {
+          "trigger": "CampaignClear",
+          "condition_id": 6003021,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "conversation_id": "m_subquest_1061_s",
+      "clear_trigger": "FieldObjectCollection",
+      "clear_condition_id": 1003001,
+      "clear_condition_value": 1,
+      "scenario_type": "Dialog",
+      "episode_id": "d_subquest_1061",
+      "end_messenger_conversation_id": "m_subquest_1061_e",
+      "before_sub_quest_id": 0
+    },
+    {
+      "id": 1101,
+      "group_id": 1100,
+      "description_localkey": "sub_quest_description_1101",
+      "trigger_list": [
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1031,
+          "condition_value": 1
+        },
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1061,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "conversation_id": "m_subquest_1101_s",
+      "clear_trigger": "CampaignGroupClear",
+      "clear_condition_id": 3002,
+      "clear_condition_value": 1,
+      "scenario_type": "FieldTalk",
+      "episode_id": "f_subquest_1101_e",
+      "end_messenger_conversation_id": "m_subquest_1101_e",
+      "before_sub_quest_id": 0
+    },
+    {
+      "id": 1062,
+      "group_id": 1060,
+      "description_localkey": "sub_quest_description_1062",
+      "trigger_list": [
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1061,
+          "condition_value": 1
+        },
+        {
+          "trigger": "CampaignClear",
+          "condition_id": 6004003,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "conversation_id": "m_subquest_1062_s",
+      "clear_trigger": "FieldObjectCollection",
+      "clear_condition_id": 1004001,
+      "clear_condition_value": 1,
+      "scenario_type": "Dialog",
+      "episode_id": "d_subquest_1062",
+      "end_messenger_conversation_id": "m_subquest_1062_e",
+      "before_sub_quest_id": 0
+    },
+    {
+      "id": 1081,
+      "group_id": 1080,
+      "description_localkey": "sub_quest_description_1081",
+      "trigger_list": [
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1021,
+          "condition_value": 1
+        },
+        {
+          "trigger": "CampaignClear",
+          "condition_id": 6004018,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "conversation_id": "m_subquest_1081_s",
+      "clear_trigger": "CampaignGroupClear",
+      "clear_condition_id": 4001,
+      "clear_condition_value": 1,
+      "scenario_type": "Dialog",
+      "episode_id": "d_subquest_1081",
+      "end_messenger_conversation_id": "m_subquest_1081_e",
+      "before_sub_quest_id": 0
+    },
+    {
+      "id": 1102,
+      "group_id": 1100,
+      "description_localkey": "sub_quest_description_1102",
+      "trigger_list": [
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1101,
+          "condition_value": 1
+        },
+        {
+          "trigger": "CampaignClear",
+          "condition_id": 6004023,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "conversation_id": "m_subquest_1102_s",
+      "clear_trigger": "CampaignGroupClear",
+      "clear_condition_id": 4002,
+      "clear_condition_value": 1,
+      "scenario_type": "FieldTalk",
+      "episode_id": "f_subquest_1102_e",
+      "end_messenger_conversation_id": "m_subquest_1102_e",
+      "before_sub_quest_id": 0
+    },
+    {
+      "id": 1041,
+      "group_id": 1040,
+      "description_localkey": "sub_quest_description_1041",
+      "trigger_list": [
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1031,
+          "condition_value": 1
+        },
+        {
+          "trigger": "CampaignClear",
+          "condition_id": 6005004,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "conversation_id": "m_subquest_1041_s",
+      "clear_trigger": "CampaignGroupClear",
+      "clear_condition_id": 5001,
+      "clear_condition_value": 1,
+      "scenario_type": "Dialog",
+      "episode_id": "d_subquest_1041",
+      "end_messenger_conversation_id": "m_subquest_1041_e",
+      "before_sub_quest_id": 0
+    },
+    {
+      "id": 1051,
+      "group_id": 1050,
+      "description_localkey": "sub_quest_description_1051",
+      "trigger_list": [
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1081,
+          "condition_value": 1
+        },
+        {
+          "trigger": "CampaignClear",
+          "condition_id": 6005020,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "conversation_id": "m_subquest_1051_s",
+      "clear_trigger": "CampaignGroupClear",
+      "clear_condition_id": 5002,
+      "clear_condition_value": 1,
+      "scenario_type": "Dialog",
+      "episode_id": "d_subquest_1051",
+      "end_messenger_conversation_id": "m_subquest_1051_e",
+      "before_sub_quest_id": 0
+    },
+    {
+      "id": 1103,
+      "group_id": 1100,
+      "description_localkey": "sub_quest_description_1103",
+      "trigger_list": [
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1102,
+          "condition_value": 1
+        },
+        {
+          "trigger": "CampaignClear",
+          "condition_id": 6005025,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "conversation_id": "m_subquest_1103_s",
+      "clear_trigger": "NpcTalk",
+      "clear_condition_id": 5005001,
+      "clear_condition_value": 1,
+      "scenario_type": "FieldTalk",
+      "episode_id": "f_subquest_1103",
+      "end_messenger_conversation_id": "m_subquest_1103_e",
+      "before_sub_quest_id": 0
+    },
+    {
+      "id": 1092,
+      "group_id": 1090,
+      "description_localkey": "sub_quest_description_1092",
+      "trigger_list": [
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1091,
+          "condition_value": 1
+        },
+        {
+          "trigger": "CampaignClear",
+          "condition_id": 6006006,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "conversation_id": "m_subquest_1092_s",
+      "clear_trigger": "CampaignGroupClear",
+      "clear_condition_id": 6001,
+      "clear_condition_value": 1,
+      "scenario_type": "Dialog",
+      "episode_id": "d_subquest_1092_e",
+      "end_messenger_conversation_id": "m_subquest_1092_e",
+      "before_sub_quest_id": 0
+    },
+    {
+      "id": 1201,
+      "group_id": 1200,
+      "description_localkey": "sub_quest_description_1201",
+      "trigger_list": [
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1051,
+          "condition_value": 1
+        },
+        {
+          "trigger": "CampaignClear",
+          "condition_id": 6006026,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "conversation_id": "m_subquest_1201_s",
+      "clear_trigger": "CampaignGroupClear",
+      "clear_condition_id": 6002,
+      "clear_condition_value": 1,
+      "scenario_type": "Dialog",
+      "episode_id": "d_subquest_1201",
+      "end_messenger_conversation_id": "m_subquest_1201_e",
+      "before_sub_quest_id": 0
+    },
+    {
+      "id": 1104,
+      "group_id": 1100,
+      "description_localkey": "sub_quest_description_1104",
+      "trigger_list": [
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1103,
+          "condition_value": 1
+        },
+        {
+          "trigger": "CampaignClear",
+          "condition_id": 6006035,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "conversation_id": "m_subquest_1104_s",
+      "clear_trigger": "NpcTalk",
+      "clear_condition_id": 5006001,
+      "clear_condition_value": 1,
+      "scenario_type": "FieldTalk",
+      "episode_id": "f_subquest_1104",
+      "end_messenger_conversation_id": "m_subquest_1104_e",
+      "before_sub_quest_id": 0
+    },
+    {
+      "id": 1093,
+      "group_id": 1090,
+      "description_localkey": "sub_quest_description_1093",
+      "trigger_list": [
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1092,
+          "condition_value": 1
+        },
+        {
+          "trigger": "CampaignClear",
+          "condition_id": 6007006,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "conversation_id": "m_subquest_1093_s",
+      "clear_trigger": "FieldObjectCollection",
+      "clear_condition_id": 1007001,
+      "clear_condition_value": 1,
+      "scenario_type": "Dialog",
+      "episode_id": "d_subquest_1093",
+      "end_messenger_conversation_id": "m_subquest_1093_e",
+      "before_sub_quest_id": 0
+    },
+    {
+      "id": 1042,
+      "group_id": 1040,
+      "description_localkey": "sub_quest_description_1042",
+      "trigger_list": [
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1041,
+          "condition_value": 1
+        },
+        {
+          "trigger": "CampaignClear",
+          "condition_id": 6007026,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "conversation_id": "m_subquest_1042_s",
+      "clear_trigger": "CampaignGroupClear",
+      "clear_condition_id": 7001,
+      "clear_condition_value": 1,
+      "scenario_type": "Dialog",
+      "episode_id": "d_subquest_1042_e",
+      "end_messenger_conversation_id": "m_subquest_1042_e",
+      "before_sub_quest_id": 0
+    },
+    {
+      "id": 1105,
+      "group_id": 1100,
+      "description_localkey": "sub_quest_description_1105",
+      "trigger_list": [
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1104,
+          "condition_value": 1
+        },
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1041,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "conversation_id": "m_subquest_1105_s",
+      "clear_trigger": "CampaignGroupClear",
+      "clear_condition_id": 7002,
+      "clear_condition_value": 1,
+      "scenario_type": "FieldTalk",
+      "episode_id": "f_subquest_1105_e",
+      "end_messenger_conversation_id": "m_subquest_1105_e",
+      "before_sub_quest_id": 0
+    },
+    {
+      "id": 1012,
+      "group_id": 1010,
+      "description_localkey": "sub_quest_description_1012",
+      "trigger_list": [
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1011,
+          "condition_value": 1
+        },
+        {
+          "trigger": "CampaignClear",
+          "condition_id": 6008009,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "conversation_id": "m_subquest_1012_s",
+      "clear_trigger": "FieldObjectCollection",
+      "clear_condition_id": 1008001,
+      "clear_condition_value": 1,
+      "scenario_type": "Dialog",
+      "episode_id": "d_subquest_1012",
+      "end_messenger_conversation_id": "m_subquest_1012_e",
+      "before_sub_quest_id": 0
+    },
+    {
+      "id": 1022,
+      "group_id": 1020,
+      "description_localkey": "sub_quest_description_1022",
+      "trigger_list": [
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1021,
+          "condition_value": 1
+        },
+        {
+          "trigger": "CampaignClear",
+          "condition_id": 6008021,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "conversation_id": "m_subquest_1022_s",
+      "clear_trigger": "CampaignGroupClear",
+      "clear_condition_id": 8001,
+      "clear_condition_value": 1,
+      "scenario_type": "FieldTalk",
+      "episode_id": "f_subquest_1022_e",
+      "end_messenger_conversation_id": "m_subquest_1022_e",
+      "before_sub_quest_id": 0
+    },
+    {
+      "id": 1111,
+      "group_id": 1110,
+      "description_localkey": "sub_quest_description_1111",
+      "trigger_list": [
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1081,
+          "condition_value": 1
+        },
+        {
+          "trigger": "CampaignClear",
+          "condition_id": 6008032,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "conversation_id": "m_subquest_1111_s",
+      "clear_trigger": "CampaignGroupClear",
+      "clear_condition_id": 8002,
+      "clear_condition_value": 1,
+      "scenario_type": "Dialog",
+      "episode_id": "d_subquest_1111",
+      "end_messenger_conversation_id": "m_subquest_1111_e",
+      "before_sub_quest_id": 0
+    },
+    {
+      "id": 1063,
+      "group_id": 1060,
+      "description_localkey": "sub_quest_description_1063",
+      "trigger_list": [
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1062,
+          "condition_value": 1
+        },
+        {
+          "trigger": "CampaignClear",
+          "condition_id": 6009012,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "conversation_id": "m_subquest_1063_s",
+      "clear_trigger": "FieldObjectCollection",
+      "clear_condition_id": 1009001,
+      "clear_condition_value": 1,
+      "scenario_type": "Dialog",
+      "episode_id": "d_subquest_1063",
+      "end_messenger_conversation_id": "m_subquest_1063_e",
+      "before_sub_quest_id": 0
+    },
+    {
+      "id": 1191,
+      "group_id": 1190,
+      "description_localkey": "sub_quest_description_1191",
+      "trigger_list": [
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1111,
+          "condition_value": 1
+        },
+        {
+          "trigger": "CampaignClear",
+          "condition_id": 6009017,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "conversation_id": "m_subquest_1191_s",
+      "clear_trigger": "NpcTalk",
+      "clear_condition_id": 5009001,
+      "clear_condition_value": 1,
+      "scenario_type": "FieldTalk",
+      "episode_id": "f_subquest_1191_02",
+      "end_messenger_conversation_id": "m_subquest_1191_e",
+      "before_sub_quest_id": 0
+    },
+    {
+      "id": 1281,
+      "group_id": 1280,
+      "description_localkey": "sub_quest_description_1281",
+      "trigger_list": [
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1022,
+          "condition_value": 1
+        },
+        {
+          "trigger": "CampaignClear",
+          "condition_id": 6009032,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "conversation_id": "m_subquest_1281_s",
+      "clear_trigger": "CampaignGroupClear",
+      "clear_condition_id": 9001,
+      "clear_condition_value": 1,
+      "scenario_type": "Dialog",
+      "episode_id": "d_subquest_1281_e",
+      "end_messenger_conversation_id": "m_subquest_1281_e",
+      "before_sub_quest_id": 0
+    },
+    {
+      "id": 1121,
+      "group_id": 1120,
+      "description_localkey": "sub_quest_description_1121",
+      "trigger_list": [
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1111,
+          "condition_value": 1
+        },
+        {
+          "trigger": "CampaignClear",
+          "condition_id": 6010010,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "conversation_id": "m_subquest_1121_s",
+      "clear_trigger": "CampaignGroupClear",
+      "clear_condition_id": 10001,
+      "clear_condition_value": 1,
+      "scenario_type": "Dialog",
+      "episode_id": "d_subquest_1121",
+      "end_messenger_conversation_id": "m_subquest_1121_e",
+      "before_sub_quest_id": 0
+    },
+    {
+      "id": 1151,
+      "group_id": 1150,
+      "description_localkey": "sub_quest_description_1151",
+      "trigger_list": [
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1281,
+          "condition_value": 1
+        },
+        {
+          "trigger": "CampaignClear",
+          "condition_id": 6010023,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "conversation_id": "m_subquest_1151_s",
+      "clear_trigger": "CampaignGroupClear",
+      "clear_condition_id": 10002,
+      "clear_condition_value": 1,
+      "scenario_type": "Dialog",
+      "episode_id": "d_subquest_1151_e",
+      "end_messenger_conversation_id": "m_subquest_1151_e",
+      "before_sub_quest_id": 0
+    },
+    {
+      "id": 1211,
+      "group_id": 1210,
+      "description_localkey": "sub_quest_description_1211",
+      "trigger_list": [
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1191,
+          "condition_value": 1
+        },
+        {
+          "trigger": "CampaignClear",
+          "condition_id": 6010032,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "conversation_id": "m_subquest_1211_s",
+      "clear_trigger": "CampaignGroupClear",
+      "clear_condition_id": 10003,
+      "clear_condition_value": 1,
+      "scenario_type": "FieldTalk",
+      "episode_id": "f_subquest_1211_02",
+      "end_messenger_conversation_id": "m_subquest_1211_e",
+      "before_sub_quest_id": 0
+    },
+    {
+      "id": 1131,
+      "group_id": 1130,
+      "description_localkey": "sub_quest_description_1131",
+      "trigger_list": [
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1111,
+          "condition_value": 1
+        },
+        {
+          "trigger": "CampaignClear",
+          "condition_id": 6011012,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "conversation_id": "m_subquest_1131_s",
+      "clear_trigger": "CampaignGroupClear",
+      "clear_condition_id": 11001,
+      "clear_condition_value": 1,
+      "scenario_type": "Dialog",
+      "episode_id": "d_subquest_1131",
+      "end_messenger_conversation_id": "m_subquest_1131_e",
+      "before_sub_quest_id": 0
+    },
+    {
+      "id": 1141,
+      "group_id": 1140,
+      "description_localkey": "sub_quest_description_1141",
+      "trigger_list": [
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1042,
+          "condition_value": 1
+        },
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1131,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "conversation_id": "m_subquest_1141_s",
+      "clear_trigger": "CampaignGroupClear",
+      "clear_condition_id": 11002,
+      "clear_condition_value": 1,
+      "scenario_type": "Dialog",
+      "episode_id": "d_subquest_1141_e",
+      "end_messenger_conversation_id": "m_subquest_1141_e",
+      "before_sub_quest_id": 0
+    },
+    {
+      "id": 1221,
+      "group_id": 1220,
+      "description_localkey": "sub_quest_description_1221",
+      "trigger_list": [
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1211,
+          "condition_value": 1
+        },
+        {
+          "trigger": "CampaignClear",
+          "condition_id": 6011032,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "conversation_id": "m_subquest_1221_s",
+      "clear_trigger": "CampaignGroupClear",
+      "clear_condition_id": 11003,
+      "clear_condition_value": 1,
+      "scenario_type": "FieldTalk",
+      "episode_id": "f_subquest_1221",
+      "end_messenger_conversation_id": "m_subquest_1221_e",
+      "before_sub_quest_id": 0
+    },
+    {
+      "id": 1161,
+      "group_id": 1160,
+      "description_localkey": "sub_quest_description_1161",
+      "trigger_list": [
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1121,
+          "condition_value": 1
+        },
+        {
+          "trigger": "CampaignClear",
+          "condition_id": 6012006,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "conversation_id": "m_subquest_1161_s",
+      "clear_trigger": "CampaignGroupClear",
+      "clear_condition_id": 12001,
+      "clear_condition_value": 1,
+      "episode_id": "0",
+      "end_messenger_conversation_id": "m_subquest_1161_e",
+      "before_sub_quest_id": 0
+    },
+    {
+      "id": 1171,
+      "group_id": 1170,
+      "description_localkey": "sub_quest_description_1171",
+      "trigger_list": [
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1105,
+          "condition_value": 1
+        },
+        {
+          "trigger": "CampaignClear",
+          "condition_id": 6012017,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "conversation_id": "m_subquest_1171_s",
+      "clear_trigger": "CampaignGroupClear",
+      "clear_condition_id": 12002,
+      "clear_condition_value": 1,
+      "scenario_type": "Dialog",
+      "episode_id": "d_subquest_1171",
+      "end_messenger_conversation_id": "m_subquest_1171_e",
+      "before_sub_quest_id": 0
+    },
+    {
+      "id": 1181,
+      "group_id": 1180,
+      "description_localkey": "sub_quest_description_1181",
+      "trigger_list": [
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1151,
+          "condition_value": 1
+        },
+        {
+          "trigger": "CampaignClear",
+          "condition_id": 6012033,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "conversation_id": "m_subquest_1181_s",
+      "clear_trigger": "CampaignGroupClear",
+      "clear_condition_id": 12003,
+      "clear_condition_value": 1,
+      "scenario_type": "FieldTalk",
+      "episode_id": "f_subquest_1181_e",
+      "end_messenger_conversation_id": "m_subquest_1181_e",
+      "before_sub_quest_id": 0
+    },
+    {
+      "id": 1241,
+      "group_id": 1240,
+      "description_localkey": "sub_quest_description_1241",
+      "trigger_list": [
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1131,
+          "condition_value": 1
+        },
+        {
+          "trigger": "CampaignClear",
+          "condition_id": 6013017,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "conversation_id": "m_subquest_1241_s",
+      "clear_trigger": "CampaignGroupClear",
+      "clear_condition_id": 13001,
+      "clear_condition_value": 1,
+      "scenario_type": "Dialog",
+      "episode_id": "d_subquest_1241",
+      "end_messenger_conversation_id": "m_subquest_1241_e",
+      "before_sub_quest_id": 0
+    },
+    {
+      "id": 1192,
+      "group_id": 1190,
+      "description_localkey": "sub_quest_description_1192",
+      "trigger_list": [
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1191,
+          "condition_value": 1
+        },
+        {
+          "trigger": "CampaignClear",
+          "condition_id": 6013028,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "conversation_id": "m_subquest_1192_s",
+      "clear_trigger": "NpcTalk",
+      "clear_condition_id": 5013001,
+      "clear_condition_value": 1,
+      "scenario_type": "Dialog",
+      "episode_id": "d_subquest_1192_e",
+      "end_messenger_conversation_id": "m_subquest_1192_e",
+      "before_sub_quest_id": 0
+    },
+    {
+      "id": 1094,
+      "group_id": 1090,
+      "description_localkey": "sub_quest_description_1094",
+      "trigger_list": [
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1093,
+          "condition_value": 1
+        },
+        {
+          "trigger": "CampaignClear",
+          "condition_id": 6013034,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "conversation_id": "m_subquest_1094_s",
+      "clear_trigger": "CampaignGroupClear",
+      "clear_condition_id": 13002,
+      "clear_condition_value": 1,
+      "scenario_type": "Dialog",
+      "episode_id": "d_subquest_1094_e",
+      "end_messenger_conversation_id": "m_subquest_1094_e",
+      "before_sub_quest_id": 0
+    },
+    {
+      "id": 1261,
+      "group_id": 1260,
+      "description_localkey": "sub_quest_description_1261",
+      "trigger_list": [
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1141,
+          "condition_value": 1
+        },
+        {
+          "trigger": "CampaignClear",
+          "condition_id": 6014014,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "conversation_id": "m_subquest_1261_s",
+      "clear_trigger": "CampaignGroupClear",
+      "clear_condition_id": 14001,
+      "clear_condition_value": 1,
+      "scenario_type": "Dialog",
+      "episode_id": "d_subquest_1261_e",
+      "end_messenger_conversation_id": "m_subquest_1261_e",
+      "before_sub_quest_id": 0
+    },
+    {
+      "id": 1212,
+      "group_id": 1210,
+      "description_localkey": "sub_quest_description_1212",
+      "trigger_list": [
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1211,
+          "condition_value": 1
+        },
+        {
+          "trigger": "CampaignClear",
+          "condition_id": 6014028,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "conversation_id": "m_subquest_1212_s",
+      "clear_trigger": "NpcTalk",
+      "clear_condition_id": 5014001,
+      "clear_condition_value": 1,
+      "scenario_type": "FieldTalk",
+      "episode_id": "f_subquest_1212_e",
+      "end_messenger_conversation_id": "m_subquest_1212_e",
+      "before_sub_quest_id": 0
+    },
+    {
+      "id": 1013,
+      "group_id": 1010,
+      "description_localkey": "sub_quest_description_1013",
+      "trigger_list": [
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1012,
+          "condition_value": 1
+        },
+        {
+          "trigger": "CampaignClear",
+          "condition_id": 6014040,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "conversation_id": "m_subquest_1013_s",
+      "clear_trigger": "FieldObjectCollection",
+      "clear_condition_id": 1014001,
+      "clear_condition_value": 1,
+      "scenario_type": "Dialog",
+      "episode_id": "d_subquest_1013",
+      "end_messenger_conversation_id": "m_subquest_1013_e",
+      "before_sub_quest_id": 0
+    },
+    {
+      "id": 1262,
+      "group_id": 1260,
+      "description_localkey": "sub_quest_description_1262",
+      "trigger_list": [
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1261,
+          "condition_value": 1
+        },
+        {
+          "trigger": "CampaignClear",
+          "condition_id": 6015009,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "conversation_id": "m_subquest_1262_s",
+      "clear_trigger": "CampaignGroupClear",
+      "clear_condition_id": 15001,
+      "clear_condition_value": 1,
+      "scenario_type": "Dialog",
+      "episode_id": "d_subquest_1262",
+      "end_messenger_conversation_id": "m_subquest_1262_e",
+      "before_sub_quest_id": 0
+    },
+    {
+      "id": 1271,
+      "group_id": 1270,
+      "description_localkey": "sub_quest_description_1271",
+      "trigger_list": [
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1181,
+          "condition_value": 1
+        },
+        {
+          "trigger": "CampaignClear",
+          "condition_id": 6015021,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "conversation_id": "m_subquest_1271_s",
+      "clear_trigger": "CampaignGroupClear",
+      "clear_condition_id": 15002,
+      "clear_condition_value": 1,
+      "scenario_type": "Dialog",
+      "episode_id": "d_subquest_1271",
+      "end_messenger_conversation_id": "m_subquest_1271_e",
+      "before_sub_quest_id": 0
+    },
+    {
+      "id": 1263,
+      "group_id": 1260,
+      "description_localkey": "sub_quest_description_1263",
+      "trigger_list": [
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1262,
+          "condition_value": 1
+        },
+        {
+          "trigger": "CampaignClear",
+          "condition_id": 6015042,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "conversation_id": "m_subquest_1263_s",
+      "clear_trigger": "CampaignGroupClear",
+      "clear_condition_id": 15003,
+      "clear_condition_value": 1,
+      "scenario_type": "Dialog",
+      "episode_id": "d_subquest_1263",
+      "end_messenger_conversation_id": "m_subquest_1263_e",
+      "before_sub_quest_id": 0
+    },
+    {
+      "id": 1064,
+      "group_id": 1060,
+      "description_localkey": "sub_quest_description_1064",
+      "trigger_list": [
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1063,
+          "condition_value": 1
+        },
+        {
+          "trigger": "CampaignClear",
+          "condition_id": 6016007,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "conversation_id": "m_subquest_1064_s",
+      "clear_trigger": "FieldObjectCollection",
+      "clear_condition_id": 1016001,
+      "clear_condition_value": 1,
+      "scenario_type": "Dialog",
+      "episode_id": "d_subquest_1064",
+      "end_messenger_conversation_id": "m_subquest_1064_e",
+      "before_sub_quest_id": 0
+    },
+    {
+      "id": 1106,
+      "group_id": 1100,
+      "description_localkey": "sub_quest_description_1106",
+      "trigger_list": [
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1105,
+          "condition_value": 1
+        },
+        {
+          "trigger": "CampaignClear",
+          "condition_id": 6016023,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "conversation_id": "m_subquest_1106_s",
+      "clear_trigger": "NpcTalk",
+      "clear_condition_id": 5016001,
+      "clear_condition_value": 1,
+      "scenario_type": "FieldTalk",
+      "episode_id": "f_subquest_1106_e",
+      "end_messenger_conversation_id": "m_subquest_1106_e",
+      "before_sub_quest_id": 0
+    },
+    {
+      "id": 1264,
+      "group_id": 1260,
+      "description_localkey": "sub_quest_description_1264",
+      "trigger_list": [
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1263,
+          "condition_value": 1
+        },
+        {
+          "trigger": "CampaignClear",
+          "condition_id": 6016039,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "conversation_id": "m_subquest_1264_s",
+      "clear_trigger": "CampaignGroupClear",
+      "clear_condition_id": 16001,
+      "clear_condition_value": 1,
+      "scenario_type": "Dialog",
+      "episode_id": "d_subquest_1264",
+      "end_messenger_conversation_id": "m_subquest_1264_e",
+      "before_sub_quest_id": 0
+    },
+    {
+      "id": 1231,
+      "group_id": 1230,
+      "description_localkey": "sub_quest_description_1231",
+      "trigger_list": [
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1241,
+          "condition_value": 1
+        },
+        {
+          "trigger": "CampaignClear",
+          "condition_id": 6017012,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "conversation_id": "m_subquest_1231_s",
+      "clear_trigger": "CampaignGroupClear",
+      "clear_condition_id": 17001,
+      "clear_condition_value": 1,
+      "scenario_type": "Dialog",
+      "episode_id": "d_subquest_1231_e",
+      "end_messenger_conversation_id": "m_subquest_1231_e",
+      "before_sub_quest_id": 0
+    },
+    {
+      "id": 1107,
+      "group_id": 1100,
+      "description_localkey": "sub_quest_description_1107",
+      "trigger_list": [
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1106,
+          "condition_value": 1
+        },
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1231,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "conversation_id": "m_subquest_1107_s",
+      "clear_trigger": "CampaignGroupClear",
+      "clear_condition_id": 17002,
+      "clear_condition_value": 1,
+      "scenario_type": "Dialog",
+      "episode_id": "d_subquest_1107_e",
+      "end_messenger_conversation_id": "m_subquest_1107_e",
+      "before_sub_quest_id": 0
+    },
+    {
+      "id": 1251,
+      "group_id": 1250,
+      "description_localkey": "sub_quest_description_1251",
+      "trigger_list": [
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1271,
+          "condition_value": 1
+        },
+        {
+          "trigger": "CampaignClear",
+          "condition_id": 6017043,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "conversation_id": "m_subquest_1251_s",
+      "clear_trigger": "FieldObjectCollection",
+      "clear_condition_id": 1017001,
+      "clear_condition_value": 1,
+      "scenario_type": "Dialog",
+      "episode_id": "d_subquest_1251",
+      "end_messenger_conversation_id": "m_subquest_1251_e",
+      "before_sub_quest_id": 0
+    },
+    {
+      "id": 1032,
+      "group_id": 1030,
+      "description_localkey": "sub_quest_description_1032",
+      "trigger_list": [
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1031,
+          "condition_value": 1
+        },
+        {
+          "trigger": "CampaignClear",
+          "condition_id": 6018020,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "conversation_id": "m_subquest_1032_s",
+      "clear_trigger": "CampaignGroupClear",
+      "clear_condition_id": 18001,
+      "clear_condition_value": 1,
+      "scenario_type": "Dialog",
+      "episode_id": "d_subquest_1032",
+      "end_messenger_conversation_id": "m_subquest_1032_e",
+      "before_sub_quest_id": 0
+    },
+    {
+      "id": 1043,
+      "group_id": 1040,
+      "description_localkey": "sub_quest_description_1043",
+      "trigger_list": [
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1042,
+          "condition_value": 1
+        },
+        {
+          "trigger": "CampaignClear",
+          "condition_id": 6018030,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "conversation_id": "m_subquest_1043_s",
+      "clear_trigger": "CampaignGroupClear",
+      "clear_condition_id": 18002,
+      "clear_condition_value": 1,
+      "scenario_type": "Dialog",
+      "episode_id": "d_subquest_1043_e",
+      "end_messenger_conversation_id": "m_subquest_1043_e",
+      "before_sub_quest_id": 0
+    },
+    {
+      "id": 1122,
+      "group_id": 1120,
+      "description_localkey": "sub_quest_description_1122",
+      "trigger_list": [
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1121,
+          "condition_value": 1
+        },
+        {
+          "trigger": "CampaignClear",
+          "condition_id": 6018045,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "conversation_id": "m_subquest_1122_s",
+      "clear_trigger": "CampaignGroupClear",
+      "clear_condition_id": 18003,
+      "clear_condition_value": 1,
+      "episode_id": "0",
+      "end_messenger_conversation_id": "m_subquest_1122_e",
+      "before_sub_quest_id": 0
+    }
+  ]
+}

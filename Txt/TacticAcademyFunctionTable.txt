@@ -1,0 +1,1325 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1001,
+      "group_id": 1000,
+      "name_localkey": "ACADEMY_LESSON_OUTPOST",
+      "function_localkey": "ACADEMY_LESSON_OUTPOST_1",
+      "lesson_type": "BuildingSlot",
+      "lesson_reward": [
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 3
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        }
+      ],
+      "character_condition_value_1": 1013,
+      "character_condition_value_2": 0,
+      "character_condition_value_3": 0,
+      "lesson_condition": [
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        }
+      ],
+      "currency_id": 2000,
+      "currency_value": 5000
+    },
+    {
+      "id": 1002,
+      "group_id": 1000,
+      "name_localkey": "ACADEMY_LESSON_OUTPOSTBATTLE",
+      "function_localkey": "ACADEMY_LESSON_OUTPOSTBATTLE_1",
+      "lesson_type": "OutpostBattle",
+      "lesson_reward": [
+        {
+          "lesson_reward_id": 2000,
+          "lesson_reward_value": 1000
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        }
+      ],
+      "character_condition_value_1": 1014,
+      "character_condition_value_2": 0,
+      "character_condition_value_3": 0,
+      "lesson_condition": [
+        {
+          "condition_type": "OpenLesson",
+          "condition_value": 1001
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        }
+      ],
+      "currency_id": 2000,
+      "currency_value": 5000
+    },
+    {
+      "id": 1003,
+      "group_id": 1000,
+      "name_localkey": "ACADEMY_LESSON_OUTPOSTBATTLE",
+      "function_localkey": "ACADEMY_LESSON_OUTPOSTBATTLE_2",
+      "lesson_type": "OutpostBattle",
+      "lesson_reward": [
+        {
+          "lesson_reward_id": 1000,
+          "lesson_reward_value": 1000
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        }
+      ],
+      "character_condition_value_1": 1015,
+      "character_condition_value_2": 0,
+      "character_condition_value_3": 0,
+      "lesson_condition": [
+        {
+          "condition_type": "OpenLesson",
+          "condition_value": 1002
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        }
+      ],
+      "currency_id": 2000,
+      "currency_value": 5000
+    },
+    {
+      "id": 2001,
+      "group_id": 2000,
+      "name_localkey": "ACADEMY_LESSON_OUTPOST",
+      "function_localkey": "ACADEMY_LESSON_OUTPOST_1",
+      "lesson_type": "BuildingSlot",
+      "lesson_reward": [
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 3
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        }
+      ],
+      "character_condition_value_1": 1016,
+      "character_condition_value_2": 0,
+      "character_condition_value_3": 0,
+      "lesson_condition": [
+        {
+          "condition_type": "OpenLesson",
+          "condition_value": 1003
+        },
+        {
+          "condition_type": "Build",
+          "condition_value": 10601
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        }
+      ],
+      "currency_id": 2000,
+      "currency_value": 10000
+    },
+    {
+      "id": 2002,
+      "group_id": 2000,
+      "name_localkey": "ACADEMY_LESSON_DISPATCH",
+      "function_localkey": "ACADEMY_LESSON_DISPATCH_1",
+      "lesson_type": "Dispatch",
+      "lesson_reward": [
+        {
+          "lesson_reward_id": 2,
+          "lesson_reward_value": 1
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        }
+      ],
+      "character_condition_value_1": 1017,
+      "character_condition_value_2": 0,
+      "character_condition_value_3": 0,
+      "lesson_condition": [
+        {
+          "condition_type": "OpenLesson",
+          "condition_value": 2001
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        }
+      ],
+      "currency_id": 2000,
+      "currency_value": 10000
+    },
+    {
+      "id": 2003,
+      "group_id": 2000,
+      "name_localkey": "ACADEMY_LESSON_OUTPOSTBATTLE",
+      "function_localkey": "ACADEMY_LESSON_OUTPOSTBATTLE_1",
+      "lesson_type": "OutpostBattle",
+      "lesson_reward": [
+        {
+          "lesson_reward_id": 2000,
+          "lesson_reward_value": 1000
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        }
+      ],
+      "character_condition_value_1": 1018,
+      "character_condition_value_2": 0,
+      "character_condition_value_3": 0,
+      "lesson_condition": [
+        {
+          "condition_type": "OpenLesson",
+          "condition_value": 2002
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        }
+      ],
+      "currency_id": 2000,
+      "currency_value": 10000
+    },
+    {
+      "id": 3001,
+      "group_id": 3000,
+      "name_localkey": "ACADEMY_LESSON_OUTPOST",
+      "function_localkey": "ACADEMY_LESSON_OUTPOST_1",
+      "lesson_type": "BuildingSlot",
+      "lesson_reward": [
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 3
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        }
+      ],
+      "character_condition_value_1": 1025,
+      "character_condition_value_2": 0,
+      "character_condition_value_3": 0,
+      "lesson_condition": [
+        {
+          "condition_type": "OpenLesson",
+          "condition_value": 2003
+        },
+        {
+          "condition_type": "Build",
+          "condition_value": 10901
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        }
+      ],
+      "currency_id": 2000,
+      "currency_value": 15000
+    },
+    {
+      "id": 3002,
+      "group_id": 3000,
+      "name_localkey": "ACADEMY_LESSON_OUTPOSTBATTLE",
+      "function_localkey": "ACADEMY_LESSON_OUTPOSTBATTLE_3",
+      "lesson_type": "OutpostBattle",
+      "lesson_reward": [
+        {
+          "lesson_reward_id": 3000,
+          "lesson_reward_value": 1000
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        }
+      ],
+      "character_condition_value_1": 1024,
+      "character_condition_value_2": 0,
+      "character_condition_value_3": 0,
+      "lesson_condition": [
+        {
+          "condition_type": "OpenLesson",
+          "condition_value": 3001
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        }
+      ],
+      "currency_id": 2000,
+      "currency_value": 15000
+    },
+    {
+      "id": 3003,
+      "group_id": 3000,
+      "name_localkey": "ACADEMY_LESSON_INTERCEPT",
+      "function_localkey": "ACADEMY_LESSON_INTERCEPT_1",
+      "lesson_type": "Intercept",
+      "lesson_reward": [
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 24001
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        }
+      ],
+      "character_condition_value_1": 1023,
+      "character_condition_value_2": 0,
+      "character_condition_value_3": 0,
+      "lesson_condition": [
+        {
+          "condition_type": "OpenLesson",
+          "condition_value": 3002
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        }
+      ],
+      "currency_id": 2000,
+      "currency_value": 15000
+    },
+    {
+      "id": 3004,
+      "group_id": 3000,
+      "name_localkey": "ACADEMY_LESSON_DISPATCH",
+      "function_localkey": "ACADEMY_LESSON_DISPATCH_1",
+      "lesson_type": "Dispatch",
+      "lesson_reward": [
+        {
+          "lesson_reward_id": 3,
+          "lesson_reward_value": 1
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        }
+      ],
+      "character_condition_value_1": 3001,
+      "character_condition_value_2": 0,
+      "character_condition_value_3": 0,
+      "lesson_condition": [
+        {
+          "condition_type": "OpenLesson",
+          "condition_value": 3003
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        }
+      ],
+      "currency_id": 2000,
+      "currency_value": 15000
+    },
+    {
+      "id": 4001,
+      "group_id": 4000,
+      "name_localkey": "ACADEMY_LESSON_OUTPOST",
+      "function_localkey": "ACADEMY_LESSON_OUTPOST_1",
+      "lesson_type": "BuildingSlot",
+      "lesson_reward": [
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 3
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        }
+      ],
+      "character_condition_value_1": 3002,
+      "character_condition_value_2": 0,
+      "character_condition_value_3": 0,
+      "lesson_condition": [
+        {
+          "condition_type": "OpenLesson",
+          "condition_value": 3004
+        },
+        {
+          "condition_type": "Build",
+          "condition_value": 11201
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        }
+      ],
+      "currency_id": 2000,
+      "currency_value": 20000
+    },
+    {
+      "id": 4002,
+      "group_id": 4000,
+      "name_localkey": "ACADEMY_LESSON_OUTPOSTBATTLE",
+      "function_localkey": "ACADEMY_LESSON_OUTPOSTBATTLE_1",
+      "lesson_type": "OutpostBattle",
+      "lesson_reward": [
+        {
+          "lesson_reward_id": 2000,
+          "lesson_reward_value": 1000
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        }
+      ],
+      "character_condition_value_1": 3003,
+      "character_condition_value_2": 0,
+      "character_condition_value_3": 0,
+      "lesson_condition": [
+        {
+          "condition_type": "OpenLesson",
+          "condition_value": 4001
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        }
+      ],
+      "currency_id": 2000,
+      "currency_value": 20000
+    },
+    {
+      "id": 4003,
+      "group_id": 4000,
+      "name_localkey": "ACADEMY_LESSON_DISPATCH",
+      "function_localkey": "ACADEMY_LESSON_DISPATCH_1",
+      "lesson_type": "Dispatch",
+      "lesson_reward": [
+        {
+          "lesson_reward_id": 4,
+          "lesson_reward_value": 1
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        }
+      ],
+      "character_condition_value_1": 3005,
+      "character_condition_value_2": 0,
+      "character_condition_value_3": 0,
+      "lesson_condition": [
+        {
+          "condition_type": "OpenLesson",
+          "condition_value": 4002
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        }
+      ],
+      "currency_id": 2000,
+      "currency_value": 20000
+    },
+    {
+      "id": 5001,
+      "group_id": 5000,
+      "name_localkey": "ACADEMY_LESSON_OUTPOST",
+      "function_localkey": "ACADEMY_LESSON_OUTPOST_1",
+      "lesson_type": "BuildingSlot",
+      "lesson_reward": [
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 4
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        }
+      ],
+      "character_condition_value_1": 3006,
+      "character_condition_value_2": 0,
+      "character_condition_value_3": 0,
+      "lesson_condition": [
+        {
+          "condition_type": "OpenLesson",
+          "condition_value": 4003
+        },
+        {
+          "condition_type": "Build",
+          "condition_value": 11501
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        }
+      ],
+      "currency_id": 2000,
+      "currency_value": 50000
+    },
+    {
+      "id": 5002,
+      "group_id": 5000,
+      "name_localkey": "ACADEMY_LESSON_OUTPOSTBATTLE",
+      "function_localkey": "ACADEMY_LESSON_OUTPOSTBATTLE_2",
+      "lesson_type": "OutpostBattle",
+      "lesson_reward": [
+        {
+          "lesson_reward_id": 1000,
+          "lesson_reward_value": 1500
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        }
+      ],
+      "character_condition_value_1": 3009,
+      "character_condition_value_2": 0,
+      "character_condition_value_3": 0,
+      "lesson_condition": [
+        {
+          "condition_type": "OpenLesson",
+          "condition_value": 5001
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        }
+      ],
+      "currency_id": 2000,
+      "currency_value": 50000
+    },
+    {
+      "id": 5003,
+      "group_id": 5000,
+      "name_localkey": "ACADEMY_LESSON_OUTPOSTBATTLE",
+      "function_localkey": "ACADEMY_LESSON_OUTPOSTBATTLE_1",
+      "lesson_type": "OutpostBattle",
+      "lesson_reward": [
+        {
+          "lesson_reward_id": 2000,
+          "lesson_reward_value": 1000
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        }
+      ],
+      "character_condition_value_1": 3010,
+      "character_condition_value_2": 0,
+      "character_condition_value_3": 0,
+      "lesson_condition": [
+        {
+          "condition_type": "OpenLesson",
+          "condition_value": 5002
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        }
+      ],
+      "currency_id": 2000,
+      "currency_value": 50000
+    },
+    {
+      "id": 6001,
+      "group_id": 6000,
+      "name_localkey": "ACADEMY_LESSON_SYNCHRODEVICE",
+      "function_localkey": "ACADEMY_LESSON_SYNCHRODEVICE_1",
+      "lesson_type": "SynchroDevice",
+      "lesson_reward": [
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 5
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        }
+      ],
+      "character_condition_value_1": 3007,
+      "character_condition_value_2": 0,
+      "character_condition_value_3": 0,
+      "lesson_condition": [
+        {
+          "condition_type": "OpenLesson",
+          "condition_value": 5003
+        },
+        {
+          "condition_type": "Build",
+          "condition_value": 11701
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        }
+      ],
+      "currency_id": 2000,
+      "currency_value": 120000
+    },
+    {
+      "id": 6002,
+      "group_id": 6000,
+      "name_localkey": "ACADEMY_LESSON_OUTPOSTBATTLE",
+      "function_localkey": "ACADEMY_LESSON_OUTPOSTBATTLE_3",
+      "lesson_type": "OutpostBattle",
+      "lesson_reward": [
+        {
+          "lesson_reward_id": 3000,
+          "lesson_reward_value": 1500
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        }
+      ],
+      "character_condition_value_1": 3008,
+      "character_condition_value_2": 0,
+      "character_condition_value_3": 0,
+      "lesson_condition": [
+        {
+          "condition_type": "OpenLesson",
+          "condition_value": 6001
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        }
+      ],
+      "currency_id": 2000,
+      "currency_value": 120000
+    },
+    {
+      "id": 6003,
+      "group_id": 6000,
+      "name_localkey": "ACADEMY_LESSON_DISPATCH",
+      "function_localkey": "ACADEMY_LESSON_DISPATCH_3",
+      "lesson_type": "Dispatch",
+      "lesson_reward": [
+        {
+          "lesson_reward_id": 5,
+          "lesson_reward_value": 1
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        }
+      ],
+      "character_condition_value_1": 1013,
+      "character_condition_value_2": 3001,
+      "character_condition_value_3": 0,
+      "lesson_condition": [
+        {
+          "condition_type": "OpenLesson",
+          "condition_value": 6002
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        }
+      ],
+      "currency_id": 2000,
+      "currency_value": 120000
+    },
+    {
+      "id": 7001,
+      "group_id": 7000,
+      "name_localkey": "ACADEMY_LESSON_OUTPOST",
+      "function_localkey": "ACADEMY_LESSON_OUTPOST_1",
+      "lesson_type": "BuildingSlot",
+      "lesson_reward": [
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 4
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        }
+      ],
+      "character_condition_value_1": 1014,
+      "character_condition_value_2": 3002,
+      "character_condition_value_3": 0,
+      "lesson_condition": [
+        {
+          "condition_type": "OpenLesson",
+          "condition_value": 6003
+        },
+        {
+          "condition_type": "Build",
+          "condition_value": 11901
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        }
+      ],
+      "currency_id": 2000,
+      "currency_value": 210000
+    },
+    {
+      "id": 7002,
+      "group_id": 7000,
+      "name_localkey": "ACADEMY_LESSON_OUTPOSTBATTLE",
+      "function_localkey": "ACADEMY_LESSON_OUTPOSTBATTLE_1",
+      "lesson_type": "OutpostBattle",
+      "lesson_reward": [
+        {
+          "lesson_reward_id": 2000,
+          "lesson_reward_value": 1000
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        }
+      ],
+      "character_condition_value_1": 1015,
+      "character_condition_value_2": 3003,
+      "character_condition_value_3": 0,
+      "lesson_condition": [
+        {
+          "condition_type": "OpenLesson",
+          "condition_value": 7001
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        }
+      ],
+      "currency_id": 2000,
+      "currency_value": 210000
+    },
+    {
+      "id": 7003,
+      "group_id": 7000,
+      "name_localkey": "ACADEMY_LESSON_INTERCEPT",
+      "function_localkey": "ACADEMY_LESSON_INTERCEPT_2",
+      "lesson_type": "Intercept",
+      "lesson_reward": [
+        {
+          "lesson_reward_id": 1,
+          "lesson_reward_value": 24002
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        }
+      ],
+      "character_condition_value_1": 1016,
+      "character_condition_value_2": 3005,
+      "character_condition_value_3": 0,
+      "lesson_condition": [
+        {
+          "condition_type": "OpenLesson",
+          "condition_value": 7002
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        }
+      ],
+      "currency_id": 2000,
+      "currency_value": 210000
+    },
+    {
+      "id": 8001,
+      "group_id": 8000,
+      "name_localkey": "ACADEMY_LESSON_SYNCHRODEVICE",
+      "function_localkey": "ACADEMY_LESSON_SYNCHRODEVICE_1",
+      "lesson_type": "SynchroDevice",
+      "lesson_reward": [
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 5
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        }
+      ],
+      "character_condition_value_1": 1017,
+      "character_condition_value_2": 3006,
+      "character_condition_value_3": 0,
+      "lesson_condition": [
+        {
+          "condition_type": "OpenLesson",
+          "condition_value": 7003
+        },
+        {
+          "condition_type": "Build",
+          "condition_value": 12101
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        }
+      ],
+      "currency_id": 2000,
+      "currency_value": 800000
+    },
+    {
+      "id": 8002,
+      "group_id": 8000,
+      "name_localkey": "ACADEMY_LESSON_OUTPOSTBATTLE",
+      "function_localkey": "ACADEMY_LESSON_OUTPOSTBATTLE_2",
+      "lesson_type": "OutpostBattle",
+      "lesson_reward": [
+        {
+          "lesson_reward_id": 1000,
+          "lesson_reward_value": 2000
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        }
+      ],
+      "character_condition_value_1": 1018,
+      "character_condition_value_2": 3009,
+      "character_condition_value_3": 0,
+      "lesson_condition": [
+        {
+          "condition_type": "OpenLesson",
+          "condition_value": 8001
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        }
+      ],
+      "currency_id": 2000,
+      "currency_value": 800000
+    },
+    {
+      "id": 8003,
+      "group_id": 8000,
+      "name_localkey": "ACADEMY_LESSON_OUTPOSTBATTLE",
+      "function_localkey": "ACADEMY_LESSON_OUTPOSTBATTLE_1",
+      "lesson_type": "OutpostBattle",
+      "lesson_reward": [
+        {
+          "lesson_reward_id": 2000,
+          "lesson_reward_value": 1000
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        }
+      ],
+      "character_condition_value_1": 1025,
+      "character_condition_value_2": 3010,
+      "character_condition_value_3": 0,
+      "lesson_condition": [
+        {
+          "condition_type": "OpenLesson",
+          "condition_value": 8002
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        }
+      ],
+      "currency_id": 2000,
+      "currency_value": 800000
+    },
+    {
+      "id": 8004,
+      "group_id": 8000,
+      "name_localkey": "ACADEMY_LESSON_DISPATCH",
+      "function_localkey": "ACADEMY_LESSON_DISPATCH_1",
+      "lesson_type": "Dispatch",
+      "lesson_reward": [
+        {
+          "lesson_reward_id": 6,
+          "lesson_reward_value": 1
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        }
+      ],
+      "character_condition_value_1": 1024,
+      "character_condition_value_2": 3007,
+      "character_condition_value_3": 0,
+      "lesson_condition": [
+        {
+          "condition_type": "OpenLesson",
+          "condition_value": 8003
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        }
+      ],
+      "currency_id": 2000,
+      "currency_value": 800000
+    },
+    {
+      "id": 9001,
+      "group_id": 9000,
+      "name_localkey": "ACADEMY_LESSON_SYNCHRODEVICE",
+      "function_localkey": "ACADEMY_LESSON_SYNCHRODEVICE_1",
+      "lesson_type": "SynchroDevice",
+      "lesson_reward": [
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 5
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        }
+      ],
+      "character_condition_value_1": 1023,
+      "character_condition_value_2": 3008,
+      "character_condition_value_3": 0,
+      "lesson_condition": [
+        {
+          "condition_type": "OpenLesson",
+          "condition_value": 8004
+        },
+        {
+          "condition_type": "Build",
+          "condition_value": 12301
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        }
+      ],
+      "currency_id": 2000,
+      "currency_value": 900000
+    },
+    {
+      "id": 9002,
+      "group_id": 9000,
+      "name_localkey": "ACADEMY_LESSON_OUTPOSTBATTLE",
+      "function_localkey": "ACADEMY_LESSON_OUTPOSTBATTLE_3",
+      "lesson_type": "OutpostBattle",
+      "lesson_reward": [
+        {
+          "lesson_reward_id": 3000,
+          "lesson_reward_value": 2000
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        }
+      ],
+      "character_condition_value_1": 1013,
+      "character_condition_value_2": 3001,
+      "character_condition_value_3": 3002,
+      "lesson_condition": [
+        {
+          "condition_type": "OpenLesson",
+          "condition_value": 9001
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        }
+      ],
+      "currency_id": 2000,
+      "currency_value": 900000
+    },
+    {
+      "id": 9003,
+      "group_id": 9000,
+      "name_localkey": "ACADEMY_LESSON_INTERCEPT",
+      "function_localkey": "ACADEMY_LESSON_INTERCEPT_3",
+      "lesson_type": "Intercept",
+      "lesson_reward": [
+        {
+          "lesson_reward_id": 2,
+          "lesson_reward_value": 24002
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        }
+      ],
+      "character_condition_value_1": 1014,
+      "character_condition_value_2": 3003,
+      "character_condition_value_3": 3005,
+      "lesson_condition": [
+        {
+          "condition_type": "OpenLesson",
+          "condition_value": 9002
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        }
+      ],
+      "currency_id": 2000,
+      "currency_value": 900000
+    },
+    {
+      "id": 9004,
+      "group_id": 9000,
+      "name_localkey": "ACADEMY_LESSON_DISPATCH",
+      "function_localkey": "ACADEMY_LESSON_DISPATCH_3",
+      "lesson_type": "Dispatch",
+      "lesson_reward": [
+        {
+          "lesson_reward_id": 7,
+          "lesson_reward_value": 1
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        }
+      ],
+      "character_condition_value_1": 1015,
+      "character_condition_value_2": 3006,
+      "character_condition_value_3": 3009,
+      "lesson_condition": [
+        {
+          "condition_type": "OpenLesson",
+          "condition_value": 9003
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        }
+      ],
+      "currency_id": 2000,
+      "currency_value": 900000
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1,
+      "team": [
+        {
+          "preset_team_type": "None",
+          "preset_shooters": [
+            0
+          ]
+        },
+        {
+          "preset_team_type": "None",
+          "preset_shooters": [
+            0
+          ]
+        },
+        {
+          "preset_team_type": "None",
+          "preset_shooters": [
+            0
+          ]
+        },
+        {
+          "preset_team_type": "None",
+          "preset_shooters": [
+            0
+          ]
+        },
+        {
+          "preset_team_type": "None",
+          "preset_shooters": [
+            0
+          ]
+        }
+      ]
+    }
+  ]
+}

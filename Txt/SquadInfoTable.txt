@@ -1,0 +1,278 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1,
+      "squad": "Matis",
+      "squad_name": "matis_name",
+      "squad_description": "squad_matis_info",
+      "resource_id": "img_logo_squad"
+    },
+    {
+      "id": 2,
+      "squad": "CafeSweety",
+      "squad_name": "cafesweety_name",
+      "squad_description": "squad_cafesweety_info",
+      "resource_id": "img_logo_squad"
+    },
+    {
+      "id": 3,
+      "squad": "Protocol",
+      "squad_name": "protocol_name",
+      "squad_description": "squad_protocol_info",
+      "resource_id": "img_logo_squad"
+    },
+    {
+      "id": 4,
+      "squad": "Unlimited",
+      "squad_name": "unlimited_name",
+      "squad_description": "squad_unlimited_info",
+      "resource_id": "img_logo_squad"
+    },
+    {
+      "id": 5,
+      "squad": "Absolute",
+      "squad_name": "absolut_name",
+      "squad_description": "squad_absolut_info",
+      "resource_id": "img_logo_squad"
+    },
+    {
+      "id": 6,
+      "squad": "Wardress",
+      "squad_name": "wardress_name",
+      "squad_description": "squad_wardress_info",
+      "resource_id": "img_logo_squad"
+    },
+    {
+      "id": 7,
+      "squad": "Triangle",
+      "squad_name": "triangle_name",
+      "squad_description": "squad_triangle_info",
+      "resource_id": "img_logo_squad"
+    },
+    {
+      "id": 8,
+      "squad": "777",
+      "squad_name": "777_name",
+      "squad_description": "squad_777_info",
+      "resource_id": "img_logo_squad"
+    },
+    {
+      "id": 9,
+      "squad": "MightyTools",
+      "squad_name": "mightytools_name",
+      "squad_description": "squad_mightytools_info",
+      "resource_id": "img_logo_squad"
+    },
+    {
+      "id": 10,
+      "squad": "Pioneer",
+      "squad_name": "pioneer_name",
+      "squad_description": "squad_pioneer_info",
+      "resource_id": "img_logo_squad"
+    },
+    {
+      "id": 11,
+      "squad": "Inherit",
+      "squad_name": "inherit_name",
+      "squad_description": "squad_inherit_info",
+      "resource_id": "img_logo_squad"
+    },
+    {
+      "id": 12,
+      "squad": "MasterHand",
+      "squad_name": "masterhand_name",
+      "squad_description": "squad_masterhand_info",
+      "resource_id": "img_logo_squad"
+    },
+    {
+      "id": 13,
+      "squad": "Scouting",
+      "squad_name": "scouting_name",
+      "squad_description": "squad_scouting_info",
+      "resource_id": "img_logo_squad"
+    },
+    {
+      "id": 14,
+      "squad": "ACPU",
+      "squad_name": "acpu_name",
+      "squad_description": "squad_acpu_info",
+      "resource_id": "img_logo_squad"
+    },
+    {
+      "id": 15,
+      "squad": "InfinityRail",
+      "squad_name": "infinityrail_name",
+      "squad_description": "squad_infinityrail_info",
+      "resource_id": "img_logo_squad"
+    },
+    {
+      "id": 16,
+      "squad": "Exotic",
+      "squad_name": "exotic_name",
+      "squad_description": "squad_exotic_info",
+      "resource_id": "img_logo_squad"
+    },
+    {
+      "id": 17,
+      "squad": "Seraphim",
+      "squad_name": "seraphim_name",
+      "squad_description": "squad_seraphim_info",
+      "resource_id": "img_logo_squad"
+    },
+    {
+      "id": 18,
+      "squad": "External",
+      "squad_name": "external_name",
+      "squad_description": "squad_external_info",
+      "resource_id": "img_logo_squad"
+    },
+    {
+      "id": 19,
+      "squad": "Talentum",
+      "squad_name": "talentum_name",
+      "squad_description": "squad_talentum_info",
+      "resource_id": "img_logo_squad"
+    },
+    {
+      "id": 20,
+      "squad": "LifeTonic",
+      "squad_name": "lifetonic_name",
+      "squad_description": "squad_lifetonic_info",
+      "resource_id": "img_logo_squad"
+    },
+    {
+      "id": 21,
+      "squad": "MMR",
+      "squad_name": "mmr_name",
+      "squad_description": "squad_mmr_info",
+      "resource_id": "img_logo_squad"
+    },
+    {
+      "id": 22,
+      "squad": "SiegePerilous",
+      "squad_name": "siegeperilous_name",
+      "squad_description": "squad_siegeperilous_info",
+      "resource_id": "img_logo_squad"
+    },
+    {
+      "id": 23,
+      "squad": "UnderworldQueen",
+      "squad_name": "underworldqueen_name",
+      "squad_description": "squad_underworldqueen_info",
+      "resource_id": "img_logo_squad"
+    },
+    {
+      "id": 24,
+      "squad": "TheClown",
+      "squad_name": "theclown_name",
+      "squad_description": "squad_theclown_info",
+      "resource_id": "img_logo_squad"
+    },
+    {
+      "id": 25,
+      "squad": "MaidForYou",
+      "squad_name": "maidforyou_name",
+      "squad_description": "squad_maidforyou_info",
+      "resource_id": "img_logo_squad"
+    },
+    {
+      "id": 26,
+      "squad": "Archive",
+      "squad_name": "archive_name",
+      "squad_description": "squad_archive_info",
+      "resource_id": "img_logo_squad"
+    },
+    {
+      "id": 27,
+      "squad": "Weissritter",
+      "squad_name": "weissritter_name",
+      "squad_description": "squad_weissritter_info",
+      "resource_id": "img_logo_squad"
+    },
+    {
+      "id": 28,
+      "squad": "HeavyGram",
+      "squad_name": "heavygram_name",
+      "squad_description": "squad_heavygram_info",
+      "resource_id": "img_logo_squad"
+    },
+    {
+      "id": 29,
+      "squad": "HappyZoo",
+      "squad_name": "happyzoo_name",
+      "squad_description": "squad_happyzoo_info",
+      "resource_id": "img_logo_squad"
+    },
+    {
+      "id": 30,
+      "squad": "RealKindness",
+      "squad_name": "realkindness_name",
+      "squad_description": "squad_realkindness_info",
+      "resource_id": "img_logo_squad"
+    },
+    {
+      "id": 31,
+      "squad": "Counters",
+      "squad_name": "counters_name",
+      "squad_description": "squad_counters_info",
+      "resource_id": "img_logo_squad"
+    },
+    {
+      "id": 32,
+      "squad": "RecallRelease",
+      "squad_name": "recallrelease_name",
+      "squad_description": "squad_recallrelease_info",
+      "resource_id": "img_logo_squad"
+    },
+    {
+      "id": 33,
+      "squad": "LittleCannon",
+      "squad_name": "littlecannon_name",
+      "squad_description": "squad_littlecannon_info",
+      "resource_id": "img_logo_squad"
+    },
+    {
+      "id": 34,
+      "squad": "Replace",
+      "squad_name": "replace_name",
+      "squad_description": "squad_replace_info",
+      "resource_id": "img_logo_squad"
+    },
+    {
+      "id": 35,
+      "squad": "BotanicGarden",
+      "squad_name": "botanicgarden_name",
+      "squad_description": "squad_botanicgarden_info",
+      "resource_id": "img_logo_squad"
+    },
+    {
+      "id": 36,
+      "squad": "PrimaDonna",
+      "squad_name": "primadonna_name",
+      "squad_description": "squad_primadonna_info",
+      "resource_id": "img_logo_squad"
+    },
+    {
+      "id": 37,
+      "squad": "SchoolCircle",
+      "squad_name": "schoolcircle_name",
+      "squad_description": "squad_schoolcircle_info",
+      "resource_id": "img_logo_squad"
+    },
+    {
+      "id": 38,
+      "squad": "Heretic",
+      "squad_name": "heretic_name",
+      "squad_description": "squad_heretic_info",
+      "resource_id": "img_logo_squad"
+    },
+    {
+      "id": 39,
+      "squad": "Aegis",
+      "squad_name": "aegis_name",
+      "squad_description": "squad_aegis_info",
+      "resource_id": "img_logo_squad"
+    }
+  ]
+}

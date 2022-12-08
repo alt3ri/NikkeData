@@ -1,0 +1,38 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1000001,
+      "event_id": 100001,
+      "pass_point_id": 10001,
+      "name_localkey": "CHRISMAS_PASS_NAME",
+      "description_localkey": "CHRISMAS_PASS_DESCRIPTION",
+      "midas_product_id": 71000001,
+      "infracore_point": 0,
+      "pass_premium_name_localkey": "CHRISMAS_PREMIUM_PASS_NAME",
+      "pass_premium_description_localkey": "CHRISMAS_PREMIUM_PASS_DESCRIPTION",
+      "rank_skip_id": 10,
+      "pass_logo_resource_id": "logo_season_pass_01",
+      "pass_lobby_button_resource_id": "banner_season_pass_01",
+      "shop_npc_resource_id": 90,
+      "npc_costume_id": 40001,
+      "prefab_id": "event_winter_pass_popup"
+    },
+    {
+      "id": 1000002,
+      "event_id": 100002,
+      "pass_point_id": 10002,
+      "name_localkey": "NEW_YEAR_PASS_NAME",
+      "description_localkey": "NEW_YEAR_PASS_DESCRIPTION",
+      "midas_product_id": 71000002,
+      "infracore_point": 0,
+      "pass_premium_name_localkey": "NEW_YEAR_PREMIUM_PASS_NAME",
+      "pass_premium_description_localkey": "NEW_YEAR_PREMIUM_PASS_DESCRIPTION",
+      "rank_skip_id": 10,
+      "pass_logo_resource_id": "logo_season_pass_01",
+      "shop_npc_resource_id": 352,
+      "npc_costume_id": 50003,
+      "prefab_id": "event_sunrise_pass_popup"
+    }
+  ]
+}

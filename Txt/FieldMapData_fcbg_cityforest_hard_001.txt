@@ -1,0 +1,102 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": "fcbg_cityforest_hard_001",
+      "CameraPoint": [
+        {
+          "positionId": "3a4c3ce7-1c4b-4f64-96ef-a8ccbf825447"
+        }
+      ],
+      "ItemSpawner": [
+        {
+          "positionId": "36ca2f32-11f2-489e-a64e-01202dd524ae",
+          "itemId": 54002201,
+          "isCompleteReward": false
+        },
+        {
+          "positionId": "ebb49fbe-5396-46ca-8d87-6bad7f64c5a6",
+          "itemId": 54002202,
+          "isCompleteReward": false
+        },
+        {
+          "positionId": "80c60850-b272-4497-8339-de4c665d074f",
+          "itemId": 54002203,
+          "isCompleteReward": false
+        }
+      ],
+      "SquadSpawner": [
+        {
+          "positionId": "38301022-6415-4f2f-934b-adf73c283f2b"
+        }
+      ],
+      "StageSpawner": [
+        {
+          "positionId": "49c4e81f-3e4d-4566-a13b-5093722149c9",
+          "stageId": 7002001,
+          "eventState": 0
+        },
+        {
+          "positionId": "8e25b079-2e0c-4eb0-86c9-575f18382ec4",
+          "stageId": 7002002,
+          "eventState": 0
+        },
+        {
+          "positionId": "cdd9d110-3239-429d-8812-40e783e7d6c4",
+          "stageId": 7002003,
+          "eventState": 0
+        },
+        {
+          "positionId": "8fee166a-353f-4007-a61c-8342e0f1961d",
+          "stageId": 7002004,
+          "eventState": 0
+        },
+        {
+          "positionId": "d2a389f5-19d4-4ab2-95a4-7c761bf0d6fa",
+          "stageId": 7002005,
+          "eventState": 0
+        },
+        {
+          "positionId": "342833ff-a1f5-4f01-a907-1c767f4cb543",
+          "stageId": 7002006,
+          "eventState": 0
+        },
+        {
+          "positionId": "790815b9-9618-48fb-9332-f9c1a723b589",
+          "stageId": 7002007,
+          "eventState": 0
+        },
+        {
+          "positionId": "1a0ed21a-4fdd-452b-b7a6-658969870038",
+          "stageId": 7002008,
+          "eventState": 0
+        },
+        {
+          "positionId": "b77c266f-3079-4477-8c97-c608f67ffe3d",
+          "stageId": 7002009,
+          "eventState": 0
+        },
+        {
+          "positionId": "a961614c-5043-4cfd-9be6-39c082972dda",
+          "stageId": 7002010,
+          "eventState": 0
+        },
+        {
+          "positionId": "4a67bdcc-4abf-47b3-ae8a-11e123c4c022",
+          "stageId": 7002011,
+          "eventState": 0
+        },
+        {
+          "positionId": "641efc6f-48e5-4640-a45e-295dc1ed9c72",
+          "stageId": 7002012,
+          "eventState": 0
+        },
+        {
+          "positionId": "44d68be4-333a-461b-bb15-c15768034328",
+          "stageId": 7002013,
+          "eventState": 2
+        }
+      ]
+    }
+  ]
+}

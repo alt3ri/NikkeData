@@ -1,0 +1,41 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1000,
+      "name_localkey": "ACADEMY_CLASS_A"
+    },
+    {
+      "id": 2000,
+      "name_localkey": "ACADEMY_CLASS_B"
+    },
+    {
+      "id": 3000,
+      "name_localkey": "ACADEMY_CLASS_C"
+    },
+    {
+      "id": 4000,
+      "name_localkey": "ACADEMY_CLASS_D"
+    },
+    {
+      "id": 5000,
+      "name_localkey": "ACADEMY_CLASS_E"
+    },
+    {
+      "id": 6000,
+      "name_localkey": "ACADEMY_CLASS_F"
+    },
+    {
+      "id": 7000,
+      "name_localkey": "ACADEMY_CLASS_G"
+    },
+    {
+      "id": 8000,
+      "name_localkey": "ACADEMY_CLASS_H"
+    },
+    {
+      "id": 9000,
+      "name_localkey": "ACADEMY_CLASS_I"
+    }
+  ]
+}

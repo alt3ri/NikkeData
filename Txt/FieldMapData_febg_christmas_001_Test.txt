@@ -1,0 +1,138 @@
+{
+    "version": "0.0.1",
+    "records": [
+        {
+            "id": "febg_christmas_001_Test",
+            "CameraPoint": [
+                {
+                    "positionId": "69572165-8f0a-4adb-8dea-07bff685305d"
+                }
+            ],
+            "SquadSpawner": [
+                {
+                    "positionId": "56ec52d5-62c9-451e-bd71-4dce7b3becbd"
+                }
+            ],
+            "StageSpawner": [],
+            "SupplyPoint": [],
+            "InteractionObjectSpawner": [],
+            "Door": [],
+            "LevelTrigger": [],
+            "LargeLevelTrigger": [],
+            "NPCSpawner": [
+                {
+                    "positionId": "726065a9-c64d-4938-809a-aeb2295b50e0",
+                    "npcId": 9991
+                },
+                {
+                    "positionId": "e63450d3-787b-4052-a643-db513d1adf51",
+                    "npcId": 9992
+                }
+            ],
+            "QuestObjectSpawner": [],
+            "MovePoint": [],
+            "PortalSet": [],
+            "RoamingCharacterMovePoint": [
+                {
+                    "positionId": "6fb5c661-cac5-4a29-8594-b8c02a0f958b"
+                },
+                {
+                    "positionId": "1bddcb23-7102-40d9-91a9-0b7e39dfef54"
+                },
+                {
+                    "positionId": "4c3e1ed3-056a-4d58-89a9-43840513fcdf"
+                },
+                {
+                    "positionId": "6f32bfb2-2324-4088-b4e3-a4ace7f475e1"
+                },
+                {
+                    "positionId": "93172aad-8925-428d-a27a-98078a7f0c87"
+                },
+                {
+                    "positionId": "4617990a-c4ab-48ef-b2a2-3656c1350643"
+                },
+                {
+                    "positionId": "171254e3-8926-4bd3-8453-c5f702b168a5"
+                },
+                {
+                    "positionId": "57f3f4db-0ff9-4e7f-9972-eee990f3ed93"
+                },
+                {
+                    "positionId": "d0935d1b-ac5c-4b04-8e4e-9a02b0480e3b"
+                },
+                {
+                    "positionId": "b78b5ca3-01f3-4ba2-89d3-88c0be7ba6b9"
+                },
+                {
+                    "positionId": "0498dc22-0ef4-4692-a9c5-c8b2eac97f7a"
+                },
+                {
+                    "positionId": "d36e7a56-cc5b-4e58-aa24-1bb7376405e6"
+                },
+                {
+                    "positionId": "cd4de32b-9b73-431f-8ed8-4edba1d4dda0"
+                }
+            ],
+            "AssistSquadSpawner": [],
+            "BuildingSpawner": [],
+            "CharacterSpawner": [
+                {
+                    "positionId": "ad922f04-7c68-45da-9c5d-e043f2d3303d"
+                },
+                {
+                    "positionId": "00084c97-a16e-444d-87e9-d8b751270416"
+                },
+                {
+                    "positionId": "20c5ee1d-61d9-4892-b30a-4881a7e516e8"
+                },
+                {
+                    "positionId": "23e092a9-aaaf-4f61-be1e-94bb02480a6f"
+                },
+                {
+                    "positionId": "d91918f2-c074-4cd3-9d6d-530898ee7ada"
+                },
+                {
+                    "positionId": "325c99f8-ffe1-4501-a0df-ffafd9af112f"
+                }
+            ],
+            "EnterBuilding": [],
+            "ItemSpawner": [
+                {
+                    "positionId": "544aee6a-a2f4-4a39-b32a-8cf350be9239",
+                    "itemId": 59999002,
+                    "isCompleteReward": false
+                },
+                {
+                    "positionId": "ca892c76-dc4c-4b6a-a59e-34af628df557",
+                    "itemId": 59999003,
+                    "isCompleteReward": false
+                },
+                {
+                    "positionId": "103632b2-b928-41a3-9630-8d31378283f3",
+                    "itemId": 59999004,
+                    "isCompleteReward": false
+                },
+                {
+                    "positionId": "f5d4d94c-d477-45fb-b432-dff49f6c46a4",
+                    "itemId": 59999005,
+                    "isCompleteReward": false
+                },
+                {
+                    "positionId": "8f1bbdb6-3232-4a72-8398-9c39423998f0",
+                    "itemId": 59999006,
+                    "isCompleteReward": false
+                },
+                {
+                    "positionId": "03ba12e1-79a8-40aa-a5c1-aa7178bf4d6a",
+                    "itemId": 59999007,
+                    "isCompleteReward": false
+                }
+            ],
+            "MonsterSpawner": [],
+            "OutpostBattleBoxSpawner": [],
+            "Portal": [],
+            "SquadEdit": [],
+            "StartingPoint": []
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1001101,
+      "group": 10011,
+      "chapter": 1,
+      "name": "STORY_EVENT_DUNGEON_NORMAL_CHAPTER_1",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "background_resource": "None",
+      "stage_group": 1001101
+    },
+    {
+      "id": 1001201,
+      "group": 10012,
+      "chapter": 1,
+      "name": "STORY_EVENT_DUNGEON_HARD_CHAPTER_1",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "background_resource": "None",
+      "stage_group": 1001201
+    },
+    {
+      "id": 1002101,
+      "group": 10021,
+      "chapter": 1,
+      "name": "STORY_EVENT_DUNGEON_NORMAL_CHAPTER_1",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "background_resource": "None",
+      "stage_group": 1002101
+    },
+    {
+      "id": 1002201,
+      "group": 10022,
+      "chapter": 1,
+      "name": "STORY_EVENT_DUNGEON_HARD_CHAPTER_1",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "background_resource": "None",
+      "stage_group": 1002201
+    },
+    {
+      "id": 1003101,
+      "group": 10031,
+      "chapter": 1,
+      "name": "STORY_EVENT_DUNGEON_NORMAL_CHAPTER_1",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "background_resource": "None",
+      "stage_group": 1003101
+    },
+    {
+      "id": 1004101,
+      "group": 10041,
+      "chapter": 1,
+      "name": "STORY_EVENT_DUNGEON_NORMAL_CHAPTER_1",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "background_resource": "None",
+      "stage_group": 1004101
+    },
+    {
+      "id": 1004201,
+      "group": 10042,
+      "chapter": 1,
+      "name": "STORY_EVENT_DUNGEON_HARD_CHAPTER_1",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "background_resource": "None",
+      "stage_group": 1004201
+    },
+    {
+      "id": 1005101,
+      "group": 10051,
+      "chapter": 1,
+      "name": "STORY_EVENT_DUNGEON_NORMAL_CHAPTER_1",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "background_resource": "None",
+      "stage_group": 1005101
+    },
+    {
+      "id": 1005201,
+      "group": 10052,
+      "chapter": 1,
+      "name": "STORY_EVENT_DUNGEON_HARD_CHAPTER_1",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "background_resource": "None",
+      "stage_group": 1005201
+    }
+  ]
+}

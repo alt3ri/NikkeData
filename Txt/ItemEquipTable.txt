@@ -1,0 +1,6701 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 3100901,
+      "name_localkey": "EquipName_1000_A",
+      "description_localkey": "EquipDescription_1000_A",
+      "resource_id": "icn_equipment_head_attacker_t9_3",
+      "item_type": "Equip",
+      "item_sub_type": "Module_A",
+      "class": "All",
+      "item_rare": "T9",
+      "grade_core_id": 9,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 999999
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3110101,
+      "name_localkey": "EquipName_3110101",
+      "description_localkey": "EquipDescription_3110101",
+      "resource_id": "icn_equipment_head_attacker_t1",
+      "item_type": "Equip",
+      "item_sub_type": "Module_A",
+      "class": "Attacker",
+      "item_rare": "T1",
+      "grade_core_id": 1,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 66
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 540
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3110201,
+      "name_localkey": "EquipName_3110201",
+      "description_localkey": "EquipDescription_3110201",
+      "resource_id": "icn_equipment_head_attacker_t1",
+      "item_type": "Equip",
+      "item_sub_type": "Module_A",
+      "class": "Attacker",
+      "item_rare": "T2",
+      "grade_core_id": 2,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 86
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 707
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3110301,
+      "name_localkey": "EquipName_3110301",
+      "description_localkey": "EquipDescription_3110301",
+      "resource_id": "icn_equipment_head_attacker_t3",
+      "item_type": "Equip",
+      "item_sub_type": "Module_A",
+      "class": "Attacker",
+      "item_rare": "T3",
+      "grade_core_id": 3,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 114
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 927
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3110401,
+      "name_localkey": "EquipName_3110401",
+      "description_localkey": "EquipDescription_3110401",
+      "resource_id": "icn_equipment_head_attacker_t3",
+      "item_type": "Equip",
+      "item_sub_type": "Module_A",
+      "class": "Attacker",
+      "item_rare": "T4",
+      "grade_core_id": 4,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 186
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 1521
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3110501,
+      "name_localkey": "EquipName_3110501",
+      "description_localkey": "EquipDescription_3110501",
+      "resource_id": "icn_equipment_head_attacker_t5",
+      "item_type": "Equip",
+      "item_sub_type": "Module_A",
+      "class": "Attacker",
+      "item_rare": "T5",
+      "grade_core_id": 5,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 305
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 2495
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3110601,
+      "name_localkey": "EquipName_3110601",
+      "description_localkey": "EquipDescription_3110601",
+      "resource_id": "icn_equipment_head_attacker_t5",
+      "item_type": "Equip",
+      "item_sub_type": "Module_A",
+      "class": "Attacker",
+      "item_rare": "T6",
+      "grade_core_id": 6,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 534
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 4367
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3110701,
+      "name_localkey": "EquipName_3110701",
+      "description_localkey": "EquipDescription_3110701",
+      "resource_id": "icn_equipment_head_attacker_t7",
+      "item_type": "Equip",
+      "item_sub_type": "Module_A",
+      "class": "Attacker",
+      "item_rare": "T7",
+      "grade_core_id": 7,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 935
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 7643
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3110801,
+      "name_localkey": "EquipName_3110801",
+      "description_localkey": "EquipDescription_3110801",
+      "resource_id": "icn_equipment_head_attacker_t7",
+      "item_type": "Equip",
+      "item_sub_type": "Module_A",
+      "class": "Attacker",
+      "item_rare": "T8",
+      "grade_core_id": 8,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 1739
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 14216
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3110901,
+      "name_localkey": "EquipName_3110901",
+      "description_localkey": "EquipDescription_3110901",
+      "resource_id": "icn_equipment_head_attacker_t9_1",
+      "item_type": "Equip",
+      "item_sub_type": "Module_A",
+      "class": "Attacker",
+      "item_rare": "T9",
+      "grade_core_id": 9,
+      "grow_grade": 3111001,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 3233
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 26442
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3111001,
+      "name_localkey": "EquipName_3111001",
+      "description_localkey": "EquipDescription_3111001",
+      "resource_id": "icn_equipment_head_attacker_t9_3",
+      "item_type": "Equip",
+      "item_sub_type": "Module_A",
+      "class": "Attacker",
+      "item_rare": "T10",
+      "grade_core_id": 10,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 6014
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 49181
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 100000,
+          "option_slot_success_ratio": 10000
+        },
+        {
+          "option_slot": 100000,
+          "option_slot_success_ratio": 5000
+        },
+        {
+          "option_slot": 100000,
+          "option_slot_success_ratio": 3000
+        }
+      ],
+      "option_cost": 200,
+      "option_change_cost": 100
+    },
+    {
+      "id": 3120101,
+      "name_localkey": "EquipName_3120101",
+      "description_localkey": "EquipDescription_3120101",
+      "resource_id": "icn_equipment_head_defender_t1",
+      "item_type": "Equip",
+      "item_sub_type": "Module_A",
+      "class": "Defender",
+      "item_rare": "T1",
+      "grade_core_id": 1,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 44
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 660
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3120201,
+      "name_localkey": "EquipName_3120201",
+      "description_localkey": "EquipDescription_3120201",
+      "resource_id": "icn_equipment_head_defender_t1",
+      "item_type": "Equip",
+      "item_sub_type": "Module_A",
+      "class": "Defender",
+      "item_rare": "T2",
+      "grade_core_id": 2,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 58
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 865
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3120301,
+      "name_localkey": "EquipName_3120301",
+      "description_localkey": "EquipDescription_3120301",
+      "resource_id": "icn_equipment_head_defender_t3",
+      "item_type": "Equip",
+      "item_sub_type": "Module_A",
+      "class": "Defender",
+      "item_rare": "T3",
+      "grade_core_id": 3,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 76
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 1133
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3120401,
+      "name_localkey": "EquipName_3120401",
+      "description_localkey": "EquipDescription_3120401",
+      "resource_id": "icn_equipment_head_defender_t3",
+      "item_type": "Equip",
+      "item_sub_type": "Module_A",
+      "class": "Defender",
+      "item_rare": "T4",
+      "grade_core_id": 4,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 124
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 1859
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3120501,
+      "name_localkey": "EquipName_3120501",
+      "description_localkey": "EquipDescription_3120501",
+      "resource_id": "icn_equipment_head_defender_t5",
+      "item_type": "Equip",
+      "item_sub_type": "Module_A",
+      "class": "Defender",
+      "item_rare": "T5",
+      "grade_core_id": 5,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 203
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 3049
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3120601,
+      "name_localkey": "EquipName_3120601",
+      "description_localkey": "EquipDescription_3120601",
+      "resource_id": "icn_equipment_head_defender_t5",
+      "item_type": "Equip",
+      "item_sub_type": "Module_A",
+      "class": "Defender",
+      "item_rare": "T6",
+      "grade_core_id": 6,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 356
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 5337
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3120701,
+      "name_localkey": "EquipName_3120701",
+      "description_localkey": "EquipDescription_3120701",
+      "resource_id": "icn_equipment_head_defender_t7",
+      "item_type": "Equip",
+      "item_sub_type": "Module_A",
+      "class": "Defender",
+      "item_rare": "T7",
+      "grade_core_id": 7,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 623
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 9341
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3120801,
+      "name_localkey": "EquipName_3120801",
+      "description_localkey": "EquipDescription_3120801",
+      "resource_id": "icn_equipment_head_defender_t7",
+      "item_type": "Equip",
+      "item_sub_type": "Module_A",
+      "class": "Defender",
+      "item_rare": "T8",
+      "grade_core_id": 8,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 1159
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 17376
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3120901,
+      "name_localkey": "EquipName_3120901",
+      "description_localkey": "EquipDescription_3120901",
+      "resource_id": "icn_equipment_head_defender_t9_1",
+      "item_type": "Equip",
+      "item_sub_type": "Module_A",
+      "class": "Defender",
+      "item_rare": "T9",
+      "grade_core_id": 9,
+      "grow_grade": 3121001,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 2155
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 32318
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3121001,
+      "name_localkey": "EquipName_3121001",
+      "description_localkey": "EquipDescription_3121001",
+      "resource_id": "icn_equipment_head_defender_t9_3",
+      "item_type": "Equip",
+      "item_sub_type": "Module_A",
+      "class": "Defender",
+      "item_rare": "T10",
+      "grade_core_id": 10,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 4010
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 60111
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 100000,
+          "option_slot_success_ratio": 10000
+        },
+        {
+          "option_slot": 100000,
+          "option_slot_success_ratio": 5000
+        },
+        {
+          "option_slot": 100000,
+          "option_slot_success_ratio": 3000
+        }
+      ],
+      "option_cost": 200,
+      "option_change_cost": 100
+    },
+    {
+      "id": 3130101,
+      "name_localkey": "EquipName_3130101",
+      "description_localkey": "EquipDescription_3130101",
+      "resource_id": "icn_equipment_head_supporter_t1",
+      "item_type": "Equip",
+      "item_sub_type": "Module_A",
+      "class": "Supporter",
+      "item_rare": "T1",
+      "grade_core_id": 1,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 55
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 600
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3130201,
+      "name_localkey": "EquipName_3130201",
+      "description_localkey": "EquipDescription_3130201",
+      "resource_id": "icn_equipment_head_supporter_t1",
+      "item_type": "Equip",
+      "item_sub_type": "Module_A",
+      "class": "Supporter",
+      "item_rare": "T2",
+      "grade_core_id": 2,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 72
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 786
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3130301,
+      "name_localkey": "EquipName_3130301",
+      "description_localkey": "EquipDescription_3130301",
+      "resource_id": "icn_equipment_head_supporter_t3",
+      "item_type": "Equip",
+      "item_sub_type": "Module_A",
+      "class": "Supporter",
+      "item_rare": "T3",
+      "grade_core_id": 3,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 95
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 1030
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3130401,
+      "name_localkey": "EquipName_3130401",
+      "description_localkey": "EquipDescription_3130401",
+      "resource_id": "icn_equipment_head_supporter_t3",
+      "item_type": "Equip",
+      "item_sub_type": "Module_A",
+      "class": "Supporter",
+      "item_rare": "T4",
+      "grade_core_id": 4,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 155
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 1690
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3130501,
+      "name_localkey": "EquipName_3130501",
+      "description_localkey": "EquipDescription_3130501",
+      "resource_id": "icn_equipment_head_supporter_t5",
+      "item_type": "Equip",
+      "item_sub_type": "Module_A",
+      "class": "Supporter",
+      "item_rare": "T5",
+      "grade_core_id": 5,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 254
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 2772
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3130601,
+      "name_localkey": "EquipName_3130601",
+      "description_localkey": "EquipDescription_3130601",
+      "resource_id": "icn_equipment_head_supporter_t5",
+      "item_type": "Equip",
+      "item_sub_type": "Module_A",
+      "class": "Supporter",
+      "item_rare": "T6",
+      "grade_core_id": 6,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 445
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 4852
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3130701,
+      "name_localkey": "EquipName_3130701",
+      "description_localkey": "EquipDescription_3130701",
+      "resource_id": "icn_equipment_head_supporter_t7",
+      "item_type": "Equip",
+      "item_sub_type": "Module_A",
+      "class": "Supporter",
+      "item_rare": "T7",
+      "grade_core_id": 7,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 779
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 8492
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3130801,
+      "name_localkey": "EquipName_3130801",
+      "description_localkey": "EquipDescription_3130801",
+      "resource_id": "icn_equipment_head_supporter_t7",
+      "item_type": "Equip",
+      "item_sub_type": "Module_A",
+      "class": "Supporter",
+      "item_rare": "T8",
+      "grade_core_id": 8,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 1449
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 15796
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3130901,
+      "name_localkey": "EquipName_3130901",
+      "description_localkey": "EquipDescription_3130901",
+      "resource_id": "icn_equipment_head_supporter_t9_1",
+      "item_type": "Equip",
+      "item_sub_type": "Module_A",
+      "class": "Supporter",
+      "item_rare": "T9",
+      "grade_core_id": 9,
+      "grow_grade": 3131001,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 2694
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 29380
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3131001,
+      "name_localkey": "EquipName_3131001",
+      "description_localkey": "EquipDescription_3131001",
+      "resource_id": "icn_equipment_head_supporter_t9_3",
+      "item_type": "Equip",
+      "item_sub_type": "Module_A",
+      "class": "Supporter",
+      "item_rare": "T10",
+      "grade_core_id": 10,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 5012
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 54646
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 100000,
+          "option_slot_success_ratio": 10000
+        },
+        {
+          "option_slot": 100000,
+          "option_slot_success_ratio": 5000
+        },
+        {
+          "option_slot": 100000,
+          "option_slot_success_ratio": 3000
+        }
+      ],
+      "option_cost": 200,
+      "option_change_cost": 100
+    },
+    {
+      "id": 3200901,
+      "name_localkey": "EquipName_2000_A",
+      "description_localkey": "EquipDescription_2000_A",
+      "resource_id": "icn_equipment_body_attacker_t9_3",
+      "item_type": "Equip",
+      "item_sub_type": "Module_B",
+      "class": "All",
+      "item_rare": "T9",
+      "grade_core_id": 9,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Hp",
+          "stat_value": 99999999
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3210101,
+      "name_localkey": "EquipName_3210101",
+      "description_localkey": "EquipDescription_3210101",
+      "resource_id": "icn_equipment_body_attacker_t1",
+      "item_type": "Equip",
+      "item_sub_type": "Module_B",
+      "class": "Attacker",
+      "item_rare": "T1",
+      "grade_core_id": 1,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 12
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 1755
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3210201,
+      "name_localkey": "EquipName_3210201",
+      "description_localkey": "EquipDescription_3210201",
+      "resource_id": "icn_equipment_body_attacker_t1",
+      "item_type": "Equip",
+      "item_sub_type": "Module_B",
+      "class": "Attacker",
+      "item_rare": "T2",
+      "grade_core_id": 2,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 16
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 2300
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3210301,
+      "name_localkey": "EquipName_3210301",
+      "description_localkey": "EquipDescription_3210301",
+      "resource_id": "icn_equipment_body_attacker_t3",
+      "item_type": "Equip",
+      "item_sub_type": "Module_B",
+      "class": "Attacker",
+      "item_rare": "T3",
+      "grade_core_id": 3,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 20
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 3013
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3210401,
+      "name_localkey": "EquipName_3210401",
+      "description_localkey": "EquipDescription_3210401",
+      "resource_id": "icn_equipment_body_attacker_t3",
+      "item_type": "Equip",
+      "item_sub_type": "Module_B",
+      "class": "Attacker",
+      "item_rare": "T4",
+      "grade_core_id": 4,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 34
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 4944
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3210501,
+      "name_localkey": "EquipName_3210501",
+      "description_localkey": "EquipDescription_3210501",
+      "resource_id": "icn_equipment_body_attacker_t5",
+      "item_type": "Equip",
+      "item_sub_type": "Module_B",
+      "class": "Attacker",
+      "item_rare": "T5",
+      "grade_core_id": 5,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 55
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 8108
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3210601,
+      "name_localkey": "EquipName_3210601",
+      "description_localkey": "EquipDescription_3210601",
+      "resource_id": "icn_equipment_body_attacker_t5",
+      "item_type": "Equip",
+      "item_sub_type": "Module_B",
+      "class": "Attacker",
+      "item_rare": "T6",
+      "grade_core_id": 6,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 97
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 14192
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3210701,
+      "name_localkey": "EquipName_3210701",
+      "description_localkey": "EquipDescription_3210701",
+      "resource_id": "icn_equipment_body_attacker_t7",
+      "item_type": "Equip",
+      "item_sub_type": "Module_B",
+      "class": "Attacker",
+      "item_rare": "T7",
+      "grade_core_id": 7,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 170
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 24839
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3210801,
+      "name_localkey": "EquipName_3210801",
+      "description_localkey": "EquipDescription_3210801",
+      "resource_id": "icn_equipment_body_attacker_t7",
+      "item_type": "Equip",
+      "item_sub_type": "Module_B",
+      "class": "Attacker",
+      "item_rare": "T8",
+      "grade_core_id": 8,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 316
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 46203
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3210901,
+      "name_localkey": "EquipName_3210901",
+      "description_localkey": "EquipDescription_3210901",
+      "resource_id": "icn_equipment_body_attacker_t9_1",
+      "item_type": "Equip",
+      "item_sub_type": "Module_B",
+      "class": "Attacker",
+      "item_rare": "T9",
+      "grade_core_id": 9,
+      "grow_grade": 3211001,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 588
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 85937
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3211001,
+      "name_localkey": "EquipName_3211001",
+      "description_localkey": "EquipDescription_3211001",
+      "resource_id": "icn_equipment_body_attacker_t9_3",
+      "item_type": "Equip",
+      "item_sub_type": "Module_B",
+      "class": "Attacker",
+      "item_rare": "T10",
+      "grade_core_id": 10,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 1093
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 159840
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 100000,
+          "option_slot_success_ratio": 10000
+        },
+        {
+          "option_slot": 100000,
+          "option_slot_success_ratio": 5000
+        },
+        {
+          "option_slot": 100000,
+          "option_slot_success_ratio": 3000
+        }
+      ],
+      "option_cost": 200,
+      "option_change_cost": 100
+    },
+    {
+      "id": 3220101,
+      "name_localkey": "EquipName_3220101",
+      "description_localkey": "EquipDescription_3220101",
+      "resource_id": "icn_equipment_body_defender_t1",
+      "item_type": "Equip",
+      "item_sub_type": "Module_B",
+      "class": "Defender",
+      "item_rare": "T1",
+      "grade_core_id": 1,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 8
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 2145
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3220201,
+      "name_localkey": "EquipName_3220201",
+      "description_localkey": "EquipDescription_3220201",
+      "resource_id": "icn_equipment_body_defender_t1",
+      "item_type": "Equip",
+      "item_sub_type": "Module_B",
+      "class": "Defender",
+      "item_rare": "T2",
+      "grade_core_id": 2,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 10
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 2811
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3220301,
+      "name_localkey": "EquipName_3220301",
+      "description_localkey": "EquipDescription_3220301",
+      "resource_id": "icn_equipment_body_defender_t3",
+      "item_type": "Equip",
+      "item_sub_type": "Module_B",
+      "class": "Defender",
+      "item_rare": "T3",
+      "grade_core_id": 3,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 14
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 3683
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3220401,
+      "name_localkey": "EquipName_3220401",
+      "description_localkey": "EquipDescription_3220401",
+      "resource_id": "icn_equipment_body_defender_t3",
+      "item_type": "Equip",
+      "item_sub_type": "Module_B",
+      "class": "Defender",
+      "item_rare": "T4",
+      "grade_core_id": 4,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 22
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 6042
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3220501,
+      "name_localkey": "EquipName_3220501",
+      "description_localkey": "EquipDescription_3220501",
+      "resource_id": "icn_equipment_body_defender_t5",
+      "item_type": "Equip",
+      "item_sub_type": "Module_B",
+      "class": "Defender",
+      "item_rare": "T5",
+      "grade_core_id": 5,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 37
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 9910
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3220601,
+      "name_localkey": "EquipName_3220601",
+      "description_localkey": "EquipDescription_3220601",
+      "resource_id": "icn_equipment_body_defender_t5",
+      "item_type": "Equip",
+      "item_sub_type": "Module_B",
+      "class": "Defender",
+      "item_rare": "T6",
+      "grade_core_id": 6,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 65
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 17346
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3220701,
+      "name_localkey": "EquipName_3220701",
+      "description_localkey": "EquipDescription_3220701",
+      "resource_id": "icn_equipment_body_defender_t7",
+      "item_type": "Equip",
+      "item_sub_type": "Module_B",
+      "class": "Defender",
+      "item_rare": "T7",
+      "grade_core_id": 7,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 114
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 30359
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3220801,
+      "name_localkey": "EquipName_3220801",
+      "description_localkey": "EquipDescription_3220801",
+      "resource_id": "icn_equipment_body_defender_t7",
+      "item_type": "Equip",
+      "item_sub_type": "Module_B",
+      "class": "Defender",
+      "item_rare": "T8",
+      "grade_core_id": 8,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 210
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 56471
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3220901,
+      "name_localkey": "EquipName_3220901",
+      "description_localkey": "EquipDescription_3220901",
+      "resource_id": "icn_equipment_body_defender_t9_1",
+      "item_type": "Equip",
+      "item_sub_type": "Module_B",
+      "class": "Defender",
+      "item_rare": "T9",
+      "grade_core_id": 9,
+      "grow_grade": 3221001,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 392
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 105034
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3221001,
+      "name_localkey": "EquipName_3221001",
+      "description_localkey": "EquipDescription_3221001",
+      "resource_id": "icn_equipment_body_defender_t9_3",
+      "item_type": "Equip",
+      "item_sub_type": "Module_B",
+      "class": "Defender",
+      "item_rare": "T10",
+      "grade_core_id": 10,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 729
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 195360
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 100000,
+          "option_slot_success_ratio": 10000
+        },
+        {
+          "option_slot": 100000,
+          "option_slot_success_ratio": 5000
+        },
+        {
+          "option_slot": 100000,
+          "option_slot_success_ratio": 3000
+        }
+      ],
+      "option_cost": 200,
+      "option_change_cost": 100
+    },
+    {
+      "id": 3230101,
+      "name_localkey": "EquipName_3230101",
+      "description_localkey": "EquipDescription_3230101",
+      "resource_id": "icn_equipment_body_supporter_t1",
+      "item_type": "Equip",
+      "item_sub_type": "Module_B",
+      "class": "Supporter",
+      "item_rare": "T1",
+      "grade_core_id": 1,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 10
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 1950
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3230201,
+      "name_localkey": "EquipName_3230201",
+      "description_localkey": "EquipDescription_3230201",
+      "resource_id": "icn_equipment_body_supporter_t1",
+      "item_type": "Equip",
+      "item_sub_type": "Module_B",
+      "class": "Supporter",
+      "item_rare": "T2",
+      "grade_core_id": 2,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 13
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 2555
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3230301,
+      "name_localkey": "EquipName_3230301",
+      "description_localkey": "EquipDescription_3230301",
+      "resource_id": "icn_equipment_body_supporter_t3",
+      "item_type": "Equip",
+      "item_sub_type": "Module_B",
+      "class": "Supporter",
+      "item_rare": "T3",
+      "grade_core_id": 3,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 17
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 3348
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3230401,
+      "name_localkey": "EquipName_3230401",
+      "description_localkey": "EquipDescription_3230401",
+      "resource_id": "icn_equipment_body_supporter_t3",
+      "item_type": "Equip",
+      "item_sub_type": "Module_B",
+      "class": "Supporter",
+      "item_rare": "T4",
+      "grade_core_id": 4,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 28
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 5493
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3230501,
+      "name_localkey": "EquipName_3230501",
+      "description_localkey": "EquipDescription_3230501",
+      "resource_id": "icn_equipment_body_supporter_t5",
+      "item_type": "Equip",
+      "item_sub_type": "Module_B",
+      "class": "Supporter",
+      "item_rare": "T5",
+      "grade_core_id": 5,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 46
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 9009
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3230601,
+      "name_localkey": "EquipName_3230601",
+      "description_localkey": "EquipDescription_3230601",
+      "resource_id": "icn_equipment_body_supporter_t5",
+      "item_type": "Equip",
+      "item_sub_type": "Module_B",
+      "class": "Supporter",
+      "item_rare": "T6",
+      "grade_core_id": 6,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 81
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 15769
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3230701,
+      "name_localkey": "EquipName_3230701",
+      "description_localkey": "EquipDescription_3230701",
+      "resource_id": "icn_equipment_body_supporter_t7",
+      "item_type": "Equip",
+      "item_sub_type": "Module_B",
+      "class": "Supporter",
+      "item_rare": "T7",
+      "grade_core_id": 7,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 142
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 27599
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3230801,
+      "name_localkey": "EquipName_3230801",
+      "description_localkey": "EquipDescription_3230801",
+      "resource_id": "icn_equipment_body_supporter_t7",
+      "item_type": "Equip",
+      "item_sub_type": "Module_B",
+      "class": "Supporter",
+      "item_rare": "T8",
+      "grade_core_id": 8,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 263
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 51337
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3230901,
+      "name_localkey": "EquipName_3230901",
+      "description_localkey": "EquipDescription_3230901",
+      "resource_id": "icn_equipment_body_supporter_t9_1",
+      "item_type": "Equip",
+      "item_sub_type": "Module_B",
+      "class": "Supporter",
+      "item_rare": "T9",
+      "grade_core_id": 9,
+      "grow_grade": 3231001,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 490
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 95485
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3231001,
+      "name_localkey": "EquipName_3231001",
+      "description_localkey": "EquipDescription_3231001",
+      "resource_id": "icn_equipment_body_supporter_t9_3",
+      "item_type": "Equip",
+      "item_sub_type": "Module_B",
+      "class": "Supporter",
+      "item_rare": "T10",
+      "grade_core_id": 10,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 911
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 177600
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 100000,
+          "option_slot_success_ratio": 10000
+        },
+        {
+          "option_slot": 100000,
+          "option_slot_success_ratio": 5000
+        },
+        {
+          "option_slot": 100000,
+          "option_slot_success_ratio": 3000
+        }
+      ],
+      "option_cost": 200,
+      "option_change_cost": 100
+    },
+    {
+      "id": 3300901,
+      "name_localkey": "EquipName_3000_A",
+      "description_localkey": "EquipDescription_3000_A",
+      "resource_id": "icn_equipment_arm_attacker_t9_3",
+      "item_type": "Equip",
+      "item_sub_type": "Module_C",
+      "class": "All",
+      "item_rare": "T9",
+      "grade_core_id": 9,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Defence",
+          "stat_value": 999999
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3310101,
+      "name_localkey": "EquipName_3310101",
+      "description_localkey": "EquipDescription_3310101",
+      "resource_id": "icn_equipment_arm_attacker_t1",
+      "item_type": "Equip",
+      "item_sub_type": "Module_C",
+      "class": "Attacker",
+      "item_rare": "T1",
+      "grade_core_id": 1,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 42
+        },
+        {
+          "stat_type": "Defence",
+          "stat_value": 7
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3310201,
+      "name_localkey": "EquipName_3310201",
+      "description_localkey": "EquipDescription_3310201",
+      "resource_id": "icn_equipment_arm_attacker_t1",
+      "item_type": "Equip",
+      "item_sub_type": "Module_C",
+      "class": "Attacker",
+      "item_rare": "T2",
+      "grade_core_id": 2,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 55
+        },
+        {
+          "stat_type": "Defence",
+          "stat_value": 9
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3310301,
+      "name_localkey": "EquipName_3310301",
+      "description_localkey": "EquipDescription_3310301",
+      "resource_id": "icn_equipment_arm_attacker_t3",
+      "item_type": "Equip",
+      "item_sub_type": "Module_C",
+      "class": "Attacker",
+      "item_rare": "T3",
+      "grade_core_id": 3,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 72
+        },
+        {
+          "stat_type": "Defence",
+          "stat_value": 13
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3310401,
+      "name_localkey": "EquipName_3310401",
+      "description_localkey": "EquipDescription_3310401",
+      "resource_id": "icn_equipment_arm_attacker_t3",
+      "item_type": "Equip",
+      "item_sub_type": "Module_C",
+      "class": "Attacker",
+      "item_rare": "T4",
+      "grade_core_id": 4,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 119
+        },
+        {
+          "stat_type": "Defence",
+          "stat_value": 20
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3310501,
+      "name_localkey": "EquipName_3310501",
+      "description_localkey": "EquipDescription_3310501",
+      "resource_id": "icn_equipment_arm_attacker_t5",
+      "item_type": "Equip",
+      "item_sub_type": "Module_C",
+      "class": "Attacker",
+      "item_rare": "T5",
+      "grade_core_id": 5,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 194
+        },
+        {
+          "stat_type": "Defence",
+          "stat_value": 33
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3310601,
+      "name_localkey": "EquipName_3310601",
+      "description_localkey": "EquipDescription_3310601",
+      "resource_id": "icn_equipment_arm_attacker_t5",
+      "item_type": "Equip",
+      "item_sub_type": "Module_C",
+      "class": "Attacker",
+      "item_rare": "T6",
+      "grade_core_id": 6,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 340
+        },
+        {
+          "stat_type": "Defence",
+          "stat_value": 58
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3310701,
+      "name_localkey": "EquipName_3310701",
+      "description_localkey": "EquipDescription_3310701",
+      "resource_id": "icn_equipment_arm_attacker_t7",
+      "item_type": "Equip",
+      "item_sub_type": "Module_C",
+      "class": "Attacker",
+      "item_rare": "T7",
+      "grade_core_id": 7,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 595
+        },
+        {
+          "stat_type": "Defence",
+          "stat_value": 102
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3310801,
+      "name_localkey": "EquipName_3310801",
+      "description_localkey": "EquipDescription_3310801",
+      "resource_id": "icn_equipment_arm_attacker_t7",
+      "item_type": "Equip",
+      "item_sub_type": "Module_C",
+      "class": "Attacker",
+      "item_rare": "T8",
+      "grade_core_id": 8,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 1106
+        },
+        {
+          "stat_type": "Defence",
+          "stat_value": 189
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3310901,
+      "name_localkey": "EquipName_3310901",
+      "description_localkey": "EquipDescription_3310901",
+      "resource_id": "icn_equipment_arm_attacker_t9_1",
+      "item_type": "Equip",
+      "item_sub_type": "Module_C",
+      "class": "Attacker",
+      "item_rare": "T9",
+      "grade_core_id": 9,
+      "grow_grade": 3311001,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 2058
+        },
+        {
+          "stat_type": "Defence",
+          "stat_value": 352
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3311001,
+      "name_localkey": "EquipName_3311001",
+      "description_localkey": "EquipDescription_3311001",
+      "resource_id": "icn_equipment_arm_attacker_t9_3",
+      "item_type": "Equip",
+      "item_sub_type": "Module_C",
+      "class": "Attacker",
+      "item_rare": "T10",
+      "grade_core_id": 10,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 3827
+        },
+        {
+          "stat_type": "Defence",
+          "stat_value": 654
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 100000,
+          "option_slot_success_ratio": 10000
+        },
+        {
+          "option_slot": 100000,
+          "option_slot_success_ratio": 5000
+        },
+        {
+          "option_slot": 100000,
+          "option_slot_success_ratio": 3000
+        }
+      ],
+      "option_cost": 200,
+      "option_change_cost": 100
+    },
+    {
+      "id": 3320101,
+      "name_localkey": "EquipName_3320101",
+      "description_localkey": "EquipDescription_3320101",
+      "resource_id": "icn_equipment_arm_defender_t1",
+      "item_type": "Equip",
+      "item_sub_type": "Module_C",
+      "class": "Defender",
+      "item_rare": "T1",
+      "grade_core_id": 1,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 28
+        },
+        {
+          "stat_type": "Defence",
+          "stat_value": 9
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3320201,
+      "name_localkey": "EquipName_3320201",
+      "description_localkey": "EquipDescription_3320201",
+      "resource_id": "icn_equipment_arm_defender_t1",
+      "item_type": "Equip",
+      "item_sub_type": "Module_C",
+      "class": "Defender",
+      "item_rare": "T2",
+      "grade_core_id": 2,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 37
+        },
+        {
+          "stat_type": "Defence",
+          "stat_value": 11
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3320301,
+      "name_localkey": "EquipName_3320301",
+      "description_localkey": "EquipDescription_3320301",
+      "resource_id": "icn_equipment_arm_defender_t3",
+      "item_type": "Equip",
+      "item_sub_type": "Module_C",
+      "class": "Defender",
+      "item_rare": "T3",
+      "grade_core_id": 3,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 48
+        },
+        {
+          "stat_type": "Defence",
+          "stat_value": 15
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3320401,
+      "name_localkey": "EquipName_3320401",
+      "description_localkey": "EquipDescription_3320401",
+      "resource_id": "icn_equipment_arm_defender_t3",
+      "item_type": "Equip",
+      "item_sub_type": "Module_C",
+      "class": "Defender",
+      "item_rare": "T4",
+      "grade_core_id": 4,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 79
+        },
+        {
+          "stat_type": "Defence",
+          "stat_value": 24
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3320501,
+      "name_localkey": "EquipName_3320501",
+      "description_localkey": "EquipDescription_3320501",
+      "resource_id": "icn_equipment_arm_defender_t5",
+      "item_type": "Equip",
+      "item_sub_type": "Module_C",
+      "class": "Defender",
+      "item_rare": "T5",
+      "grade_core_id": 5,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 130
+        },
+        {
+          "stat_type": "Defence",
+          "stat_value": 41
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3320601,
+      "name_localkey": "EquipName_3320601",
+      "description_localkey": "EquipDescription_3320601",
+      "resource_id": "icn_equipment_arm_defender_t5",
+      "item_type": "Equip",
+      "item_sub_type": "Module_C",
+      "class": "Defender",
+      "item_rare": "T6",
+      "grade_core_id": 6,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 226
+        },
+        {
+          "stat_type": "Defence",
+          "stat_value": 70
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3320701,
+      "name_localkey": "EquipName_3320701",
+      "description_localkey": "EquipDescription_3320701",
+      "resource_id": "icn_equipment_arm_defender_t7",
+      "item_type": "Equip",
+      "item_sub_type": "Module_C",
+      "class": "Defender",
+      "item_rare": "T7",
+      "grade_core_id": 7,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 397
+        },
+        {
+          "stat_type": "Defence",
+          "stat_value": 124
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3320801,
+      "name_localkey": "EquipName_3320801",
+      "description_localkey": "EquipDescription_3320801",
+      "resource_id": "icn_equipment_arm_defender_t7",
+      "item_type": "Equip",
+      "item_sub_type": "Module_C",
+      "class": "Defender",
+      "item_rare": "T8",
+      "grade_core_id": 8,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 738
+        },
+        {
+          "stat_type": "Defence",
+          "stat_value": 231
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3320901,
+      "name_localkey": "EquipName_3320901",
+      "description_localkey": "EquipDescription_3320901",
+      "resource_id": "icn_equipment_arm_defender_t9_1",
+      "item_type": "Equip",
+      "item_sub_type": "Module_C",
+      "class": "Defender",
+      "item_rare": "T9",
+      "grade_core_id": 9,
+      "grow_grade": 3321001,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 1372
+        },
+        {
+          "stat_type": "Defence",
+          "stat_value": 430
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3321001,
+      "name_localkey": "EquipName_3321001",
+      "description_localkey": "EquipDescription_3321001",
+      "resource_id": "icn_equipment_arm_defender_t9_3",
+      "item_type": "Equip",
+      "item_sub_type": "Module_C",
+      "class": "Defender",
+      "item_rare": "T10",
+      "grade_core_id": 10,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 2551
+        },
+        {
+          "stat_type": "Defence",
+          "stat_value": 800
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 100000,
+          "option_slot_success_ratio": 10000
+        },
+        {
+          "option_slot": 100000,
+          "option_slot_success_ratio": 5000
+        },
+        {
+          "option_slot": 100000,
+          "option_slot_success_ratio": 3000
+        }
+      ],
+      "option_cost": 200,
+      "option_change_cost": 100
+    },
+    {
+      "id": 3330101,
+      "name_localkey": "EquipName_3330101",
+      "description_localkey": "EquipDescription_3330101",
+      "resource_id": "icn_equipment_arm_supporter_t1",
+      "item_type": "Equip",
+      "item_sub_type": "Module_C",
+      "class": "Supporter",
+      "item_rare": "T1",
+      "grade_core_id": 1,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 35
+        },
+        {
+          "stat_type": "Defence",
+          "stat_value": 8
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3330201,
+      "name_localkey": "EquipName_3330201",
+      "description_localkey": "EquipDescription_3330201",
+      "resource_id": "icn_equipment_arm_supporter_t1",
+      "item_type": "Equip",
+      "item_sub_type": "Module_C",
+      "class": "Supporter",
+      "item_rare": "T2",
+      "grade_core_id": 2,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 46
+        },
+        {
+          "stat_type": "Defence",
+          "stat_value": 10
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3330301,
+      "name_localkey": "EquipName_3330301",
+      "description_localkey": "EquipDescription_3330301",
+      "resource_id": "icn_equipment_arm_supporter_t3",
+      "item_type": "Equip",
+      "item_sub_type": "Module_C",
+      "class": "Supporter",
+      "item_rare": "T3",
+      "grade_core_id": 3,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 60
+        },
+        {
+          "stat_type": "Defence",
+          "stat_value": 14
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3330401,
+      "name_localkey": "EquipName_3330401",
+      "description_localkey": "EquipDescription_3330401",
+      "resource_id": "icn_equipment_arm_supporter_t3",
+      "item_type": "Equip",
+      "item_sub_type": "Module_C",
+      "class": "Supporter",
+      "item_rare": "T4",
+      "grade_core_id": 4,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 99
+        },
+        {
+          "stat_type": "Defence",
+          "stat_value": 22
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3330501,
+      "name_localkey": "EquipName_3330501",
+      "description_localkey": "EquipDescription_3330501",
+      "resource_id": "icn_equipment_arm_supporter_t5",
+      "item_type": "Equip",
+      "item_sub_type": "Module_C",
+      "class": "Supporter",
+      "item_rare": "T5",
+      "grade_core_id": 5,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 162
+        },
+        {
+          "stat_type": "Defence",
+          "stat_value": 37
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3330601,
+      "name_localkey": "EquipName_3330601",
+      "description_localkey": "EquipDescription_3330601",
+      "resource_id": "icn_equipment_arm_supporter_t5",
+      "item_type": "Equip",
+      "item_sub_type": "Module_C",
+      "class": "Supporter",
+      "item_rare": "T6",
+      "grade_core_id": 6,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 283
+        },
+        {
+          "stat_type": "Defence",
+          "stat_value": 64
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3330701,
+      "name_localkey": "EquipName_3330701",
+      "description_localkey": "EquipDescription_3330701",
+      "resource_id": "icn_equipment_arm_supporter_t7",
+      "item_type": "Equip",
+      "item_sub_type": "Module_C",
+      "class": "Supporter",
+      "item_rare": "T7",
+      "grade_core_id": 7,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 496
+        },
+        {
+          "stat_type": "Defence",
+          "stat_value": 113
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3330801,
+      "name_localkey": "EquipName_3330801",
+      "description_localkey": "EquipDescription_3330801",
+      "resource_id": "icn_equipment_arm_supporter_t7",
+      "item_type": "Equip",
+      "item_sub_type": "Module_C",
+      "class": "Supporter",
+      "item_rare": "T8",
+      "grade_core_id": 8,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 922
+        },
+        {
+          "stat_type": "Defence",
+          "stat_value": 210
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3330901,
+      "name_localkey": "EquipName_3330901",
+      "description_localkey": "EquipDescription_3330901",
+      "resource_id": "icn_equipment_arm_supporter_t9_1",
+      "item_type": "Equip",
+      "item_sub_type": "Module_C",
+      "class": "Supporter",
+      "item_rare": "T9",
+      "grade_core_id": 9,
+      "grow_grade": 3331001,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 1715
+        },
+        {
+          "stat_type": "Defence",
+          "stat_value": 391
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3331001,
+      "name_localkey": "EquipName_3331001",
+      "description_localkey": "EquipDescription_3331001",
+      "resource_id": "icn_equipment_arm_supporter_t9_3",
+      "item_type": "Equip",
+      "item_sub_type": "Module_C",
+      "class": "Supporter",
+      "item_rare": "T10",
+      "grade_core_id": 10,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 3189
+        },
+        {
+          "stat_type": "Defence",
+          "stat_value": 727
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 100000,
+          "option_slot_success_ratio": 10000
+        },
+        {
+          "option_slot": 100000,
+          "option_slot_success_ratio": 5000
+        },
+        {
+          "option_slot": 100000,
+          "option_slot_success_ratio": 3000
+        }
+      ],
+      "option_cost": 200,
+      "option_change_cost": 100
+    },
+    {
+      "id": 3400901,
+      "name_localkey": "EquipName_4000_A",
+      "description_localkey": "EquipDescription_4000_A",
+      "resource_id": "icn_equipment_leg_attacker_t9_3",
+      "item_type": "Equip",
+      "item_sub_type": "Module_D",
+      "class": "All",
+      "item_rare": "T9",
+      "grade_core_id": 9,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Hp",
+          "stat_value": 99999999
+        },
+        {
+          "stat_type": "Defence",
+          "stat_value": 999999
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3410101,
+      "name_localkey": "EquipName_3410101",
+      "description_localkey": "EquipDescription_3410101",
+      "resource_id": "icn_equipment_leg_attacker_t1",
+      "item_type": "Equip",
+      "item_sub_type": "Module_D",
+      "class": "Attacker",
+      "item_rare": "T1",
+      "grade_core_id": 1,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Defence",
+          "stat_value": 11
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 405
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3410201,
+      "name_localkey": "EquipName_3410201",
+      "description_localkey": "EquipDescription_3410201",
+      "resource_id": "icn_equipment_leg_attacker_t1",
+      "item_type": "Equip",
+      "item_sub_type": "Module_D",
+      "class": "Attacker",
+      "item_rare": "T2",
+      "grade_core_id": 2,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Defence",
+          "stat_value": 14
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 531
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3410301,
+      "name_localkey": "EquipName_3410301",
+      "description_localkey": "EquipDescription_3410301",
+      "resource_id": "icn_equipment_leg_attacker_t3",
+      "item_type": "Equip",
+      "item_sub_type": "Module_D",
+      "class": "Attacker",
+      "item_rare": "T3",
+      "grade_core_id": 3,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Defence",
+          "stat_value": 18
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 696
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3410401,
+      "name_localkey": "EquipName_3410401",
+      "description_localkey": "EquipDescription_3410401",
+      "resource_id": "icn_equipment_leg_attacker_t3",
+      "item_type": "Equip",
+      "item_sub_type": "Module_D",
+      "class": "Attacker",
+      "item_rare": "T4",
+      "grade_core_id": 4,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Defence",
+          "stat_value": 31
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 1141
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3410501,
+      "name_localkey": "EquipName_3410501",
+      "description_localkey": "EquipDescription_3410501",
+      "resource_id": "icn_equipment_leg_attacker_t5",
+      "item_type": "Equip",
+      "item_sub_type": "Module_D",
+      "class": "Attacker",
+      "item_rare": "T5",
+      "grade_core_id": 5,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Defence",
+          "stat_value": 50
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 1871
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3410601,
+      "name_localkey": "EquipName_3410601",
+      "description_localkey": "EquipDescription_3410601",
+      "resource_id": "icn_equipment_leg_attacker_t5",
+      "item_type": "Equip",
+      "item_sub_type": "Module_D",
+      "class": "Attacker",
+      "item_rare": "T6",
+      "grade_core_id": 6,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Defence",
+          "stat_value": 87
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 3275
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3410701,
+      "name_localkey": "EquipName_3410701",
+      "description_localkey": "EquipDescription_3410701",
+      "resource_id": "icn_equipment_leg_attacker_t7",
+      "item_type": "Equip",
+      "item_sub_type": "Module_D",
+      "class": "Attacker",
+      "item_rare": "T7",
+      "grade_core_id": 7,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Defence",
+          "stat_value": 152
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 5732
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3410801,
+      "name_localkey": "EquipName_3410801",
+      "description_localkey": "EquipDescription_3410801",
+      "resource_id": "icn_equipment_leg_attacker_t7",
+      "item_type": "Equip",
+      "item_sub_type": "Module_D",
+      "class": "Attacker",
+      "item_rare": "T8",
+      "grade_core_id": 8,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Defence",
+          "stat_value": 284
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 10662
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3410901,
+      "name_localkey": "EquipName_3410901",
+      "description_localkey": "EquipDescription_3410901",
+      "resource_id": "icn_equipment_leg_attacker_t9_1",
+      "item_type": "Equip",
+      "item_sub_type": "Module_D",
+      "class": "Attacker",
+      "item_rare": "T9",
+      "grade_core_id": 9,
+      "grow_grade": 3411001,
+      "stat": [
+        {
+          "stat_type": "Defence",
+          "stat_value": 527
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 19832
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3411001,
+      "name_localkey": "EquipName_3411001",
+      "description_localkey": "EquipDescription_3411001",
+      "resource_id": "icn_equipment_leg_attacker_t9_3",
+      "item_type": "Equip",
+      "item_sub_type": "Module_D",
+      "class": "Attacker",
+      "item_rare": "T10",
+      "grade_core_id": 10,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Defence",
+          "stat_value": 981
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 36887
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 100000,
+          "option_slot_success_ratio": 10000
+        },
+        {
+          "option_slot": 100000,
+          "option_slot_success_ratio": 5000
+        },
+        {
+          "option_slot": 100000,
+          "option_slot_success_ratio": 3000
+        }
+      ],
+      "option_cost": 200,
+      "option_change_cost": 100
+    },
+    {
+      "id": 3420101,
+      "name_localkey": "EquipName_3420101",
+      "description_localkey": "EquipDescription_3420101",
+      "resource_id": "icn_equipment_leg_defender_t1",
+      "item_type": "Equip",
+      "item_sub_type": "Module_D",
+      "class": "Defender",
+      "item_rare": "T1",
+      "grade_core_id": 1,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Defence",
+          "stat_value": 13
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 495
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3420201,
+      "name_localkey": "EquipName_3420201",
+      "description_localkey": "EquipDescription_3420201",
+      "resource_id": "icn_equipment_leg_defender_t1",
+      "item_type": "Equip",
+      "item_sub_type": "Module_D",
+      "class": "Defender",
+      "item_rare": "T2",
+      "grade_core_id": 2,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Defence",
+          "stat_value": 18
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 649
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3420301,
+      "name_localkey": "EquipName_3420301",
+      "description_localkey": "EquipDescription_3420301",
+      "resource_id": "icn_equipment_leg_defender_t3",
+      "item_type": "Equip",
+      "item_sub_type": "Module_D",
+      "class": "Defender",
+      "item_rare": "T3",
+      "grade_core_id": 3,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Defence",
+          "stat_value": 22
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 850
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3420401,
+      "name_localkey": "EquipName_3420401",
+      "description_localkey": "EquipDescription_3420401",
+      "resource_id": "icn_equipment_leg_defender_t3",
+      "item_type": "Equip",
+      "item_sub_type": "Module_D",
+      "class": "Defender",
+      "item_rare": "T4",
+      "grade_core_id": 4,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Defence",
+          "stat_value": 37
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 1395
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3420501,
+      "name_localkey": "EquipName_3420501",
+      "description_localkey": "EquipDescription_3420501",
+      "resource_id": "icn_equipment_leg_defender_t5",
+      "item_type": "Equip",
+      "item_sub_type": "Module_D",
+      "class": "Defender",
+      "item_rare": "T5",
+      "grade_core_id": 5,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Defence",
+          "stat_value": 61
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 2287
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3420601,
+      "name_localkey": "EquipName_3420601",
+      "description_localkey": "EquipDescription_3420601",
+      "resource_id": "icn_equipment_leg_defender_t5",
+      "item_type": "Equip",
+      "item_sub_type": "Module_D",
+      "class": "Defender",
+      "item_rare": "T6",
+      "grade_core_id": 6,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Defence",
+          "stat_value": 107
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 4003
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3420701,
+      "name_localkey": "EquipName_3420701",
+      "description_localkey": "EquipDescription_3420701",
+      "resource_id": "icn_equipment_leg_defender_t7",
+      "item_type": "Equip",
+      "item_sub_type": "Module_D",
+      "class": "Defender",
+      "item_rare": "T7",
+      "grade_core_id": 7,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Defence",
+          "stat_value": 186
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 7006
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3420801,
+      "name_localkey": "EquipName_3420801",
+      "description_localkey": "EquipDescription_3420801",
+      "resource_id": "icn_equipment_leg_defender_t7",
+      "item_type": "Equip",
+      "item_sub_type": "Module_D",
+      "class": "Defender",
+      "item_rare": "T8",
+      "grade_core_id": 8,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Defence",
+          "stat_value": 347
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 13032
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3420901,
+      "name_localkey": "EquipName_3420901",
+      "description_localkey": "EquipDescription_3420901",
+      "resource_id": "icn_equipment_leg_defender_t9_1",
+      "item_type": "Equip",
+      "item_sub_type": "Module_D",
+      "class": "Defender",
+      "item_rare": "T9",
+      "grade_core_id": 9,
+      "grow_grade": 3421001,
+      "stat": [
+        {
+          "stat_type": "Defence",
+          "stat_value": 645
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 24239
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3421001,
+      "name_localkey": "EquipName_3421001",
+      "description_localkey": "EquipDescription_3421001",
+      "resource_id": "icn_equipment_leg_defender_t9_3",
+      "item_type": "Equip",
+      "item_sub_type": "Module_D",
+      "class": "Defender",
+      "item_rare": "T10",
+      "grade_core_id": 10,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Defence",
+          "stat_value": 1199
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 45084
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 100000,
+          "option_slot_success_ratio": 10000
+        },
+        {
+          "option_slot": 100000,
+          "option_slot_success_ratio": 5000
+        },
+        {
+          "option_slot": 100000,
+          "option_slot_success_ratio": 3000
+        }
+      ],
+      "option_cost": 200,
+      "option_change_cost": 100
+    },
+    {
+      "id": 3430101,
+      "name_localkey": "EquipName_3430101",
+      "description_localkey": "EquipDescription_3430101",
+      "resource_id": "icn_equipment_leg_supporter_t1",
+      "item_type": "Equip",
+      "item_sub_type": "Module_D",
+      "class": "Supporter",
+      "item_rare": "T1",
+      "grade_core_id": 1,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Defence",
+          "stat_value": 12
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 450
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3430201,
+      "name_localkey": "EquipName_3430201",
+      "description_localkey": "EquipDescription_3430201",
+      "resource_id": "icn_equipment_leg_supporter_t1",
+      "item_type": "Equip",
+      "item_sub_type": "Module_D",
+      "class": "Supporter",
+      "item_rare": "T2",
+      "grade_core_id": 2,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Defence",
+          "stat_value": 16
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 590
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3430301,
+      "name_localkey": "EquipName_3430301",
+      "description_localkey": "EquipDescription_3430301",
+      "resource_id": "icn_equipment_leg_supporter_t3",
+      "item_type": "Equip",
+      "item_sub_type": "Module_D",
+      "class": "Supporter",
+      "item_rare": "T3",
+      "grade_core_id": 3,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Defence",
+          "stat_value": 20
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 773
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3430401,
+      "name_localkey": "EquipName_3430401",
+      "description_localkey": "EquipDescription_3430401",
+      "resource_id": "icn_equipment_leg_supporter_t3",
+      "item_type": "Equip",
+      "item_sub_type": "Module_D",
+      "class": "Supporter",
+      "item_rare": "T4",
+      "grade_core_id": 4,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Defence",
+          "stat_value": 34
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 1268
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3430501,
+      "name_localkey": "EquipName_3430501",
+      "description_localkey": "EquipDescription_3430501",
+      "resource_id": "icn_equipment_leg_supporter_t5",
+      "item_type": "Equip",
+      "item_sub_type": "Module_D",
+      "class": "Supporter",
+      "item_rare": "T5",
+      "grade_core_id": 5,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Defence",
+          "stat_value": 55
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 2079
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3430601,
+      "name_localkey": "EquipName_3430601",
+      "description_localkey": "EquipDescription_3430601",
+      "resource_id": "icn_equipment_leg_supporter_t5",
+      "item_type": "Equip",
+      "item_sub_type": "Module_D",
+      "class": "Supporter",
+      "item_rare": "T6",
+      "grade_core_id": 6,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Defence",
+          "stat_value": 97
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 3639
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3430701,
+      "name_localkey": "EquipName_3430701",
+      "description_localkey": "EquipDescription_3430701",
+      "resource_id": "icn_equipment_leg_supporter_t7",
+      "item_type": "Equip",
+      "item_sub_type": "Module_D",
+      "class": "Supporter",
+      "item_rare": "T7",
+      "grade_core_id": 7,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Defence",
+          "stat_value": 169
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 6369
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3430801,
+      "name_localkey": "EquipName_3430801",
+      "description_localkey": "EquipDescription_3430801",
+      "resource_id": "icn_equipment_leg_supporter_t7",
+      "item_type": "Equip",
+      "item_sub_type": "Module_D",
+      "class": "Supporter",
+      "item_rare": "T8",
+      "grade_core_id": 8,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Defence",
+          "stat_value": 315
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 11847
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3430901,
+      "name_localkey": "EquipName_3430901",
+      "description_localkey": "EquipDescription_3430901",
+      "resource_id": "icn_equipment_leg_supporter_t9_1",
+      "item_type": "Equip",
+      "item_sub_type": "Module_D",
+      "class": "Supporter",
+      "item_rare": "T9",
+      "grade_core_id": 9,
+      "grow_grade": 3431001,
+      "stat": [
+        {
+          "stat_type": "Defence",
+          "stat_value": 586
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 22035
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        },
+        {
+          "option_slot": 0,
+          "option_slot_success_ratio": 0
+        }
+      ],
+      "option_cost": 0,
+      "option_change_cost": 0
+    },
+    {
+      "id": 3431001,
+      "name_localkey": "EquipName_3431001",
+      "description_localkey": "EquipDescription_3431001",
+      "resource_id": "icn_equipment_leg_supporter_t9_3",
+      "item_type": "Equip",
+      "item_sub_type": "Module_D",
+      "class": "Supporter",
+      "item_rare": "T10",
+      "grade_core_id": 10,
+      "grow_grade": 0,
+      "stat": [
+        {
+          "stat_type": "Defence",
+          "stat_value": 1090
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 40985
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        },
+        {
+          "stat_type": "None",
+          "stat_value": 0
+        }
+      ],
+      "option_slot": [
+        {
+          "option_slot": 100000,
+          "option_slot_success_ratio": 10000
+        },
+        {
+          "option_slot": 100000,
+          "option_slot_success_ratio": 5000
+        },
+        {
+          "option_slot": 100000,
+          "option_slot_success_ratio": 3000
+        }
+      ],
+      "option_cost": 200,
+      "option_change_cost": 100
+    }
+  ]
+}

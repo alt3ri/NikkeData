@@ -1,0 +1,476 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 200100,
+      "view_id": 2001,
+      "view_sub_id": 0,
+      "title": "HELP_CHARACTER_MANAGE_TITLE",
+      "description_group": 270
+    },
+    {
+      "id": 200200,
+      "view_id": 2002,
+      "view_sub_id": 0,
+      "title": "HELP_CHARACTER_MANAGE_TITLE",
+      "description_group": 270,
+      "hud_tutorial_replay": "Attractive"
+    },
+    {
+      "id": 200500,
+      "view_id": 2005,
+      "view_sub_id": 0,
+      "title": "HELP_JUKEBOX_TITLE",
+      "description_group": 290
+    },
+    {
+      "id": 200800,
+      "view_id": 2008,
+      "view_sub_id": 0,
+      "title": "HELP_MEMORIAL_TITLE",
+      "description_group": 280
+    },
+    {
+      "id": 202100,
+      "view_id": 2021,
+      "view_sub_id": 0,
+      "title": "HELP_ALBUM_TITLE",
+      "description_group": 400
+    },
+    {
+      "id": 300000,
+      "view_id": 3000,
+      "view_sub_id": 0,
+      "title": "HELP_FRIEND_TITLE",
+      "description_group": 330
+    },
+    {
+      "id": 400800,
+      "view_id": 4008,
+      "view_sub_id": 0,
+      "title": "HELP_AWAKEN_TITLE",
+      "description_group": 430
+    },
+    {
+      "id": 403100,
+      "view_id": 4031,
+      "view_sub_id": 0,
+      "title": "HELP_EVENT_ITEM_AUTO_CHARGE_TITLE",
+      "description_group": 500
+    },
+    {
+      "id": 500200,
+      "view_id": 5002,
+      "view_sub_id": 0,
+      "title": "HELP_GUILD_TITLE",
+      "description_group": 170
+    },
+    {
+      "id": 500900,
+      "view_id": 5009,
+      "view_sub_id": 0,
+      "title": "HELP_GUILD_TITLE",
+      "description_group": 170
+    },
+    {
+      "id": 501200,
+      "view_id": 5012,
+      "view_sub_id": 0,
+      "title": "HELP_GUILD_MANAGEMENT_TITLE",
+      "description_group": 180
+    },
+    {
+      "id": 501400,
+      "view_id": 5014,
+      "view_sub_id": 0,
+      "title": "HELP_SHOOTING_RANGE_TITLE",
+      "description_group": 190
+    },
+    {
+      "id": 600000,
+      "view_id": 6000,
+      "view_sub_id": 0,
+      "title": "HELP_ARENA_TITLE",
+      "description_group": 150
+    },
+    {
+      "id": 601200,
+      "view_id": 6012,
+      "view_sub_id": 0,
+      "title": "HELP_NIKKE_TITLE",
+      "description_group": 100
+    },
+    {
+      "id": 602000,
+      "view_id": 6020,
+      "view_sub_id": 0,
+      "title": "HELP_AWAKEN_TITLE",
+      "description_group": 430
+    },
+    {
+      "id": 602700,
+      "view_id": 6027,
+      "view_sub_id": 0,
+      "title": "HELP_GACHA_TITLE",
+      "description_group": 390
+    },
+    {
+      "id": 602704,
+      "view_id": 6027,
+      "view_sub_id": 4,
+      "title": "HELP_GACHA_FIRST_TITLE",
+      "description_group": 900
+    },
+    {
+      "id": 602710,
+      "view_id": 6027,
+      "view_sub_id": 10,
+      "title": "HELP_GACHA_2023_NEWYEAR_TITLE",
+      "description_group": 901
+    },
+    {
+      "id": 603100,
+      "view_id": 6031,
+      "view_sub_id": 0,
+      "title": "HELP_LOSTSECTOR_TITLE",
+      "description_group": 130
+    },
+    {
+      "id": 603500,
+      "view_id": 6035,
+      "view_sub_id": 0,
+      "title": "HELP_TOWER_TITLE",
+      "description_group": 120,
+      "hud_tutorial_replay": "Tower"
+    },
+    {
+      "id": 603600,
+      "view_id": 6036,
+      "view_sub_id": 0,
+      "title": "HELP_NIKKE_TITLE",
+      "description_group": 100
+    },
+    {
+      "id": 603700,
+      "view_id": 6037,
+      "view_sub_id": 0,
+      "title": "HELP_HARMONYCUBE_TITLE",
+      "description_group": 140,
+      "hud_tutorial_replay": "Cube"
+    },
+    {
+      "id": 604400,
+      "view_id": 6044,
+      "view_sub_id": 0,
+      "title": "HELP_HARMONYCUBE_TITLE",
+      "description_group": 140
+    },
+    {
+      "id": 604700,
+      "view_id": 6047,
+      "view_sub_id": 0,
+      "title": "HELP_TOWER_TITLE",
+      "description_group": 120
+    },
+    {
+      "id": 605900,
+      "view_id": 6059,
+      "view_sub_id": 0,
+      "title": "HELP_GUILD_RAID_TITLE",
+      "description_group": 200
+    },
+    {
+      "id": 606000,
+      "view_id": 6060,
+      "view_sub_id": 0,
+      "title": "HELP_GUILD_RAID_TITLE",
+      "description_group": 200
+    },
+    {
+      "id": 606100,
+      "view_id": 6061,
+      "view_sub_id": 0,
+      "title": "HELP_GUILD_RAID_TITLE",
+      "description_group": 200
+    },
+    {
+      "id": 606200,
+      "view_id": 6062,
+      "view_sub_id": 0,
+      "title": "HELP_GUILD_RAID_TITLE",
+      "description_group": 200
+    },
+    {
+      "id": 624300,
+      "view_id": 6243,
+      "view_sub_id": 0,
+      "title": "HELP_MY_LOBBY_TITLE",
+      "description_group": 340
+    },
+    {
+      "id": 630100,
+      "view_id": 6301,
+      "view_sub_id": 0,
+      "title": "HELP_CAMPAIGN_RANKING_TITLE",
+      "description_group": 360
+    },
+    {
+      "id": 630101,
+      "view_id": 6301,
+      "view_sub_id": 1,
+      "title": "HELP_POINT_RANKING_TITLE",
+      "description_group": 370
+    },
+    {
+      "id": 630102,
+      "view_id": 6301,
+      "view_sub_id": 2,
+      "title": "HELP_POINT_RANKING_TITLE",
+      "description_group": 370
+    },
+    {
+      "id": 630103,
+      "view_id": 6301,
+      "view_sub_id": 3,
+      "title": "HELP_POINT_RANKING_TITLE",
+      "description_group": 370
+    },
+    {
+      "id": 630104,
+      "view_id": 6301,
+      "view_sub_id": 4,
+      "title": "HELP_POINT_RANKING_TITLE",
+      "description_group": 370
+    },
+    {
+      "id": 630105,
+      "view_id": 6301,
+      "view_sub_id": 5,
+      "title": "HELP_TOWER_RANKING_TITLE",
+      "description_group": 380
+    },
+    {
+      "id": 630106,
+      "view_id": 6301,
+      "view_sub_id": 6,
+      "title": "HELP_TOWER_RANKING_TITLE",
+      "description_group": 380
+    },
+    {
+      "id": 630107,
+      "view_id": 6301,
+      "view_sub_id": 7,
+      "title": "HELP_TOWER_RANKING_TITLE",
+      "description_group": 380
+    },
+    {
+      "id": 630108,
+      "view_id": 6301,
+      "view_sub_id": 8,
+      "title": "HELP_TOWER_RANKING_TITLE",
+      "description_group": 380
+    },
+    {
+      "id": 630109,
+      "view_id": 6301,
+      "view_sub_id": 9,
+      "title": "HELP_TOWER_RANKING_TITLE",
+      "description_group": 380
+    },
+    {
+      "id": 700200,
+      "view_id": 7002,
+      "view_sub_id": 0,
+      "title": "HELP_DISPATCH_TITLE",
+      "description_group": 300,
+      "hud_tutorial_replay": "Dispatch"
+    },
+    {
+      "id": 700600,
+      "view_id": 7006,
+      "view_sub_id": 0,
+      "title": "HELP_OUTPOST_BATTLE_TITLE",
+      "description_group": 220,
+      "hud_tutorial_replay": "OutpostBattle"
+    },
+    {
+      "id": 700700,
+      "view_id": 7007,
+      "view_sub_id": 0,
+      "title": "HELP_OUTPOST_TITLE",
+      "description_group": 210,
+      "hud_tutorial_replay": "OutpostHUD"
+    },
+    {
+      "id": 701000,
+      "view_id": 7010,
+      "view_sub_id": 0,
+      "title": "HELP_SYNCHRO_TITLE",
+      "description_group": 230,
+      "hud_tutorial_replay": "SynchroDevice"
+    },
+    {
+      "id": 701400,
+      "view_id": 7014,
+      "view_sub_id": 0,
+      "title": "HELP_ACADEMY_TITLE",
+      "description_group": 250,
+      "hud_tutorial_replay": "Academy"
+    },
+    {
+      "id": 703000,
+      "view_id": 7030,
+      "view_sub_id": 0,
+      "title": "HELP_INFRACORE_TITLE",
+      "description_group": 260
+    },
+    {
+      "id": 800100,
+      "view_id": 8001,
+      "view_sub_id": 0,
+      "title": "HELP_CAMPAIGN_FIELD_TITLE",
+      "description_group": 110
+    },
+    {
+      "id": 800200,
+      "view_id": 8002,
+      "view_sub_id": 0,
+      "title": "HELP_LOSTSECTOR_TITLE",
+      "description_group": 130
+    },
+    {
+      "id": 1110000,
+      "view_id": 11100,
+      "view_sub_id": 0,
+      "title": "HELP_RECYCLE_ROOM_TITLE",
+      "description_group": 240,
+      "hud_tutorial_replay": "RecycleRoom"
+    },
+    {
+      "id": 1300100,
+      "view_id": 13001,
+      "view_sub_id": 0,
+      "title": "HELP_SPECIAL_ARENA_TITLE",
+      "description_group": 160
+    },
+    {
+      "id": 1400000,
+      "view_id": 14000,
+      "view_sub_id": 0,
+      "title": "HELP_EMERGENCY_QUEST_TITLE",
+      "description_group": 320
+    },
+    {
+      "id": 1500300,
+      "view_id": 15003,
+      "view_sub_id": 0,
+      "title": "HELP_COOPERATION_TITLE",
+      "description_group": 350
+    },
+    {
+      "id": 1500400,
+      "view_id": 15004,
+      "view_sub_id": 0,
+      "title": "HELP_COMEBACK_EVENT_TITLE",
+      "description_group": 480
+    },
+    {
+      "id": 1700100,
+      "view_id": 17001,
+      "view_sub_id": 0,
+      "title": "HELP_SIMULATIONROOM_TITLE",
+      "description_group": 420
+    },
+    {
+      "id": 1700300,
+      "view_id": 17003,
+      "view_sub_id": 0,
+      "title": "HELP_SIMULATIONROOM_TITLE",
+      "description_group": 420
+    },
+    {
+      "id": 1800300,
+      "view_id": 18003,
+      "view_sub_id": 0,
+      "title": "HELP_EVENT_STORY_BONUS_REWARD_TITLE",
+      "description_group": 510
+    },
+    {
+      "id": 1900100,
+      "view_id": 19001,
+      "view_sub_id": 0,
+      "title": "HELP_PASS_TITLE",
+      "description_group": 410
+    },
+    {
+      "id": 1910100,
+      "view_id": 19101,
+      "view_sub_id": 0,
+      "title": "HELP_PASS_TITLE",
+      "description_group": 470
+    },
+    {
+      "id": 2000100,
+      "view_id": 20001,
+      "view_sub_id": 0,
+      "title": "HELP_UNION_RAID_TITLE",
+      "description_group": 450
+    },
+    {
+      "id": 2000200,
+      "view_id": 20002,
+      "view_sub_id": 0,
+      "title": "HELP_UNION_RAID_TITLE",
+      "description_group": 450
+    },
+    {
+      "id": 3000100,
+      "view_id": 30001,
+      "view_sub_id": 0,
+      "title": "HELP_CONTENTS_SHOP_TITLE",
+      "description_group": 310
+    },
+    {
+      "id": 4000100,
+      "view_id": 40001,
+      "view_sub_id": 0,
+      "title": "HELP_DICE_EVENT_TITLE",
+      "description_group": 440
+    },
+    {
+      "id": 5000100,
+      "view_id": 50001,
+      "view_sub_id": 0,
+      "title": "HELP_EVENT_FIELD_EVENT_TITLE",
+      "description_group": 490
+    },
+    {
+      "id": 6000100,
+      "view_id": 60001,
+      "view_sub_id": 0,
+      "title": "HELP_SORTOUT_EVENT_TITLE",
+      "description_group": 460
+    },
+    {
+      "id": 18000003,
+      "view_id": 18000,
+      "view_sub_id": 10003,
+      "title": "HELP_EVENT_STORY_MIRACLE_SNOW_TITLE",
+      "description_group": 520
+    },
+    {
+      "id": 18000004,
+      "view_id": 18000,
+      "view_sub_id": 10004,
+      "title": "HELP_EVENT_STORY_ETERNAL_MEMORY_TITLE",
+      "description_group": 530
+    },
+    {
+      "id": 18000005,
+      "view_id": 18000,
+      "view_sub_id": 10005,
+      "title": "HELP_EVENT_STORY_BRAND_NEW_YEAR_TITLE",
+      "description_group": 540
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": "flbg_lostsector_017",
+      "CameraPoint": [
+        {
+          "positionId": "a9573e6d-cb2b-4980-90e3-308eff643d1d"
+        }
+      ],
+      "StartingPoint": [
+        {
+          "positionId": "2541995f-f36d-472a-8d87-ba3f614a8346"
+        },
+        {
+          "positionId": "62c7a0d4-7b28-486e-83c6-dae72a3aaa2a"
+        }
+      ],
+      "ItemSpawner": [
+        {
+          "positionId": "29ed9426-bad6-4769-a678-01dc077a5269",
+          "itemId": 500076,
+          "isCompleteReward": false
+        },
+        {
+          "positionId": "84d671af-c047-4039-8ea0-076851224791",
+          "itemId": 500077,
+          "isCompleteReward": false
+        },
+        {
+          "positionId": "07b14926-79dd-418f-9b92-694f62eeb6dd",
+          "itemId": 500078,
+          "isCompleteReward": false
+        },
+        {
+          "positionId": "e7c4d22a-f9c1-477e-aa96-26b32145efa5",
+          "itemId": 500079,
+          "isCompleteReward": false
+        },
+        {
+          "positionId": "5dcbc3b0-ae27-4577-99ad-ed43fadbbc3d",
+          "itemId": 500080,
+          "isCompleteReward": false
+        },
+        {
+          "positionId": "eba8dd0c-dc4d-40a7-95e8-34e4798db606",
+          "itemId": 500081,
+          "isCompleteReward": true
+        }
+      ],
+      "StageSpawner": [
+        {
+          "positionId": "b7242fe9-90c6-4032-a8d4-4d6c4f714996",
+          "stageId": 6117001,
+          "eventState": 0
+        },
+        {
+          "positionId": "cde67e20-e828-420a-bbde-87bdb490d7e4",
+          "stageId": 6117002,
+          "eventState": 0
+        },
+        {
+          "positionId": "66ccaf54-28c4-4ed6-b4fa-8c2f7eacf76a",
+          "stageId": 6117003,
+          "eventState": 0
+        },
+        {
+          "positionId": "371be44f-2446-4a7c-8401-d3124903c025",
+          "stageId": 6117004,
+          "eventState": 0
+        },
+        {
+          "positionId": "36a82d57-8846-49a7-a972-d365c3ef1464",
+          "stageId": 6117005,
+          "eventState": 0
+        },
+        {
+          "positionId": "9de23178-25de-4e4e-84eb-d738fff46d3c",
+          "stageId": 6117006,
+          "eventState": 0
+        },
+        {
+          "positionId": "d98e8f0f-cfdf-4b4a-b4c4-01eab2299f85",
+          "stageId": 6117007,
+          "eventState": 0
+        },
+        {
+          "positionId": "794a9d33-57e3-4ce8-a172-706828ab5877",
+          "stageId": 6117008,
+          "eventState": 0
+        },
+        {
+          "positionId": "3e3ccb70-903d-46ee-8fa7-d5405bbaaa4c",
+          "stageId": 6117009,
+          "eventState": 0
+        },
+        {
+          "positionId": "937fc5b8-0707-4514-a6c5-d17e368e0655",
+          "stageId": 6117010,
+          "eventState": 0
+        },
+        {
+          "positionId": "cc4f7da2-c667-49cb-93e3-49f778b14413",
+          "stageId": 6117011,
+          "eventState": 0
+        },
+        {
+          "positionId": "0e025297-50ba-41cc-adfb-6918e0c84187",
+          "stageId": 6117012,
+          "eventState": 0
+        },
+        {
+          "positionId": "29253575-3b0f-445f-ad5d-82fdab8a5ee5",
+          "stageId": 6117013,
+          "eventState": 0
+        },
+        {
+          "positionId": "eebbc59e-fd9c-4fa5-858b-ccf80d0ee6d5",
+          "stageId": 6117014,
+          "eventState": 0
+        },
+        {
+          "positionId": "f3146009-1c80-48e1-beb7-a35445d391ad",
+          "stageId": 6117015,
+          "eventState": 0
+        },
+        {
+          "positionId": "3d560216-4aa8-44f2-8e01-b62a7fe4e8f5",
+          "stageId": 6117016,
+          "eventState": 0
+        },
+        {
+          "positionId": "1156d20c-e8e8-46d4-9dcf-b06f1b77a323",
+          "stageId": 6117017,
+          "eventState": 0
+        },
+        {
+          "positionId": "60b8c673-8d9e-4f9c-9b98-32b0fc6be576",
+          "stageId": 6117018,
+          "eventState": 0
+        }
+      ],
+      "AssistSquadSpawner": [
+        {
+          "positionId": "010a2c25-9fe7-4505-ace9-9e5a3ef2941c"
+        }
+      ],
+      "Door": [
+        {
+          "positionId": "a6b733e3-d294-449c-8e0f-17034e8a9524",
+          "OnTrigger": false
+        },
+        {
+          "positionId": "d72a777b-433a-4feb-b712-96b7545b1ef1",
+          "OnTrigger": false
+        },
+        {
+          "positionId": "636ec14a-d6be-49ca-b244-3b2430b664a3",
+          "OnTrigger": false
+        },
+        {
+          "positionId": "8fdc37b8-bd90-4123-9f5f-4c5ecb8a7146",
+          "OnTrigger": false
+        },
+        {
+          "positionId": "e6d9eb72-a4c7-4439-a8af-a518abae28b2",
+          "OnTrigger": false
+        },
+        {
+          "positionId": "3f0766d5-cdb1-4fcb-b4d3-8647b007f3dc",
+          "OnTrigger": false
+        },
+        {
+          "positionId": "0c3ff5c0-3175-4590-ad01-d59d6e839de2",
+          "OnTrigger": false
+        },
+        {
+          "positionId": "474f16ec-1818-4aaa-83db-99585059efc1",
+          "OnTrigger": false
+        }
+      ],
+      "LevelTrigger": [
+        {
+          "positionId": "ea5faabe-2611-4ac0-9992-84e460142844",
+          "switchType": 1,
+          "OnTrigger": false
+        },
+        {
+          "positionId": "32ee0068-ad72-4a03-811b-4713eb6fc9bb",
+          "switchType": 1,
+          "OnTrigger": false
+        },
+        {
+          "positionId": "369c254e-1113-4b7b-ae36-2917b3e1f434",
+          "switchType": 1,
+          "OnTrigger": false
+        },
+        {
+          "positionId": "12d83604-f553-48bc-be7d-0e8995ae5174",
+          "switchType": 1,
+          "OnTrigger": false
+        },
+        {
+          "positionId": "21517828-fac7-4881-908a-06d32f6a45c9",
+          "switchType": 3,
+          "OnTrigger": false
+        },
+        {
+          "positionId": "95274e93-74fb-4434-b437-c6b67926a85d",
+          "switchType": 3,
+          "OnTrigger": false
+        },
+        {
+          "positionId": "8d732ddb-4bd4-45a3-84a4-6af1cebce6b8",
+          "switchType": 3,
+          "OnTrigger": false
+        },
+        {
+          "positionId": "7efeaa95-7935-4922-bee6-555d9432e639",
+          "switchType": 0,
+          "OnTrigger": false
+        }
+      ],
+      "PortalSet": [
+        {
+          "positionId": "eb389b73-921c-4b42-b672-2f618179c3eb"
+        },
+        {
+          "positionId": "6c93de68-7f6c-4e5d-9dc6-c07d0b0b0943"
+        }
+      ],
+      "Portal": [
+        {
+          "positionId": "bddedae5-0532-4407-87b9-f5b64365dc58"
+        },
+        {
+          "positionId": "37e20162-6c11-425a-a78d-019671a2440a"
+        },
+        {
+          "positionId": "1449577b-08cb-4af8-b11e-8cb8a47d21f7"
+        },
+        {
+          "positionId": "1eac178e-6565-4159-9f34-994124b63890"
+        }
+      ],
+      "SupplyPoint": [
+        {
+          "positionId": "a2d66ed7-ba52-493a-86b6-2b1054919c7d",
+          "reinforcement": 2
+        }
+      ]
+    }
+  ]
+}
