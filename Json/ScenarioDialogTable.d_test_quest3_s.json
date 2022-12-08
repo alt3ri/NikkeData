@@ -1,0 +1,199 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": "d_test_quest3_s_01",
+      "group_id": "d_test_quest3_s",
+      "speech_window": "Speech",
+      "highlight": "privaty",
+      "speaker": "privaty",
+      "scenario_localkey": "d_test_quest3_s_01",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "show_char_id": "privaty",
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "Desert_01",
+      "set_start_camera": "1",
+      "set_end_camera": "10",
+      "set_camera_duration": 3.0,
+      "play_bgm": "none",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_test_quest3_s_02",
+      "group_id": "d_test_quest3_s",
+      "speech_window": "Self",
+      "highlight": "privaty",
+      "speaker": "Self",
+      "scenario_localkey": "d_test_quest3_s_02",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "show_char_id": "privaty",
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_test_quest3_s_03",
+      "group_id": "d_test_quest3_s",
+      "speech_window": "Speech",
+      "highlight": "privaty",
+      "speaker": "privaty",
+      "scenario_localkey": "d_test_quest3_s_03",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "show_char_id": "privaty",
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_test_quest3_s_04",
+      "group_id": "d_test_quest3_s",
+      "speech_window": "Self",
+      "highlight": "privaty",
+      "speaker": "Self",
+      "scenario_localkey": "d_test_quest3_s_04",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "show_char_id": "privaty",
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_test_quest3_s_05",
+      "group_id": "d_test_quest3_s",
+      "speech_window": "Speech",
+      "highlight": "privaty",
+      "speaker": "privaty",
+      "scenario_localkey": "d_test_quest3_s_05",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "show_char_id": "privaty",
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_test_quest3_s_06",
+      "group_id": "d_test_quest3_s",
+      "speech_window": "Speech",
+      "highlight": "privaty",
+      "speaker": "privaty",
+      "scenario_localkey": "d_test_quest3_s_06",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "show_char_id": "privaty",
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "100",
+      "set_camera_duration": 0.5,
+      "effects": [
+        {},
+        {}
+      ]
+    }
+  ]
+}

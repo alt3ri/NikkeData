@@ -1,0 +1,457 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": "groupshot_hp",
+      "value": "300"
+    },
+    {
+      "id": "groupshot_time",
+      "value": "600"
+    },
+    {
+      "id": "groupshot_max_gauge_value",
+      "value": "300"
+    },
+    {
+      "id": "groupshot_gain_gauge_value",
+      "value": "100"
+    },
+    {
+      "id": "token_count",
+      "value": "3"
+    },
+    {
+      "id": "token_statup_value",
+      "value": "3000"
+    },
+    {
+      "id": "squad_encounter_range",
+      "value": "500"
+    },
+    {
+      "id": "squad_assistsquad_encounter_range",
+      "value": "300"
+    },
+    {
+      "id": "squad_move_speed",
+      "value": "1000"
+    },
+    {
+      "id": "field_squad_chase_speed",
+      "value": "0.6"
+    },
+    {
+      "id": "soft_object_hp",
+      "value": "100"
+    },
+    {
+      "id": "soft_object_def",
+      "value": "0"
+    },
+    {
+      "id": "medium_object_hp",
+      "value": "500"
+    },
+    {
+      "id": "medium_object_def",
+      "value": "0"
+    },
+    {
+      "id": "hard_object_hp",
+      "value": "1000"
+    },
+    {
+      "id": "hard_object_def",
+      "value": "0"
+    },
+    {
+      "id": "cover_hp",
+      "value": "8000"
+    },
+    {
+      "id": "cover_def",
+      "value": "0"
+    },
+    {
+      "id": "field_AR_fire_speed_rate",
+      "value": "0.18"
+    },
+    {
+      "id": "field_SG_fire_speed_rate",
+      "value": "0.8"
+    },
+    {
+      "id": "field_RL_fire_speed_rate",
+      "value": "1.8"
+    },
+    {
+      "id": "field_MG_fire_speed_rate",
+      "value": "0.25"
+    },
+    {
+      "id": "field_SR_fire_speed_rate",
+      "value": "1.2"
+    },
+    {
+      "id": "field_SMG_fire_speed_rate",
+      "value": "0.15"
+    },
+    {
+      "id": "field_fire_speed_rate",
+      "value": "0.18"
+    },
+    {
+      "id": "field_move_range_rate",
+      "value": "100"
+    },
+    {
+      "id": "encounter_move_max_range",
+      "value": "800"
+    },
+    {
+      "id": "encounter_move_min_range",
+      "value": "300"
+    },
+    {
+      "id": "encounter_move_angle_range",
+      "value": "100"
+    },
+    {
+      "id": "encounter_ar_move_speed",
+      "value": "360"
+    },
+    {
+      "id": "encounter_sg_move_speed",
+      "value": "450"
+    },
+    {
+      "id": "encounter_rl_move_speed",
+      "value": "225"
+    },
+    {
+      "id": "encounter_mg_move_speed",
+      "value": "150"
+    },
+    {
+      "id": "encounter_sr_move_speed",
+      "value": "240"
+    },
+    {
+      "id": "encounter_smg_move_speed",
+      "value": "600"
+    },
+    {
+      "id": "encounter_ar_attack_time",
+      "value": "2"
+    },
+    {
+      "id": "encounter_sg_attack_time",
+      "value": "1.5"
+    },
+    {
+      "id": "encounter_rl_attack_time",
+      "value": "4"
+    },
+    {
+      "id": "encounter_mg_attack_time",
+      "value": "5"
+    },
+    {
+      "id": "encounter_sr_attack_time",
+      "value": "3"
+    },
+    {
+      "id": "encounter_smg_attack_time",
+      "value": "2"
+    },
+    {
+      "id": "field_encounter_speed",
+      "value": "15"
+    },
+    {
+      "id": "field_2nd_camera_zom_inout",
+      "value": "30"
+    },
+    {
+      "id": "field_2nd_camera_zom_inout_time",
+      "value": "1"
+    },
+    {
+      "id": "field_longpress_starting_time",
+      "value": "0.5"
+    },
+    {
+      "id": "field_longpress_casting_time",
+      "value": "0.5"
+    },
+    {
+      "id": "FieldMainQuestIndicatorFunction",
+      "value": "True"
+    },
+    {
+      "id": "FieldSubQuestIndicatorFunction",
+      "value": "True"
+    },
+    {
+      "id": "FielEXStageIndicatorFunction",
+      "value": "True"
+    },
+    {
+      "id": "ulti_gauge_sec",
+      "value": "100"
+    },
+    {
+      "id": "ulti_gauge_kill_m",
+      "value": "960"
+    },
+    {
+      "id": "ulti_gauge_kill_e",
+      "value": "1440"
+    },
+    {
+      "id": "ulti_gauge_kill_c",
+      "value": "1920"
+    },
+    {
+      "id": "ulti_gauge_kill_b",
+      "value": "2880"
+    },
+    {
+      "id": "ulti_gauge_use_skill",
+      "value": "200"
+    },
+    {
+      "id": "ulti_gauge_skill_hit",
+      "value": "100"
+    },
+    {
+      "id": "ulti_gauge_shot_hit",
+      "value": "4"
+    },
+    {
+      "id": "ulti_gauge_hurt",
+      "value": "480"
+    },
+    {
+      "id": "ulti_gauge_cover_hurt",
+      "value": "0"
+    },
+    {
+      "id": "ulti_gauge_empty_ammo",
+      "value": "13"
+    },
+    {
+      "id": "gravitybomb_resist_huge",
+      "value": "0"
+    },
+    {
+      "id": "gravitybomb_resist_big",
+      "value": "0"
+    },
+    {
+      "id": "gravitybomb_resist_medium",
+      "value": "50"
+    },
+    {
+      "id": "gravitybomb_resist_small",
+      "value": "100"
+    },
+    {
+      "id": "monster_ulti_gauge_hurt",
+      "value": "4"
+    },
+    {
+      "id": "monster_ulti_gauge_sec",
+      "value": "250"
+    },
+    {
+      "id": "monster_ulti_gauge_shot_hit",
+      "value": "4"
+    },
+    {
+      "id": "monster_ulti_gauge_use_skill",
+      "value": "100"
+    },
+    {
+      "id": "monster_ulti_gauge_skill_hit",
+      "value": "10"
+    },
+    {
+      "id": "distortion_gauge_rate",
+      "value": "1000"
+    },
+    {
+      "id": "burst_damage_step_03",
+      "value": "10000"
+    },
+    {
+      "id": "burst_damage_step_02",
+      "value": "10000"
+    },
+    {
+      "id": "burst_damage_step_01",
+      "value": "10000"
+    },
+    {
+      "id": "burst_damage_step_crash",
+      "value": "15000"
+    },
+    {
+      "id": "burst_duration_time",
+      "value": "0"
+    },
+    {
+      "id": "global_cool_time",
+      "value": "150"
+    },
+    {
+      "id": "burst_energy_max",
+      "value": "10000"
+    },
+    {
+      "id": "combo_base_duration_time",
+      "value": "500"
+    },
+    {
+      "id": "combo_decrease_duration_time",
+      "value": "10"
+    },
+    {
+      "id": "combo_min_duration_time",
+      "value": "100"
+    },
+    {
+      "id": "core_damge_rate",
+      "value": "25000"
+    },
+    {
+      "id": "BonusRangeRate",
+      "value": "13000"
+    },
+    {
+      "id": "gravity_acceleration",
+      "value": "3"
+    },
+    {
+      "id": "monster_landing_min_height",
+      "value": "3"
+    },
+    {
+      "id": "monster_spawn_drop_height",
+      "value": "20"
+    },
+    {
+      "id": "monster_spawn_jump_power",
+      "value": "15"
+    },
+    {
+      "id": "monster_spawn_jump_time",
+      "value": "1.2"
+    },
+    {
+      "id": "monster_spawn_dash_speed",
+      "value": "5"
+    },
+    {
+      "id": "monster_spawn_curve_speed",
+      "value": "3.5"
+    },
+    {
+      "id": "monster_spawn_curve_time",
+      "value": "1.5"
+    },
+    {
+      "id": "monster_spawn_curve_low",
+      "value": "3"
+    },
+    {
+      "id": "monster_spawn_vertical_height",
+      "value": "12"
+    },
+    {
+      "id": "monster_spawn_vertical_speed",
+      "value": "4"
+    },
+    {
+      "id": "spot_mod_defense_thrash_count",
+      "value": "1"
+    },
+    {
+      "id": "spot_mod_defense_minion_count",
+      "value": "2"
+    },
+    {
+      "id": "spot_mod_defense_elite_count",
+      "value": "5"
+    },
+    {
+      "id": "spot_mod_defense_centurion_count",
+      "value": "10"
+    },
+    {
+      "id": "spot_mod_defense_escapezone_buff",
+      "value": "7000013"
+    },
+    {
+      "id": "spot_mid_range_start",
+      "value": "25"
+    },
+    {
+      "id": "spot_mid_range_end",
+      "value": "45"
+    },
+    {
+      "id": "arena_battletime",
+      "value": "90"
+    },
+    {
+      "id": "ElementBonusDamage",
+      "value": "1000"
+    },
+    {
+      "id": "spot_basedefense_maxpoint",
+      "value": "10000"
+    },
+    {
+      "id": "spot_mod_basedefense_defensezonecount_obtain",
+      "value": "0"
+    },
+    {
+      "id": "spot_mod_basedefense_obtain_point",
+      "value": "3"
+    },
+    {
+      "id": "spot_mod_basedefense_defensezonecount_loss",
+      "value": "5"
+    },
+    {
+      "id": "spot_mod_basedefense_loss_point_01",
+      "value": "2"
+    },
+    {
+      "id": "spot_mod_basedefense_loss_point_02",
+      "value": "5"
+    },
+    {
+      "id": "spot_mod_basedefense_thrash_point",
+      "value": "1"
+    },
+    {
+      "id": "spot_mod_basedefense_minion_point",
+      "value": "2"
+    },
+    {
+      "id": "spot_mod_basedefense_elite_point",
+      "value": "10"
+    },
+    {
+      "id": "spot_mod_basedefense_centurion_point",
+      "value": "60"
+    },
+    {
+      "id": "hpdamage_limit",
+      "value": "30"
+    }
+  ]
+}

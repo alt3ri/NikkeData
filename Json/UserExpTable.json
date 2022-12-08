@@ -1,0 +1,5005 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "level": 1,
+      "exp": 100,
+      "reward_id": 30
+    },
+    {
+      "level": 2,
+      "exp": 300,
+      "reward_id": 30
+    },
+    {
+      "level": 3,
+      "exp": 600,
+      "reward_id": 30
+    },
+    {
+      "level": 4,
+      "exp": 1000,
+      "reward_id": 30
+    },
+    {
+      "level": 5,
+      "exp": 1500,
+      "reward_id": 30
+    },
+    {
+      "level": 6,
+      "exp": 2100,
+      "reward_id": 30
+    },
+    {
+      "level": 7,
+      "exp": 2700,
+      "reward_id": 30
+    },
+    {
+      "level": 8,
+      "exp": 3400,
+      "reward_id": 30
+    },
+    {
+      "level": 9,
+      "exp": 4100,
+      "reward_id": 30
+    },
+    {
+      "level": 10,
+      "exp": 5000,
+      "reward_id": 30
+    },
+    {
+      "level": 11,
+      "exp": 5800,
+      "reward_id": 30
+    },
+    {
+      "level": 12,
+      "exp": 6800,
+      "reward_id": 30
+    },
+    {
+      "level": 13,
+      "exp": 7800,
+      "reward_id": 30
+    },
+    {
+      "level": 14,
+      "exp": 8800,
+      "reward_id": 30
+    },
+    {
+      "level": 15,
+      "exp": 9900,
+      "reward_id": 30
+    },
+    {
+      "level": 16,
+      "exp": 11100,
+      "reward_id": 30
+    },
+    {
+      "level": 17,
+      "exp": 12300,
+      "reward_id": 30
+    },
+    {
+      "level": 18,
+      "exp": 13600,
+      "reward_id": 30
+    },
+    {
+      "level": 19,
+      "exp": 14900,
+      "reward_id": 30
+    },
+    {
+      "level": 20,
+      "exp": 16200,
+      "reward_id": 30
+    },
+    {
+      "level": 21,
+      "exp": 17600,
+      "reward_id": 30
+    },
+    {
+      "level": 22,
+      "exp": 19100,
+      "reward_id": 30
+    },
+    {
+      "level": 23,
+      "exp": 20600,
+      "reward_id": 30
+    },
+    {
+      "level": 24,
+      "exp": 22200,
+      "reward_id": 30
+    },
+    {
+      "level": 25,
+      "exp": 23700,
+      "reward_id": 30
+    },
+    {
+      "level": 26,
+      "exp": 25400,
+      "reward_id": 30
+    },
+    {
+      "level": 27,
+      "exp": 27100,
+      "reward_id": 30
+    },
+    {
+      "level": 28,
+      "exp": 28800,
+      "reward_id": 30
+    },
+    {
+      "level": 29,
+      "exp": 30600,
+      "reward_id": 30
+    },
+    {
+      "level": 30,
+      "exp": 32400,
+      "reward_id": 30
+    },
+    {
+      "level": 31,
+      "exp": 34300,
+      "reward_id": 30
+    },
+    {
+      "level": 32,
+      "exp": 36200,
+      "reward_id": 30
+    },
+    {
+      "level": 33,
+      "exp": 38100,
+      "reward_id": 30
+    },
+    {
+      "level": 34,
+      "exp": 40100,
+      "reward_id": 30
+    },
+    {
+      "level": 35,
+      "exp": 42100,
+      "reward_id": 30
+    },
+    {
+      "level": 36,
+      "exp": 44200,
+      "reward_id": 30
+    },
+    {
+      "level": 37,
+      "exp": 46300,
+      "reward_id": 30
+    },
+    {
+      "level": 38,
+      "exp": 48400,
+      "reward_id": 30
+    },
+    {
+      "level": 39,
+      "exp": 50600,
+      "reward_id": 30
+    },
+    {
+      "level": 40,
+      "exp": 52900,
+      "reward_id": 30
+    },
+    {
+      "level": 41,
+      "exp": 55100,
+      "reward_id": 30
+    },
+    {
+      "level": 42,
+      "exp": 57400,
+      "reward_id": 30
+    },
+    {
+      "level": 43,
+      "exp": 59800,
+      "reward_id": 30
+    },
+    {
+      "level": 44,
+      "exp": 62200,
+      "reward_id": 30
+    },
+    {
+      "level": 45,
+      "exp": 64600,
+      "reward_id": 30
+    },
+    {
+      "level": 46,
+      "exp": 67000,
+      "reward_id": 30
+    },
+    {
+      "level": 47,
+      "exp": 69500,
+      "reward_id": 30
+    },
+    {
+      "level": 48,
+      "exp": 72100,
+      "reward_id": 30
+    },
+    {
+      "level": 49,
+      "exp": 74700,
+      "reward_id": 30
+    },
+    {
+      "level": 50,
+      "exp": 77300,
+      "reward_id": 30
+    },
+    {
+      "level": 51,
+      "exp": 79900,
+      "reward_id": 30
+    },
+    {
+      "level": 52,
+      "exp": 82600,
+      "reward_id": 30
+    },
+    {
+      "level": 53,
+      "exp": 85300,
+      "reward_id": 30
+    },
+    {
+      "level": 54,
+      "exp": 88100,
+      "reward_id": 30
+    },
+    {
+      "level": 55,
+      "exp": 90900,
+      "reward_id": 30
+    },
+    {
+      "level": 56,
+      "exp": 93700,
+      "reward_id": 30
+    },
+    {
+      "level": 57,
+      "exp": 96600,
+      "reward_id": 30
+    },
+    {
+      "level": 58,
+      "exp": 99500,
+      "reward_id": 30
+    },
+    {
+      "level": 59,
+      "exp": 102400,
+      "reward_id": 30
+    },
+    {
+      "level": 60,
+      "exp": 105400,
+      "reward_id": 30
+    },
+    {
+      "level": 61,
+      "exp": 108400,
+      "reward_id": 30
+    },
+    {
+      "level": 62,
+      "exp": 111400,
+      "reward_id": 30
+    },
+    {
+      "level": 63,
+      "exp": 114500,
+      "reward_id": 30
+    },
+    {
+      "level": 64,
+      "exp": 117600,
+      "reward_id": 30
+    },
+    {
+      "level": 65,
+      "exp": 120700,
+      "reward_id": 30
+    },
+    {
+      "level": 66,
+      "exp": 123900,
+      "reward_id": 30
+    },
+    {
+      "level": 67,
+      "exp": 127100,
+      "reward_id": 30
+    },
+    {
+      "level": 68,
+      "exp": 130300,
+      "reward_id": 30
+    },
+    {
+      "level": 69,
+      "exp": 133600,
+      "reward_id": 30
+    },
+    {
+      "level": 70,
+      "exp": 136900,
+      "reward_id": 30
+    },
+    {
+      "level": 71,
+      "exp": 140300,
+      "reward_id": 30
+    },
+    {
+      "level": 72,
+      "exp": 143700,
+      "reward_id": 30
+    },
+    {
+      "level": 73,
+      "exp": 147100,
+      "reward_id": 30
+    },
+    {
+      "level": 74,
+      "exp": 150500,
+      "reward_id": 30
+    },
+    {
+      "level": 75,
+      "exp": 154000,
+      "reward_id": 30
+    },
+    {
+      "level": 76,
+      "exp": 157500,
+      "reward_id": 30
+    },
+    {
+      "level": 77,
+      "exp": 161000,
+      "reward_id": 30
+    },
+    {
+      "level": 78,
+      "exp": 164600,
+      "reward_id": 30
+    },
+    {
+      "level": 79,
+      "exp": 168200,
+      "reward_id": 30
+    },
+    {
+      "level": 80,
+      "exp": 171800,
+      "reward_id": 30
+    },
+    {
+      "level": 81,
+      "exp": 175500,
+      "reward_id": 30
+    },
+    {
+      "level": 82,
+      "exp": 179200,
+      "reward_id": 30
+    },
+    {
+      "level": 83,
+      "exp": 182900,
+      "reward_id": 30
+    },
+    {
+      "level": 84,
+      "exp": 186700,
+      "reward_id": 30
+    },
+    {
+      "level": 85,
+      "exp": 190500,
+      "reward_id": 30
+    },
+    {
+      "level": 86,
+      "exp": 194300,
+      "reward_id": 30
+    },
+    {
+      "level": 87,
+      "exp": 198200,
+      "reward_id": 30
+    },
+    {
+      "level": 88,
+      "exp": 202100,
+      "reward_id": 30
+    },
+    {
+      "level": 89,
+      "exp": 206000,
+      "reward_id": 30
+    },
+    {
+      "level": 90,
+      "exp": 209900,
+      "reward_id": 30
+    },
+    {
+      "level": 91,
+      "exp": 213900,
+      "reward_id": 30
+    },
+    {
+      "level": 92,
+      "exp": 217900,
+      "reward_id": 30
+    },
+    {
+      "level": 93,
+      "exp": 222000,
+      "reward_id": 30
+    },
+    {
+      "level": 94,
+      "exp": 226100,
+      "reward_id": 30
+    },
+    {
+      "level": 95,
+      "exp": 230200,
+      "reward_id": 30
+    },
+    {
+      "level": 96,
+      "exp": 234300,
+      "reward_id": 30
+    },
+    {
+      "level": 97,
+      "exp": 238500,
+      "reward_id": 30
+    },
+    {
+      "level": 98,
+      "exp": 242700,
+      "reward_id": 30
+    },
+    {
+      "level": 99,
+      "exp": 246900,
+      "reward_id": 30
+    },
+    {
+      "level": 100,
+      "exp": 251100,
+      "reward_id": 30
+    },
+    {
+      "level": 101,
+      "exp": 255400,
+      "reward_id": 30
+    },
+    {
+      "level": 102,
+      "exp": 259700,
+      "reward_id": 30
+    },
+    {
+      "level": 103,
+      "exp": 264100,
+      "reward_id": 30
+    },
+    {
+      "level": 104,
+      "exp": 268500,
+      "reward_id": 30
+    },
+    {
+      "level": 105,
+      "exp": 272900,
+      "reward_id": 30
+    },
+    {
+      "level": 106,
+      "exp": 277300,
+      "reward_id": 30
+    },
+    {
+      "level": 107,
+      "exp": 281800,
+      "reward_id": 30
+    },
+    {
+      "level": 108,
+      "exp": 286200,
+      "reward_id": 30
+    },
+    {
+      "level": 109,
+      "exp": 290800,
+      "reward_id": 30
+    },
+    {
+      "level": 110,
+      "exp": 295300,
+      "reward_id": 30
+    },
+    {
+      "level": 111,
+      "exp": 299900,
+      "reward_id": 30
+    },
+    {
+      "level": 112,
+      "exp": 304500,
+      "reward_id": 30
+    },
+    {
+      "level": 113,
+      "exp": 309100,
+      "reward_id": 30
+    },
+    {
+      "level": 114,
+      "exp": 313800,
+      "reward_id": 30
+    },
+    {
+      "level": 115,
+      "exp": 318500,
+      "reward_id": 30
+    },
+    {
+      "level": 116,
+      "exp": 323200,
+      "reward_id": 30
+    },
+    {
+      "level": 117,
+      "exp": 328000,
+      "reward_id": 30
+    },
+    {
+      "level": 118,
+      "exp": 332800,
+      "reward_id": 30
+    },
+    {
+      "level": 119,
+      "exp": 337600,
+      "reward_id": 30
+    },
+    {
+      "level": 120,
+      "exp": 342400,
+      "reward_id": 30
+    },
+    {
+      "level": 121,
+      "exp": 347300,
+      "reward_id": 30
+    },
+    {
+      "level": 122,
+      "exp": 352200,
+      "reward_id": 30
+    },
+    {
+      "level": 123,
+      "exp": 357100,
+      "reward_id": 30
+    },
+    {
+      "level": 124,
+      "exp": 362000,
+      "reward_id": 30
+    },
+    {
+      "level": 125,
+      "exp": 367000,
+      "reward_id": 30
+    },
+    {
+      "level": 126,
+      "exp": 372000,
+      "reward_id": 30
+    },
+    {
+      "level": 127,
+      "exp": 377100,
+      "reward_id": 30
+    },
+    {
+      "level": 128,
+      "exp": 382100,
+      "reward_id": 30
+    },
+    {
+      "level": 129,
+      "exp": 387200,
+      "reward_id": 30
+    },
+    {
+      "level": 130,
+      "exp": 392300,
+      "reward_id": 30
+    },
+    {
+      "level": 131,
+      "exp": 397500,
+      "reward_id": 30
+    },
+    {
+      "level": 132,
+      "exp": 402600,
+      "reward_id": 30
+    },
+    {
+      "level": 133,
+      "exp": 407800,
+      "reward_id": 30
+    },
+    {
+      "level": 134,
+      "exp": 413100,
+      "reward_id": 30
+    },
+    {
+      "level": 135,
+      "exp": 418300,
+      "reward_id": 30
+    },
+    {
+      "level": 136,
+      "exp": 423600,
+      "reward_id": 30
+    },
+    {
+      "level": 137,
+      "exp": 428900,
+      "reward_id": 30
+    },
+    {
+      "level": 138,
+      "exp": 434300,
+      "reward_id": 30
+    },
+    {
+      "level": 139,
+      "exp": 439600,
+      "reward_id": 30
+    },
+    {
+      "level": 140,
+      "exp": 445000,
+      "reward_id": 30
+    },
+    {
+      "level": 141,
+      "exp": 450400,
+      "reward_id": 30
+    },
+    {
+      "level": 142,
+      "exp": 455900,
+      "reward_id": 30
+    },
+    {
+      "level": 143,
+      "exp": 461300,
+      "reward_id": 30
+    },
+    {
+      "level": 144,
+      "exp": 466800,
+      "reward_id": 30
+    },
+    {
+      "level": 145,
+      "exp": 472400,
+      "reward_id": 30
+    },
+    {
+      "level": 146,
+      "exp": 477900,
+      "reward_id": 30
+    },
+    {
+      "level": 147,
+      "exp": 483500,
+      "reward_id": 30
+    },
+    {
+      "level": 148,
+      "exp": 489100,
+      "reward_id": 30
+    },
+    {
+      "level": 149,
+      "exp": 494700,
+      "reward_id": 30
+    },
+    {
+      "level": 150,
+      "exp": 500400,
+      "reward_id": 30
+    },
+    {
+      "level": 151,
+      "exp": 506100,
+      "reward_id": 30
+    },
+    {
+      "level": 152,
+      "exp": 511800,
+      "reward_id": 30
+    },
+    {
+      "level": 153,
+      "exp": 517500,
+      "reward_id": 30
+    },
+    {
+      "level": 154,
+      "exp": 523300,
+      "reward_id": 30
+    },
+    {
+      "level": 155,
+      "exp": 529100,
+      "reward_id": 30
+    },
+    {
+      "level": 156,
+      "exp": 534900,
+      "reward_id": 30
+    },
+    {
+      "level": 157,
+      "exp": 540700,
+      "reward_id": 30
+    },
+    {
+      "level": 158,
+      "exp": 546600,
+      "reward_id": 30
+    },
+    {
+      "level": 159,
+      "exp": 552500,
+      "reward_id": 30
+    },
+    {
+      "level": 160,
+      "exp": 558400,
+      "reward_id": 30
+    },
+    {
+      "level": 161,
+      "exp": 564400,
+      "reward_id": 30
+    },
+    {
+      "level": 162,
+      "exp": 570300,
+      "reward_id": 30
+    },
+    {
+      "level": 163,
+      "exp": 576300,
+      "reward_id": 30
+    },
+    {
+      "level": 164,
+      "exp": 582400,
+      "reward_id": 30
+    },
+    {
+      "level": 165,
+      "exp": 588400,
+      "reward_id": 30
+    },
+    {
+      "level": 166,
+      "exp": 594500,
+      "reward_id": 30
+    },
+    {
+      "level": 167,
+      "exp": 600600,
+      "reward_id": 30
+    },
+    {
+      "level": 168,
+      "exp": 606700,
+      "reward_id": 30
+    },
+    {
+      "level": 169,
+      "exp": 612900,
+      "reward_id": 30
+    },
+    {
+      "level": 170,
+      "exp": 619100,
+      "reward_id": 30
+    },
+    {
+      "level": 171,
+      "exp": 625300,
+      "reward_id": 30
+    },
+    {
+      "level": 172,
+      "exp": 631500,
+      "reward_id": 30
+    },
+    {
+      "level": 173,
+      "exp": 637700,
+      "reward_id": 30
+    },
+    {
+      "level": 174,
+      "exp": 644000,
+      "reward_id": 30
+    },
+    {
+      "level": 175,
+      "exp": 650300,
+      "reward_id": 30
+    },
+    {
+      "level": 176,
+      "exp": 656700,
+      "reward_id": 30
+    },
+    {
+      "level": 177,
+      "exp": 663000,
+      "reward_id": 30
+    },
+    {
+      "level": 178,
+      "exp": 669400,
+      "reward_id": 30
+    },
+    {
+      "level": 179,
+      "exp": 675800,
+      "reward_id": 30
+    },
+    {
+      "level": 180,
+      "exp": 682200,
+      "reward_id": 30
+    },
+    {
+      "level": 181,
+      "exp": 688700,
+      "reward_id": 30
+    },
+    {
+      "level": 182,
+      "exp": 695200,
+      "reward_id": 30
+    },
+    {
+      "level": 183,
+      "exp": 701700,
+      "reward_id": 30
+    },
+    {
+      "level": 184,
+      "exp": 708200,
+      "reward_id": 30
+    },
+    {
+      "level": 185,
+      "exp": 714800,
+      "reward_id": 30
+    },
+    {
+      "level": 186,
+      "exp": 721300,
+      "reward_id": 30
+    },
+    {
+      "level": 187,
+      "exp": 727900,
+      "reward_id": 30
+    },
+    {
+      "level": 188,
+      "exp": 734600,
+      "reward_id": 30
+    },
+    {
+      "level": 189,
+      "exp": 741200,
+      "reward_id": 30
+    },
+    {
+      "level": 190,
+      "exp": 747900,
+      "reward_id": 30
+    },
+    {
+      "level": 191,
+      "exp": 754600,
+      "reward_id": 30
+    },
+    {
+      "level": 192,
+      "exp": 761300,
+      "reward_id": 30
+    },
+    {
+      "level": 193,
+      "exp": 768100,
+      "reward_id": 30
+    },
+    {
+      "level": 194,
+      "exp": 774900,
+      "reward_id": 30
+    },
+    {
+      "level": 195,
+      "exp": 781700,
+      "reward_id": 30
+    },
+    {
+      "level": 196,
+      "exp": 788500,
+      "reward_id": 30
+    },
+    {
+      "level": 197,
+      "exp": 795400,
+      "reward_id": 30
+    },
+    {
+      "level": 198,
+      "exp": 802200,
+      "reward_id": 30
+    },
+    {
+      "level": 199,
+      "exp": 809100,
+      "reward_id": 30
+    },
+    {
+      "level": 200,
+      "exp": 816100,
+      "reward_id": 30
+    },
+    {
+      "level": 201,
+      "exp": 823000,
+      "reward_id": 30
+    },
+    {
+      "level": 202,
+      "exp": 830000,
+      "reward_id": 30
+    },
+    {
+      "level": 203,
+      "exp": 837000,
+      "reward_id": 30
+    },
+    {
+      "level": 204,
+      "exp": 844000,
+      "reward_id": 30
+    },
+    {
+      "level": 205,
+      "exp": 851100,
+      "reward_id": 30
+    },
+    {
+      "level": 206,
+      "exp": 858100,
+      "reward_id": 30
+    },
+    {
+      "level": 207,
+      "exp": 865200,
+      "reward_id": 30
+    },
+    {
+      "level": 208,
+      "exp": 872300,
+      "reward_id": 30
+    },
+    {
+      "level": 209,
+      "exp": 879500,
+      "reward_id": 30
+    },
+    {
+      "level": 210,
+      "exp": 886600,
+      "reward_id": 30
+    },
+    {
+      "level": 211,
+      "exp": 893800,
+      "reward_id": 30
+    },
+    {
+      "level": 212,
+      "exp": 901000,
+      "reward_id": 30
+    },
+    {
+      "level": 213,
+      "exp": 908300,
+      "reward_id": 30
+    },
+    {
+      "level": 214,
+      "exp": 915500,
+      "reward_id": 30
+    },
+    {
+      "level": 215,
+      "exp": 922800,
+      "reward_id": 30
+    },
+    {
+      "level": 216,
+      "exp": 930100,
+      "reward_id": 30
+    },
+    {
+      "level": 217,
+      "exp": 937500,
+      "reward_id": 30
+    },
+    {
+      "level": 218,
+      "exp": 944800,
+      "reward_id": 30
+    },
+    {
+      "level": 219,
+      "exp": 952200,
+      "reward_id": 30
+    },
+    {
+      "level": 220,
+      "exp": 959600,
+      "reward_id": 30
+    },
+    {
+      "level": 221,
+      "exp": 967000,
+      "reward_id": 30
+    },
+    {
+      "level": 222,
+      "exp": 974500,
+      "reward_id": 30
+    },
+    {
+      "level": 223,
+      "exp": 982000,
+      "reward_id": 30
+    },
+    {
+      "level": 224,
+      "exp": 989500,
+      "reward_id": 30
+    },
+    {
+      "level": 225,
+      "exp": 997000,
+      "reward_id": 30
+    },
+    {
+      "level": 226,
+      "exp": 1004500,
+      "reward_id": 30
+    },
+    {
+      "level": 227,
+      "exp": 1012100,
+      "reward_id": 30
+    },
+    {
+      "level": 228,
+      "exp": 1019700,
+      "reward_id": 30
+    },
+    {
+      "level": 229,
+      "exp": 1027300,
+      "reward_id": 30
+    },
+    {
+      "level": 230,
+      "exp": 1034900,
+      "reward_id": 30
+    },
+    {
+      "level": 231,
+      "exp": 1042600,
+      "reward_id": 30
+    },
+    {
+      "level": 232,
+      "exp": 1050300,
+      "reward_id": 30
+    },
+    {
+      "level": 233,
+      "exp": 1058000,
+      "reward_id": 30
+    },
+    {
+      "level": 234,
+      "exp": 1065700,
+      "reward_id": 30
+    },
+    {
+      "level": 235,
+      "exp": 1073500,
+      "reward_id": 30
+    },
+    {
+      "level": 236,
+      "exp": 1081300,
+      "reward_id": 30
+    },
+    {
+      "level": 237,
+      "exp": 1089100,
+      "reward_id": 30
+    },
+    {
+      "level": 238,
+      "exp": 1096900,
+      "reward_id": 30
+    },
+    {
+      "level": 239,
+      "exp": 1104700,
+      "reward_id": 30
+    },
+    {
+      "level": 240,
+      "exp": 1112600,
+      "reward_id": 30
+    },
+    {
+      "level": 241,
+      "exp": 1120500,
+      "reward_id": 30
+    },
+    {
+      "level": 242,
+      "exp": 1128400,
+      "reward_id": 30
+    },
+    {
+      "level": 243,
+      "exp": 1136300,
+      "reward_id": 30
+    },
+    {
+      "level": 244,
+      "exp": 1144300,
+      "reward_id": 30
+    },
+    {
+      "level": 245,
+      "exp": 1152300,
+      "reward_id": 30
+    },
+    {
+      "level": 246,
+      "exp": 1160300,
+      "reward_id": 30
+    },
+    {
+      "level": 247,
+      "exp": 1168300,
+      "reward_id": 30
+    },
+    {
+      "level": 248,
+      "exp": 1176400,
+      "reward_id": 30
+    },
+    {
+      "level": 249,
+      "exp": 1184500,
+      "reward_id": 30
+    },
+    {
+      "level": 250,
+      "exp": 1192600,
+      "reward_id": 30
+    },
+    {
+      "level": 251,
+      "exp": 1200700,
+      "reward_id": 30
+    },
+    {
+      "level": 252,
+      "exp": 1208800,
+      "reward_id": 30
+    },
+    {
+      "level": 253,
+      "exp": 1217000,
+      "reward_id": 30
+    },
+    {
+      "level": 254,
+      "exp": 1225200,
+      "reward_id": 30
+    },
+    {
+      "level": 255,
+      "exp": 1233400,
+      "reward_id": 30
+    },
+    {
+      "level": 256,
+      "exp": 1241600,
+      "reward_id": 30
+    },
+    {
+      "level": 257,
+      "exp": 1249900,
+      "reward_id": 30
+    },
+    {
+      "level": 258,
+      "exp": 1258200,
+      "reward_id": 30
+    },
+    {
+      "level": 259,
+      "exp": 1266500,
+      "reward_id": 30
+    },
+    {
+      "level": 260,
+      "exp": 1274800,
+      "reward_id": 30
+    },
+    {
+      "level": 261,
+      "exp": 1283100,
+      "reward_id": 30
+    },
+    {
+      "level": 262,
+      "exp": 1291500,
+      "reward_id": 30
+    },
+    {
+      "level": 263,
+      "exp": 1299900,
+      "reward_id": 30
+    },
+    {
+      "level": 264,
+      "exp": 1308300,
+      "reward_id": 30
+    },
+    {
+      "level": 265,
+      "exp": 1316700,
+      "reward_id": 30
+    },
+    {
+      "level": 266,
+      "exp": 1325200,
+      "reward_id": 30
+    },
+    {
+      "level": 267,
+      "exp": 1333700,
+      "reward_id": 30
+    },
+    {
+      "level": 268,
+      "exp": 1342200,
+      "reward_id": 30
+    },
+    {
+      "level": 269,
+      "exp": 1350700,
+      "reward_id": 30
+    },
+    {
+      "level": 270,
+      "exp": 1359300,
+      "reward_id": 30
+    },
+    {
+      "level": 271,
+      "exp": 1367800,
+      "reward_id": 30
+    },
+    {
+      "level": 272,
+      "exp": 1376400,
+      "reward_id": 30
+    },
+    {
+      "level": 273,
+      "exp": 1385000,
+      "reward_id": 30
+    },
+    {
+      "level": 274,
+      "exp": 1393700,
+      "reward_id": 30
+    },
+    {
+      "level": 275,
+      "exp": 1402300,
+      "reward_id": 30
+    },
+    {
+      "level": 276,
+      "exp": 1411000,
+      "reward_id": 30
+    },
+    {
+      "level": 277,
+      "exp": 1419700,
+      "reward_id": 30
+    },
+    {
+      "level": 278,
+      "exp": 1428400,
+      "reward_id": 30
+    },
+    {
+      "level": 279,
+      "exp": 1437200,
+      "reward_id": 30
+    },
+    {
+      "level": 280,
+      "exp": 1446000,
+      "reward_id": 30
+    },
+    {
+      "level": 281,
+      "exp": 1454700,
+      "reward_id": 30
+    },
+    {
+      "level": 282,
+      "exp": 1463600,
+      "reward_id": 30
+    },
+    {
+      "level": 283,
+      "exp": 1472400,
+      "reward_id": 30
+    },
+    {
+      "level": 284,
+      "exp": 1481200,
+      "reward_id": 30
+    },
+    {
+      "level": 285,
+      "exp": 1490100,
+      "reward_id": 30
+    },
+    {
+      "level": 286,
+      "exp": 1499000,
+      "reward_id": 30
+    },
+    {
+      "level": 287,
+      "exp": 1507900,
+      "reward_id": 30
+    },
+    {
+      "level": 288,
+      "exp": 1516900,
+      "reward_id": 30
+    },
+    {
+      "level": 289,
+      "exp": 1525900,
+      "reward_id": 30
+    },
+    {
+      "level": 290,
+      "exp": 1534800,
+      "reward_id": 30
+    },
+    {
+      "level": 291,
+      "exp": 1543800,
+      "reward_id": 30
+    },
+    {
+      "level": 292,
+      "exp": 1552900,
+      "reward_id": 30
+    },
+    {
+      "level": 293,
+      "exp": 1561900,
+      "reward_id": 30
+    },
+    {
+      "level": 294,
+      "exp": 1571000,
+      "reward_id": 30
+    },
+    {
+      "level": 295,
+      "exp": 1580100,
+      "reward_id": 30
+    },
+    {
+      "level": 296,
+      "exp": 1589200,
+      "reward_id": 30
+    },
+    {
+      "level": 297,
+      "exp": 1598400,
+      "reward_id": 30
+    },
+    {
+      "level": 298,
+      "exp": 1607500,
+      "reward_id": 30
+    },
+    {
+      "level": 299,
+      "exp": 1616700,
+      "reward_id": 30
+    },
+    {
+      "level": 300,
+      "exp": 1625900,
+      "reward_id": 30
+    },
+    {
+      "level": 301,
+      "exp": 1635100,
+      "reward_id": 30
+    },
+    {
+      "level": 302,
+      "exp": 1644400,
+      "reward_id": 30
+    },
+    {
+      "level": 303,
+      "exp": 1653600,
+      "reward_id": 30
+    },
+    {
+      "level": 304,
+      "exp": 1662900,
+      "reward_id": 30
+    },
+    {
+      "level": 305,
+      "exp": 1672200,
+      "reward_id": 30
+    },
+    {
+      "level": 306,
+      "exp": 1681600,
+      "reward_id": 30
+    },
+    {
+      "level": 307,
+      "exp": 1690900,
+      "reward_id": 30
+    },
+    {
+      "level": 308,
+      "exp": 1700300,
+      "reward_id": 30
+    },
+    {
+      "level": 309,
+      "exp": 1709700,
+      "reward_id": 30
+    },
+    {
+      "level": 310,
+      "exp": 1719100,
+      "reward_id": 30
+    },
+    {
+      "level": 311,
+      "exp": 1728500,
+      "reward_id": 30
+    },
+    {
+      "level": 312,
+      "exp": 1738000,
+      "reward_id": 30
+    },
+    {
+      "level": 313,
+      "exp": 1747500,
+      "reward_id": 30
+    },
+    {
+      "level": 314,
+      "exp": 1757000,
+      "reward_id": 30
+    },
+    {
+      "level": 315,
+      "exp": 1766500,
+      "reward_id": 30
+    },
+    {
+      "level": 316,
+      "exp": 1776100,
+      "reward_id": 30
+    },
+    {
+      "level": 317,
+      "exp": 1785600,
+      "reward_id": 30
+    },
+    {
+      "level": 318,
+      "exp": 1795200,
+      "reward_id": 30
+    },
+    {
+      "level": 319,
+      "exp": 1804800,
+      "reward_id": 30
+    },
+    {
+      "level": 320,
+      "exp": 1814400,
+      "reward_id": 30
+    },
+    {
+      "level": 321,
+      "exp": 1824100,
+      "reward_id": 30
+    },
+    {
+      "level": 322,
+      "exp": 1833800,
+      "reward_id": 30
+    },
+    {
+      "level": 323,
+      "exp": 1843500,
+      "reward_id": 30
+    },
+    {
+      "level": 324,
+      "exp": 1853200,
+      "reward_id": 30
+    },
+    {
+      "level": 325,
+      "exp": 1862900,
+      "reward_id": 30
+    },
+    {
+      "level": 326,
+      "exp": 1872700,
+      "reward_id": 30
+    },
+    {
+      "level": 327,
+      "exp": 1882400,
+      "reward_id": 30
+    },
+    {
+      "level": 328,
+      "exp": 1892200,
+      "reward_id": 30
+    },
+    {
+      "level": 329,
+      "exp": 1902000,
+      "reward_id": 30
+    },
+    {
+      "level": 330,
+      "exp": 1911900,
+      "reward_id": 30
+    },
+    {
+      "level": 331,
+      "exp": 1921700,
+      "reward_id": 30
+    },
+    {
+      "level": 332,
+      "exp": 1931600,
+      "reward_id": 30
+    },
+    {
+      "level": 333,
+      "exp": 1941500,
+      "reward_id": 30
+    },
+    {
+      "level": 334,
+      "exp": 1951500,
+      "reward_id": 30
+    },
+    {
+      "level": 335,
+      "exp": 1961400,
+      "reward_id": 30
+    },
+    {
+      "level": 336,
+      "exp": 1971400,
+      "reward_id": 30
+    },
+    {
+      "level": 337,
+      "exp": 1981300,
+      "reward_id": 30
+    },
+    {
+      "level": 338,
+      "exp": 1991300,
+      "reward_id": 30
+    },
+    {
+      "level": 339,
+      "exp": 2001400,
+      "reward_id": 30
+    },
+    {
+      "level": 340,
+      "exp": 2011400,
+      "reward_id": 30
+    },
+    {
+      "level": 341,
+      "exp": 2021500,
+      "reward_id": 30
+    },
+    {
+      "level": 342,
+      "exp": 2031600,
+      "reward_id": 30
+    },
+    {
+      "level": 343,
+      "exp": 2041700,
+      "reward_id": 30
+    },
+    {
+      "level": 344,
+      "exp": 2051800,
+      "reward_id": 30
+    },
+    {
+      "level": 345,
+      "exp": 2062000,
+      "reward_id": 30
+    },
+    {
+      "level": 346,
+      "exp": 2072100,
+      "reward_id": 30
+    },
+    {
+      "level": 347,
+      "exp": 2082300,
+      "reward_id": 30
+    },
+    {
+      "level": 348,
+      "exp": 2092500,
+      "reward_id": 30
+    },
+    {
+      "level": 349,
+      "exp": 2102800,
+      "reward_id": 30
+    },
+    {
+      "level": 350,
+      "exp": 2113000,
+      "reward_id": 30
+    },
+    {
+      "level": 351,
+      "exp": 2123300,
+      "reward_id": 30
+    },
+    {
+      "level": 352,
+      "exp": 2133600,
+      "reward_id": 30
+    },
+    {
+      "level": 353,
+      "exp": 2143900,
+      "reward_id": 30
+    },
+    {
+      "level": 354,
+      "exp": 2154200,
+      "reward_id": 30
+    },
+    {
+      "level": 355,
+      "exp": 2164600,
+      "reward_id": 30
+    },
+    {
+      "level": 356,
+      "exp": 2175000,
+      "reward_id": 30
+    },
+    {
+      "level": 357,
+      "exp": 2185400,
+      "reward_id": 30
+    },
+    {
+      "level": 358,
+      "exp": 2195800,
+      "reward_id": 30
+    },
+    {
+      "level": 359,
+      "exp": 2206200,
+      "reward_id": 30
+    },
+    {
+      "level": 360,
+      "exp": 2216700,
+      "reward_id": 30
+    },
+    {
+      "level": 361,
+      "exp": 2227200,
+      "reward_id": 30
+    },
+    {
+      "level": 362,
+      "exp": 2237700,
+      "reward_id": 30
+    },
+    {
+      "level": 363,
+      "exp": 2248200,
+      "reward_id": 30
+    },
+    {
+      "level": 364,
+      "exp": 2258700,
+      "reward_id": 30
+    },
+    {
+      "level": 365,
+      "exp": 2269300,
+      "reward_id": 30
+    },
+    {
+      "level": 366,
+      "exp": 2279900,
+      "reward_id": 30
+    },
+    {
+      "level": 367,
+      "exp": 2290500,
+      "reward_id": 30
+    },
+    {
+      "level": 368,
+      "exp": 2301100,
+      "reward_id": 30
+    },
+    {
+      "level": 369,
+      "exp": 2311700,
+      "reward_id": 30
+    },
+    {
+      "level": 370,
+      "exp": 2322400,
+      "reward_id": 30
+    },
+    {
+      "level": 371,
+      "exp": 2333100,
+      "reward_id": 30
+    },
+    {
+      "level": 372,
+      "exp": 2343800,
+      "reward_id": 30
+    },
+    {
+      "level": 373,
+      "exp": 2354500,
+      "reward_id": 30
+    },
+    {
+      "level": 374,
+      "exp": 2365200,
+      "reward_id": 30
+    },
+    {
+      "level": 375,
+      "exp": 2376000,
+      "reward_id": 30
+    },
+    {
+      "level": 376,
+      "exp": 2386800,
+      "reward_id": 30
+    },
+    {
+      "level": 377,
+      "exp": 2397600,
+      "reward_id": 30
+    },
+    {
+      "level": 378,
+      "exp": 2408400,
+      "reward_id": 30
+    },
+    {
+      "level": 379,
+      "exp": 2419200,
+      "reward_id": 30
+    },
+    {
+      "level": 380,
+      "exp": 2430100,
+      "reward_id": 30
+    },
+    {
+      "level": 381,
+      "exp": 2441000,
+      "reward_id": 30
+    },
+    {
+      "level": 382,
+      "exp": 2451900,
+      "reward_id": 30
+    },
+    {
+      "level": 383,
+      "exp": 2462800,
+      "reward_id": 30
+    },
+    {
+      "level": 384,
+      "exp": 2473700,
+      "reward_id": 30
+    },
+    {
+      "level": 385,
+      "exp": 2484700,
+      "reward_id": 30
+    },
+    {
+      "level": 386,
+      "exp": 2495700,
+      "reward_id": 30
+    },
+    {
+      "level": 387,
+      "exp": 2506700,
+      "reward_id": 30
+    },
+    {
+      "level": 388,
+      "exp": 2517700,
+      "reward_id": 30
+    },
+    {
+      "level": 389,
+      "exp": 2528700,
+      "reward_id": 30
+    },
+    {
+      "level": 390,
+      "exp": 2539800,
+      "reward_id": 30
+    },
+    {
+      "level": 391,
+      "exp": 2550900,
+      "reward_id": 30
+    },
+    {
+      "level": 392,
+      "exp": 2562000,
+      "reward_id": 30
+    },
+    {
+      "level": 393,
+      "exp": 2573100,
+      "reward_id": 30
+    },
+    {
+      "level": 394,
+      "exp": 2584300,
+      "reward_id": 30
+    },
+    {
+      "level": 395,
+      "exp": 2595400,
+      "reward_id": 30
+    },
+    {
+      "level": 396,
+      "exp": 2606600,
+      "reward_id": 30
+    },
+    {
+      "level": 397,
+      "exp": 2617800,
+      "reward_id": 30
+    },
+    {
+      "level": 398,
+      "exp": 2629000,
+      "reward_id": 30
+    },
+    {
+      "level": 399,
+      "exp": 2640300,
+      "reward_id": 30
+    },
+    {
+      "level": 400,
+      "exp": 2651500,
+      "reward_id": 30
+    },
+    {
+      "level": 401,
+      "exp": 2662800,
+      "reward_id": 30
+    },
+    {
+      "level": 402,
+      "exp": 2674100,
+      "reward_id": 30
+    },
+    {
+      "level": 403,
+      "exp": 2685400,
+      "reward_id": 30
+    },
+    {
+      "level": 404,
+      "exp": 2696700,
+      "reward_id": 30
+    },
+    {
+      "level": 405,
+      "exp": 2708100,
+      "reward_id": 30
+    },
+    {
+      "level": 406,
+      "exp": 2719500,
+      "reward_id": 30
+    },
+    {
+      "level": 407,
+      "exp": 2730900,
+      "reward_id": 30
+    },
+    {
+      "level": 408,
+      "exp": 2742300,
+      "reward_id": 30
+    },
+    {
+      "level": 409,
+      "exp": 2753700,
+      "reward_id": 30
+    },
+    {
+      "level": 410,
+      "exp": 2765200,
+      "reward_id": 30
+    },
+    {
+      "level": 411,
+      "exp": 2776700,
+      "reward_id": 30
+    },
+    {
+      "level": 412,
+      "exp": 2788200,
+      "reward_id": 30
+    },
+    {
+      "level": 413,
+      "exp": 2799700,
+      "reward_id": 30
+    },
+    {
+      "level": 414,
+      "exp": 2811200,
+      "reward_id": 30
+    },
+    {
+      "level": 415,
+      "exp": 2822800,
+      "reward_id": 30
+    },
+    {
+      "level": 416,
+      "exp": 2834300,
+      "reward_id": 30
+    },
+    {
+      "level": 417,
+      "exp": 2845900,
+      "reward_id": 30
+    },
+    {
+      "level": 418,
+      "exp": 2857500,
+      "reward_id": 30
+    },
+    {
+      "level": 419,
+      "exp": 2869200,
+      "reward_id": 30
+    },
+    {
+      "level": 420,
+      "exp": 2880800,
+      "reward_id": 30
+    },
+    {
+      "level": 421,
+      "exp": 2892500,
+      "reward_id": 30
+    },
+    {
+      "level": 422,
+      "exp": 2904200,
+      "reward_id": 30
+    },
+    {
+      "level": 423,
+      "exp": 2915900,
+      "reward_id": 30
+    },
+    {
+      "level": 424,
+      "exp": 2927600,
+      "reward_id": 30
+    },
+    {
+      "level": 425,
+      "exp": 2939400,
+      "reward_id": 30
+    },
+    {
+      "level": 426,
+      "exp": 2951100,
+      "reward_id": 30
+    },
+    {
+      "level": 427,
+      "exp": 2962900,
+      "reward_id": 30
+    },
+    {
+      "level": 428,
+      "exp": 2974700,
+      "reward_id": 30
+    },
+    {
+      "level": 429,
+      "exp": 2986600,
+      "reward_id": 30
+    },
+    {
+      "level": 430,
+      "exp": 2998400,
+      "reward_id": 30
+    },
+    {
+      "level": 431,
+      "exp": 3010300,
+      "reward_id": 30
+    },
+    {
+      "level": 432,
+      "exp": 3022100,
+      "reward_id": 30
+    },
+    {
+      "level": 433,
+      "exp": 3034000,
+      "reward_id": 30
+    },
+    {
+      "level": 434,
+      "exp": 3046000,
+      "reward_id": 30
+    },
+    {
+      "level": 435,
+      "exp": 3057900,
+      "reward_id": 30
+    },
+    {
+      "level": 436,
+      "exp": 3069900,
+      "reward_id": 30
+    },
+    {
+      "level": 437,
+      "exp": 3081800,
+      "reward_id": 30
+    },
+    {
+      "level": 438,
+      "exp": 3093800,
+      "reward_id": 30
+    },
+    {
+      "level": 439,
+      "exp": 3105900,
+      "reward_id": 30
+    },
+    {
+      "level": 440,
+      "exp": 3117900,
+      "reward_id": 30
+    },
+    {
+      "level": 441,
+      "exp": 3130000,
+      "reward_id": 30
+    },
+    {
+      "level": 442,
+      "exp": 3142000,
+      "reward_id": 30
+    },
+    {
+      "level": 443,
+      "exp": 3154100,
+      "reward_id": 30
+    },
+    {
+      "level": 444,
+      "exp": 3166200,
+      "reward_id": 30
+    },
+    {
+      "level": 445,
+      "exp": 3178400,
+      "reward_id": 30
+    },
+    {
+      "level": 446,
+      "exp": 3190500,
+      "reward_id": 30
+    },
+    {
+      "level": 447,
+      "exp": 3202700,
+      "reward_id": 30
+    },
+    {
+      "level": 448,
+      "exp": 3214900,
+      "reward_id": 30
+    },
+    {
+      "level": 449,
+      "exp": 3227100,
+      "reward_id": 30
+    },
+    {
+      "level": 450,
+      "exp": 3239300,
+      "reward_id": 30
+    },
+    {
+      "level": 451,
+      "exp": 3251600,
+      "reward_id": 30
+    },
+    {
+      "level": 452,
+      "exp": 3263800,
+      "reward_id": 30
+    },
+    {
+      "level": 453,
+      "exp": 3276100,
+      "reward_id": 30
+    },
+    {
+      "level": 454,
+      "exp": 3288400,
+      "reward_id": 30
+    },
+    {
+      "level": 455,
+      "exp": 3300800,
+      "reward_id": 30
+    },
+    {
+      "level": 456,
+      "exp": 3313100,
+      "reward_id": 30
+    },
+    {
+      "level": 457,
+      "exp": 3325500,
+      "reward_id": 30
+    },
+    {
+      "level": 458,
+      "exp": 3337800,
+      "reward_id": 30
+    },
+    {
+      "level": 459,
+      "exp": 3350200,
+      "reward_id": 30
+    },
+    {
+      "level": 460,
+      "exp": 3362700,
+      "reward_id": 30
+    },
+    {
+      "level": 461,
+      "exp": 3375100,
+      "reward_id": 30
+    },
+    {
+      "level": 462,
+      "exp": 3387500,
+      "reward_id": 30
+    },
+    {
+      "level": 463,
+      "exp": 3400000,
+      "reward_id": 30
+    },
+    {
+      "level": 464,
+      "exp": 3412500,
+      "reward_id": 30
+    },
+    {
+      "level": 465,
+      "exp": 3425000,
+      "reward_id": 30
+    },
+    {
+      "level": 466,
+      "exp": 3437600,
+      "reward_id": 30
+    },
+    {
+      "level": 467,
+      "exp": 3450100,
+      "reward_id": 30
+    },
+    {
+      "level": 468,
+      "exp": 3462700,
+      "reward_id": 30
+    },
+    {
+      "level": 469,
+      "exp": 3475300,
+      "reward_id": 30
+    },
+    {
+      "level": 470,
+      "exp": 3487900,
+      "reward_id": 30
+    },
+    {
+      "level": 471,
+      "exp": 3500500,
+      "reward_id": 30
+    },
+    {
+      "level": 472,
+      "exp": 3513100,
+      "reward_id": 30
+    },
+    {
+      "level": 473,
+      "exp": 3525800,
+      "reward_id": 30
+    },
+    {
+      "level": 474,
+      "exp": 3538500,
+      "reward_id": 30
+    },
+    {
+      "level": 475,
+      "exp": 3551200,
+      "reward_id": 30
+    },
+    {
+      "level": 476,
+      "exp": 3563900,
+      "reward_id": 30
+    },
+    {
+      "level": 477,
+      "exp": 3576600,
+      "reward_id": 30
+    },
+    {
+      "level": 478,
+      "exp": 3589400,
+      "reward_id": 30
+    },
+    {
+      "level": 479,
+      "exp": 3602200,
+      "reward_id": 30
+    },
+    {
+      "level": 480,
+      "exp": 3615000,
+      "reward_id": 30
+    },
+    {
+      "level": 481,
+      "exp": 3627800,
+      "reward_id": 30
+    },
+    {
+      "level": 482,
+      "exp": 3640600,
+      "reward_id": 30
+    },
+    {
+      "level": 483,
+      "exp": 3653500,
+      "reward_id": 30
+    },
+    {
+      "level": 484,
+      "exp": 3666300,
+      "reward_id": 30
+    },
+    {
+      "level": 485,
+      "exp": 3679200,
+      "reward_id": 30
+    },
+    {
+      "level": 486,
+      "exp": 3692100,
+      "reward_id": 30
+    },
+    {
+      "level": 487,
+      "exp": 3705000,
+      "reward_id": 30
+    },
+    {
+      "level": 488,
+      "exp": 3718000,
+      "reward_id": 30
+    },
+    {
+      "level": 489,
+      "exp": 3730900,
+      "reward_id": 30
+    },
+    {
+      "level": 490,
+      "exp": 3743900,
+      "reward_id": 30
+    },
+    {
+      "level": 491,
+      "exp": 3756900,
+      "reward_id": 30
+    },
+    {
+      "level": 492,
+      "exp": 3769900,
+      "reward_id": 30
+    },
+    {
+      "level": 493,
+      "exp": 3783000,
+      "reward_id": 30
+    },
+    {
+      "level": 494,
+      "exp": 3796000,
+      "reward_id": 30
+    },
+    {
+      "level": 495,
+      "exp": 3809100,
+      "reward_id": 30
+    },
+    {
+      "level": 496,
+      "exp": 3822200,
+      "reward_id": 30
+    },
+    {
+      "level": 497,
+      "exp": 3835300,
+      "reward_id": 30
+    },
+    {
+      "level": 498,
+      "exp": 3848400,
+      "reward_id": 30
+    },
+    {
+      "level": 499,
+      "exp": 3861600,
+      "reward_id": 30
+    },
+    {
+      "level": 500,
+      "exp": 3874700,
+      "reward_id": 30
+    },
+    {
+      "level": 501,
+      "exp": 3887900,
+      "reward_id": 30
+    },
+    {
+      "level": 502,
+      "exp": 3901100,
+      "reward_id": 30
+    },
+    {
+      "level": 503,
+      "exp": 3914400,
+      "reward_id": 30
+    },
+    {
+      "level": 504,
+      "exp": 3927600,
+      "reward_id": 30
+    },
+    {
+      "level": 505,
+      "exp": 3940800,
+      "reward_id": 30
+    },
+    {
+      "level": 506,
+      "exp": 3954100,
+      "reward_id": 30
+    },
+    {
+      "level": 507,
+      "exp": 3967400,
+      "reward_id": 30
+    },
+    {
+      "level": 508,
+      "exp": 3980700,
+      "reward_id": 30
+    },
+    {
+      "level": 509,
+      "exp": 3994100,
+      "reward_id": 30
+    },
+    {
+      "level": 510,
+      "exp": 4007400,
+      "reward_id": 30
+    },
+    {
+      "level": 511,
+      "exp": 4020800,
+      "reward_id": 30
+    },
+    {
+      "level": 512,
+      "exp": 4034200,
+      "reward_id": 30
+    },
+    {
+      "level": 513,
+      "exp": 4047600,
+      "reward_id": 30
+    },
+    {
+      "level": 514,
+      "exp": 4061000,
+      "reward_id": 30
+    },
+    {
+      "level": 515,
+      "exp": 4074400,
+      "reward_id": 30
+    },
+    {
+      "level": 516,
+      "exp": 4087900,
+      "reward_id": 30
+    },
+    {
+      "level": 517,
+      "exp": 4101400,
+      "reward_id": 30
+    },
+    {
+      "level": 518,
+      "exp": 4114900,
+      "reward_id": 30
+    },
+    {
+      "level": 519,
+      "exp": 4128400,
+      "reward_id": 30
+    },
+    {
+      "level": 520,
+      "exp": 4141900,
+      "reward_id": 30
+    },
+    {
+      "level": 521,
+      "exp": 4155500,
+      "reward_id": 30
+    },
+    {
+      "level": 522,
+      "exp": 4169000,
+      "reward_id": 30
+    },
+    {
+      "level": 523,
+      "exp": 4182600,
+      "reward_id": 30
+    },
+    {
+      "level": 524,
+      "exp": 4196200,
+      "reward_id": 30
+    },
+    {
+      "level": 525,
+      "exp": 4209800,
+      "reward_id": 30
+    },
+    {
+      "level": 526,
+      "exp": 4223500,
+      "reward_id": 30
+    },
+    {
+      "level": 527,
+      "exp": 4237100,
+      "reward_id": 30
+    },
+    {
+      "level": 528,
+      "exp": 4250800,
+      "reward_id": 30
+    },
+    {
+      "level": 529,
+      "exp": 4264500,
+      "reward_id": 30
+    },
+    {
+      "level": 530,
+      "exp": 4278200,
+      "reward_id": 30
+    },
+    {
+      "level": 531,
+      "exp": 4292000,
+      "reward_id": 30
+    },
+    {
+      "level": 532,
+      "exp": 4305700,
+      "reward_id": 30
+    },
+    {
+      "level": 533,
+      "exp": 4319500,
+      "reward_id": 30
+    },
+    {
+      "level": 534,
+      "exp": 4333300,
+      "reward_id": 30
+    },
+    {
+      "level": 535,
+      "exp": 4347100,
+      "reward_id": 30
+    },
+    {
+      "level": 536,
+      "exp": 4360900,
+      "reward_id": 30
+    },
+    {
+      "level": 537,
+      "exp": 4374700,
+      "reward_id": 30
+    },
+    {
+      "level": 538,
+      "exp": 4388600,
+      "reward_id": 30
+    },
+    {
+      "level": 539,
+      "exp": 4402500,
+      "reward_id": 30
+    },
+    {
+      "level": 540,
+      "exp": 4416400,
+      "reward_id": 30
+    },
+    {
+      "level": 541,
+      "exp": 4430300,
+      "reward_id": 30
+    },
+    {
+      "level": 542,
+      "exp": 4444200,
+      "reward_id": 30
+    },
+    {
+      "level": 543,
+      "exp": 4458200,
+      "reward_id": 30
+    },
+    {
+      "level": 544,
+      "exp": 4472100,
+      "reward_id": 30
+    },
+    {
+      "level": 545,
+      "exp": 4486100,
+      "reward_id": 30
+    },
+    {
+      "level": 546,
+      "exp": 4500100,
+      "reward_id": 30
+    },
+    {
+      "level": 547,
+      "exp": 4514100,
+      "reward_id": 30
+    },
+    {
+      "level": 548,
+      "exp": 4528200,
+      "reward_id": 30
+    },
+    {
+      "level": 549,
+      "exp": 4542200,
+      "reward_id": 30
+    },
+    {
+      "level": 550,
+      "exp": 4556300,
+      "reward_id": 30
+    },
+    {
+      "level": 551,
+      "exp": 4570400,
+      "reward_id": 30
+    },
+    {
+      "level": 552,
+      "exp": 4584500,
+      "reward_id": 30
+    },
+    {
+      "level": 553,
+      "exp": 4598600,
+      "reward_id": 30
+    },
+    {
+      "level": 554,
+      "exp": 4612800,
+      "reward_id": 30
+    },
+    {
+      "level": 555,
+      "exp": 4626900,
+      "reward_id": 30
+    },
+    {
+      "level": 556,
+      "exp": 4641100,
+      "reward_id": 30
+    },
+    {
+      "level": 557,
+      "exp": 4655300,
+      "reward_id": 30
+    },
+    {
+      "level": 558,
+      "exp": 4669500,
+      "reward_id": 30
+    },
+    {
+      "level": 559,
+      "exp": 4683800,
+      "reward_id": 30
+    },
+    {
+      "level": 560,
+      "exp": 4698000,
+      "reward_id": 30
+    },
+    {
+      "level": 561,
+      "exp": 4712300,
+      "reward_id": 30
+    },
+    {
+      "level": 562,
+      "exp": 4726600,
+      "reward_id": 30
+    },
+    {
+      "level": 563,
+      "exp": 4740900,
+      "reward_id": 30
+    },
+    {
+      "level": 564,
+      "exp": 4755200,
+      "reward_id": 30
+    },
+    {
+      "level": 565,
+      "exp": 4769600,
+      "reward_id": 30
+    },
+    {
+      "level": 566,
+      "exp": 4783900,
+      "reward_id": 30
+    },
+    {
+      "level": 567,
+      "exp": 4798300,
+      "reward_id": 30
+    },
+    {
+      "level": 568,
+      "exp": 4812700,
+      "reward_id": 30
+    },
+    {
+      "level": 569,
+      "exp": 4827100,
+      "reward_id": 30
+    },
+    {
+      "level": 570,
+      "exp": 4841500,
+      "reward_id": 30
+    },
+    {
+      "level": 571,
+      "exp": 4856000,
+      "reward_id": 30
+    },
+    {
+      "level": 572,
+      "exp": 4870400,
+      "reward_id": 30
+    },
+    {
+      "level": 573,
+      "exp": 4884900,
+      "reward_id": 30
+    },
+    {
+      "level": 574,
+      "exp": 4899400,
+      "reward_id": 30
+    },
+    {
+      "level": 575,
+      "exp": 4914000,
+      "reward_id": 30
+    },
+    {
+      "level": 576,
+      "exp": 4928500,
+      "reward_id": 30
+    },
+    {
+      "level": 577,
+      "exp": 4943000,
+      "reward_id": 30
+    },
+    {
+      "level": 578,
+      "exp": 4957600,
+      "reward_id": 30
+    },
+    {
+      "level": 579,
+      "exp": 4972200,
+      "reward_id": 30
+    },
+    {
+      "level": 580,
+      "exp": 4986800,
+      "reward_id": 30
+    },
+    {
+      "level": 581,
+      "exp": 5001400,
+      "reward_id": 30
+    },
+    {
+      "level": 582,
+      "exp": 5016100,
+      "reward_id": 30
+    },
+    {
+      "level": 583,
+      "exp": 5030700,
+      "reward_id": 30
+    },
+    {
+      "level": 584,
+      "exp": 5045400,
+      "reward_id": 30
+    },
+    {
+      "level": 585,
+      "exp": 5060100,
+      "reward_id": 30
+    },
+    {
+      "level": 586,
+      "exp": 5074800,
+      "reward_id": 30
+    },
+    {
+      "level": 587,
+      "exp": 5089600,
+      "reward_id": 30
+    },
+    {
+      "level": 588,
+      "exp": 5104300,
+      "reward_id": 30
+    },
+    {
+      "level": 589,
+      "exp": 5119100,
+      "reward_id": 30
+    },
+    {
+      "level": 590,
+      "exp": 5133900,
+      "reward_id": 30
+    },
+    {
+      "level": 591,
+      "exp": 5148700,
+      "reward_id": 30
+    },
+    {
+      "level": 592,
+      "exp": 5163500,
+      "reward_id": 30
+    },
+    {
+      "level": 593,
+      "exp": 5178300,
+      "reward_id": 30
+    },
+    {
+      "level": 594,
+      "exp": 5193200,
+      "reward_id": 30
+    },
+    {
+      "level": 595,
+      "exp": 5208000,
+      "reward_id": 30
+    },
+    {
+      "level": 596,
+      "exp": 5222900,
+      "reward_id": 30
+    },
+    {
+      "level": 597,
+      "exp": 5237800,
+      "reward_id": 30
+    },
+    {
+      "level": 598,
+      "exp": 5252800,
+      "reward_id": 30
+    },
+    {
+      "level": 599,
+      "exp": 5267700,
+      "reward_id": 30
+    },
+    {
+      "level": 600,
+      "exp": 5282700,
+      "reward_id": 30
+    },
+    {
+      "level": 601,
+      "exp": 5297600,
+      "reward_id": 30
+    },
+    {
+      "level": 602,
+      "exp": 5312600,
+      "reward_id": 30
+    },
+    {
+      "level": 603,
+      "exp": 5327600,
+      "reward_id": 30
+    },
+    {
+      "level": 604,
+      "exp": 5342700,
+      "reward_id": 30
+    },
+    {
+      "level": 605,
+      "exp": 5357700,
+      "reward_id": 30
+    },
+    {
+      "level": 606,
+      "exp": 5372800,
+      "reward_id": 30
+    },
+    {
+      "level": 607,
+      "exp": 5387900,
+      "reward_id": 30
+    },
+    {
+      "level": 608,
+      "exp": 5403000,
+      "reward_id": 30
+    },
+    {
+      "level": 609,
+      "exp": 5418100,
+      "reward_id": 30
+    },
+    {
+      "level": 610,
+      "exp": 5433200,
+      "reward_id": 30
+    },
+    {
+      "level": 611,
+      "exp": 5448400,
+      "reward_id": 30
+    },
+    {
+      "level": 612,
+      "exp": 5463500,
+      "reward_id": 30
+    },
+    {
+      "level": 613,
+      "exp": 5478700,
+      "reward_id": 30
+    },
+    {
+      "level": 614,
+      "exp": 5493900,
+      "reward_id": 30
+    },
+    {
+      "level": 615,
+      "exp": 5509100,
+      "reward_id": 30
+    },
+    {
+      "level": 616,
+      "exp": 5524400,
+      "reward_id": 30
+    },
+    {
+      "level": 617,
+      "exp": 5539600,
+      "reward_id": 30
+    },
+    {
+      "level": 618,
+      "exp": 5554900,
+      "reward_id": 30
+    },
+    {
+      "level": 619,
+      "exp": 5570200,
+      "reward_id": 30
+    },
+    {
+      "level": 620,
+      "exp": 5585500,
+      "reward_id": 30
+    },
+    {
+      "level": 621,
+      "exp": 5600800,
+      "reward_id": 30
+    },
+    {
+      "level": 622,
+      "exp": 5616200,
+      "reward_id": 30
+    },
+    {
+      "level": 623,
+      "exp": 5631500,
+      "reward_id": 30
+    },
+    {
+      "level": 624,
+      "exp": 5646900,
+      "reward_id": 30
+    },
+    {
+      "level": 625,
+      "exp": 5662300,
+      "reward_id": 30
+    },
+    {
+      "level": 626,
+      "exp": 5677700,
+      "reward_id": 30
+    },
+    {
+      "level": 627,
+      "exp": 5693100,
+      "reward_id": 30
+    },
+    {
+      "level": 628,
+      "exp": 5708600,
+      "reward_id": 30
+    },
+    {
+      "level": 629,
+      "exp": 5724000,
+      "reward_id": 30
+    },
+    {
+      "level": 630,
+      "exp": 5739500,
+      "reward_id": 30
+    },
+    {
+      "level": 631,
+      "exp": 5755000,
+      "reward_id": 30
+    },
+    {
+      "level": 632,
+      "exp": 5770500,
+      "reward_id": 30
+    },
+    {
+      "level": 633,
+      "exp": 5786100,
+      "reward_id": 30
+    },
+    {
+      "level": 634,
+      "exp": 5801600,
+      "reward_id": 30
+    },
+    {
+      "level": 635,
+      "exp": 5817200,
+      "reward_id": 30
+    },
+    {
+      "level": 636,
+      "exp": 5832800,
+      "reward_id": 30
+    },
+    {
+      "level": 637,
+      "exp": 5848300,
+      "reward_id": 30
+    },
+    {
+      "level": 638,
+      "exp": 5864000,
+      "reward_id": 30
+    },
+    {
+      "level": 639,
+      "exp": 5879600,
+      "reward_id": 30
+    },
+    {
+      "level": 640,
+      "exp": 5895300,
+      "reward_id": 30
+    },
+    {
+      "level": 641,
+      "exp": 5910900,
+      "reward_id": 30
+    },
+    {
+      "level": 642,
+      "exp": 5926600,
+      "reward_id": 30
+    },
+    {
+      "level": 643,
+      "exp": 5942300,
+      "reward_id": 30
+    },
+    {
+      "level": 644,
+      "exp": 5958000,
+      "reward_id": 30
+    },
+    {
+      "level": 645,
+      "exp": 5973800,
+      "reward_id": 30
+    },
+    {
+      "level": 646,
+      "exp": 5989500,
+      "reward_id": 30
+    },
+    {
+      "level": 647,
+      "exp": 6005300,
+      "reward_id": 30
+    },
+    {
+      "level": 648,
+      "exp": 6021100,
+      "reward_id": 30
+    },
+    {
+      "level": 649,
+      "exp": 6036900,
+      "reward_id": 30
+    },
+    {
+      "level": 650,
+      "exp": 6052700,
+      "reward_id": 30
+    },
+    {
+      "level": 651,
+      "exp": 6068500,
+      "reward_id": 30
+    },
+    {
+      "level": 652,
+      "exp": 6084400,
+      "reward_id": 30
+    },
+    {
+      "level": 653,
+      "exp": 6100300,
+      "reward_id": 30
+    },
+    {
+      "level": 654,
+      "exp": 6116200,
+      "reward_id": 30
+    },
+    {
+      "level": 655,
+      "exp": 6132100,
+      "reward_id": 30
+    },
+    {
+      "level": 656,
+      "exp": 6148000,
+      "reward_id": 30
+    },
+    {
+      "level": 657,
+      "exp": 6163900,
+      "reward_id": 30
+    },
+    {
+      "level": 658,
+      "exp": 6179900,
+      "reward_id": 30
+    },
+    {
+      "level": 659,
+      "exp": 6195900,
+      "reward_id": 30
+    },
+    {
+      "level": 660,
+      "exp": 6211900,
+      "reward_id": 30
+    },
+    {
+      "level": 661,
+      "exp": 6227900,
+      "reward_id": 30
+    },
+    {
+      "level": 662,
+      "exp": 6243900,
+      "reward_id": 30
+    },
+    {
+      "level": 663,
+      "exp": 6259900,
+      "reward_id": 30
+    },
+    {
+      "level": 664,
+      "exp": 6276000,
+      "reward_id": 30
+    },
+    {
+      "level": 665,
+      "exp": 6292100,
+      "reward_id": 30
+    },
+    {
+      "level": 666,
+      "exp": 6308200,
+      "reward_id": 30
+    },
+    {
+      "level": 667,
+      "exp": 6324300,
+      "reward_id": 30
+    },
+    {
+      "level": 668,
+      "exp": 6340400,
+      "reward_id": 30
+    },
+    {
+      "level": 669,
+      "exp": 6356500,
+      "reward_id": 30
+    },
+    {
+      "level": 670,
+      "exp": 6372700,
+      "reward_id": 30
+    },
+    {
+      "level": 671,
+      "exp": 6388900,
+      "reward_id": 30
+    },
+    {
+      "level": 672,
+      "exp": 6405100,
+      "reward_id": 30
+    },
+    {
+      "level": 673,
+      "exp": 6421300,
+      "reward_id": 30
+    },
+    {
+      "level": 674,
+      "exp": 6437500,
+      "reward_id": 30
+    },
+    {
+      "level": 675,
+      "exp": 6453800,
+      "reward_id": 30
+    },
+    {
+      "level": 676,
+      "exp": 6470000,
+      "reward_id": 30
+    },
+    {
+      "level": 677,
+      "exp": 6486300,
+      "reward_id": 30
+    },
+    {
+      "level": 678,
+      "exp": 6502600,
+      "reward_id": 30
+    },
+    {
+      "level": 679,
+      "exp": 6518900,
+      "reward_id": 30
+    },
+    {
+      "level": 680,
+      "exp": 6535200,
+      "reward_id": 30
+    },
+    {
+      "level": 681,
+      "exp": 6551600,
+      "reward_id": 30
+    },
+    {
+      "level": 682,
+      "exp": 6568000,
+      "reward_id": 30
+    },
+    {
+      "level": 683,
+      "exp": 6584300,
+      "reward_id": 30
+    },
+    {
+      "level": 684,
+      "exp": 6600700,
+      "reward_id": 30
+    },
+    {
+      "level": 685,
+      "exp": 6617100,
+      "reward_id": 30
+    },
+    {
+      "level": 686,
+      "exp": 6633600,
+      "reward_id": 30
+    },
+    {
+      "level": 687,
+      "exp": 6650000,
+      "reward_id": 30
+    },
+    {
+      "level": 688,
+      "exp": 6666500,
+      "reward_id": 30
+    },
+    {
+      "level": 689,
+      "exp": 6683000,
+      "reward_id": 30
+    },
+    {
+      "level": 690,
+      "exp": 6699500,
+      "reward_id": 30
+    },
+    {
+      "level": 691,
+      "exp": 6716000,
+      "reward_id": 30
+    },
+    {
+      "level": 692,
+      "exp": 6732500,
+      "reward_id": 30
+    },
+    {
+      "level": 693,
+      "exp": 6749100,
+      "reward_id": 30
+    },
+    {
+      "level": 694,
+      "exp": 6765600,
+      "reward_id": 30
+    },
+    {
+      "level": 695,
+      "exp": 6782200,
+      "reward_id": 30
+    },
+    {
+      "level": 696,
+      "exp": 6798800,
+      "reward_id": 30
+    },
+    {
+      "level": 697,
+      "exp": 6815400,
+      "reward_id": 30
+    },
+    {
+      "level": 698,
+      "exp": 6832100,
+      "reward_id": 30
+    },
+    {
+      "level": 699,
+      "exp": 6848700,
+      "reward_id": 30
+    },
+    {
+      "level": 700,
+      "exp": 6865400,
+      "reward_id": 30
+    },
+    {
+      "level": 701,
+      "exp": 6882000,
+      "reward_id": 30
+    },
+    {
+      "level": 702,
+      "exp": 6898700,
+      "reward_id": 30
+    },
+    {
+      "level": 703,
+      "exp": 6915500,
+      "reward_id": 30
+    },
+    {
+      "level": 704,
+      "exp": 6932200,
+      "reward_id": 30
+    },
+    {
+      "level": 705,
+      "exp": 6948900,
+      "reward_id": 30
+    },
+    {
+      "level": 706,
+      "exp": 6965700,
+      "reward_id": 30
+    },
+    {
+      "level": 707,
+      "exp": 6982500,
+      "reward_id": 30
+    },
+    {
+      "level": 708,
+      "exp": 6999300,
+      "reward_id": 30
+    },
+    {
+      "level": 709,
+      "exp": 7016100,
+      "reward_id": 30
+    },
+    {
+      "level": 710,
+      "exp": 7032900,
+      "reward_id": 30
+    },
+    {
+      "level": 711,
+      "exp": 7049800,
+      "reward_id": 30
+    },
+    {
+      "level": 712,
+      "exp": 7066600,
+      "reward_id": 30
+    },
+    {
+      "level": 713,
+      "exp": 7083500,
+      "reward_id": 30
+    },
+    {
+      "level": 714,
+      "exp": 7100400,
+      "reward_id": 30
+    },
+    {
+      "level": 715,
+      "exp": 7117300,
+      "reward_id": 30
+    },
+    {
+      "level": 716,
+      "exp": 7134300,
+      "reward_id": 30
+    },
+    {
+      "level": 717,
+      "exp": 7151200,
+      "reward_id": 30
+    },
+    {
+      "level": 718,
+      "exp": 7168200,
+      "reward_id": 30
+    },
+    {
+      "level": 719,
+      "exp": 7185200,
+      "reward_id": 30
+    },
+    {
+      "level": 720,
+      "exp": 7202200,
+      "reward_id": 30
+    },
+    {
+      "level": 721,
+      "exp": 7219200,
+      "reward_id": 30
+    },
+    {
+      "level": 722,
+      "exp": 7236200,
+      "reward_id": 30
+    },
+    {
+      "level": 723,
+      "exp": 7253200,
+      "reward_id": 30
+    },
+    {
+      "level": 724,
+      "exp": 7270300,
+      "reward_id": 30
+    },
+    {
+      "level": 725,
+      "exp": 7287400,
+      "reward_id": 30
+    },
+    {
+      "level": 726,
+      "exp": 7304500,
+      "reward_id": 30
+    },
+    {
+      "level": 727,
+      "exp": 7321600,
+      "reward_id": 30
+    },
+    {
+      "level": 728,
+      "exp": 7338700,
+      "reward_id": 30
+    },
+    {
+      "level": 729,
+      "exp": 7355900,
+      "reward_id": 30
+    },
+    {
+      "level": 730,
+      "exp": 7373000,
+      "reward_id": 30
+    },
+    {
+      "level": 731,
+      "exp": 7390200,
+      "reward_id": 30
+    },
+    {
+      "level": 732,
+      "exp": 7407400,
+      "reward_id": 30
+    },
+    {
+      "level": 733,
+      "exp": 7424600,
+      "reward_id": 30
+    },
+    {
+      "level": 734,
+      "exp": 7441800,
+      "reward_id": 30
+    },
+    {
+      "level": 735,
+      "exp": 7459100,
+      "reward_id": 30
+    },
+    {
+      "level": 736,
+      "exp": 7476300,
+      "reward_id": 30
+    },
+    {
+      "level": 737,
+      "exp": 7493600,
+      "reward_id": 30
+    },
+    {
+      "level": 738,
+      "exp": 7510900,
+      "reward_id": 30
+    },
+    {
+      "level": 739,
+      "exp": 7528200,
+      "reward_id": 30
+    },
+    {
+      "level": 740,
+      "exp": 7545600,
+      "reward_id": 30
+    },
+    {
+      "level": 741,
+      "exp": 7562900,
+      "reward_id": 30
+    },
+    {
+      "level": 742,
+      "exp": 7580300,
+      "reward_id": 30
+    },
+    {
+      "level": 743,
+      "exp": 7597600,
+      "reward_id": 30
+    },
+    {
+      "level": 744,
+      "exp": 7615000,
+      "reward_id": 30
+    },
+    {
+      "level": 745,
+      "exp": 7632400,
+      "reward_id": 30
+    },
+    {
+      "level": 746,
+      "exp": 7649900,
+      "reward_id": 30
+    },
+    {
+      "level": 747,
+      "exp": 7667300,
+      "reward_id": 30
+    },
+    {
+      "level": 748,
+      "exp": 7684800,
+      "reward_id": 30
+    },
+    {
+      "level": 749,
+      "exp": 7702200,
+      "reward_id": 30
+    },
+    {
+      "level": 750,
+      "exp": 7719700,
+      "reward_id": 30
+    },
+    {
+      "level": 751,
+      "exp": 7737200,
+      "reward_id": 30
+    },
+    {
+      "level": 752,
+      "exp": 7754700,
+      "reward_id": 30
+    },
+    {
+      "level": 753,
+      "exp": 7772300,
+      "reward_id": 30
+    },
+    {
+      "level": 754,
+      "exp": 7789800,
+      "reward_id": 30
+    },
+    {
+      "level": 755,
+      "exp": 7807400,
+      "reward_id": 30
+    },
+    {
+      "level": 756,
+      "exp": 7825000,
+      "reward_id": 30
+    },
+    {
+      "level": 757,
+      "exp": 7842600,
+      "reward_id": 30
+    },
+    {
+      "level": 758,
+      "exp": 7860200,
+      "reward_id": 30
+    },
+    {
+      "level": 759,
+      "exp": 7877900,
+      "reward_id": 30
+    },
+    {
+      "level": 760,
+      "exp": 7895500,
+      "reward_id": 30
+    },
+    {
+      "level": 761,
+      "exp": 7913200,
+      "reward_id": 30
+    },
+    {
+      "level": 762,
+      "exp": 7930900,
+      "reward_id": 30
+    },
+    {
+      "level": 763,
+      "exp": 7948600,
+      "reward_id": 30
+    },
+    {
+      "level": 764,
+      "exp": 7966300,
+      "reward_id": 30
+    },
+    {
+      "level": 765,
+      "exp": 7984000,
+      "reward_id": 30
+    },
+    {
+      "level": 766,
+      "exp": 8001800,
+      "reward_id": 30
+    },
+    {
+      "level": 767,
+      "exp": 8019500,
+      "reward_id": 30
+    },
+    {
+      "level": 768,
+      "exp": 8037300,
+      "reward_id": 30
+    },
+    {
+      "level": 769,
+      "exp": 8055100,
+      "reward_id": 30
+    },
+    {
+      "level": 770,
+      "exp": 8072900,
+      "reward_id": 30
+    },
+    {
+      "level": 771,
+      "exp": 8090800,
+      "reward_id": 30
+    },
+    {
+      "level": 772,
+      "exp": 8108600,
+      "reward_id": 30
+    },
+    {
+      "level": 773,
+      "exp": 8126500,
+      "reward_id": 30
+    },
+    {
+      "level": 774,
+      "exp": 8144400,
+      "reward_id": 30
+    },
+    {
+      "level": 775,
+      "exp": 8162300,
+      "reward_id": 30
+    },
+    {
+      "level": 776,
+      "exp": 8180200,
+      "reward_id": 30
+    },
+    {
+      "level": 777,
+      "exp": 8198100,
+      "reward_id": 30
+    },
+    {
+      "level": 778,
+      "exp": 8216000,
+      "reward_id": 30
+    },
+    {
+      "level": 779,
+      "exp": 8234000,
+      "reward_id": 30
+    },
+    {
+      "level": 780,
+      "exp": 8252000,
+      "reward_id": 30
+    },
+    {
+      "level": 781,
+      "exp": 8270000,
+      "reward_id": 30
+    },
+    {
+      "level": 782,
+      "exp": 8288000,
+      "reward_id": 30
+    },
+    {
+      "level": 783,
+      "exp": 8306000,
+      "reward_id": 30
+    },
+    {
+      "level": 784,
+      "exp": 8324100,
+      "reward_id": 30
+    },
+    {
+      "level": 785,
+      "exp": 8342100,
+      "reward_id": 30
+    },
+    {
+      "level": 786,
+      "exp": 8360200,
+      "reward_id": 30
+    },
+    {
+      "level": 787,
+      "exp": 8378300,
+      "reward_id": 30
+    },
+    {
+      "level": 788,
+      "exp": 8396400,
+      "reward_id": 30
+    },
+    {
+      "level": 789,
+      "exp": 8414500,
+      "reward_id": 30
+    },
+    {
+      "level": 790,
+      "exp": 8432600,
+      "reward_id": 30
+    },
+    {
+      "level": 791,
+      "exp": 8450800,
+      "reward_id": 30
+    },
+    {
+      "level": 792,
+      "exp": 8469000,
+      "reward_id": 30
+    },
+    {
+      "level": 793,
+      "exp": 8487100,
+      "reward_id": 30
+    },
+    {
+      "level": 794,
+      "exp": 8505400,
+      "reward_id": 30
+    },
+    {
+      "level": 795,
+      "exp": 8523600,
+      "reward_id": 30
+    },
+    {
+      "level": 796,
+      "exp": 8541800,
+      "reward_id": 30
+    },
+    {
+      "level": 797,
+      "exp": 8560100,
+      "reward_id": 30
+    },
+    {
+      "level": 798,
+      "exp": 8578300,
+      "reward_id": 30
+    },
+    {
+      "level": 799,
+      "exp": 8596600,
+      "reward_id": 30
+    },
+    {
+      "level": 800,
+      "exp": 8614900,
+      "reward_id": 30
+    },
+    {
+      "level": 801,
+      "exp": 8633200,
+      "reward_id": 30
+    },
+    {
+      "level": 802,
+      "exp": 8651500,
+      "reward_id": 30
+    },
+    {
+      "level": 803,
+      "exp": 8669900,
+      "reward_id": 30
+    },
+    {
+      "level": 804,
+      "exp": 8688300,
+      "reward_id": 30
+    },
+    {
+      "level": 805,
+      "exp": 8706600,
+      "reward_id": 30
+    },
+    {
+      "level": 806,
+      "exp": 8725000,
+      "reward_id": 30
+    },
+    {
+      "level": 807,
+      "exp": 8743400,
+      "reward_id": 30
+    },
+    {
+      "level": 808,
+      "exp": 8761900,
+      "reward_id": 30
+    },
+    {
+      "level": 809,
+      "exp": 8780300,
+      "reward_id": 30
+    },
+    {
+      "level": 810,
+      "exp": 8798800,
+      "reward_id": 30
+    },
+    {
+      "level": 811,
+      "exp": 8817200,
+      "reward_id": 30
+    },
+    {
+      "level": 812,
+      "exp": 8835700,
+      "reward_id": 30
+    },
+    {
+      "level": 813,
+      "exp": 8854200,
+      "reward_id": 30
+    },
+    {
+      "level": 814,
+      "exp": 8872800,
+      "reward_id": 30
+    },
+    {
+      "level": 815,
+      "exp": 8891300,
+      "reward_id": 30
+    },
+    {
+      "level": 816,
+      "exp": 8909900,
+      "reward_id": 30
+    },
+    {
+      "level": 817,
+      "exp": 8928400,
+      "reward_id": 30
+    },
+    {
+      "level": 818,
+      "exp": 8947000,
+      "reward_id": 30
+    },
+    {
+      "level": 819,
+      "exp": 8965600,
+      "reward_id": 30
+    },
+    {
+      "level": 820,
+      "exp": 8984200,
+      "reward_id": 30
+    },
+    {
+      "level": 821,
+      "exp": 9002900,
+      "reward_id": 30
+    },
+    {
+      "level": 822,
+      "exp": 9021500,
+      "reward_id": 30
+    },
+    {
+      "level": 823,
+      "exp": 9040200,
+      "reward_id": 30
+    },
+    {
+      "level": 824,
+      "exp": 9058900,
+      "reward_id": 30
+    },
+    {
+      "level": 825,
+      "exp": 9077600,
+      "reward_id": 30
+    },
+    {
+      "level": 826,
+      "exp": 9096300,
+      "reward_id": 30
+    },
+    {
+      "level": 827,
+      "exp": 9115000,
+      "reward_id": 30
+    },
+    {
+      "level": 828,
+      "exp": 9133800,
+      "reward_id": 30
+    },
+    {
+      "level": 829,
+      "exp": 9152500,
+      "reward_id": 30
+    },
+    {
+      "level": 830,
+      "exp": 9171300,
+      "reward_id": 30
+    },
+    {
+      "level": 831,
+      "exp": 9190100,
+      "reward_id": 30
+    },
+    {
+      "level": 832,
+      "exp": 9208900,
+      "reward_id": 30
+    },
+    {
+      "level": 833,
+      "exp": 9227700,
+      "reward_id": 30
+    },
+    {
+      "level": 834,
+      "exp": 9246600,
+      "reward_id": 30
+    },
+    {
+      "level": 835,
+      "exp": 9265400,
+      "reward_id": 30
+    },
+    {
+      "level": 836,
+      "exp": 9284300,
+      "reward_id": 30
+    },
+    {
+      "level": 837,
+      "exp": 9303200,
+      "reward_id": 30
+    },
+    {
+      "level": 838,
+      "exp": 9322100,
+      "reward_id": 30
+    },
+    {
+      "level": 839,
+      "exp": 9341000,
+      "reward_id": 30
+    },
+    {
+      "level": 840,
+      "exp": 9359900,
+      "reward_id": 30
+    },
+    {
+      "level": 841,
+      "exp": 9378900,
+      "reward_id": 30
+    },
+    {
+      "level": 842,
+      "exp": 9397800,
+      "reward_id": 30
+    },
+    {
+      "level": 843,
+      "exp": 9416800,
+      "reward_id": 30
+    },
+    {
+      "level": 844,
+      "exp": 9435800,
+      "reward_id": 30
+    },
+    {
+      "level": 845,
+      "exp": 9454800,
+      "reward_id": 30
+    },
+    {
+      "level": 846,
+      "exp": 9473900,
+      "reward_id": 30
+    },
+    {
+      "level": 847,
+      "exp": 9492900,
+      "reward_id": 30
+    },
+    {
+      "level": 848,
+      "exp": 9512000,
+      "reward_id": 30
+    },
+    {
+      "level": 849,
+      "exp": 9531100,
+      "reward_id": 30
+    },
+    {
+      "level": 850,
+      "exp": 9550100,
+      "reward_id": 30
+    },
+    {
+      "level": 851,
+      "exp": 9569300,
+      "reward_id": 30
+    },
+    {
+      "level": 852,
+      "exp": 9588400,
+      "reward_id": 30
+    },
+    {
+      "level": 853,
+      "exp": 9607500,
+      "reward_id": 30
+    },
+    {
+      "level": 854,
+      "exp": 9626700,
+      "reward_id": 30
+    },
+    {
+      "level": 855,
+      "exp": 9645800,
+      "reward_id": 30
+    },
+    {
+      "level": 856,
+      "exp": 9665000,
+      "reward_id": 30
+    },
+    {
+      "level": 857,
+      "exp": 9684200,
+      "reward_id": 30
+    },
+    {
+      "level": 858,
+      "exp": 9703400,
+      "reward_id": 30
+    },
+    {
+      "level": 859,
+      "exp": 9722700,
+      "reward_id": 30
+    },
+    {
+      "level": 860,
+      "exp": 9741900,
+      "reward_id": 30
+    },
+    {
+      "level": 861,
+      "exp": 9761200,
+      "reward_id": 30
+    },
+    {
+      "level": 862,
+      "exp": 9780500,
+      "reward_id": 30
+    },
+    {
+      "level": 863,
+      "exp": 9799800,
+      "reward_id": 30
+    },
+    {
+      "level": 864,
+      "exp": 9819100,
+      "reward_id": 30
+    },
+    {
+      "level": 865,
+      "exp": 9838400,
+      "reward_id": 30
+    },
+    {
+      "level": 866,
+      "exp": 9857800,
+      "reward_id": 30
+    },
+    {
+      "level": 867,
+      "exp": 9877100,
+      "reward_id": 30
+    },
+    {
+      "level": 868,
+      "exp": 9896500,
+      "reward_id": 30
+    },
+    {
+      "level": 869,
+      "exp": 9915900,
+      "reward_id": 30
+    },
+    {
+      "level": 870,
+      "exp": 9935300,
+      "reward_id": 30
+    },
+    {
+      "level": 871,
+      "exp": 9954700,
+      "reward_id": 30
+    },
+    {
+      "level": 872,
+      "exp": 9974100,
+      "reward_id": 30
+    },
+    {
+      "level": 873,
+      "exp": 9993600,
+      "reward_id": 30
+    },
+    {
+      "level": 874,
+      "exp": 10013100,
+      "reward_id": 30
+    },
+    {
+      "level": 875,
+      "exp": 10032600,
+      "reward_id": 30
+    },
+    {
+      "level": 876,
+      "exp": 10052100,
+      "reward_id": 30
+    },
+    {
+      "level": 877,
+      "exp": 10071600,
+      "reward_id": 30
+    },
+    {
+      "level": 878,
+      "exp": 10091100,
+      "reward_id": 30
+    },
+    {
+      "level": 879,
+      "exp": 10110600,
+      "reward_id": 30
+    },
+    {
+      "level": 880,
+      "exp": 10130200,
+      "reward_id": 30
+    },
+    {
+      "level": 881,
+      "exp": 10149800,
+      "reward_id": 30
+    },
+    {
+      "level": 882,
+      "exp": 10169400,
+      "reward_id": 30
+    },
+    {
+      "level": 883,
+      "exp": 10189000,
+      "reward_id": 30
+    },
+    {
+      "level": 884,
+      "exp": 10208600,
+      "reward_id": 30
+    },
+    {
+      "level": 885,
+      "exp": 10228300,
+      "reward_id": 30
+    },
+    {
+      "level": 886,
+      "exp": 10247900,
+      "reward_id": 30
+    },
+    {
+      "level": 887,
+      "exp": 10267600,
+      "reward_id": 30
+    },
+    {
+      "level": 888,
+      "exp": 10287300,
+      "reward_id": 30
+    },
+    {
+      "level": 889,
+      "exp": 10307000,
+      "reward_id": 30
+    },
+    {
+      "level": 890,
+      "exp": 10326700,
+      "reward_id": 30
+    },
+    {
+      "level": 891,
+      "exp": 10346400,
+      "reward_id": 30
+    },
+    {
+      "level": 892,
+      "exp": 10366200,
+      "reward_id": 30
+    },
+    {
+      "level": 893,
+      "exp": 10385900,
+      "reward_id": 30
+    },
+    {
+      "level": 894,
+      "exp": 10405700,
+      "reward_id": 30
+    },
+    {
+      "level": 895,
+      "exp": 10425500,
+      "reward_id": 30
+    },
+    {
+      "level": 896,
+      "exp": 10445300,
+      "reward_id": 30
+    },
+    {
+      "level": 897,
+      "exp": 10465100,
+      "reward_id": 30
+    },
+    {
+      "level": 898,
+      "exp": 10485000,
+      "reward_id": 30
+    },
+    {
+      "level": 899,
+      "exp": 10504800,
+      "reward_id": 30
+    },
+    {
+      "level": 900,
+      "exp": 10524700,
+      "reward_id": 30
+    },
+    {
+      "level": 901,
+      "exp": 10544600,
+      "reward_id": 30
+    },
+    {
+      "level": 902,
+      "exp": 10564500,
+      "reward_id": 30
+    },
+    {
+      "level": 903,
+      "exp": 10584400,
+      "reward_id": 30
+    },
+    {
+      "level": 904,
+      "exp": 10604400,
+      "reward_id": 30
+    },
+    {
+      "level": 905,
+      "exp": 10624300,
+      "reward_id": 30
+    },
+    {
+      "level": 906,
+      "exp": 10644300,
+      "reward_id": 30
+    },
+    {
+      "level": 907,
+      "exp": 10664300,
+      "reward_id": 30
+    },
+    {
+      "level": 908,
+      "exp": 10684200,
+      "reward_id": 30
+    },
+    {
+      "level": 909,
+      "exp": 10704300,
+      "reward_id": 30
+    },
+    {
+      "level": 910,
+      "exp": 10724300,
+      "reward_id": 30
+    },
+    {
+      "level": 911,
+      "exp": 10744300,
+      "reward_id": 30
+    },
+    {
+      "level": 912,
+      "exp": 10764400,
+      "reward_id": 30
+    },
+    {
+      "level": 913,
+      "exp": 10784500,
+      "reward_id": 30
+    },
+    {
+      "level": 914,
+      "exp": 10804500,
+      "reward_id": 30
+    },
+    {
+      "level": 915,
+      "exp": 10824600,
+      "reward_id": 30
+    },
+    {
+      "level": 916,
+      "exp": 10844800,
+      "reward_id": 30
+    },
+    {
+      "level": 917,
+      "exp": 10864900,
+      "reward_id": 30
+    },
+    {
+      "level": 918,
+      "exp": 10885100,
+      "reward_id": 30
+    },
+    {
+      "level": 919,
+      "exp": 10905200,
+      "reward_id": 30
+    },
+    {
+      "level": 920,
+      "exp": 10925400,
+      "reward_id": 30
+    },
+    {
+      "level": 921,
+      "exp": 10945600,
+      "reward_id": 30
+    },
+    {
+      "level": 922,
+      "exp": 10965800,
+      "reward_id": 30
+    },
+    {
+      "level": 923,
+      "exp": 10986000,
+      "reward_id": 30
+    },
+    {
+      "level": 924,
+      "exp": 11006300,
+      "reward_id": 30
+    },
+    {
+      "level": 925,
+      "exp": 11026500,
+      "reward_id": 30
+    },
+    {
+      "level": 926,
+      "exp": 11046800,
+      "reward_id": 30
+    },
+    {
+      "level": 927,
+      "exp": 11067100,
+      "reward_id": 30
+    },
+    {
+      "level": 928,
+      "exp": 11087400,
+      "reward_id": 30
+    },
+    {
+      "level": 929,
+      "exp": 11107700,
+      "reward_id": 30
+    },
+    {
+      "level": 930,
+      "exp": 11128000,
+      "reward_id": 30
+    },
+    {
+      "level": 931,
+      "exp": 11148400,
+      "reward_id": 30
+    },
+    {
+      "level": 932,
+      "exp": 11168800,
+      "reward_id": 30
+    },
+    {
+      "level": 933,
+      "exp": 11189100,
+      "reward_id": 30
+    },
+    {
+      "level": 934,
+      "exp": 11209500,
+      "reward_id": 30
+    },
+    {
+      "level": 935,
+      "exp": 11229900,
+      "reward_id": 30
+    },
+    {
+      "level": 936,
+      "exp": 11250400,
+      "reward_id": 30
+    },
+    {
+      "level": 937,
+      "exp": 11270800,
+      "reward_id": 30
+    },
+    {
+      "level": 938,
+      "exp": 11291300,
+      "reward_id": 30
+    },
+    {
+      "level": 939,
+      "exp": 11311700,
+      "reward_id": 30
+    },
+    {
+      "level": 940,
+      "exp": 11332200,
+      "reward_id": 30
+    },
+    {
+      "level": 941,
+      "exp": 11352700,
+      "reward_id": 30
+    },
+    {
+      "level": 942,
+      "exp": 11373300,
+      "reward_id": 30
+    },
+    {
+      "level": 943,
+      "exp": 11393800,
+      "reward_id": 30
+    },
+    {
+      "level": 944,
+      "exp": 11414300,
+      "reward_id": 30
+    },
+    {
+      "level": 945,
+      "exp": 11434900,
+      "reward_id": 30
+    },
+    {
+      "level": 946,
+      "exp": 11455500,
+      "reward_id": 30
+    },
+    {
+      "level": 947,
+      "exp": 11476100,
+      "reward_id": 30
+    },
+    {
+      "level": 948,
+      "exp": 11496700,
+      "reward_id": 30
+    },
+    {
+      "level": 949,
+      "exp": 11517300,
+      "reward_id": 30
+    },
+    {
+      "level": 950,
+      "exp": 11537900,
+      "reward_id": 30
+    },
+    {
+      "level": 951,
+      "exp": 11558600,
+      "reward_id": 30
+    },
+    {
+      "level": 952,
+      "exp": 11579300,
+      "reward_id": 30
+    },
+    {
+      "level": 953,
+      "exp": 11599900,
+      "reward_id": 30
+    },
+    {
+      "level": 954,
+      "exp": 11620600,
+      "reward_id": 30
+    },
+    {
+      "level": 955,
+      "exp": 11641400,
+      "reward_id": 30
+    },
+    {
+      "level": 956,
+      "exp": 11662100,
+      "reward_id": 30
+    },
+    {
+      "level": 957,
+      "exp": 11682800,
+      "reward_id": 30
+    },
+    {
+      "level": 958,
+      "exp": 11703600,
+      "reward_id": 30
+    },
+    {
+      "level": 959,
+      "exp": 11724400,
+      "reward_id": 30
+    },
+    {
+      "level": 960,
+      "exp": 11745200,
+      "reward_id": 30
+    },
+    {
+      "level": 961,
+      "exp": 11766000,
+      "reward_id": 30
+    },
+    {
+      "level": 962,
+      "exp": 11786800,
+      "reward_id": 30
+    },
+    {
+      "level": 963,
+      "exp": 11807600,
+      "reward_id": 30
+    },
+    {
+      "level": 964,
+      "exp": 11828500,
+      "reward_id": 30
+    },
+    {
+      "level": 965,
+      "exp": 11849400,
+      "reward_id": 30
+    },
+    {
+      "level": 966,
+      "exp": 11870200,
+      "reward_id": 30
+    },
+    {
+      "level": 967,
+      "exp": 11891100,
+      "reward_id": 30
+    },
+    {
+      "level": 968,
+      "exp": 11912000,
+      "reward_id": 30
+    },
+    {
+      "level": 969,
+      "exp": 11933000,
+      "reward_id": 30
+    },
+    {
+      "level": 970,
+      "exp": 11953900,
+      "reward_id": 30
+    },
+    {
+      "level": 971,
+      "exp": 11974900,
+      "reward_id": 30
+    },
+    {
+      "level": 972,
+      "exp": 11995800,
+      "reward_id": 30
+    },
+    {
+      "level": 973,
+      "exp": 12016800,
+      "reward_id": 30
+    },
+    {
+      "level": 974,
+      "exp": 12037800,
+      "reward_id": 30
+    },
+    {
+      "level": 975,
+      "exp": 12058900,
+      "reward_id": 30
+    },
+    {
+      "level": 976,
+      "exp": 12079900,
+      "reward_id": 30
+    },
+    {
+      "level": 977,
+      "exp": 12100900,
+      "reward_id": 30
+    },
+    {
+      "level": 978,
+      "exp": 12122000,
+      "reward_id": 30
+    },
+    {
+      "level": 979,
+      "exp": 12143100,
+      "reward_id": 30
+    },
+    {
+      "level": 980,
+      "exp": 12164200,
+      "reward_id": 30
+    },
+    {
+      "level": 981,
+      "exp": 12185300,
+      "reward_id": 30
+    },
+    {
+      "level": 982,
+      "exp": 12206400,
+      "reward_id": 30
+    },
+    {
+      "level": 983,
+      "exp": 12227500,
+      "reward_id": 30
+    },
+    {
+      "level": 984,
+      "exp": 12248700,
+      "reward_id": 30
+    },
+    {
+      "level": 985,
+      "exp": 12269900,
+      "reward_id": 30
+    },
+    {
+      "level": 986,
+      "exp": 12291100,
+      "reward_id": 30
+    },
+    {
+      "level": 987,
+      "exp": 12312200,
+      "reward_id": 30
+    },
+    {
+      "level": 988,
+      "exp": 12333500,
+      "reward_id": 30
+    },
+    {
+      "level": 989,
+      "exp": 12354700,
+      "reward_id": 30
+    },
+    {
+      "level": 990,
+      "exp": 12375900,
+      "reward_id": 30
+    },
+    {
+      "level": 991,
+      "exp": 12397200,
+      "reward_id": 30
+    },
+    {
+      "level": 992,
+      "exp": 12418500,
+      "reward_id": 30
+    },
+    {
+      "level": 993,
+      "exp": 12439800,
+      "reward_id": 30
+    },
+    {
+      "level": 994,
+      "exp": 12461100,
+      "reward_id": 30
+    },
+    {
+      "level": 995,
+      "exp": 12482400,
+      "reward_id": 30
+    },
+    {
+      "level": 996,
+      "exp": 12503700,
+      "reward_id": 30
+    },
+    {
+      "level": 997,
+      "exp": 12525100,
+      "reward_id": 30
+    },
+    {
+      "level": 998,
+      "exp": 12546400,
+      "reward_id": 30
+    },
+    {
+      "level": 999,
+      "exp": 12567800,
+      "reward_id": 30
+    },
+    {
+      "level": 1000,
+      "exp": 0,
+      "reward_id": 30
+    }
+  ]
+}

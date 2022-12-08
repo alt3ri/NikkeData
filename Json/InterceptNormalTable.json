@@ -1,0 +1,51 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1,
+      "name": "INTERCEPT_NORMAL_LEVEL_1_STAGE_NAME",
+      "short_name": "INTERCEPT_NORMAL_LEVEL_1_SHORT_NAME",
+      "description": "INTERCEPT_NORMAL_LEVEL_1_STAGE_DESC",
+      "thumbnail": "mon_intercept_mbg001",
+      "monster_spine": "mbg001",
+      "monster_spine_scale": 100,
+      "order": 1,
+      "character_lv": 0,
+      "monster_stage_lv": 82,
+      "dynamic_object_stage_lv": 82,
+      "cover_stage_lv": 2,
+      "monster_stage_lv_change_group": 101,
+      "spot_id": 6301001,
+      "time_limit": 180,
+      "theme": "Desertmbg001",
+      "theme_time": "Day",
+      "auto_charge_id": 20001,
+      "ticket_count": 1,
+      "condition_reward_group": 102101,
+      "percent_condition_reward_group": 102111
+    },
+    {
+      "id": 2,
+      "name": "INTERCEPT_NORMAL_LEVEL_2_STAGE_NAME",
+      "short_name": "INTERCEPT_NORMAL_LEVEL_2_SHORT_NAME",
+      "description": "INTERCEPT_NORMAL_LEVEL_2_STAGE_DESC",
+      "thumbnail": "mon_intercept_mbg002",
+      "monster_spine": "mbg002",
+      "monster_spine_scale": 75,
+      "order": 2,
+      "character_lv": 0,
+      "monster_stage_lv": 172,
+      "dynamic_object_stage_lv": 172,
+      "cover_stage_lv": 1,
+      "monster_stage_lv_change_group": 102,
+      "spot_id": 6301002,
+      "time_limit": 180,
+      "theme": "gravedigger",
+      "theme_time": "Day",
+      "auto_charge_id": 20001,
+      "ticket_count": 1,
+      "condition_reward_group": 102102,
+      "percent_condition_reward_group": 102112
+    }
+  ]
+}

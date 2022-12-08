@@ -1,0 +1,62 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 10001,
+      "event_id": 80100,
+      "field_design_map": "febg_christmas_001",
+      "field_art_map_standard": "febg_christmas_001_01",
+      "field_hud": "hud_event_field_miraclesnow",
+      "private_banner_resource": "btn_event_enter_miraclesnow",
+      "field_first_entry_resource": "event_enter_miraclesnow",
+      "link_event_pass_id": 1000001,
+      "progress_event_group_id": 1001,
+      "is_use_dummy_nk": true,
+      "dummy_nk_limit": 5,
+      "dummy_nk_speed_minimum": 100,
+      "dummy_nk_speed_maximum": 250,
+      "player_squad_type": "UserSquad",
+      "player_squad_value": "5",
+      "sd_character_size": 100,
+      "event_mission_group": 3,
+      "event_field_currency_list": [
+        {
+          "event_field_currency_type": "Material",
+          "event_field_currency_id": 7060003
+        },
+        {
+          "event_field_currency_type": "AutoCharge",
+          "event_field_currency_id": 30001
+        }
+      ]
+    },
+    {
+      "id": 99999,
+      "event_id": 80100,
+      "field_design_map": "febg_christmas_001_Test",
+      "field_art_map_standard": "febg_christmas_001_01",
+      "field_hud": "hud_event_field_miraclesnow",
+      "private_banner_resource": "btn_event_enter_miraclesnow",
+      "field_first_entry_resource": "event_enter_miraclesnow",
+      "progress_event_group_id": 9999,
+      "is_use_dummy_nk": true,
+      "dummy_nk_limit": 5,
+      "dummy_nk_speed_minimum": 100,
+      "dummy_nk_speed_maximum": 250,
+      "player_squad_type": "UserSquad",
+      "player_squad_value": "5",
+      "sd_character_size": 100,
+      "event_mission_group": 1,
+      "event_field_currency_list": [
+        {
+          "event_field_currency_type": "Material",
+          "event_field_currency_id": 7060002
+        },
+        {
+          "event_field_currency_type": "Currency",
+          "event_field_currency_id": 2000
+        }
+      ]
+    }
+  ]
+}

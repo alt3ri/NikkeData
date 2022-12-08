@@ -1,0 +1,47 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 10001,
+      "item_type": "Item",
+      "item_id": 7070001,
+      "auto_charge_plus": 5,
+      "auto_charge_max": 5
+    },
+    {
+      "id": 10002,
+      "item_type": "Item",
+      "item_id": 7070002,
+      "auto_charge_plus": 5,
+      "auto_charge_max": 5
+    },
+    {
+      "id": 10003,
+      "item_type": "Item",
+      "item_id": 7070003,
+      "auto_charge_plus": 5,
+      "auto_charge_max": 5
+    },
+    {
+      "id": 10005,
+      "item_type": "Item",
+      "item_id": 7070004,
+      "auto_charge_plus": 5,
+      "auto_charge_max": 5
+    },
+    {
+      "id": 20001,
+      "item_type": "Currency",
+      "item_id": 6003,
+      "auto_charge_plus": 3,
+      "auto_charge_max": 3
+    },
+    {
+      "id": 30001,
+      "item_type": "Item",
+      "item_id": 7070005,
+      "auto_charge_plus": 3,
+      "auto_charge_max": 3
+    }
+  ]
+}

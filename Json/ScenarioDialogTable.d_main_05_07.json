@@ -1,0 +1,1642 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": "d_main_05_07_1",
+      "group_id": "d_main_05_07",
+      "speech_window": "Speech",
+      "highlight": "ludmilla",
+      "speaker": "ludmilla",
+      "scenario_localkey": "d_main_05_07_1",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "show_char_id": "alice",
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "ludmilla",
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "ArkRuinIndoor",
+      "set_start_camera": "31",
+      "set_end_camera": "31",
+      "set_camera_duration": 1.0,
+      "play_bgm": "bgm_story_inwonderland",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_05_07_2",
+      "group_id": "d_main_05_07",
+      "speech_window": "Speech",
+      "highlight": "ludmilla",
+      "speaker": "ludmilla",
+      "scenario_localkey": "d_main_05_07_2",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "31",
+      "set_end_camera": "31",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_05_07_3",
+      "group_id": "d_main_05_07",
+      "speech_window": "Speech",
+      "highlight": "ludmilla",
+      "speaker": "ludmilla",
+      "scenario_localkey": "d_main_05_07_3",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "31",
+      "set_end_camera": "31",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_05_07_4",
+      "group_id": "d_main_05_07",
+      "speech_window": "Speech",
+      "highlight": "alice",
+      "speaker": "alice",
+      "scenario_localkey": "d_main_05_07_4",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "31",
+      "set_end_camera": "S_30",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_05_07_5",
+      "group_id": "d_main_05_07",
+      "speech_window": "Speech",
+      "highlight": "ludmilla",
+      "speaker": "ludmilla",
+      "scenario_localkey": "d_main_05_07_5",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_30",
+      "set_end_camera": "31",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_05_07_6",
+      "group_id": "d_main_05_07",
+      "speech_window": "Narration",
+      "highlight": "ludmilla",
+      "speaker": "Narration",
+      "scenario_localkey": "d_main_05_07_6",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "hide_char_id": "alice",
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "31",
+      "set_end_camera": "31",
+      "set_camera_duration": 1.0,
+      "play_bgm": "none",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_05_07_7",
+      "group_id": "d_main_05_07",
+      "speech_window": "Speech",
+      "highlight": "ludmilla",
+      "speaker": "ludmilla",
+      "scenario_localkey": "d_main_05_07_7",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "31",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_05_07_8",
+      "group_id": "d_main_05_07",
+      "speech_window": "Self",
+      "highlight": "ludmilla",
+      "speaker": "Self",
+      "scenario_localkey": "d_main_05_07_8",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_05_07_9",
+      "group_id": "d_main_05_07",
+      "speech_window": "Speech",
+      "highlight": "ludmilla",
+      "speaker": "ludmilla",
+      "scenario_localkey": "d_main_05_07_9",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_05_07_10",
+      "group_id": "d_main_05_07",
+      "speech_window": "Speech",
+      "highlight": "ludmilla",
+      "speaker": "ludmilla",
+      "scenario_localkey": "d_main_05_07_10",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_05_07_11",
+      "group_id": "d_main_05_07",
+      "speech_window": "Speech",
+      "highlight": "ludmilla",
+      "speaker": "ludmilla",
+      "scenario_localkey": "d_main_05_07_11",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "play_bgm": "bgm_mystery",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_05_07_12",
+      "group_id": "d_main_05_07",
+      "speech_window": "Speech",
+      "highlight": "ludmilla",
+      "speaker": "ludmilla",
+      "scenario_localkey": "d_main_05_07_12",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_05_07_13",
+      "group_id": "d_main_05_07",
+      "speech_window": "Speech",
+      "highlight": "ludmilla",
+      "speaker": "ludmilla",
+      "scenario_localkey": "d_main_05_07_13",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_05_07_14",
+      "group_id": "d_main_05_07",
+      "speech_window": "Speech",
+      "highlight": "ludmilla",
+      "speaker": "ludmilla",
+      "scenario_localkey": "d_main_05_07_14",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_05_07_15",
+      "group_id": "d_main_05_07",
+      "speech_window": "Speech",
+      "highlight": "ludmilla",
+      "speaker": "ludmilla",
+      "scenario_localkey": "d_main_05_07_15",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_05_07_16",
+      "group_id": "d_main_05_07",
+      "speech_window": "Speech",
+      "highlight": "ludmilla",
+      "speaker": "ludmilla",
+      "scenario_localkey": "d_main_05_07_16",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_05_07_17",
+      "group_id": "d_main_05_07",
+      "speech_window": "Speech",
+      "highlight": "ludmilla",
+      "speaker": "ludmilla",
+      "scenario_localkey": "d_main_05_07_17",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_05_07_18",
+      "group_id": "d_main_05_07",
+      "speech_window": "Speech",
+      "highlight": "ludmilla",
+      "speaker": "ludmilla",
+      "scenario_localkey": "d_main_05_07_18",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_05_07_19",
+      "group_id": "d_main_05_07",
+      "speech_window": "Speech",
+      "highlight": "ludmilla",
+      "speaker": "ludmilla",
+      "scenario_localkey": "d_main_05_07_19",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_05_07_20",
+      "group_id": "d_main_05_07",
+      "speech_window": "Speech",
+      "highlight": "ludmilla",
+      "speaker": "ludmilla",
+      "scenario_localkey": "d_main_05_07_20",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_05_07_21",
+      "group_id": "d_main_05_07",
+      "speech_window": "Self",
+      "highlight": "ludmilla",
+      "speaker": "Self",
+      "scenario_localkey": "d_main_05_07_21",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_05_07_22",
+      "group_id": "d_main_05_07",
+      "speech_window": "Speech",
+      "highlight": "ludmilla",
+      "speaker": "ludmilla",
+      "scenario_localkey": "d_main_05_07_22",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_05_07_23",
+      "group_id": "d_main_05_07",
+      "speech_window": "Speech",
+      "highlight": "ludmilla",
+      "speaker": "ludmilla",
+      "scenario_localkey": "d_main_05_07_23",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_05_07_24",
+      "group_id": "d_main_05_07",
+      "speech_window": "Self",
+      "highlight": "ludmilla",
+      "speaker": "Self",
+      "scenario_localkey": "d_main_05_07_24",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_05_07_25",
+      "group_id": "d_main_05_07",
+      "speech_window": "Speech",
+      "highlight": "ludmilla",
+      "speaker": "ludmilla",
+      "scenario_localkey": "d_main_05_07_25",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_05_07_26",
+      "group_id": "d_main_05_07",
+      "speech_window": "Self",
+      "highlight": "ludmilla",
+      "speaker": "Self",
+      "scenario_localkey": "d_main_05_07_26",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_05_07_27",
+      "group_id": "d_main_05_07",
+      "speech_window": "Speech",
+      "highlight": "ludmilla",
+      "speaker": "ludmilla",
+      "scenario_localkey": "d_main_05_07_27",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {
+          "set_char_position": "1",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "100",
+      "set_camera_duration": 3.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_05_07_28",
+      "group_id": "d_main_05_07",
+      "speech_window": "Speech",
+      "highlight": "ludmilla",
+      "speaker": "ludmilla",
+      "scenario_localkey": "d_main_05_07_28",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {
+          "set_char_position": "1",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_05_07_29",
+      "group_id": "d_main_05_07",
+      "speech_window": "Self",
+      "highlight": "ludmilla",
+      "speaker": "Self",
+      "scenario_localkey": "d_main_05_07_29",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {
+          "set_char_position": "1",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_05_07_30",
+      "group_id": "d_main_05_07",
+      "speech_window": "Speech",
+      "highlight": "ludmilla",
+      "speaker": "ludmilla",
+      "scenario_localkey": "d_main_05_07_30",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {
+          "set_char_position": "1",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_05_07_31",
+      "group_id": "d_main_05_07",
+      "speech_window": "Speech",
+      "highlight": "ludmilla",
+      "speaker": "ludmilla",
+      "scenario_localkey": "d_main_05_07_31",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {
+          "set_char_position": "1",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_05_07_32",
+      "group_id": "d_main_05_07",
+      "speech_window": "Self",
+      "highlight": "ludmilla",
+      "speaker": "Self",
+      "scenario_localkey": "d_main_05_07_32",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {
+          "set_char_position": "1",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_05_07_33",
+      "group_id": "d_main_05_07",
+      "speech_window": "Speech",
+      "highlight": "ludmilla",
+      "speaker": "ludmilla",
+      "scenario_localkey": "d_main_05_07_33",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {
+          "set_char_position": "1",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_05_07_34",
+      "group_id": "d_main_05_07",
+      "speech_window": "Speech",
+      "highlight": "ludmilla",
+      "speaker": "ludmilla",
+      "scenario_localkey": "d_main_05_07_34",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {
+          "set_char_position": "1",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "100",
+      "set_camera_duration": 3.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_05_07_35",
+      "group_id": "d_main_05_07",
+      "speech_window": "Speech",
+      "highlight": "ludmilla",
+      "speaker": "ludmilla",
+      "scenario_localkey": "d_main_05_07_35",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {
+          "set_char_position": "1",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_05_07_36",
+      "group_id": "d_main_05_07",
+      "speech_window": "Speech",
+      "highlight": "ludmilla",
+      "speaker": "ludmilla",
+      "scenario_localkey": "d_main_05_07_36",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {
+          "set_char_position": "1",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_05_07_37",
+      "group_id": "d_main_05_07",
+      "speech_window": "Self",
+      "highlight": "ludmilla",
+      "speaker": "Self",
+      "scenario_localkey": "d_main_05_07_37",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {
+          "set_char_position": "1",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_05_07_38",
+      "group_id": "d_main_05_07",
+      "speech_window": "Speech",
+      "highlight": "ludmilla",
+      "speaker": "ludmilla",
+      "scenario_localkey": "d_main_05_07_38",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_05_07_39",
+      "group_id": "d_main_05_07",
+      "speech_window": "Speech",
+      "highlight": "ludmilla",
+      "speaker": "ludmilla",
+      "scenario_localkey": "d_main_05_07_39",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_05_07_40",
+      "group_id": "d_main_05_07",
+      "speech_window": "Speech",
+      "highlight": "ludmilla",
+      "speaker": "ludmilla",
+      "scenario_localkey": "d_main_05_07_40",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_05_07_41",
+      "group_id": "d_main_05_07",
+      "speech_window": "Speech",
+      "highlight": "ludmilla",
+      "speaker": "ludmilla",
+      "scenario_localkey": "d_main_05_07_41",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_05_07_42",
+      "group_id": "d_main_05_07",
+      "speech_window": "Speech",
+      "highlight": "ludmilla",
+      "speaker": "ludmilla",
+      "scenario_localkey": "d_main_05_07_42",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_05_07_43",
+      "group_id": "d_main_05_07",
+      "speech_window": "Self",
+      "highlight": "ludmilla",
+      "speaker": "Self",
+      "scenario_localkey": "d_main_05_07_43",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_05_07_44",
+      "group_id": "d_main_05_07",
+      "speech_window": "Speech",
+      "highlight": "ludmilla",
+      "speaker": "ludmilla",
+      "scenario_localkey": "d_main_05_07_44",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_05_07_45",
+      "group_id": "d_main_05_07",
+      "speech_window": "Speech",
+      "highlight": "ludmilla",
+      "speaker": "ludmilla",
+      "scenario_localkey": "d_main_05_07_45",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_05_07_46",
+      "group_id": "d_main_05_07",
+      "speech_window": "Speech",
+      "highlight": "ludmilla",
+      "speaker": "ludmilla",
+      "scenario_localkey": "d_main_05_07_46",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "100",
+      "set_camera_duration": 3.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_05_07_47",
+      "group_id": "d_main_05_07",
+      "speech_window": "Self",
+      "highlight": "ludmilla",
+      "speaker": "Self",
+      "scenario_localkey": "d_main_05_07_47",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_05_07_48",
+      "group_id": "d_main_05_07",
+      "speech_window": "Speech",
+      "highlight": "ludmilla",
+      "speaker": "ludmilla",
+      "scenario_localkey": "d_main_05_07_48",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_05_07_49",
+      "group_id": "d_main_05_07",
+      "speech_window": "Speech",
+      "highlight": "ludmilla",
+      "speaker": "ludmilla",
+      "scenario_localkey": "d_main_05_07_49",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_05_07_50",
+      "group_id": "d_main_05_07",
+      "speech_window": "Speech",
+      "highlight": "ludmilla",
+      "speaker": "ludmilla",
+      "scenario_localkey": "d_main_05_07_50",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_05_07_51",
+      "group_id": "d_main_05_07",
+      "speech_window": "Speech",
+      "highlight": "alice",
+      "speaker": "alice",
+      "scenario_localkey": "d_main_05_07_51",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_05_07_52",
+      "group_id": "d_main_05_07",
+      "speech_window": "Speech",
+      "highlight": "ludmilla",
+      "speaker": "ludmilla",
+      "scenario_localkey": "d_main_05_07_52",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {
+          "set_char_position": "1",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    }
+  ]
+}

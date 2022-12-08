@@ -1,0 +1,3951 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 4,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 248,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 8,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 16,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 20,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 24,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 660,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 28,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 32,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 51,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 533,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 36,
+      "apk_build_type": "Global",
+      "age_check_type": "Checkbox",
+      "miner_age": 18,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 40,
+      "apk_build_type": "Global",
+      "age_check_type": "Checkbox",
+      "miner_age": 14,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {
+          "terms": 1
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 31,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 44,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 50,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 52,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 112,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 84,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 204,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 60,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 64,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 68,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 535,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 70,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 72,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 74,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 76,
+      "apk_build_type": "Global",
+      "age_check_type": "Checkbox",
+      "miner_age": 18,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 86,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 96,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 100,
+      "apk_build_type": "Global",
+      "age_check_type": "Checkbox",
+      "miner_age": 14,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {
+          "terms": 1
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 854,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 108,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 132,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 116,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 120,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 124,
+      "apk_build_type": "Global",
+      "age_check_type": "Checkbox",
+      "miner_age": 13,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 136,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 140,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 148,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 152,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 162,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 166,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 170,
+      "apk_build_type": "Global",
+      "age_check_type": "Combobox",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 174,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 178,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 180,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 184,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 188,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 384,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 191,
+      "apk_build_type": "Global",
+      "age_check_type": "Checkbox",
+      "miner_age": 16,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {
+          "terms": 1
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 531,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 203,
+      "apk_build_type": "Global",
+      "age_check_type": "Checkbox",
+      "miner_age": 15,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {
+          "terms": 1
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 208,
+      "apk_build_type": "Global",
+      "age_check_type": "Checkbox",
+      "miner_age": 13,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {
+          "terms": 1
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 262,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 212,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 214,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 218,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 222,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 226,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 232,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 233,
+      "apk_build_type": "Global",
+      "age_check_type": "Checkbox",
+      "miner_age": 13,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {
+          "terms": 1
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 748,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 231,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 238,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 234,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 242,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 246,
+      "apk_build_type": "Global",
+      "age_check_type": "Checkbox",
+      "miner_age": 13,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {
+          "terms": 1
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 250,
+      "apk_build_type": "Global",
+      "age_check_type": "Checkbox",
+      "miner_age": 15,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {
+          "terms": 1
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 254,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 258,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 260,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 266,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 270,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 268,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 276,
+      "apk_build_type": "Global",
+      "age_check_type": "Checkbox",
+      "miner_age": 16,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {
+          "terms": 1
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 288,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 292,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 300,
+      "apk_build_type": "Global",
+      "age_check_type": "Checkbox",
+      "miner_age": 15,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {
+          "terms": 1
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 304,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 308,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 312,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 316,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 320,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 831,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 324,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 624,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 328,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 332,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 334,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 336,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 340,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 348,
+      "apk_build_type": "Global",
+      "age_check_type": "Checkbox",
+      "miner_age": 16,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {
+          "terms": 1
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 352,
+      "apk_build_type": "Global",
+      "age_check_type": "Checkbox",
+      "miner_age": 13,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 360,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 372,
+      "apk_build_type": "Global",
+      "age_check_type": "Checkbox",
+      "miner_age": 16,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 833,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 380,
+      "apk_build_type": "Global",
+      "age_check_type": "Checkbox",
+      "miner_age": 14,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {
+          "terms": 1
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 388,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 392,
+      "apk_build_type": "Global",
+      "age_check_type": "Checkbox",
+      "miner_age": 18,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 832,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 398,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 404,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 296,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 410,
+      "apk_build_type": "Global",
+      "age_check_type": "Combobox",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 21
+        },
+        {
+          "terms": 51
+        },
+        {
+          "terms": 31
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 417,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 418,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 428,
+      "apk_build_type": "Global",
+      "age_check_type": "Checkbox",
+      "miner_age": 13,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {
+          "terms": 1
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 426,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 430,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 438,
+      "apk_build_type": "Global",
+      "age_check_type": "Checkbox",
+      "miner_age": 16,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {
+          "terms": 1
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 440,
+      "apk_build_type": "Global",
+      "age_check_type": "Checkbox",
+      "miner_age": 14,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {
+          "terms": 1
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 442,
+      "apk_build_type": "Global",
+      "age_check_type": "Checkbox",
+      "miner_age": 16,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {
+          "terms": 1
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 450,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 454,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 458,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 462,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 466,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 470,
+      "apk_build_type": "Global",
+      "age_check_type": "Checkbox",
+      "miner_age": 13,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {
+          "terms": 1
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 584,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 474,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 480,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 175,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 484,
+      "apk_build_type": "Global",
+      "age_check_type": "Checkbox",
+      "miner_age": 18,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 583,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 498,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 492,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 496,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 499,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 500,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 508,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 104,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 516,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 520,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 524,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 528,
+      "apk_build_type": "Global",
+      "age_check_type": "Checkbox",
+      "miner_age": 16,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {
+          "terms": 1
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 540,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 554,
+      "apk_build_type": "Global",
+      "age_check_type": "Checkbox",
+      "miner_age": 16,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 558,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 562,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 566,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 570,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 574,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 807,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 580,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 578,
+      "apk_build_type": "Global",
+      "age_check_type": "Checkbox",
+      "miner_age": 13,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {
+          "terms": 1
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 586,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 585,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 591,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 598,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 600,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 604,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 608,
+      "apk_build_type": "Global",
+      "age_check_type": "Checkbox",
+      "miner_age": 18,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 612,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 616,
+      "apk_build_type": "Global",
+      "age_check_type": "Checkbox",
+      "miner_age": 16,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {
+          "terms": 1
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 620,
+      "apk_build_type": "Global",
+      "age_check_type": "Checkbox",
+      "miner_age": 13,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {
+          "terms": 1
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 630,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 638,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 642,
+      "apk_build_type": "Global",
+      "age_check_type": "Checkbox",
+      "miner_age": 16,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {
+          "terms": 1
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 646,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 652,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 654,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 659,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 662,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 663,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 666,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 670,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 882,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 674,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 678,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 686,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 688,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 690,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 694,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 702,
+      "apk_build_type": "Global",
+      "age_check_type": "Checkbox",
+      "miner_age": 13,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 534,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 703,
+      "apk_build_type": "Global",
+      "age_check_type": "Checkbox",
+      "miner_age": 16,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {
+          "terms": 1
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 705,
+      "apk_build_type": "Global",
+      "age_check_type": "Checkbox",
+      "miner_age": 16,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {
+          "terms": 1
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 90,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 710,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 239,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 724,
+      "apk_build_type": "Global",
+      "age_check_type": "Checkbox",
+      "miner_age": 14,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {
+          "terms": 1
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 144,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 740,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 744,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 752,
+      "apk_build_type": "Global",
+      "age_check_type": "Checkbox",
+      "miner_age": 13,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {
+          "terms": 1
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 756,
+      "apk_build_type": "Global",
+      "age_check_type": "Checkbox",
+      "miner_age": 14,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {
+          "terms": 1
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 762,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 834,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 764,
+      "apk_build_type": "Global",
+      "age_check_type": "Checkbox",
+      "miner_age": 20,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 626,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 768,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 772,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 776,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 780,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 795,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 796,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 798,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 804,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 826,
+      "apk_build_type": "Global",
+      "age_check_type": "Combobox",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {
+          "terms": 1
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 840,
+      "apk_build_type": "Global",
+      "age_check_type": "Combobox",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 581,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 858,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 860,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 548,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 862,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 92,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 850,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 876,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 732,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 894,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 716,
+      "apk_build_type": "Global",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 158,
+      "apk_build_type": "DaeHongMa",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 344,
+      "apk_build_type": "DaeHongMa",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 446,
+      "apk_build_type": "DaeHongMa",
+      "age_check_type": "NotCheck",
+      "miner_age": 0,
+      "terms_group": [
+        {
+          "terms": 11
+        },
+        {
+          "terms": 21
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    }
+  ]
+}

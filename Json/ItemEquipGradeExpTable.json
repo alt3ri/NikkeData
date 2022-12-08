@@ -1,0 +1,65 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1,
+      "exp": 100,
+      "item_rare": "T1",
+      "grade_core_id": 1
+    },
+    {
+      "id": 2,
+      "exp": 150,
+      "item_rare": "T2",
+      "grade_core_id": 2
+    },
+    {
+      "id": 3,
+      "exp": 350,
+      "item_rare": "T3",
+      "grade_core_id": 3
+    },
+    {
+      "id": 4,
+      "exp": 800,
+      "item_rare": "T4",
+      "grade_core_id": 4
+    },
+    {
+      "id": 5,
+      "exp": 1600,
+      "item_rare": "T5",
+      "grade_core_id": 5
+    },
+    {
+      "id": 6,
+      "exp": 3200,
+      "item_rare": "T6",
+      "grade_core_id": 6
+    },
+    {
+      "id": 7,
+      "exp": 6400,
+      "item_rare": "T7",
+      "grade_core_id": 7
+    },
+    {
+      "id": 8,
+      "exp": 12800,
+      "item_rare": "T8",
+      "grade_core_id": 8
+    },
+    {
+      "id": 9,
+      "exp": 25400,
+      "item_rare": "T9",
+      "grade_core_id": 9
+    },
+    {
+      "id": 10,
+      "exp": 25400,
+      "item_rare": "T10",
+      "grade_core_id": 10
+    }
+  ]
+}

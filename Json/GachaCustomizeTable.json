@@ -1,0 +1,285 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1,
+      "gacha_type": "Character",
+      "gacha_id": 110201,
+      "is_char_premium": true,
+      "is_wish_list_default": false
+    },
+    {
+      "id": 2,
+      "gacha_type": "Character",
+      "gacha_id": 314001,
+      "is_char_premium": true,
+      "is_wish_list_default": false
+    },
+    {
+      "id": 3,
+      "gacha_type": "Character",
+      "gacha_id": 321001,
+      "is_char_premium": true,
+      "is_wish_list_default": false
+    },
+    {
+      "id": 4,
+      "gacha_type": "Character",
+      "gacha_id": 319101,
+      "is_char_premium": true,
+      "is_wish_list_default": false
+    },
+    {
+      "id": 5,
+      "gacha_type": "Character",
+      "gacha_id": 209001,
+      "is_char_premium": true,
+      "is_wish_list_default": false
+    },
+    {
+      "id": 6,
+      "gacha_type": "Character",
+      "gacha_id": 116001,
+      "is_char_premium": true,
+      "is_wish_list_default": false
+    },
+    {
+      "id": 7,
+      "gacha_type": "Character",
+      "gacha_id": 217001,
+      "is_char_premium": true,
+      "is_wish_list_default": false
+    },
+    {
+      "id": 8,
+      "gacha_type": "Character",
+      "gacha_id": 314201,
+      "is_char_premium": true,
+      "is_wish_list_default": false
+    },
+    {
+      "id": 9,
+      "gacha_type": "Character",
+      "gacha_id": 115001,
+      "is_char_premium": true,
+      "is_wish_list_default": false
+    },
+    {
+      "id": 10,
+      "gacha_type": "Character",
+      "gacha_id": 202201,
+      "is_char_premium": true,
+      "is_wish_list_default": false
+    },
+    {
+      "id": 11,
+      "gacha_type": "Character",
+      "gacha_id": 203001,
+      "is_char_premium": true,
+      "is_wish_list_default": false
+    },
+    {
+      "id": 12,
+      "gacha_type": "Character",
+      "gacha_id": 203201,
+      "is_char_premium": true,
+      "is_wish_list_default": false
+    },
+    {
+      "id": 13,
+      "gacha_type": "Character",
+      "gacha_id": 207001,
+      "is_char_premium": true,
+      "is_wish_list_default": false
+    },
+    {
+      "id": 14,
+      "gacha_type": "Character",
+      "gacha_id": 207101,
+      "is_char_premium": true,
+      "is_wish_list_default": false
+    },
+    {
+      "id": 15,
+      "gacha_type": "Character",
+      "gacha_id": 207201,
+      "is_char_premium": true,
+      "is_wish_list_default": false
+    },
+    {
+      "id": 16,
+      "gacha_type": "Character",
+      "gacha_id": 108001,
+      "is_char_premium": true,
+      "is_wish_list_default": false
+    },
+    {
+      "id": 17,
+      "gacha_type": "Character",
+      "gacha_id": 209201,
+      "is_char_premium": true,
+      "is_wish_list_default": false
+    },
+    {
+      "id": 18,
+      "gacha_type": "Character",
+      "gacha_id": 110101,
+      "is_char_premium": true,
+      "is_wish_list_default": false
+    },
+    {
+      "id": 19,
+      "gacha_type": "Character",
+      "gacha_id": 111001,
+      "is_char_premium": true,
+      "is_wish_list_default": false
+    },
+    {
+      "id": 20,
+      "gacha_type": "Character",
+      "gacha_id": 313001,
+      "is_char_premium": true,
+      "is_wish_list_default": false
+    },
+    {
+      "id": 21,
+      "gacha_type": "Character",
+      "gacha_id": 117201,
+      "is_char_premium": true,
+      "is_wish_list_default": false
+    },
+    {
+      "id": 22,
+      "gacha_type": "Character",
+      "gacha_id": 218001,
+      "is_char_premium": true,
+      "is_wish_list_default": false
+    },
+    {
+      "id": 23,
+      "gacha_type": "Character",
+      "gacha_id": 319001,
+      "is_char_premium": true,
+      "is_wish_list_default": false
+    },
+    {
+      "id": 24,
+      "gacha_type": "Character",
+      "gacha_id": 320101,
+      "is_char_premium": true,
+      "is_wish_list_default": false
+    },
+    {
+      "id": 25,
+      "gacha_type": "Character",
+      "gacha_id": 324101,
+      "is_char_premium": true,
+      "is_wish_list_default": false
+    },
+    {
+      "id": 26,
+      "gacha_type": "Character",
+      "gacha_id": 343201,
+      "is_char_premium": true,
+      "is_wish_list_default": false
+    },
+    {
+      "id": 27,
+      "gacha_type": "Character",
+      "gacha_id": 343101,
+      "is_char_premium": true,
+      "is_wish_list_default": false
+    },
+    {
+      "id": 28,
+      "gacha_type": "Character",
+      "gacha_id": 343001,
+      "is_char_premium": true,
+      "is_wish_list_default": false
+    },
+    {
+      "id": 29,
+      "gacha_type": "Character",
+      "gacha_id": 324201,
+      "is_char_premium": true,
+      "is_wish_list_default": false
+    },
+    {
+      "id": 30,
+      "gacha_type": "Character",
+      "gacha_id": 218101,
+      "is_char_premium": true,
+      "is_wish_list_default": false
+    },
+    {
+      "id": 31,
+      "gacha_type": "Character",
+      "gacha_id": 108201,
+      "is_char_premium": true,
+      "is_wish_list_default": false
+    },
+    {
+      "id": 32,
+      "gacha_type": "Character",
+      "gacha_id": 321201,
+      "is_char_premium": true,
+      "is_wish_list_default": false
+    },
+    {
+      "id": 33,
+      "gacha_type": "Character",
+      "gacha_id": 320201,
+      "is_char_premium": true,
+      "is_wish_list_default": false
+    },
+    {
+      "id": 34,
+      "gacha_type": "Character",
+      "gacha_id": 320001,
+      "is_char_premium": true,
+      "is_wish_list_default": false
+    },
+    {
+      "id": 35,
+      "gacha_type": "Character",
+      "gacha_id": 317101,
+      "is_char_premium": true,
+      "is_wish_list_default": false
+    },
+    {
+      "id": 36,
+      "gacha_type": "Character",
+      "gacha_id": 314101,
+      "is_char_premium": true,
+      "is_wish_list_default": false
+    },
+    {
+      "id": 37,
+      "gacha_type": "Character",
+      "gacha_id": 113101,
+      "is_char_premium": true,
+      "is_wish_list_default": false
+    },
+    {
+      "id": 38,
+      "gacha_type": "Character",
+      "gacha_id": 209101,
+      "is_char_premium": true,
+      "is_wish_list_default": false
+    },
+    {
+      "id": 39,
+      "gacha_type": "Character",
+      "gacha_id": 235201,
+      "is_char_premium": true,
+      "is_wish_list_default": false
+    },
+    {
+      "id": 40,
+      "gacha_type": "Character",
+      "gacha_id": 110001,
+      "is_char_premium": true,
+      "is_wish_list_default": false
+    }
+  ]
+}

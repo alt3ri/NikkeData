@@ -1,0 +1,41 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "code": "KRW",
+      "simbol_locale": "KRW_SIMBOL"
+    },
+    {
+      "code": "USD",
+      "simbol_locale": "USD_SIMBOL"
+    },
+    {
+      "code": "EUR",
+      "simbol_locale": "EUR_SIMBOL"
+    },
+    {
+      "code": "JPY",
+      "simbol_locale": "JPY_SIMBOL"
+    },
+    {
+      "code": "HKD",
+      "simbol_locale": "HKD_SIMBOL"
+    },
+    {
+      "code": "TWD",
+      "simbol_locale": "TWD_SIMBOL"
+    },
+    {
+      "code": "CNY",
+      "simbol_locale": "CNY_SIMBOL"
+    },
+    {
+      "code": "GBP",
+      "simbol_locale": "GBP_SIMBOL"
+    },
+    {
+      "code": "RUB",
+      "simbol_locale": "RUB_SIMBOL"
+    }
+  ]
+}

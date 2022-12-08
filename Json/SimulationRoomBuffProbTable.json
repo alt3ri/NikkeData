@@ -1,0 +1,77 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1,
+      "event_type": "NormalBattle",
+      "grade": "R",
+      "weight": 6000
+    },
+    {
+      "id": 2,
+      "event_type": "NormalBattle",
+      "grade": "SR",
+      "weight": 3500
+    },
+    {
+      "id": 3,
+      "event_type": "NormalBattle",
+      "grade": "SSR",
+      "weight": 500
+    },
+    {
+      "id": 4,
+      "event_type": "NormalBattle",
+      "grade": "EPIC",
+      "weight": 50
+    },
+    {
+      "id": 5,
+      "event_type": "EliteBattle",
+      "grade": "R",
+      "weight": 0
+    },
+    {
+      "id": 6,
+      "event_type": "EliteBattle",
+      "grade": "SR",
+      "weight": 7000
+    },
+    {
+      "id": 7,
+      "event_type": "EliteBattle",
+      "grade": "SSR",
+      "weight": 2500
+    },
+    {
+      "id": 8,
+      "event_type": "EliteBattle",
+      "grade": "EPIC",
+      "weight": 500
+    },
+    {
+      "id": 9,
+      "event_type": "BossBattle",
+      "grade": "R",
+      "weight": 0
+    },
+    {
+      "id": 10,
+      "event_type": "BossBattle",
+      "grade": "SR",
+      "weight": 0
+    },
+    {
+      "id": 11,
+      "event_type": "BossBattle",
+      "grade": "SSR",
+      "weight": 0
+    },
+    {
+      "id": 12,
+      "event_type": "BossBattle",
+      "grade": "EPIC",
+      "weight": 10000
+    }
+  ]
+}

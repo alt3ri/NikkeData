@@ -1,0 +1,229 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "min_rank": 1,
+      "max_rank": 1,
+      "daily_reward_id": 91001,
+      "season_reward_id": 92001,
+      "win_reward_value": 200
+    },
+    {
+      "min_rank": 2,
+      "max_rank": 3,
+      "daily_reward_id": 91002,
+      "season_reward_id": 92002,
+      "win_reward_value": 198
+    },
+    {
+      "min_rank": 4,
+      "max_rank": 6,
+      "daily_reward_id": 91003,
+      "season_reward_id": 92003,
+      "win_reward_value": 196
+    },
+    {
+      "min_rank": 7,
+      "max_rank": 9,
+      "daily_reward_id": 91004,
+      "season_reward_id": 92004,
+      "win_reward_value": 194
+    },
+    {
+      "min_rank": 10,
+      "max_rank": 12,
+      "daily_reward_id": 91005,
+      "season_reward_id": 92005,
+      "win_reward_value": 192
+    },
+    {
+      "min_rank": 13,
+      "max_rank": 15,
+      "daily_reward_id": 91006,
+      "season_reward_id": 92006,
+      "win_reward_value": 190
+    },
+    {
+      "min_rank": 16,
+      "max_rank": 18,
+      "daily_reward_id": 91007,
+      "season_reward_id": 92007,
+      "win_reward_value": 188
+    },
+    {
+      "min_rank": 19,
+      "max_rank": 22,
+      "daily_reward_id": 91008,
+      "season_reward_id": 92008,
+      "win_reward_value": 186
+    },
+    {
+      "min_rank": 23,
+      "max_rank": 25,
+      "daily_reward_id": 91009,
+      "season_reward_id": 92009,
+      "win_reward_value": 184
+    },
+    {
+      "min_rank": 26,
+      "max_rank": 29,
+      "daily_reward_id": 91010,
+      "season_reward_id": 92010,
+      "win_reward_value": 182
+    },
+    {
+      "min_rank": 30,
+      "max_rank": 33,
+      "daily_reward_id": 91011,
+      "season_reward_id": 92011,
+      "win_reward_value": 180
+    },
+    {
+      "min_rank": 34,
+      "max_rank": 37,
+      "daily_reward_id": 91012,
+      "season_reward_id": 92012,
+      "win_reward_value": 178
+    },
+    {
+      "min_rank": 38,
+      "max_rank": 40,
+      "daily_reward_id": 91013,
+      "season_reward_id": 92013,
+      "win_reward_value": 176
+    },
+    {
+      "min_rank": 41,
+      "max_rank": 50,
+      "daily_reward_id": 91014,
+      "season_reward_id": 92014,
+      "win_reward_value": 174
+    },
+    {
+      "min_rank": 51,
+      "max_rank": 60,
+      "daily_reward_id": 91015,
+      "season_reward_id": 92015,
+      "win_reward_value": 172
+    },
+    {
+      "min_rank": 61,
+      "max_rank": 70,
+      "daily_reward_id": 91016,
+      "season_reward_id": 92016,
+      "win_reward_value": 170
+    },
+    {
+      "min_rank": 71,
+      "max_rank": 80,
+      "daily_reward_id": 91017,
+      "season_reward_id": 92017,
+      "win_reward_value": 168
+    },
+    {
+      "min_rank": 81,
+      "max_rank": 100,
+      "daily_reward_id": 91018,
+      "season_reward_id": 92018,
+      "win_reward_value": 166
+    },
+    {
+      "min_rank": 101,
+      "max_rank": 120,
+      "daily_reward_id": 91019,
+      "season_reward_id": 92019,
+      "win_reward_value": 164
+    },
+    {
+      "min_rank": 121,
+      "max_rank": 140,
+      "daily_reward_id": 91020,
+      "season_reward_id": 92020,
+      "win_reward_value": 162
+    },
+    {
+      "min_rank": 141,
+      "max_rank": 160,
+      "daily_reward_id": 91021,
+      "season_reward_id": 92021,
+      "win_reward_value": 160
+    },
+    {
+      "min_rank": 161,
+      "max_rank": 180,
+      "daily_reward_id": 91022,
+      "season_reward_id": 92022,
+      "win_reward_value": 158
+    },
+    {
+      "min_rank": 181,
+      "max_rank": 200,
+      "daily_reward_id": 91023,
+      "season_reward_id": 92023,
+      "win_reward_value": 156
+    },
+    {
+      "min_rank": 201,
+      "max_rank": 250,
+      "daily_reward_id": 91024,
+      "season_reward_id": 92024,
+      "win_reward_value": 154
+    },
+    {
+      "min_rank": 251,
+      "max_rank": 300,
+      "daily_reward_id": 91025,
+      "season_reward_id": 92025,
+      "win_reward_value": 152
+    },
+    {
+      "min_rank": 301,
+      "max_rank": 350,
+      "daily_reward_id": 91026,
+      "season_reward_id": 92026,
+      "win_reward_value": 150
+    },
+    {
+      "min_rank": 351,
+      "max_rank": 400,
+      "daily_reward_id": 91027,
+      "season_reward_id": 92027,
+      "win_reward_value": 148
+    },
+    {
+      "min_rank": 401,
+      "max_rank": 600,
+      "daily_reward_id": 91028,
+      "season_reward_id": 92028,
+      "win_reward_value": 146
+    },
+    {
+      "min_rank": 601,
+      "max_rank": 800,
+      "daily_reward_id": 91029,
+      "season_reward_id": 92029,
+      "win_reward_value": 144
+    },
+    {
+      "min_rank": 801,
+      "max_rank": 900,
+      "daily_reward_id": 91030,
+      "season_reward_id": 92030,
+      "win_reward_value": 142
+    },
+    {
+      "min_rank": 901,
+      "max_rank": 1000,
+      "daily_reward_id": 91031,
+      "season_reward_id": 92031,
+      "win_reward_value": 140
+    },
+    {
+      "min_rank": 1001,
+      "max_rank": 9999,
+      "daily_reward_id": 91032,
+      "season_reward_id": 92032,
+      "win_reward_value": 138
+    }
+  ]
+}

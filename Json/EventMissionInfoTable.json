@@ -1,0 +1,21 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1,
+      "ui_prefab": "story_event_mission_nocallerid"
+    },
+    {
+      "id": 2,
+      "ui_prefab": "story_event_mission_hightechtoy"
+    },
+    {
+      "id": 3,
+      "ui_prefab": "story_event_mission_miraclesnow"
+    },
+    {
+      "id": 5,
+      "ui_prefab": "story_event_mission_brandnewyear"
+    }
+  ]
+}

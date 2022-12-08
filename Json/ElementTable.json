@@ -1,0 +1,55 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 100001,
+      "element": "Fire",
+      "group_id": 5000001,
+      "weak_element_id": 200001,
+      "element_name_localekey": "ELEMENT_NAME_FIRE",
+      "element_code_name_localekey": "ELEMENT_CODE_NAME_FIRE",
+      "element_desc_localekey": "ELEMENT_DESC_FIRE",
+      "element_icon": "icn_element_fire"
+    },
+    {
+      "id": 200001,
+      "element": "Water",
+      "group_id": 5000002,
+      "weak_element_id": 400001,
+      "element_name_localekey": "ELEMENT_NAME_WARTER",
+      "element_code_name_localekey": "ELEMENT_CODE_NAME_WARTER",
+      "element_desc_localekey": "ELEMENT_DESC_WARTER",
+      "element_icon": "icn_element_water"
+    },
+    {
+      "id": 300001,
+      "element": "Wind",
+      "group_id": 5000003,
+      "weak_element_id": 100001,
+      "element_name_localekey": "ELEMENT_NAME_WIND",
+      "element_code_name_localekey": "ELEMENT_CODE_NAME_WIND",
+      "element_desc_localekey": "ELEMENT_DESC_WIND",
+      "element_icon": "icn_element_wind"
+    },
+    {
+      "id": 400001,
+      "element": "Electronic",
+      "group_id": 5000004,
+      "weak_element_id": 500001,
+      "element_name_localekey": "ELEMENT_NAME_ELECTRONIC",
+      "element_code_name_localekey": "ELEMENT_CODE_NAME_ELECTRONIC",
+      "element_desc_localekey": "ELEMENT_DESC_ELECTRONIC",
+      "element_icon": "icn_element_elect"
+    },
+    {
+      "id": 500001,
+      "element": "Iron",
+      "group_id": 5000005,
+      "weak_element_id": 300001,
+      "element_name_localekey": "ELEMENT_NAME_IRON",
+      "element_code_name_localekey": "ELEMENT_CODE_NAME_IRON",
+      "element_desc_localekey": "ELEMENT_DESC_IRON",
+      "element_icon": "icn_element_iron"
+    }
+  ]
+}

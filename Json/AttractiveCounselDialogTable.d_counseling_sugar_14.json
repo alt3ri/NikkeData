@@ -1,0 +1,280 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": "d_counseling_sugar_14_1",
+      "group_id": "d_counseling_sugar_14",
+      "speech_window": "Speech",
+      "attractive_point": 0,
+      "highlight": "sugar",
+      "speaker": "sugar",
+      "scenario_localkey": "d_counseling_sugar_14_1",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "show_char_id": "sugar",
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "CommanderRoom",
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_10",
+      "set_camera_duration": 1.0,
+      "play_bgm": "bgm_story_backtonormal",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_counseling_sugar_14_2",
+      "group_id": "d_counseling_sugar_14",
+      "speech_window": "Speech",
+      "attractive_point": 0,
+      "highlight": "sugar",
+      "speaker": "sugar",
+      "scenario_localkey": "d_counseling_sugar_14_2",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_counseling_sugar_14_3",
+      "group_id": "d_counseling_sugar_14",
+      "speech_window": "Choice",
+      "attractive_point": 100,
+      "highlight": "sugar",
+      "scenario_localkey": "d_counseling_sugar_14_3",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "d_counseling_sugar_14_5"
+    },
+    {
+      "id": "d_counseling_sugar_14_4",
+      "group_id": "d_counseling_sugar_14",
+      "speech_window": "Choice",
+      "attractive_point": 50,
+      "highlight": "sugar",
+      "scenario_localkey": "d_counseling_sugar_14_4",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "d_counseling_sugar_14_6"
+    },
+    {
+      "id": "d_counseling_sugar_14_5",
+      "group_id": "d_counseling_sugar_14",
+      "speech_window": "Speech",
+      "attractive_point": 0,
+      "highlight": "sugar",
+      "speaker": "sugar",
+      "scenario_localkey": "d_counseling_sugar_14_5",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "d_counseling_sugar_14_7"
+    },
+    {
+      "id": "d_counseling_sugar_14_6",
+      "group_id": "d_counseling_sugar_14",
+      "speech_window": "Speech",
+      "attractive_point": 0,
+      "highlight": "sugar",
+      "speaker": "sugar",
+      "scenario_localkey": "d_counseling_sugar_14_6",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_counseling_sugar_14_7",
+      "group_id": "d_counseling_sugar_14",
+      "speech_window": "Speech",
+      "attractive_point": 0,
+      "highlight": "sugar",
+      "speaker": "sugar",
+      "scenario_localkey": "d_counseling_sugar_14_7",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_100",
+      "set_end_camera": "S_100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_counseling_sugar_14_8",
+      "group_id": "d_counseling_sugar_14",
+      "speech_window": "Speech",
+      "attractive_point": 0,
+      "highlight": "sugar",
+      "speaker": "sugar",
+      "scenario_localkey": "d_counseling_sugar_14_8",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_100",
+      "set_end_camera": "S_100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_counseling_sugar_14_9",
+      "group_id": "d_counseling_sugar_14",
+      "speech_window": "Speech",
+      "attractive_point": 0,
+      "highlight": "sugar",
+      "speaker": "sugar",
+      "scenario_localkey": "d_counseling_sugar_14_9",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_100",
+      "set_end_camera": "S_100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_counseling_sugar_14_10",
+      "group_id": "d_counseling_sugar_14",
+      "speech_window": "Narration",
+      "attractive_point": 0,
+      "highlight": "sugar",
+      "scenario_localkey": "d_counseling_sugar_14_10",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "hide_char_id": "sugar",
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "none",
+      "set_start_camera": "S_100",
+      "set_end_camera": "S_100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    }
+  ]
+}

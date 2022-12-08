@@ -1,0 +1,3976 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": "d_nikke_emma_04_1",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Monologue",
+      "scenario_localkey": "d_nikke_emma_04_1",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "HotSpring",
+      "set_start_camera": "5",
+      "set_end_camera": "1",
+      "set_camera_duration": 2.0,
+      "play_bgm": "bgm_story_orangepop",
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_02": "Blur_Low"
+    },
+    {
+      "id": "d_nikke_emma_04_2",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Choice",
+      "scenario_localkey": "d_nikke_emma_04_2",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_camera_shake": "Low_2",
+      "jump_target": "d_nikke_emma_04_4"
+    },
+    {
+      "id": "d_nikke_emma_04_3",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Choice",
+      "scenario_localkey": "d_nikke_emma_04_3",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "d_nikke_emma_04_8"
+    },
+    {
+      "id": "d_nikke_emma_04_4",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_4",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "show_char_id": "emma",
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_5",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_5",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_6",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_6",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "10",
+      "set_camera_duration": 2.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_7",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_7",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "d_nikke_emma_04_12"
+    },
+    {
+      "id": "d_nikke_emma_04_8",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_8",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "show_char_id": "emma",
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_9",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_9",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "10",
+      "set_camera_duration": 2.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_10",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Self",
+      "highlight": "emma",
+      "scenario_localkey": "d_nikke_emma_04_10",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_11",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_11",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "special"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_12",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_12",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "special"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "40",
+      "set_camera_duration": 2.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_13",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_13",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "special"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "40",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_14",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_14",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "special"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_15",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Self",
+      "highlight": "emma",
+      "scenario_localkey": "d_nikke_emma_04_15",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "special"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_16",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_16",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_17",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_17",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_18",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Self",
+      "highlight": "emma",
+      "scenario_localkey": "d_nikke_emma_04_18",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_19",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_19",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_20",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_20",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "special"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_21",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_21",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "1",
+      "set_camera_duration": 0.5,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_22",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_22",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_23",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_23",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "10",
+      "set_camera_duration": 2.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_24",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_24",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "worry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_25",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Choice",
+      "highlight": "emma",
+      "scenario_localkey": "d_nikke_emma_04_25",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "worry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "d_nikke_emma_04_27"
+    },
+    {
+      "id": "d_nikke_emma_04_26",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Choice",
+      "highlight": "emma",
+      "scenario_localkey": "d_nikke_emma_04_26",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "worry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "d_nikke_emma_04_35"
+    },
+    {
+      "id": "d_nikke_emma_04_27",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_27",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_28",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_28",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_29",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_29",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_30",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Self",
+      "highlight": "emma",
+      "scenario_localkey": "d_nikke_emma_04_30",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_31",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_31",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_32",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_32",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_33",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_33",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "100",
+      "set_camera_duration": 2.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "d_nikke_emma_04_36"
+    },
+    {
+      "id": "d_nikke_emma_04_34",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Narration",
+      "highlight": "emma",
+      "scenario_localkey": "d_nikke_emma_04_34",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "d_nikke_emma_04_36"
+    },
+    {
+      "id": "d_nikke_emma_04_35",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_35",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "100",
+      "set_camera_duration": 2.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_36",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_36",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "fade": "black"
+    },
+    {
+      "id": "d_nikke_emma_04_37",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_37",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_38",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_38",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.5,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_39",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_39",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "hide_char_id": "emma",
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "play_bgm": "none",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_40",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_40",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Blur_Low"
+    },
+    {
+      "id": "d_nikke_emma_04_41",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_41",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "100",
+      "set_camera_duration": 2.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Blur_Low"
+    },
+    {
+      "id": "d_nikke_emma_04_42",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_42",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.0,
+      "play_bgm": "bgm_story_whosdumber",
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Blur_Low"
+    },
+    {
+      "id": "d_nikke_emma_04_43",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_43",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Blur_Low"
+    },
+    {
+      "id": "d_nikke_emma_04_44",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_44",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "1",
+      "set_camera_duration": 0.5,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_camera_shake": "Low_2",
+      "set_filter_01": "Blur_Low"
+    },
+    {
+      "id": "d_nikke_emma_04_45",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Narration",
+      "highlight": "emma",
+      "scenario_localkey": "d_nikke_emma_04_45",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "play_sound": "sfx_scn_bottlebreak",
+      "effects": [
+        {},
+        {}
+      ],
+      "set_camera_shake": "Low_2",
+      "set_filter_01": "Blur_Low"
+    },
+    {
+      "id": "d_nikke_emma_04_46",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Self",
+      "highlight": "emma",
+      "scenario_localkey": "d_nikke_emma_04_46",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "show_char_id": "emma",
+          "set_char_position": "1",
+          "set_char_anim": "worry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "10",
+      "set_camera_duration": 0.5,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Blur_Low"
+    },
+    {
+      "id": "d_nikke_emma_04_47",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_47",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "worry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_48",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_48",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "shy"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "100",
+      "set_camera_duration": 2.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_49",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Self",
+      "highlight": "emma",
+      "scenario_localkey": "d_nikke_emma_04_49",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "shy"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_50",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_50",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_51",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_51",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_52",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_52",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "10",
+      "set_camera_duration": 2.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_53",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_53",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_54",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_54",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.5,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_55",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_55",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_56",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Choice",
+      "highlight": "emma",
+      "scenario_localkey": "d_nikke_emma_04_56",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "d_nikke_emma_04_58"
+    },
+    {
+      "id": "d_nikke_emma_04_57",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Choice",
+      "highlight": "emma",
+      "scenario_localkey": "d_nikke_emma_04_57",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "d_nikke_emma_04_62"
+    },
+    {
+      "id": "d_nikke_emma_04_58",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_58",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_59",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_59",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_60",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_60",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_61",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Self",
+      "highlight": "emma",
+      "scenario_localkey": "d_nikke_emma_04_61",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "d_nikke_emma_04_62"
+    },
+    {
+      "id": "d_nikke_emma_04_62",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_62",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_63",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_63",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_64",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Self",
+      "highlight": "emma",
+      "scenario_localkey": "d_nikke_emma_04_64",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_65",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_65",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "hide_char_id": "emma",
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_66",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_66",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_67",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_67",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_68",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Monologue",
+      "highlight": "emma",
+      "scenario_localkey": "d_nikke_emma_04_68",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "play_bgm": "none",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_69",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Monologue",
+      "highlight": "emma",
+      "scenario_localkey": "d_nikke_emma_04_69",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_70",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_70",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "show_char_id": "emma",
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "play_bgm": "bgm_story_sunnycarnival",
+      "effects": [
+        {},
+        {}
+      ],
+      "set_camera_shake": "Low_2"
+    },
+    {
+      "id": "d_nikke_emma_04_71",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_71",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_72",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_72",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_73",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Self",
+      "highlight": "emma",
+      "scenario_localkey": "d_nikke_emma_04_73",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_74",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_74",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "worry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_75",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_75",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "100",
+      "set_camera_duration": 0.5,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_camera_shake": "Low_2"
+    },
+    {
+      "id": "d_nikke_emma_04_76",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Self",
+      "highlight": "emma",
+      "scenario_localkey": "d_nikke_emma_04_76",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_77",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_77",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "shy"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_78",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_78",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "shy"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_79",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_79",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_80",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_80",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_81",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Self",
+      "highlight": "emma",
+      "scenario_localkey": "d_nikke_emma_04_81",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_82",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_82",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_83",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_83",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_84",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_84",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.5,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_85",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Choice",
+      "highlight": "emma",
+      "scenario_localkey": "d_nikke_emma_04_85",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "d_nikke_emma_04_87"
+    },
+    {
+      "id": "d_nikke_emma_04_86",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Choice",
+      "highlight": "emma",
+      "scenario_localkey": "d_nikke_emma_04_86",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "d_nikke_emma_04_87"
+    },
+    {
+      "id": "d_nikke_emma_04_87",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_87",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_88",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_88",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "special"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_89",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_89",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "special"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_90",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Narration",
+      "highlight": "emma",
+      "scenario_localkey": "d_nikke_emma_04_90",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "hide_char_id": "emma",
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "5",
+      "set_end_camera": "1",
+      "set_camera_duration": 2.0,
+      "play_bgm": "none",
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Blur_Low",
+      "fade": "black"
+    },
+    {
+      "id": "d_nikke_emma_04_91",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_91",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "show_char_id": "emma",
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "play_bgm": "bgm_story_orangepop",
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Blur_Low"
+    },
+    {
+      "id": "d_nikke_emma_04_92",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Self",
+      "highlight": "emma",
+      "scenario_localkey": "d_nikke_emma_04_92",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Blur_Middle"
+    },
+    {
+      "id": "d_nikke_emma_04_93",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_93",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Blur_Low"
+    },
+    {
+      "id": "d_nikke_emma_04_94",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_94",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Blur_Low"
+    },
+    {
+      "id": "d_nikke_emma_04_95",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Self",
+      "highlight": "emma",
+      "scenario_localkey": "d_nikke_emma_04_95",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Blur_Middle"
+    },
+    {
+      "id": "d_nikke_emma_04_96",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_96",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Blur_Low"
+    },
+    {
+      "id": "d_nikke_emma_04_97",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_97",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "worry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Blur_Low"
+    },
+    {
+      "id": "d_nikke_emma_04_98",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_98",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "worry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Blur_Low"
+    },
+    {
+      "id": "d_nikke_emma_04_99",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Narration",
+      "highlight": "emma",
+      "scenario_localkey": "d_nikke_emma_04_99",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "hide_char_id": "emma"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_100",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_100",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "show_char_id": "emma",
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_101",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_101",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_102",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Choice",
+      "highlight": "emma",
+      "scenario_localkey": "d_nikke_emma_04_102",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "d_nikke_emma_04_104"
+    },
+    {
+      "id": "d_nikke_emma_04_103",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Choice",
+      "highlight": "emma",
+      "scenario_localkey": "d_nikke_emma_04_103",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "d_nikke_emma_04_109"
+    },
+    {
+      "id": "d_nikke_emma_04_104",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_104",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 2.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_105",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_105",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "hide_char_id": "emma",
+          "set_char_position": "1",
+          "set_char_anim": "angry"
+        },
+        {
+          "show_char_id": "vesti",
+          "set_char_position": "2",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "eunhwa",
+          "set_char_position": "12",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "NikkeRoom",
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Grey"
+    },
+    {
+      "id": "d_nikke_emma_04_106",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_106",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {
+          "set_char_position": "6",
+          "set_char_anim": "sad"
+        },
+        {
+          "set_char_position": "16",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "play_sound": "sfx_scn_running",
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Grey"
+    },
+    {
+      "id": "d_nikke_emma_04_107",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_107",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "show_char_id": "emma",
+          "set_char_position": "1",
+          "set_char_anim": "angry"
+        },
+        {
+          "hide_char_id": "vesti",
+          "set_char_position": "6",
+          "set_char_anim": "sad"
+        },
+        {
+          "hide_char_id": "eunhwa",
+          "set_char_position": "16",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "HotSpring",
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_108",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_108",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "d_nikke_emma_04_118"
+    },
+    {
+      "id": "d_nikke_emma_04_109",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_109",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 2.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_110",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_110",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_111",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Self",
+      "highlight": "emma",
+      "scenario_localkey": "d_nikke_emma_04_111",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_112",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_112",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_113",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_113",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "hide_char_id": "emma",
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "vesti",
+          "set_char_position": "2",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "eunhwa",
+          "set_char_position": "12",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "NikkeRoom",
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Grey"
+    },
+    {
+      "id": "d_nikke_emma_04_114",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_114",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {
+          "set_char_position": "6",
+          "set_char_anim": "sad"
+        },
+        {
+          "set_char_position": "16",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "play_sound": "sfx_scn_running",
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Grey"
+    },
+    {
+      "id": "d_nikke_emma_04_115",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_115",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "show_char_id": "emma",
+          "set_char_position": "1",
+          "set_char_anim": "worry"
+        },
+        {
+          "hide_char_id": "vesti",
+          "set_char_position": "6",
+          "set_char_anim": "sad"
+        },
+        {
+          "hide_char_id": "eunhwa",
+          "set_char_position": "16",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "HotSpring",
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_116",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_116",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "worry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_117",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Self",
+      "highlight": "emma",
+      "scenario_localkey": "d_nikke_emma_04_117",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "worry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "d_nikke_emma_04_118"
+    },
+    {
+      "id": "d_nikke_emma_04_118",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_118",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "10",
+      "set_camera_duration": 2.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_119",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_119",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_120",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Self",
+      "highlight": "emma",
+      "scenario_localkey": "d_nikke_emma_04_120",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_121",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_121",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "special"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_122",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_122",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "special"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_123",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Self",
+      "highlight": "emma",
+      "scenario_localkey": "d_nikke_emma_04_123",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "special"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_124",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_124",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "40",
+      "set_camera_duration": 2.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_125",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_125",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "hide_char_id": "emma",
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "40",
+      "set_end_camera": "40",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_126",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Self",
+      "highlight": "emma",
+      "scenario_localkey": "d_nikke_emma_04_126",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "40",
+      "set_end_camera": "40",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_emma_04_127",
+      "group_id": "d_nikke_emma_04",
+      "speech_window": "Speech",
+      "highlight": "emma",
+      "speaker": "emma",
+      "scenario_localkey": "d_nikke_emma_04_127",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "show_char_id": "emma",
+          "set_char_position": "4",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "40",
+      "set_end_camera": "40",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    }
+  ]
+}

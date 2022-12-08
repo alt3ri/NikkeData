@@ -1,0 +1,101 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 111,
+      "dialogue_type": "Harder",
+      "dialogue_localkey": "SIMULATIONROOM_DIALOGUE_BATTLE_HARDER_01",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_BATTLE_HARDER_01",
+      "set_char_anim": "delight",
+      "weight": 1000
+    },
+    {
+      "id": 112,
+      "dialogue_type": "Harder",
+      "dialogue_localkey": "SIMULATIONROOM_DIALOGUE_BATTLE_HARDER_02",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_BATTLE_HARDER_02",
+      "set_char_anim": "delight",
+      "weight": 1000
+    },
+    {
+      "id": 113,
+      "dialogue_type": "Harder",
+      "dialogue_localkey": "SIMULATIONROOM_DIALOGUE_BATTLE_HARDER_03",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_BATTLE_HARDER_03",
+      "set_char_anim": "delight",
+      "weight": 1000
+    },
+    {
+      "id": 121,
+      "dialogue_type": "Hard",
+      "dialogue_localkey": "SIMULATIONROOM_DIALOGUE_BATTLE_HARD_01",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_BATTLE_HARD_01",
+      "set_char_anim": "idle",
+      "weight": 1000
+    },
+    {
+      "id": 122,
+      "dialogue_type": "Hard",
+      "dialogue_localkey": "SIMULATIONROOM_DIALOGUE_BATTLE_HARD_02",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_BATTLE_HARD_02",
+      "set_char_anim": "idle",
+      "weight": 1000
+    },
+    {
+      "id": 123,
+      "dialogue_type": "Hard",
+      "dialogue_localkey": "SIMULATIONROOM_DIALOGUE_BATTLE_HARD_03",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_BATTLE_HARD_03",
+      "set_char_anim": "idle",
+      "weight": 1000
+    },
+    {
+      "id": 131,
+      "dialogue_type": "Easy",
+      "dialogue_localkey": "SIMULATIONROOM_DIALOGUE_BATTLE_EASY_01",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_BATTLE_EASY_01",
+      "set_char_anim": "angry",
+      "weight": 1000
+    },
+    {
+      "id": 132,
+      "dialogue_type": "Easy",
+      "dialogue_localkey": "SIMULATIONROOM_DIALOGUE_BATTLE_EASY_02",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_BATTLE_EASY_02",
+      "set_char_anim": "angry",
+      "weight": 1000
+    },
+    {
+      "id": 133,
+      "dialogue_type": "Easy",
+      "dialogue_localkey": "SIMULATIONROOM_DIALOGUE_BATTLE_EASY_03",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_BATTLE_EASY_03",
+      "set_char_anim": "angry",
+      "weight": 1000
+    },
+    {
+      "id": 211,
+      "dialogue_type": "Easier",
+      "dialogue_localkey": "SIMULATIONROOM_DIALOGUE_BATTLE_EASIER_01",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_BATTLE_EASIER_01",
+      "set_char_anim": "angry",
+      "weight": 1000
+    },
+    {
+      "id": 212,
+      "dialogue_type": "Easier",
+      "dialogue_localkey": "SIMULATIONROOM_DIALOGUE_BATTLE_EASIER_02",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_BATTLE_EASIER_02",
+      "set_char_anim": "angry",
+      "weight": 1000
+    },
+    {
+      "id": 213,
+      "dialogue_type": "Easier",
+      "dialogue_localkey": "SIMULATIONROOM_DIALOGUE_BATTLE_EASIER_03",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_BATTLE_EASIER_03",
+      "set_char_anim": "angry",
+      "weight": 1000
+    }
+  ]
+}

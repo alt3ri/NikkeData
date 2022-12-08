@@ -1,0 +1,194 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": "d_balloon_01_a_1",
+      "group_id": "d_balloon_01_a",
+      "balloon_type": "Shouting",
+      "speaker": "privaty",
+      "scenario_localkey": "m_subquest_1062_s_28"
+    },
+    {
+      "id": "d_balloon_01_a_2",
+      "group_id": "d_balloon_01_a",
+      "balloon_type": "Shouting",
+      "speaker": "privaty",
+      "scenario_localkey": "m_subquest_1062_e_1"
+    },
+    {
+      "id": "d_balloon_01_a_3",
+      "group_id": "d_balloon_01_a",
+      "balloon_type": "Shouting",
+      "speaker": "privaty",
+      "scenario_localkey": "d_subquest_1062_24"
+    },
+    {
+      "id": "d_balloon_01_s_1",
+      "group_id": "d_balloon_01_s",
+      "balloon_type": "Normal",
+      "speaker": "privaty",
+      "scenario_localkey": "d_contents_arena_01_1"
+    },
+    {
+      "id": "d_balloon_01_s_2",
+      "group_id": "d_balloon_01_s",
+      "balloon_type": "Thinking",
+      "speaker": "privaty",
+      "scenario_localkey": "d_contents_arena_01_2"
+    },
+    {
+      "id": "d_balloon_01_s_3",
+      "group_id": "d_balloon_01_s",
+      "balloon_type": "Shouting",
+      "speaker": "privaty",
+      "scenario_localkey": "d_contents_arena_01_8"
+    },
+    {
+      "id": "d_balloon_01_s_4",
+      "group_id": "d_balloon_01_s",
+      "balloon_type": "Frame",
+      "speaker": "privaty",
+      "scenario_localkey": "d_contents_arena_01_17"
+    },
+    {
+      "id": "d_balloon_01_e_1",
+      "group_id": "d_balloon_01_e",
+      "balloon_type": "Shouting",
+      "speaker": "privaty",
+      "scenario_localkey": "m_test_quest4_s_02"
+    },
+    {
+      "id": "d_balloon_01_m_1",
+      "group_id": "d_balloon_01_m",
+      "balloon_type": "Normal",
+      "speaker": "privaty",
+      "scenario_localkey": "m_test_quest3_e_14"
+    },
+    {
+      "id": "event_miraclesnow_ballon_01_01",
+      "group_id": "event_miraclesnow_ballon_01",
+      "balloon_type": "Normal",
+      "speaker": "alice",
+      "scenario_localkey": "event_miraclesnow_balloon_01_01"
+    },
+    {
+      "id": "event_miraclesnow_ballon_01_02",
+      "group_id": "event_miraclesnow_ballon_01",
+      "balloon_type": "Normal",
+      "speaker": "alice",
+      "scenario_localkey": "event_miraclesnow_balloon_01_02"
+    },
+    {
+      "id": "event_miraclesnow_ballon_02_01",
+      "group_id": "event_miraclesnow_ballon_02",
+      "balloon_type": "Normal",
+      "speaker": "alice",
+      "scenario_localkey": "event_miraclesnow_balloon_02_01"
+    },
+    {
+      "id": "event_miraclesnow_ballon_02_02",
+      "group_id": "event_miraclesnow_ballon_02",
+      "balloon_type": "Normal",
+      "speaker": "alice",
+      "scenario_localkey": "event_miraclesnow_balloon_02_02"
+    },
+    {
+      "id": "event_miraclesnow_ballon_03_01",
+      "group_id": "event_miraclesnow_ballon_03",
+      "balloon_type": "Normal",
+      "speaker": "alice",
+      "scenario_localkey": "event_miraclesnow_balloon_03_01"
+    },
+    {
+      "id": "event_miraclesnow_ballon_03_02",
+      "group_id": "event_miraclesnow_ballon_03",
+      "balloon_type": "Normal",
+      "speaker": "alice",
+      "scenario_localkey": "event_miraclesnow_balloon_03_02"
+    },
+    {
+      "id": "event_miraclesnow_ballon_04_01",
+      "group_id": "event_miraclesnow_ballon_04",
+      "balloon_type": "Normal",
+      "speaker": "alice",
+      "scenario_localkey": "event_miraclesnow_balloon_04_01"
+    },
+    {
+      "id": "event_miraclesnow_ballon_04_02",
+      "group_id": "event_miraclesnow_ballon_04",
+      "balloon_type": "Normal",
+      "speaker": "alice",
+      "scenario_localkey": "event_miraclesnow_balloon_04_02"
+    },
+    {
+      "id": "event_miraclesnow_ballon_05_01",
+      "group_id": "event_miraclesnow_ballon_05",
+      "balloon_type": "Normal",
+      "speaker": "alice",
+      "scenario_localkey": "event_miraclesnow_balloon_05_01"
+    },
+    {
+      "id": "event_miraclesnow_ballon_05_02",
+      "group_id": "event_miraclesnow_ballon_05",
+      "balloon_type": "Normal",
+      "speaker": "alice",
+      "scenario_localkey": "event_miraclesnow_balloon_05_02"
+    },
+    {
+      "id": "event_miraclesnow_ballon_06_01",
+      "group_id": "event_miraclesnow_ballon_06",
+      "balloon_type": "Normal",
+      "speaker": "ludmilla",
+      "scenario_localkey": "event_miraclesnow_balloon_06_01"
+    },
+    {
+      "id": "event_miraclesnow_ballon_06_02",
+      "group_id": "event_miraclesnow_ballon_06",
+      "balloon_type": "Normal",
+      "speaker": "ludmilla",
+      "scenario_localkey": "event_miraclesnow_balloon_06_02"
+    },
+    {
+      "id": "event_miraclesnow_ballon_07_01",
+      "group_id": "event_miraclesnow_ballon_07",
+      "balloon_type": "Normal",
+      "speaker": "ludmilla",
+      "scenario_localkey": "event_miraclesnow_balloon_07_01"
+    },
+    {
+      "id": "event_miraclesnow_ballon_07_02",
+      "group_id": "event_miraclesnow_ballon_07",
+      "balloon_type": "Normal",
+      "speaker": "ludmilla",
+      "scenario_localkey": "event_miraclesnow_balloon_07_02"
+    },
+    {
+      "id": "event_miraclesnow_ballon_08_01",
+      "group_id": "event_miraclesnow_ballon_08",
+      "balloon_type": "Normal",
+      "speaker": "ludmilla",
+      "scenario_localkey": "event_miraclesnow_balloon_08_01"
+    },
+    {
+      "id": "event_miraclesnow_ballon_08_02",
+      "group_id": "event_miraclesnow_ballon_08",
+      "balloon_type": "Normal",
+      "speaker": "ludmilla",
+      "scenario_localkey": "event_miraclesnow_balloon_08_02"
+    },
+    {
+      "id": "event_miraclesnow_ballon_09_01",
+      "group_id": "event_miraclesnow_ballon_09",
+      "balloon_type": "Normal",
+      "speaker": "ludmilla",
+      "scenario_localkey": "event_miraclesnow_balloon_09_01"
+    },
+    {
+      "id": "event_miraclesnow_ballon_09_02",
+      "group_id": "event_miraclesnow_ballon_09",
+      "balloon_type": "Normal",
+      "speaker": "ludmilla",
+      "scenario_localkey": "event_miraclesnow_balloon_09_02"
+    }
+  ]
+}

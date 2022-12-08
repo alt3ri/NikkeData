@@ -1,0 +1,3223 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": "d_nikke_crow_05_1",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "enikk",
+      "speaker": "enikk",
+      "scenario_localkey": "d_nikke_crow_05_1",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "show_char_id": "crow",
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "enikk",
+          "set_char_position": "15",
+          "set_char_anim": "special"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "EnikkRoom",
+      "set_start_camera": "15",
+      "set_end_camera": "150",
+      "set_camera_duration": 2.0,
+      "play_bgm": "bgm_recognition_underworld",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_2",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "enikk",
+      "speaker": "enikk",
+      "scenario_localkey": "d_nikke_crow_05_2",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "special"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "150",
+      "set_end_camera": "150",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_3",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "enikk",
+      "speaker": "enikk",
+      "scenario_localkey": "d_nikke_crow_05_3",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "special"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "150",
+      "set_end_camera": "150",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_4",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "enikk",
+      "speaker": "enikk",
+      "scenario_localkey": "d_nikke_crow_05_4",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "special"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "150",
+      "set_end_camera": "150",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_5",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "enikk",
+      "speaker": "enikk",
+      "scenario_localkey": "d_nikke_crow_05_5",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "special"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "150",
+      "set_end_camera": "150",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_6",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "enikk",
+      "speaker": "enikk",
+      "scenario_localkey": "d_nikke_crow_05_6",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "special"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "150",
+      "set_end_camera": "150",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_7",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "enikk",
+      "speaker": "enikk",
+      "scenario_localkey": "d_nikke_crow_05_7",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "special"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "150",
+      "set_end_camera": "150",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_8",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "enikk",
+      "speaker": "enikk",
+      "scenario_localkey": "d_nikke_crow_05_8",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "special"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_9",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "enikk",
+      "speaker": "enikk",
+      "scenario_localkey": "d_nikke_crow_05_9",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "special"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_10",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "enikk",
+      "speaker": "enikk",
+      "scenario_localkey": "d_nikke_crow_05_10",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "special"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "10",
+      "set_camera_duration": 2.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_11",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "enikk",
+      "speaker": "enikk",
+      "scenario_localkey": "d_nikke_crow_05_11",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "special"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_12",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Narration",
+      "speaker": "Narration",
+      "scenario_localkey": "d_nikke_crow_05_12",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "hide_char_id": "crow",
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "hide_char_id": "enikk",
+          "set_char_position": "15",
+          "set_char_anim": "special"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "Jail",
+      "set_start_camera": "5",
+      "set_end_camera": "1",
+      "set_camera_duration": 2.0,
+      "play_bgm": "none",
+      "effects": [
+        {},
+        {}
+      ],
+      "fade": "black"
+    },
+    {
+      "id": "d_nikke_crow_05_13",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "crow",
+      "speaker": "crow",
+      "scenario_localkey": "d_nikke_crow_05_13",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "show_char_id": "crow",
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_14",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "crow",
+      "speaker": "crow",
+      "scenario_localkey": "d_nikke_crow_05_14",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "smile"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_15",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Self",
+      "highlight": "crow",
+      "speaker": "Self",
+      "scenario_localkey": "d_nikke_crow_05_15",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "smile"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_16",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "crow",
+      "speaker": "crow",
+      "scenario_localkey": "d_nikke_crow_05_16",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "10",
+      "set_camera_duration": 2.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_17",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Self",
+      "highlight": "crow",
+      "speaker": "Self",
+      "scenario_localkey": "d_nikke_crow_05_17",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "hide_char_id": "crow",
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "enikk",
+          "set_char_position": "1",
+          "set_char_anim": "special"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "EnikkRoom",
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "play_bgm": "bgm_floraltribute",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_18",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "enikk",
+      "speaker": "enikk",
+      "scenario_localkey": "d_nikke_crow_05_18",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {
+          "set_char_position": "1",
+          "set_char_anim": "special"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Grey"
+    },
+    {
+      "id": "d_nikke_crow_05_19",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "enikk",
+      "speaker": "enikk",
+      "scenario_localkey": "d_nikke_crow_05_19",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {
+          "set_char_position": "1",
+          "set_char_anim": "special"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Grey"
+    },
+    {
+      "id": "d_nikke_crow_05_20",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "enikk",
+      "speaker": "enikk",
+      "scenario_localkey": "d_nikke_crow_05_20",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {
+          "set_char_position": "1",
+          "set_char_anim": "special"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "10",
+      "set_camera_duration": 2.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Grey"
+    },
+    {
+      "id": "d_nikke_crow_05_21",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "crow",
+      "speaker": "crow",
+      "scenario_localkey": "d_nikke_crow_05_21",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "show_char_id": "crow",
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "hide_char_id": "enikk",
+          "set_char_position": "1",
+          "set_char_anim": "special"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "Jail",
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_22",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "crow",
+      "speaker": "crow",
+      "scenario_localkey": "d_nikke_crow_05_22",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_23",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "crow",
+      "speaker": "crow",
+      "scenario_localkey": "d_nikke_crow_05_23",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_24",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "crow",
+      "speaker": "crow",
+      "scenario_localkey": "d_nikke_crow_05_24",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_25",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "crow",
+      "speaker": "crow",
+      "scenario_localkey": "d_nikke_crow_05_25",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "smile"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "1",
+      "set_camera_duration": 2.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_26",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "crow",
+      "speaker": "crow",
+      "scenario_localkey": "d_nikke_crow_05_26",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "smile"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_27",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Self",
+      "highlight": "crow",
+      "speaker": "Self",
+      "scenario_localkey": "d_nikke_crow_05_27",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "smile"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_28",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Self",
+      "highlight": "crow",
+      "speaker": "Self",
+      "scenario_localkey": "d_nikke_crow_05_28",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "smile"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_29",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "enikk",
+      "speaker": "enikk",
+      "scenario_localkey": "d_nikke_crow_05_29",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "hide_char_id": "crow",
+          "set_char_position": "1",
+          "set_char_anim": "smile"
+        },
+        {
+          "show_char_id": "enikk",
+          "set_char_position": "1",
+          "set_char_anim": "special"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "EnikkRoom",
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Grey"
+    },
+    {
+      "id": "d_nikke_crow_05_30",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "crow",
+      "speaker": "crow",
+      "scenario_localkey": "d_nikke_crow_05_30",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "show_char_id": "crow",
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "hide_char_id": "enikk",
+          "set_char_position": "1",
+          "set_char_anim": "special"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "Jail",
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_31",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "crow",
+      "speaker": "crow",
+      "scenario_localkey": "d_nikke_crow_05_31",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_32",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "crow",
+      "speaker": "crow",
+      "scenario_localkey": "d_nikke_crow_05_32",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "10",
+      "set_camera_duration": 2.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_33",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "crow",
+      "speaker": "crow",
+      "scenario_localkey": "d_nikke_crow_05_33",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_34",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "crow",
+      "speaker": "crow",
+      "scenario_localkey": "d_nikke_crow_05_34",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_35",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "crow",
+      "speaker": "crow",
+      "scenario_localkey": "d_nikke_crow_05_35",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_36",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Self",
+      "highlight": "crow",
+      "speaker": "Self",
+      "scenario_localkey": "d_nikke_crow_05_36",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_37",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "crow",
+      "speaker": "crow",
+      "scenario_localkey": "d_nikke_crow_05_37",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "1",
+      "set_camera_duration": 2.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_38",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "crow",
+      "speaker": "crow",
+      "scenario_localkey": "d_nikke_crow_05_38",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_39",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "crow",
+      "speaker": "crow",
+      "scenario_localkey": "d_nikke_crow_05_39",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_40",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "crow",
+      "speaker": "crow",
+      "scenario_localkey": "d_nikke_crow_05_40",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_41",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Narration",
+      "speaker": "Narration",
+      "scenario_localkey": "d_nikke_crow_05_41",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "hide_char_id": "crow",
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "ElevatorOut",
+      "set_start_camera": "5",
+      "set_end_camera": "1",
+      "set_camera_duration": 2.0,
+      "play_bgm": "bgm_distress",
+      "effects": [
+        {},
+        {}
+      ],
+      "fade": "black"
+    },
+    {
+      "id": "d_nikke_crow_05_42",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "jackal",
+      "speaker": "jackal",
+      "scenario_localkey": "d_nikke_crow_05_42",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {
+          "show_char_id": "jackal",
+          "set_char_position": "13",
+          "set_char_anim": "shy_01"
+        },
+        {
+          "show_char_id": "viper",
+          "set_char_position": "15",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "13",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_43",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "jackal",
+      "speaker": "jackal",
+      "scenario_localkey": "d_nikke_crow_05_43",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "show_char_id": "crow",
+          "set_char_position": "1",
+          "set_char_anim": "smile"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "shy_02"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "13",
+      "set_end_camera": "S_130",
+      "set_camera_duration": 0.5,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_44",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "crow",
+      "speaker": "crow",
+      "scenario_localkey": "d_nikke_crow_05_44",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "smile"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "shy_02"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_130",
+      "set_end_camera": "12",
+      "set_camera_duration": 2.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_45",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Monologue",
+      "highlight": "crow",
+      "speaker": "Monologue",
+      "scenario_localkey": "d_nikke_crow_05_45",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "smile"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "shy_02"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_46",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "viper",
+      "speaker": "viper",
+      "scenario_localkey": "d_nikke_crow_05_46",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "good"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "15",
+      "set_camera_duration": 1.5,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_47",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "viper",
+      "speaker": "viper",
+      "scenario_localkey": "d_nikke_crow_05_47",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "good"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "15",
+      "set_end_camera": "150",
+      "set_camera_duration": 1.5,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_48",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Self",
+      "highlight": "viper",
+      "speaker": "Self",
+      "scenario_localkey": "d_nikke_crow_05_48",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "good"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "150",
+      "set_end_camera": "150",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_49",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "crow",
+      "speaker": "crow",
+      "scenario_localkey": "d_nikke_crow_05_49",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "good"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_50",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "viper",
+      "speaker": "viper",
+      "scenario_localkey": "d_nikke_crow_05_50",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "150",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_51",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "viper",
+      "speaker": "viper",
+      "scenario_localkey": "d_nikke_crow_05_51",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "150",
+      "set_end_camera": "150",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_52",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Self",
+      "highlight": "crow",
+      "speaker": "Self",
+      "scenario_localkey": "d_nikke_crow_05_52",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_53",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "crow",
+      "speaker": "crow",
+      "scenario_localkey": "d_nikke_crow_05_53",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_54",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "crow",
+      "speaker": "crow",
+      "scenario_localkey": "d_nikke_crow_05_54",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_55",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "crow",
+      "speaker": "crow",
+      "scenario_localkey": "d_nikke_crow_05_55",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_56",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "crow",
+      "speaker": "crow",
+      "scenario_localkey": "d_nikke_crow_05_56",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_57",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "crow",
+      "speaker": "crow",
+      "scenario_localkey": "d_nikke_crow_05_57",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "10",
+      "set_camera_duration": 2.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_58",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "crow",
+      "speaker": "crow",
+      "scenario_localkey": "d_nikke_crow_05_58",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "smile"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_59",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Self",
+      "highlight": "crow",
+      "speaker": "Self",
+      "scenario_localkey": "d_nikke_crow_05_59",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "smile"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_60",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "crow",
+      "speaker": "crow",
+      "scenario_localkey": "d_nikke_crow_05_60",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "100",
+      "set_camera_duration": 2.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_61",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "crow",
+      "speaker": "crow",
+      "scenario_localkey": "d_nikke_crow_05_61",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_62",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "crow",
+      "speaker": "crow",
+      "scenario_localkey": "d_nikke_crow_05_62",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_63",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "crow",
+      "speaker": "crow",
+      "scenario_localkey": "d_nikke_crow_05_63",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_64",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Self",
+      "highlight": "crow",
+      "speaker": "Self",
+      "scenario_localkey": "d_nikke_crow_05_64",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_65",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "crow",
+      "speaker": "crow",
+      "scenario_localkey": "d_nikke_crow_05_65",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "smile"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "100",
+      "set_end_camera": "10",
+      "set_camera_duration": 2.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_66",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "crow",
+      "speaker": "crow",
+      "scenario_localkey": "d_nikke_crow_05_66",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "smile"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_67",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "crow",
+      "speaker": "crow",
+      "scenario_localkey": "d_nikke_crow_05_67",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "smile"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_68",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "jackal",
+      "speaker": "jackal",
+      "scenario_localkey": "d_nikke_crow_05_68",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_69",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "jackal",
+      "speaker": "jackal",
+      "scenario_localkey": "d_nikke_crow_05_69",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_70",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "viper",
+      "speaker": "viper",
+      "scenario_localkey": "d_nikke_crow_05_70",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "14",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_71",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "jackal",
+      "speaker": "jackal",
+      "scenario_localkey": "d_nikke_crow_05_71",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "angry"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "14",
+      "set_end_camera": "14",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_72",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "announcement",
+      "speaker": "announcement",
+      "scenario_localkey": "d_nikke_crow_05_72",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "hide_char_id": "jackal",
+          "set_char_position": "13",
+          "set_char_anim": "angry"
+        },
+        {
+          "hide_char_id": "viper",
+          "set_char_position": "15",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "play_sound": "sfx_scn_heavydoordrag",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_73",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "announcement",
+      "speaker": "announcement",
+      "scenario_localkey": "d_nikke_crow_05_73",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_74",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "announcement",
+      "speaker": "announcement",
+      "scenario_localkey": "d_nikke_crow_05_74",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_75",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "crow",
+      "speaker": "crow",
+      "scenario_localkey": "d_nikke_crow_05_75",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "1",
+      "set_camera_duration": 2.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_76",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Self",
+      "highlight": "crow",
+      "speaker": "Self",
+      "scenario_localkey": "d_nikke_crow_05_76",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_77",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "crow",
+      "speaker": "crow",
+      "scenario_localkey": "d_nikke_crow_05_77",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_78",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Self",
+      "highlight": "crow",
+      "speaker": "Self",
+      "scenario_localkey": "d_nikke_crow_05_78",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_79",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "crow",
+      "speaker": "crow",
+      "scenario_localkey": "d_nikke_crow_05_79",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_80",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "crow",
+      "speaker": "crow",
+      "scenario_localkey": "d_nikke_crow_05_80",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_81",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Self",
+      "highlight": "crow",
+      "speaker": "Self",
+      "scenario_localkey": "d_nikke_crow_05_81",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_82",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "crow",
+      "speaker": "crow",
+      "scenario_localkey": "d_nikke_crow_05_82",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "10",
+      "set_camera_duration": 2.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_83",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Narration",
+      "speaker": "Narration",
+      "scenario_localkey": "d_nikke_crow_05_83",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "hide_char_id": "crow",
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "play_sound": "sfx_scn_heavydoordrag",
+      "play_bgm": "none",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_84",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Monologue",
+      "speaker": "Monologue",
+      "scenario_localkey": "d_nikke_crow_05_84",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "Park",
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_85",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Monologue",
+      "speaker": "Monologue",
+      "scenario_localkey": "d_nikke_crow_05_85",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_86",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Monologue",
+      "speaker": "Monologue",
+      "scenario_localkey": "d_nikke_crow_05_86",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "OuterRim",
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_87",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Monologue",
+      "speaker": "Monologue",
+      "scenario_localkey": "d_nikke_crow_05_87",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "black",
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_88",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Monologue",
+      "speaker": "Monologue",
+      "scenario_localkey": "d_nikke_crow_05_88",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "play_bgm": "bgm_story_shapeofhope",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_89",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Monologue",
+      "speaker": "Monologue",
+      "scenario_localkey": "d_nikke_crow_05_89",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "WasteLand_02",
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_90",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Monologue",
+      "speaker": "Monologue",
+      "scenario_localkey": "d_nikke_crow_05_90",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_91",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "crow",
+      "speaker": "crow",
+      "scenario_localkey": "d_nikke_crow_05_91",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "show_char_id": "crow",
+          "set_char_position": "1",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "Bar",
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Grey"
+    },
+    {
+      "id": "d_nikke_crow_05_92",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Speech",
+      "highlight": "crow",
+      "speaker": "crow",
+      "scenario_localkey": "d_nikke_crow_05_92",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Grey"
+    },
+    {
+      "id": "d_nikke_crow_05_93",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Monologue",
+      "speaker": "Monologue",
+      "scenario_localkey": "d_nikke_crow_05_93",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "10",
+      "set_camera_duration": 2.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Grey"
+    },
+    {
+      "id": "d_nikke_crow_05_94",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Monologue",
+      "speaker": "Monologue",
+      "scenario_localkey": "d_nikke_crow_05_94",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "hide_char_id": "crow",
+          "set_char_position": "1",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "White",
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_95",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Monologue",
+      "speaker": "Monologue",
+      "scenario_localkey": "d_nikke_crow_05_95",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_crow_05_96",
+      "group_id": "d_nikke_crow_05",
+      "speech_window": "Monologue",
+      "speaker": "Monologue",
+      "scenario_localkey": "d_nikke_crow_05_96",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    }
+  ]
+}

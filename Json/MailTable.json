@@ -1,0 +1,269 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "key": "UNION_RAID_RANK_REWARD",
+      "title": "UNION_RAID_RANK_REWARD_TITLE",
+      "description": "UNION_RAID_RANK_REWARD_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "UNION_RAID_GUILD_RANK_REWARD",
+      "title": "UNION_RAID_GUILD_RANK_REWARD_TITLE",
+      "description": "UNION_RAID_GUILD_RANK_REWARD_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "UNION_BANNED",
+      "title": "GUILD_BANNED_MAIL_TITLE",
+      "description": "GUILD_JOURNAL_KICK",
+      "sender_id": 1
+    },
+    {
+      "key": "COOPERATION_RANK_REWARD",
+      "title": "COOPERATION_RANK_REWARD_TITLE",
+      "description": "COOPERATION_RANK_REWARD_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "POLL_REWARD",
+      "title": "POLL_REWARD_MAIL_TITLE",
+      "description": "POLL_REWARD_MAIL_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "WORLD_RAID_RANKING_REWARD",
+      "title": "WORLD_RAID_RANKING_REWARD_MAIL_TITLE",
+      "description": "WORLD_RAID_RANKING_REWARD_MAIL_DESC",
+      "sender_id": 5
+    },
+    {
+      "key": "WORLD_RAID_CLEAR_REWARD",
+      "title": "WORLD_RAID_CLEAR_REWARD_MAIL_TITLE",
+      "description": "WORLD_RAID_CLEAR_REWARD_MAIL_DESC",
+      "sender_id": 5
+    },
+    {
+      "key": "INFRACORE_GRADE_REWARD",
+      "title": "INFRACORE_GRADE_REWARD_TITLE",
+      "description": "INFRACORE_GRADE_REWARD_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "MIDAS_BUY_PRODUCT",
+      "title": "MIDAS_BUY_PRODUCT_TITLE",
+      "description": "MIDAS_BUY_PRODUCT_DESC",
+      "sender_id": 102
+    },
+    {
+      "key": "MIDAS_BUY_CURRENCY",
+      "title": "MIDAS_BUY_CURRENCY_TITLE",
+      "description": "MIDAS_BUY_CURRENCY_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "ARENA_SPECIAL_POINT_RANK_REWARD",
+      "title": "ARENA_SPECIAL_POINT_RANK_REWARD_MAIL_TITLE",
+      "description": "ARENA_SPECIAL_POINT_RANK_REWARD_MAIL_DESC",
+      "sender_id": 4
+    },
+    {
+      "key": "ARENA_ROOKIE_POINT_RANK_REWARD",
+      "title": "ARENA_SEASON_REWARD_MAIL_TITLE",
+      "description": "ARENA_SEASON_REWARD_MAIL_BODY",
+      "sender_id": 4
+    },
+    {
+      "key": "ARENA_ROOKIE_DAILY_REWARD",
+      "title": "ARENA_DAILY_REWARD_MAIL_TITLE",
+      "description": "ARENA_DAILY_REWARD_MAIL_BODY",
+      "sender_id": 4
+    },
+    {
+      "key": "ARENA_CHAMPION_BATTING_REWARD",
+      "title": "ARENA_CHAMPION_BATTING_REWARD_MAIL_TITLE",
+      "description": "ARENA_CHAMPION_BATTING_REWARD_MAIL_DESC",
+      "sender_id": 4
+    },
+    {
+      "key": "ARENA_CHAMPION_REWARD_10100",
+      "title": "ARENA_CHAMPION_REWARD_10100_MAIL_TITLE",
+      "description": "ARENA_CHAMPION_REWARD_10100_MAIL_DESC",
+      "sender_id": 4
+    },
+    {
+      "key": "ARENA_CHAMPION_REWARD_10200",
+      "title": "ARENA_CHAMPION_REWARD_10200_MAIL_TITLE",
+      "description": "ARENA_CHAMPION_REWARD_10200_MAIL_DESC",
+      "sender_id": 4
+    },
+    {
+      "key": "ARENA_CHAMPION_REWARD_10300",
+      "title": "ARENA_CHAMPION_REWARD_10300_MAIL_TITLE",
+      "description": "ARENA_CHAMPION_REWARD_10300_MAIL_DESC",
+      "sender_id": 4
+    },
+    {
+      "key": "ARENA_CHAMPION_REWARD_10400",
+      "title": "ARENA_CHAMPION_REWARD_10400_MAIL_TITLE",
+      "description": "ARENA_CHAMPION_REWARD_10400_MAIL_DESC",
+      "sender_id": 4
+    },
+    {
+      "key": "ARENA_CHAMPION_REWARD_10500",
+      "title": "ARENA_CHAMPION_REWARD_10500_MAIL_TITLE",
+      "description": "ARENA_CHAMPION_REWARD_10500_MAIL_DESC",
+      "sender_id": 4
+    },
+    {
+      "key": "ARENA_CHAMPION_REWARD_20100",
+      "title": "ARENA_CHAMPION_REWARD_20100_MAIL_TITLE",
+      "description": "ARENA_CHAMPION_REWARD_20100_MAIL_DESC",
+      "sender_id": 4
+    },
+    {
+      "key": "ARENA_CHAMPION_REWARD_30100",
+      "title": "ARENA_CHAMPION_REWARD_30100_MAIL_TITLE",
+      "description": "ARENA_CHAMPION_REWARD_30100_MAIL_DESC",
+      "sender_id": 4
+    },
+    {
+      "key": "ARENA_CHAMPION_REWARD_40100",
+      "title": "ARENA_CHAMPION_REWARD_40100_MAIL_TITLE",
+      "description": "ARENA_CHAMPION_REWARD_40100_MAIL_DESC",
+      "sender_id": 4
+    },
+    {
+      "key": "ARENA_CHAMPION_REWARD_50100",
+      "title": "ARENA_CHAMPION_REWARD_50100_MAIL_TITLE",
+      "description": "ARENA_CHAMPION_REWARD_50100_MAIL_DESC",
+      "sender_id": 4
+    },
+    {
+      "key": "ARENA_CHAMPION_REWARD_60100",
+      "title": "ARENA_CHAMPION_REWARD_60100_MAIL_TITLE",
+      "description": "ARENA_CHAMPION_REWARD_60100_MAIL_DESC",
+      "sender_id": 4
+    },
+    {
+      "key": "ARENA_CHAMPION_REWARD_70100",
+      "title": "ARENA_CHAMPION_REWARD_70100_MAIL_TITLE",
+      "description": "ARENA_CHAMPION_REWARD_70100_MAIL_DESC",
+      "sender_id": 4
+    },
+    {
+      "key": "ARENA_CHAMPION_REWARD_80100",
+      "title": "ARENA_CHAMPION_REWARD_80100_MAIL_TITLE",
+      "description": "ARENA_CHAMPION_REWARD_80100_MAIL_DESC",
+      "sender_id": 4
+    },
+    {
+      "key": "ARENA_CHAMPION_REWARD_80200",
+      "title": "ARENA_CHAMPION_REWARD_80200_MAIL_TITLE",
+      "description": "ARENA_CHAMPION_REWARD_80200_MAIL_DESC",
+      "sender_id": 4
+    },
+    {
+      "key": "ARENA_CHAMPION_REWARD_80300",
+      "title": "ARENA_CHAMPION_REWARD_80300_MAIL_TITLE",
+      "description": "ARENA_CHAMPION_REWARD_80300_MAIL_DESC",
+      "sender_id": 4
+    },
+    {
+      "key": "ARENA_CHAMPION_REWARD_80400",
+      "title": "ARENA_CHAMPION_REWARD_80400_MAIL_TITLE",
+      "description": "ARENA_CHAMPION_REWARD_80400_MAIL_DESC",
+      "sender_id": 4
+    },
+    {
+      "key": "ARENA_CHAMPION_REWARD_80500",
+      "title": "ARENA_CHAMPION_REWARD_80500_MAIL_TITLE",
+      "description": "ARENA_CHAMPION_REWARD_80500_MAIL_DESC",
+      "sender_id": 4
+    },
+    {
+      "key": "ARENA_CHAMPION_UNION_REWARD_10000",
+      "title": "ARENA_CHAMPION_UNION_REWARD_10000_MAIL_TITLE",
+      "description": "ARENA_CHAMPION_UNION_REWARD_10000_MAIL_DESC",
+      "sender_id": 4
+    },
+    {
+      "key": "ARENA_CHAMPION_UNION_REWARD_20000",
+      "title": "ARENA_CHAMPION_UNION_REWARD_20000_MAIL_TITLE",
+      "description": "ARENA_CHAMPION_UNION_REWARD_20000_MAIL_DESC",
+      "sender_id": 4
+    },
+    {
+      "key": "ARENA_CHAMPION_UNION_REWARD_30000",
+      "title": "ARENA_CHAMPION_UNION_REWARD_30000_MAIL_TITLE",
+      "description": "ARENA_CHAMPION_UNION_REWARD_30000_MAIL_DESC",
+      "sender_id": 4
+    },
+    {
+      "key": "ARENA_CHAMPION_UNION_REWARD_40000",
+      "title": "ARENA_CHAMPION_UNION_REWARD_40000_MAIL_TITLE",
+      "description": "ARENA_CHAMPION_UNION_REWARD_40000_MAIL_DESC",
+      "sender_id": 4
+    },
+    {
+      "key": "ARENA_CHAMPION_UNION_REWARD_50000",
+      "title": "ARENA_CHAMPION_UNION_REWARD_50000_MAIL_TITLE",
+      "description": "ARENA_CHAMPION_UNION_REWARD_50000_MAIL_DESC",
+      "sender_id": 4
+    },
+    {
+      "key": "ARENA_CHAMPION_UNION_REWARD_60000",
+      "title": "ARENA_CHAMPION_UNION_REWARD_60000_MAIL_TITLE",
+      "description": "ARENA_CHAMPION_UNION_REWARD_60000_MAIL_DESC",
+      "sender_id": 4
+    },
+    {
+      "key": "ARENA_CHAMPION_UNION_REWARD_70000",
+      "title": "ARENA_CHAMPION_UNION_REWARD_70000_MAIL_TITLE",
+      "description": "ARENA_CHAMPION_UNION_REWARD_70000_MAIL_DESC",
+      "sender_id": 4
+    },
+    {
+      "key": "ARENA_CHAMPION_UNION_REWARD_80000",
+      "title": "ARENA_CHAMPION_UNION_REWARD_80000_MAIL_TITLE",
+      "description": "ARENA_CHAMPION_UNION_REWARD_80000_MAIL_DESC",
+      "sender_id": 4
+    },
+    {
+      "key": "ITEM_EXCHANGE_10001",
+      "title": "ITEM_EXCHANGE_10001_MAIL_TITLE",
+      "description": "ITEM_EXCHANGE_10001_MAIL_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "ITEM_EXCHANGE_10002",
+      "title": "ITEM_EXCHANGE_10002_MAIL_TITLE",
+      "description": "ITEM_EXCHANGE_10002_MAIL_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "ITEM_EXCHANGE_10003",
+      "title": "ITEM_EXCHANGE_10003_MAIL_TITLE",
+      "description": "ITEM_EXCHANGE_10003_MAIL_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "ITEM_EXCHANGE_10004",
+      "title": "ITEM_EXCHANGE_10004_MAIL_TITLE",
+      "description": "ITEM_EXCHANGE_10004_MAIL_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "ITEM_EXCHANGE_10005",
+      "title": "ITEM_EXCHANGE_10005_MAIL_TITLE",
+      "description": "ITEM_EXCHANGE_10005_MAIL_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "ITEM_EXCHANGE_10006",
+      "title": "ITEM_EXCHANGE_10006_MAIL_TITLE",
+      "description": "ITEM_EXCHANGE_10006_MAIL_DESC",
+      "sender_id": 1
+    }
+  ]
+}

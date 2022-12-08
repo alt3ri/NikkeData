@@ -1,0 +1,38 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1,
+      "event_manager_id": 80105,
+      "enter_scenario": "d_contents_giftfactory",
+      "name_localkey": "dice_event_title",
+      "auto_charge_id": 30001,
+      "currency_ticket": 7070005,
+      "time": 60,
+      "level1_wave": 10001,
+      "level2_wave": 20001,
+      "level3_wave": 30001,
+      "level2_start_point": 500,
+      "level3_start_point": 2500,
+      "gain_fever_gauge": 500,
+      "max_fever_gauge": 10000,
+      "decrease_fever_gauge": 2000,
+      "correct_count": 10,
+      "penalty_time": 100,
+      "rank_d_min_point": 0,
+      "rank_d_max_point": 499,
+      "rank_d_reward": 8040001,
+      "rank_c_min_point": 500,
+      "rank_c_max_point": 999,
+      "rank_c_reward": 8040002,
+      "rank_b_min_point": 1000,
+      "rank_b_max_point": 1999,
+      "rank_b_reward": 8040003,
+      "rank_a_min_point": 2000,
+      "rank_a_max_point": 3499,
+      "rank_a_reward": 8040004,
+      "rank_s_min_point": 3500,
+      "rank_s_reward": 8040005
+    }
+  ]
+}

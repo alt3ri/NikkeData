@@ -1,0 +1,10 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1,
+      "group_id": 1000,
+      "description_localkey": "CASH_SHOP_INFO_1"
+    }
+  ]
+}

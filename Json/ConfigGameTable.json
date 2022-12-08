@@ -1,0 +1,913 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": "DefaultCharacterLv",
+      "value": "1"
+    },
+    {
+      "id": "DefaultCharacterInventorySize",
+      "value": "500"
+    },
+    {
+      "id": "DefaultItemInventorySize",
+      "value": "500"
+    },
+    {
+      "id": "DefaultEquipmentInventorySize",
+      "value": "300"
+    },
+    {
+      "id": "DefaultProductionLineSize",
+      "value": "2"
+    },
+    {
+      "id": "DefaultCharacterRankLv",
+      "value": "1"
+    },
+    {
+      "id": "DefaultEquipmentLv",
+      "value": "0"
+    },
+    {
+      "id": "DailyResetHour",
+      "value": "20"
+    },
+    {
+      "id": "WeeklyResetDay",
+      "value": "1"
+    },
+    {
+      "id": "AttendanceSupplement_CurrencyType",
+      "value": "2000"
+    },
+    {
+      "id": "AttendanceSupplement_Amount",
+      "value": "1000"
+    },
+    {
+      "id": "MaxMissionGauge",
+      "value": "100"
+    },
+    {
+      "id": "CharacterExpCurrencyCost",
+      "value": "1"
+    },
+    {
+      "id": "MaxExtendCharacterInventory",
+      "value": "500"
+    },
+    {
+      "id": "MaxExtendItemInventory",
+      "value": "500"
+    },
+    {
+      "id": "MaxLimitCharacterInventory",
+      "value": "1000"
+    },
+    {
+      "id": "MaxLimitItemInventory",
+      "value": "1000"
+    },
+    {
+      "id": "MinStoryStageSpotTime",
+      "value": "0"
+    },
+    {
+      "id": "ExtendCharacterInventoryCurrencyType",
+      "value": "99"
+    },
+    {
+      "id": "ExtendCharacterInventoryAmount",
+      "value": "100"
+    },
+    {
+      "id": "ExtendCharacterInventoryAddValue",
+      "value": "5"
+    },
+    {
+      "id": "AttackToBattlePower",
+      "value": "18"
+    },
+    {
+      "id": "DefenseToBattlePower",
+      "value": "100"
+    },
+    {
+      "id": "HpToBattlePower",
+      "value": "0.7"
+    },
+    {
+      "id": "SkillBaseToBattlePower",
+      "value": "1.3"
+    },
+    {
+      "id": "Skill1ToBattlePower",
+      "value": "0.01"
+    },
+    {
+      "id": "Skill2ToBattlePower",
+      "value": "0.01"
+    },
+    {
+      "id": "BurstSkillToBattlePower",
+      "value": "0.02"
+    },
+    {
+      "id": "EquipIncreaseExpCurrencyType",
+      "value": "2000"
+    },
+    {
+      "id": "EquipIncreaseExpAmount",
+      "value": "1"
+    },
+    {
+      "id": "EquipIncreaseStatBonus",
+      "value": "0.1"
+    },
+    {
+      "id": "MaxCeilingCount",
+      "value": "40"
+    },
+    {
+      "id": "GachaCustomMultiple",
+      "value": "15"
+    },
+    {
+      "id": "GachaCustomSingle",
+      "value": "1"
+    },
+    {
+      "id": "MaxGachaCustomCorporation",
+      "value": "5"
+    },
+    {
+      "id": "GuildCreationCurrencyType",
+      "value": "99"
+    },
+    {
+      "id": "GuildCreationCurrencyValue",
+      "value": "500"
+    },
+    {
+      "id": "DefaultGuildEmblem",
+      "value": "1"
+    },
+    {
+      "id": "DefaultGuildJoinType",
+      "value": "0"
+    },
+    {
+      "id": "DefaultGuildJoinLevel",
+      "value": "10"
+    },
+    {
+      "id": "GuildRenameCurrencyType",
+      "value": "99"
+    },
+    {
+      "id": "GuildRenameCurrencyValue",
+      "value": "500"
+    },
+    {
+      "id": "MaxGuildJoinRequestCount",
+      "value": "100"
+    },
+    {
+      "id": "GuildJoinWaitingTime",
+      "value": "5"
+    },
+    {
+      "id": "DailyGuildMemberContributionLimit",
+      "value": "100"
+    },
+    {
+      "id": "GachaCorporationStartingDate",
+      "value": "2020-01-01"
+    },
+    {
+      "id": "OpenGachaCorporationCurrencyType",
+      "value": "99"
+    },
+    {
+      "id": "OpenGachaCorporationCurrencyValue",
+      "value": "300"
+    },
+    {
+      "id": "DefaultOutpostResourceGroupId",
+      "value": "1000"
+    },
+    {
+      "id": "MaxFriendCount",
+      "value": "30"
+    },
+    {
+      "id": "MaxFriendReceiveCount",
+      "value": "30"
+    },
+    {
+      "id": "MaxFriendRequestCount",
+      "value": "30"
+    },
+    {
+      "id": "MaxFriendshipSendCount",
+      "value": "30"
+    },
+    {
+      "id": "MaxFriendshipReceiveCount",
+      "value": "15"
+    },
+    {
+      "id": "FriendshipValue",
+      "value": "2"
+    },
+    {
+      "id": "MaxBlacklistCount",
+      "value": "30"
+    },
+    {
+      "id": "EquipCorporationStatBonus",
+      "value": "0.3"
+    },
+    {
+      "id": "AttractiveDefaultMaxLv",
+      "value": "30"
+    },
+    {
+      "id": "AttractivePilgrimMaxLv",
+      "value": "40"
+    },
+    {
+      "id": "AttractiveCounselCurrencyType",
+      "value": "99"
+    },
+    {
+      "id": "AttractiveCounselCurrencyValue",
+      "value": "300"
+    },
+    {
+      "id": "AttractiveCounselTodayMaxCount",
+      "value": "3"
+    },
+    {
+      "id": "AttractiveMaterialCharacterRatio",
+      "value": "3"
+    },
+    {
+      "id": "AttractiveMaterialSquadRatio",
+      "value": "3"
+    },
+    {
+      "id": "AttractiveMaterialCorporationRatio",
+      "value": "5"
+    },
+    {
+      "id": "SetNicknameCurrencyType",
+      "value": "99"
+    },
+    {
+      "id": "SetNicknameCurrencyValue",
+      "value": "500"
+    },
+    {
+      "id": "AcquireCharacterPieceValue",
+      "value": "1"
+    },
+    {
+      "id": "DefaultArenaRating",
+      "value": "1000"
+    },
+    {
+      "id": "ArenaHardEnemyRating",
+      "value": "500"
+    },
+    {
+      "id": "ArenaNormalEnemyRating",
+      "value": "100"
+    },
+    {
+      "id": "ArenaEasyEnemyRating",
+      "value": "100"
+    },
+    {
+      "id": "ArenaHardEnemyCount",
+      "value": "1"
+    },
+    {
+      "id": "ArenaNormalEnemyCount",
+      "value": "1"
+    },
+    {
+      "id": "ArenaEasyEnemyCount",
+      "value": "1"
+    },
+    {
+      "id": "ArenaMinRating",
+      "value": "800"
+    },
+    {
+      "id": "ArenaMaxRating",
+      "value": "4000"
+    },
+    {
+      "id": "ArenaKFactor",
+      "value": "30"
+    },
+    {
+      "id": "ArenaWinRating",
+      "value": "1"
+    },
+    {
+      "id": "ArenaLoseRating",
+      "value": "0"
+    },
+    {
+      "id": "ArenaStageStatIncreaseGroupId",
+      "value": "50000"
+    },
+    {
+      "id": "SpecialArenaStageStatIncreaseGroupId",
+      "value": "50000"
+    },
+    {
+      "id": "OutpostMonsterSpawnTime",
+      "value": "8"
+    },
+    {
+      "id": "OutpostMonsterDestroyTime",
+      "value": "8.5"
+    },
+    {
+      "id": "OutpostBuildingAreaCharacterMovingSpeed",
+      "value": "2.5"
+    },
+    {
+      "id": "OutpostBattleAreaCharacterMovingSpeed",
+      "value": "6"
+    },
+    {
+      "id": "OutPostSDCharacterMinMoveSpeed",
+      "value": "1"
+    },
+    {
+      "id": "OutPostSDCharacterMaxMoveSpeed",
+      "value": "4"
+    },
+    {
+      "id": "ArenaTodayMaxCount",
+      "value": "3"
+    },
+    {
+      "id": "ArenaTicketBuyCurrencyType",
+      "value": "99"
+    },
+    {
+      "id": "ArenaTicketBuyCurrencyValue",
+      "value": "100"
+    },
+    {
+      "id": "CampaignCameraSensitive",
+      "value": "7"
+    },
+    {
+      "id": "CampaignCameraBlendTime",
+      "value": "2"
+    },
+    {
+      "id": "CampaignCameraDragDamping",
+      "value": "10"
+    },
+    {
+      "id": "OutpostCameraSensitive",
+      "value": "7"
+    },
+    {
+      "id": "OutpostCameraBlendTime",
+      "value": "0.4"
+    },
+    {
+      "id": "OutpostCameraDragDamping",
+      "value": "10"
+    },
+    {
+      "id": "LostSectorSquadMoveSpeedRatio",
+      "value": "150"
+    },
+    {
+      "id": "LostSectorCameraSensitive",
+      "value": "7"
+    },
+    {
+      "id": "LostSectorCameraBlendTime",
+      "value": "2"
+    },
+    {
+      "id": "LostSectorCameraDragDamping",
+      "value": "10"
+    },
+    {
+      "id": "LostSectorFogRemoveRange",
+      "value": "1200"
+    },
+    {
+      "id": "LostSectorStartCamera",
+      "value": "0.5"
+    },
+    {
+      "id": "LostSectorRepairEventTime",
+      "value": "2"
+    },
+    {
+      "id": "LostSectorHackingEventTime",
+      "value": "2"
+    },
+    {
+      "id": "LostSectorTriggerCountMarkingTime",
+      "value": "2"
+    },
+    {
+      "id": "LostSectorTransportInteractiondelay",
+      "value": "0.5"
+    },
+    {
+      "id": "TriggerCameraMoveTime",
+      "value": "0.3"
+    },
+    {
+      "id": "TriggerCameraStayTime",
+      "value": "0.1"
+    },
+    {
+      "id": "TriggerCameraReturnTime",
+      "value": "0.2"
+    },
+    {
+      "id": "TriggerDoorRetreatRange",
+      "value": "5"
+    },
+    {
+      "id": "IndicatorCameraBlendSpeed",
+      "value": "500"
+    },
+    {
+      "id": "LevelTriggerActivationDistanceRatio",
+      "value": "65"
+    },
+    {
+      "id": "PortalActivationDistanceRatio",
+      "value": "1"
+    },
+    {
+      "id": "AssistsquadCatMoveRange",
+      "value": "3"
+    },
+    {
+      "id": "AssistsquadCatRetreatRange",
+      "value": "15"
+    },
+    {
+      "id": "ArenaRecordMaxCount",
+      "value": "50"
+    },
+    {
+      "id": "MaxMailViewCount",
+      "value": "99"
+    },
+    {
+      "id": "MaxSendMessagerCount",
+      "value": "3"
+    },
+    {
+      "id": "PriorityDefaultMessage",
+      "value": "1"
+    },
+    {
+      "id": "PriorityEventMessage",
+      "value": "0"
+    },
+    {
+      "id": "WeeklyStamina",
+      "value": "2"
+    },
+    {
+      "id": "DefaultMaxStamina",
+      "value": "2"
+    },
+    {
+      "id": "MaxDefaultTeamCount",
+      "value": "5"
+    },
+    {
+      "id": "MaxProfileTeamCount",
+      "value": "1"
+    },
+    {
+      "id": "MaxArenaDefenseTeamCount",
+      "value": "1"
+    },
+    {
+      "id": "MaxArenaOffenseTeamCount",
+      "value": "5"
+    },
+    {
+      "id": "MaxTowerTeamCount",
+      "value": "5"
+    },
+    {
+      "id": "MaxLostSectorTeamCount",
+      "value": "5"
+    },
+    {
+      "id": "ArenaSeasonStartingDate",
+      "value": "2022-06-29"
+    },
+    {
+      "id": "ArenaSeasonPeriod",
+      "value": "14"
+    },
+    {
+      "id": "MaxAllOutpostEvent",
+      "value": "5"
+    },
+    {
+      "id": "MaxOutpostEventByBuildingTypeId",
+      "value": "1"
+    },
+    {
+      "id": "MaxNewDailyMessenger",
+      "value": "15"
+    },
+    {
+      "id": "MaxQueuingMessenger",
+      "value": "2"
+    },
+    {
+      "id": "ArenaMailSender",
+      "value": "1"
+    },
+    {
+      "id": "ArenaSeasonRewardPeriod",
+      "value": "7"
+    },
+    {
+      "id": "ArenaDailyRewardPeriod",
+      "value": "7"
+    },
+    {
+      "id": "SynchroDeviceSlotUnlockCurrencyType",
+      "value": "99"
+    },
+    {
+      "id": "SynchroDeviceSlotUnlockAmount",
+      "value": "500"
+    },
+    {
+      "id": "SynchroDeviceSlotWaitingTimeCurrencyType",
+      "value": "99"
+    },
+    {
+      "id": "SynchroDeviceSlotWaitingTimeAmount",
+      "value": "1"
+    },
+    {
+      "id": "SynchroDeviceMaxLv",
+      "value": "0"
+    },
+    {
+      "id": "SynchroDeviceSlotWaitingTime",
+      "value": "240"
+    },
+    {
+      "id": "OutpostFastCompCurrencyTime",
+      "value": "20"
+    },
+    {
+      "id": "DefaultHarmonyCubeLv",
+      "value": "1"
+    },
+    {
+      "id": "CharacterPieceExpItemValue",
+      "value": "10"
+    },
+    {
+      "id": "AcquireCharacterMaterialValue",
+      "value": "0"
+    },
+    {
+      "id": "ArenaSpecialMatchRefreshCoolTimeSec",
+      "value": "10"
+    },
+    {
+      "id": "CharacterLevelResetCurrencyType",
+      "value": "99"
+    },
+    {
+      "id": "CharacterLevelResetAmount",
+      "value": "10"
+    },
+    {
+      "id": "ArenaSpecialBoxRewardLimitTimeSec",
+      "value": "86400"
+    },
+    {
+      "id": "ArenaSpecialBoxRewardLimitValue1",
+      "value": "9999"
+    },
+    {
+      "id": "ArenaSpecialBoxRewardLimitValue2",
+      "value": "2100000000"
+    },
+    {
+      "id": "ArenaSpecialBoxRewardItemType",
+      "value": "Currency"
+    },
+    {
+      "id": "ArenaSpecialBoxRewardItemID",
+      "value": "5000"
+    },
+    {
+      "id": "ArenaSBoxRewardNoticePer",
+      "value": "50"
+    },
+    {
+      "id": "ArenaSpecialSeasonStartingDate",
+      "value": "2021-01-11"
+    },
+    {
+      "id": "IsConditionOverride",
+      "value": "False"
+    },
+    {
+      "id": "MaxShootingRangeTeamCount",
+      "value": "1"
+    },
+    {
+      "id": "MaxInterceptNormalTeamCount",
+      "value": "5"
+    },
+    {
+      "id": "MaxInterceptSpecialTeamCount",
+      "value": "5"
+    },
+    {
+      "id": "MaxSimulationRoomTeamCount",
+      "value": "5"
+    },
+    {
+      "id": "MaxStoryEventTeamCount",
+      "value": "5"
+    },
+    {
+      "id": "InterceptSpecialRotationStartingDate",
+      "value": "2022-06-06"
+    },
+    {
+      "id": "InterceptSpecialRotationPeriod",
+      "value": "24"
+    },
+    {
+      "id": "MaxMultiRaidRankListCount",
+      "value": "100"
+    },
+    {
+      "id": "MaxDailyEmergencyQuestCount",
+      "value": "3"
+    },
+    {
+      "id": "OffCustomGachaPopup",
+      "value": "13"
+    },
+    {
+      "id": "ScrollMovementSpeed",
+      "value": "38"
+    },
+    {
+      "id": "DragZoomSpeed",
+      "value": "0.03"
+    },
+    {
+      "id": "ProfileCacheTtl",
+      "value": "0:0:0:10"
+    },
+    {
+      "id": "PlayFakeGachaDirection",
+      "value": "3000"
+    },
+    {
+      "id": "PlayFake2GachaDirection",
+      "value": "7000"
+    },
+    {
+      "id": "DefaultOutpostBattleTimeByMin",
+      "value": "720"
+    },
+    {
+      "id": "OutpostBattleTutorialRewardByMin",
+      "value": "120"
+    },
+    {
+      "id": "TodayOutpostFastBattleCount",
+      "value": "11"
+    },
+    {
+      "id": "QuickBattleRewardDelay",
+      "value": "1.2"
+    },
+    {
+      "id": "UserExpResourceID",
+      "value": "9999"
+    },
+    {
+      "id": "UserExpNameLocalkey",
+      "value": "USER_EXP"
+    },
+    {
+      "id": "UserExpDescriptionLocalkey",
+      "value": "EXP_DESC"
+    },
+    {
+      "id": "EquipmentExpSaveRatio",
+      "value": "0.9"
+    },
+    {
+      "id": "ListResetCountDown",
+      "value": "5"
+    },
+    {
+      "id": "MaxAccountCount",
+      "value": "8000"
+    },
+    {
+      "id": "MaxFriendSearchCount",
+      "value": "10"
+    },
+    {
+      "id": "UITutorialTextMargin",
+      "value": "40"
+    },
+    {
+      "id": "TutorialBuildingSlotNumber",
+      "value": "11"
+    },
+    {
+      "id": "TutorialSynchroDeviceBuildingSlotNumber",
+      "value": "4"
+    },
+    {
+      "id": "TutorialForcePlayEndGroupID",
+      "value": "1040"
+    },
+    {
+      "id": "CharGradeToSynchroDeviceMaxLevel",
+      "value": "1"
+    },
+    {
+      "id": "CharRetentionAmountToSynchroDeviceMaxLevel",
+      "value": "1.334"
+    },
+    {
+      "id": "ShopMaxBuyCountNumber",
+      "value": "999"
+    },
+    {
+      "id": "PassStartRank",
+      "value": "1"
+    },
+    {
+      "id": "CharacterLevelPointVariable",
+      "value": "1"
+    },
+    {
+      "id": "SynchroLevelPointVariable",
+      "value": "1"
+    },
+    {
+      "id": "EmergencyEscapeTimeSec",
+      "value": "30"
+    },
+    {
+      "id": "SkipActiveDelayTimeSec",
+      "value": "2"
+    },
+    {
+      "id": "PassBuyLimiTime",
+      "value": "0:2:0:0"
+    },
+    {
+      "id": "WorldRaidEnterCount",
+      "value": "3"
+    },
+    {
+      "id": "WorldRaidUserEnterTimeCountSec",
+      "value": "60"
+    },
+    {
+      "id": "WorldRaidMailExpireDate",
+      "value": "25"
+    },
+    {
+      "id": "WorldRaidTeamCount",
+      "value": "5"
+    },
+    {
+      "id": "CooperationPartyInviteCoolTime",
+      "value": "60"
+    },
+    {
+      "id": "SimulationRoomDialogueBattleHardToHarder",
+      "value": "-1000"
+    },
+    {
+      "id": "SimulationRoomDialogueBattleEasyToEasier",
+      "value": "1000"
+    },
+    {
+      "id": "OtdrMaxDamage",
+      "value": "427190000"
+    },
+    {
+      "id": "OtdrMaxHeal",
+      "value": "106760000"
+    },
+    {
+      "id": "OtdrMinDamage",
+      "value": "0"
+    },
+    {
+      "id": "OtdrMinHeal",
+      "value": "1"
+    },
+    {
+      "id": "OtdrMaxCharacterSkillUseCount",
+      "value": "900"
+    },
+    {
+      "id": "OtdrMinClearTime",
+      "value": "5"
+    },
+    {
+      "id": "OtdrMaxShotCount",
+      "value": "135000"
+    },
+    {
+      "id": "OtdrMinReloadTime",
+      "value": "1"
+    },
+    {
+      "id": "JpSpecifiedTransactionActUrl",
+      "value": "https://nikke-jp.com/lawts"
+    },
+    {
+      "id": "JpFreePaidLawUrl",
+      "value": "https://nikke-jp.com/lawzj"
+    },
+    {
+      "id": "OutpostFastBattleRandomBoxInfo",
+      "value": "9501001"
+    },
+    {
+      "id": "MaxGuildJoinLevel",
+      "value": "100"
+    },
+    {
+      "id": "GuildJoinLevelBuffer",
+      "value": "5"
+    },
+    {
+      "id": "StandardContentsServerUserCount",
+      "value": "500"
+    },
+    {
+      "id": "UnionRaidEnterCount",
+      "value": "3"
+    },
+    {
+      "id": "UnionRaidUserEnterTimeCountSec",
+      "value": "60"
+    },
+    {
+      "id": "UnionRaidMailExpireDate",
+      "value": "25"
+    },
+    {
+      "id": "UnionRaidTeamCount",
+      "value": "5"
+    },
+    {
+      "id": "IsReviewGetSSRCharacterConditionUse",
+      "value": "True"
+    },
+    {
+      "id": "IsReviewGetInAppProductConditionUse",
+      "value": "True"
+    },
+    {
+      "id": "ReviewConditionTutorialGroupID",
+      "value": "2800"
+    },
+    {
+      "id": "EventCurrencyMaterialMiraclesnow",
+      "value": "7060003"
+    }
+  ]
+}

@@ -1,0 +1,269 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1,
+      "group_id": 101,
+      "monster_id": 3210010141,
+      "spawn_type": "Jump",
+      "start_point": 2023,
+      "ActionPoint": 132,
+      "dir_point": 2223,
+      "spawn_time": 0,
+      "attack_time": 0
+    },
+    {
+      "id": 2,
+      "group_id": 101,
+      "monster_id": 3210010141,
+      "spawn_type": "Jump",
+      "start_point": 2023,
+      "ActionPoint": 134,
+      "dir_point": 2223,
+      "spawn_time": 1,
+      "attack_time": 0
+    },
+    {
+      "id": 3,
+      "group_id": 101,
+      "monster_id": 3210010141,
+      "spawn_type": "Jump",
+      "start_point": 2123,
+      "ActionPoint": 136,
+      "dir_point": 2323,
+      "spawn_time": 0,
+      "attack_time": 0
+    },
+    {
+      "id": 4,
+      "group_id": 101,
+      "monster_id": 3210010141,
+      "spawn_type": "Jump",
+      "start_point": 2123,
+      "ActionPoint": 138,
+      "dir_point": 2323,
+      "spawn_time": 1,
+      "attack_time": 0
+    },
+    {
+      "id": 5,
+      "group_id": 101,
+      "monster_id": 2210010141,
+      "spawn_type": "Jump",
+      "start_point": 2023,
+      "ActionPoint": 232,
+      "dir_point": 2223,
+      "spawn_time": 3,
+      "attack_time": 0
+    },
+    {
+      "id": 6,
+      "group_id": 101,
+      "monster_id": 2210010141,
+      "spawn_type": "Jump",
+      "start_point": 2023,
+      "ActionPoint": 234,
+      "dir_point": 2223,
+      "spawn_time": 4,
+      "attack_time": 0
+    },
+    {
+      "id": 7,
+      "group_id": 101,
+      "monster_id": 2210010141,
+      "spawn_type": "Jump",
+      "start_point": 2123,
+      "ActionPoint": 236,
+      "dir_point": 2323,
+      "spawn_time": 3,
+      "attack_time": 0
+    },
+    {
+      "id": 8,
+      "group_id": 101,
+      "monster_id": 2210010141,
+      "spawn_type": "Jump",
+      "start_point": 2123,
+      "ActionPoint": 238,
+      "dir_point": 2323,
+      "spawn_time": 4,
+      "attack_time": 0
+    },
+    {
+      "id": 9,
+      "group_id": 101,
+      "monster_id": 1210020141,
+      "spawn_type": "Jump",
+      "start_point": 2023,
+      "ActionPoint": 332,
+      "dir_point": 2223,
+      "spawn_time": 6,
+      "attack_time": 0
+    },
+    {
+      "id": 10,
+      "group_id": 101,
+      "monster_id": 1210020141,
+      "spawn_type": "Jump",
+      "start_point": 2023,
+      "ActionPoint": 334,
+      "dir_point": 2223,
+      "spawn_time": 7,
+      "attack_time": 0
+    },
+    {
+      "id": 11,
+      "group_id": 101,
+      "monster_id": 1210020141,
+      "spawn_type": "Jump",
+      "start_point": 2123,
+      "ActionPoint": 336,
+      "dir_point": 2323,
+      "spawn_time": 6,
+      "attack_time": 0
+    },
+    {
+      "id": 12,
+      "group_id": 101,
+      "monster_id": 1210020141,
+      "spawn_type": "Jump",
+      "start_point": 2123,
+      "ActionPoint": 338,
+      "dir_point": 2323,
+      "spawn_time": 7,
+      "attack_time": 0
+    },
+    {
+      "id": 13,
+      "group_id": 102,
+      "monster_id": 1120010111,
+      "spawn_type": "Jump",
+      "start_point": 1002,
+      "ActionPoint": 1625,
+      "dir_point": 1205,
+      "spawn_time": 0,
+      "attack_time": 0
+    },
+    {
+      "id": 14,
+      "group_id": 102,
+      "monster_id": 1120010111,
+      "spawn_type": "Jump",
+      "start_point": 1003,
+      "ActionPoint": 1634,
+      "dir_point": 1208,
+      "spawn_time": 0,
+      "attack_time": 0
+    },
+    {
+      "id": 15,
+      "group_id": 102,
+      "monster_id": 1220020111,
+      "spawn_type": "Jump",
+      "start_point": 1102,
+      "ActionPoint": 1622,
+      "dir_point": 1305,
+      "spawn_time": 0,
+      "attack_time": 0
+    },
+    {
+      "id": 16,
+      "group_id": 102,
+      "monster_id": 1220020111,
+      "spawn_type": "Jump",
+      "start_point": 1101,
+      "ActionPoint": 1614,
+      "dir_point": 1303,
+      "spawn_time": 2,
+      "attack_time": 0
+    },
+    {
+      "id": 17,
+      "group_id": 102,
+      "monster_id": 1120010111,
+      "spawn_type": "Jump",
+      "start_point": 1003,
+      "ActionPoint": 1635,
+      "dir_point": 1207,
+      "spawn_time": 2,
+      "attack_time": 0
+    },
+    {
+      "id": 18,
+      "group_id": 102,
+      "monster_id": 1120010111,
+      "spawn_type": "Jump",
+      "start_point": 1102,
+      "ActionPoint": 1627,
+      "dir_point": 1304,
+      "spawn_time": 2,
+      "attack_time": 0
+    },
+    {
+      "id": 19,
+      "group_id": 102,
+      "monster_id": 1220010111,
+      "spawn_type": "Jump",
+      "start_point": 1104,
+      "ActionPoint": 1643,
+      "dir_point": 1311,
+      "spawn_time": 3,
+      "attack_time": 0
+    },
+    {
+      "id": 20,
+      "group_id": 102,
+      "monster_id": 1220010111,
+      "spawn_type": "Jump",
+      "start_point": 1004,
+      "ActionPoint": 1645,
+      "dir_point": 1212,
+      "spawn_time": 3,
+      "attack_time": 0
+    },
+    {
+      "id": 21,
+      "group_id": 102,
+      "monster_id": 3220040111,
+      "spawn_type": "Jump",
+      "start_point": 1105,
+      "ActionPoint": 1654,
+      "dir_point": 1315,
+      "spawn_time": 3,
+      "attack_time": 0
+    },
+    {
+      "id": 22,
+      "group_id": 102,
+      "monster_id": 3220040111,
+      "spawn_type": "Jump",
+      "start_point": 1104,
+      "ActionPoint": 1647,
+      "dir_point": 1310,
+      "spawn_time": 4,
+      "attack_time": 0
+    },
+    {
+      "id": 23,
+      "group_id": 102,
+      "monster_id": 1220010111,
+      "spawn_type": "Jump",
+      "start_point": 1006,
+      "ActionPoint": 1662,
+      "dir_point": 1217,
+      "spawn_time": 5,
+      "attack_time": 0
+    },
+    {
+      "id": 24,
+      "group_id": 102,
+      "monster_id": 1220010111,
+      "spawn_type": "Jump",
+      "start_point": 1005,
+      "ActionPoint": 1654,
+      "dir_point": 1214,
+      "spawn_time": 6,
+      "attack_time": 0
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1,
+      "board_id": 1001,
+      "max_heropower": 100,
+      "max_clear": 10,
+      "dice_consume": 1,
+      "player_move_time": 20,
+      "board_finish_heropower": 30,
+      "marble_clear_reward_list": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "clear_reward_id_repeat": 50
+    }
+  ]
+}

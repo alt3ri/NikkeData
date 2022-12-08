@@ -1,0 +1,31 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": "d_main_01_07_end",
+      "group_id": "d_main_01_07_e",
+      "scenario_localkey": "none",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "play_movie": "opening_pv01",
+      "effects": [
+        {},
+        {}
+      ]
+    }
+  ]
+}

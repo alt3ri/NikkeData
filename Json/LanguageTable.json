@@ -1,0 +1,40 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "key": "en",
+      "order": 1,
+      "name_localkey": "LANGUAGE_NAME_EN"
+    },
+    {
+      "key": "ja",
+      "order": 2,
+      "name_localkey": "LANGUAGE_NAME_JA"
+    },
+    {
+      "key": "ko",
+      "order": 3,
+      "name_localkey": "LANGUAGE_NAME_KO"
+    },
+    {
+      "key": "zh-CN",
+      "order": 4,
+      "name_localkey": "LANGUAGE_NAME_ZH_CN"
+    },
+    {
+      "key": "zh-TW",
+      "order": 5,
+      "name_localkey": "LANGUAGE_NAME_ZH_TW"
+    },
+    {
+      "key": "de",
+      "order": 6,
+      "name_localkey": "LANGUAGE_NAME_DE"
+    },
+    {
+      "key": "th",
+      "order": 7,
+      "name_localkey": "LANGUAGE_NAME_TH"
+    }
+  ]
+}

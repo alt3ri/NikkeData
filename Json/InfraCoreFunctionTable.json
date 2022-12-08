@@ -1,0 +1,136 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1,
+      "function_type": "OpenAllReceive",
+      "function_localkey": "INFRACORE_FUNCTION_OPENALLRECIEVE",
+      "order": 1,
+      "is_hidden": false
+    },
+    {
+      "id": 2,
+      "function_type": "DispatchMaxList",
+      "function_localkey": "INFRACORE_FUNCTION_DISPATCHMAXLIST",
+      "order": 2,
+      "is_hidden": false
+    },
+    {
+      "id": 3,
+      "function_type": "TodayAttractiveMaxCount",
+      "function_localkey": "INFRACORE_FUNCTION_ATTRACTIVEMAXCOUNT",
+      "order": 3,
+      "is_hidden": false
+    },
+    {
+      "id": 4,
+      "function_type": "OpenAutoDispatch",
+      "function_localkey": "INFRACORE_FUNCTION_OPENAUTODISPATCH",
+      "order": 4,
+      "is_hidden": false
+    },
+    {
+      "id": 5,
+      "function_type": "StaminaMaxCount",
+      "function_localkey": "INFRACORE_FUNCTION_STAMINAMAXCOUNT",
+      "order": 5,
+      "is_hidden": false
+    },
+    {
+      "id": 6,
+      "function_type": "OpenFastDispatch",
+      "function_localkey": "INFRACORE_FUNCTION_OPENFASTDISPATCH",
+      "order": 6,
+      "is_hidden": false
+    },
+    {
+      "id": 7,
+      "function_type": "ShopNormalFreeResetMaxCount",
+      "function_localkey": "INFRACORE_FUNCTION_RESETPRODUCTMAXCOUNT",
+      "order": 7,
+      "is_hidden": false
+    },
+    {
+      "id": 8,
+      "function_type": "ArenaMaxCount",
+      "function_localkey": "INFRACORE_FUNCTION_ARENAMAXCOUNT",
+      "order": 8,
+      "is_hidden": false
+    },
+    {
+      "id": 9,
+      "function_type": "OutpostBattleMaxTime",
+      "function_localkey": "INFRACORE_FUNCTION_OUTPOSTBATTLEMAXTIME",
+      "order": 9,
+      "is_hidden": false
+    },
+    {
+      "id": 10,
+      "function_type": "OutpostFastBattleMaxCount",
+      "function_localkey": "INFRACORE_FUNCTION_OUTPOSTFASTBATTLEMAXCOUNT",
+      "order": 10,
+      "is_hidden": false
+    },
+    {
+      "id": 11,
+      "function_type": "ShopNormalBuyLimitMaxCount",
+      "function_localkey": "INFRACORE_FUNCTION_RESETPRODUCTMAXCOUNT",
+      "order": 11,
+      "is_hidden": false
+    },
+    {
+      "id": 12,
+      "function_type": "None",
+      "order": 12,
+      "is_hidden": false
+    },
+    {
+      "id": 13,
+      "function_type": "None",
+      "order": 13,
+      "is_hidden": false
+    },
+    {
+      "id": 14,
+      "function_type": "None",
+      "order": 14,
+      "is_hidden": false
+    },
+    {
+      "id": 15,
+      "function_type": "None",
+      "order": 15,
+      "is_hidden": false
+    },
+    {
+      "id": 16,
+      "function_type": "None",
+      "order": 16,
+      "is_hidden": false
+    },
+    {
+      "id": 17,
+      "function_type": "None",
+      "order": 17,
+      "is_hidden": false
+    },
+    {
+      "id": 18,
+      "function_type": "None",
+      "order": 18,
+      "is_hidden": false
+    },
+    {
+      "id": 19,
+      "function_type": "None",
+      "order": 19,
+      "is_hidden": false
+    },
+    {
+      "id": 20,
+      "function_type": "None",
+      "order": 20,
+      "is_hidden": false
+    }
+  ]
+}

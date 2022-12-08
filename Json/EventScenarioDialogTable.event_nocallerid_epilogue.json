@@ -1,0 +1,950 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": "event_nocallerid_05_e_62",
+      "event_id": 40001,
+      "group_id": "event_nocallerid_epilogue",
+      "speech_window": "Speech",
+      "highlight": "andersen",
+      "speaker": "andersen",
+      "scenario_localkey": "event_nocallerid_05_e_62",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "show_char_id": "andersen",
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "Office",
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "play_bgm": "bgm_inark",
+      "effects": [
+        {},
+        {}
+      ],
+      "fade": "black"
+    },
+    {
+      "id": "event_nocallerid_05_e_63",
+      "event_id": 40001,
+      "group_id": "event_nocallerid_epilogue",
+      "speech_window": "Speech",
+      "highlight": "andersen",
+      "speaker": "andersen",
+      "scenario_localkey": "event_nocallerid_05_e_63",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_nocallerid_05_e_64",
+      "event_id": 40001,
+      "group_id": "event_nocallerid_epilogue",
+      "speech_window": "Speech",
+      "highlight": "andersen",
+      "speaker": "andersen",
+      "scenario_localkey": "event_nocallerid_05_e_64",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_nocallerid_05_e_65",
+      "event_id": 40001,
+      "group_id": "event_nocallerid_epilogue",
+      "speech_window": "Speech",
+      "highlight": "andersen",
+      "speaker": "andersen",
+      "scenario_localkey": "event_nocallerid_05_e_65",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_nocallerid_05_e_66",
+      "event_id": 40001,
+      "group_id": "event_nocallerid_epilogue",
+      "speech_window": "Speech",
+      "highlight": "andersen",
+      "speaker": "andersen",
+      "scenario_localkey": "event_nocallerid_05_e_66",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_nocallerid_05_e_67",
+      "event_id": 40001,
+      "group_id": "event_nocallerid_epilogue",
+      "speech_window": "Self",
+      "highlight": "andersen",
+      "speaker": "Self",
+      "scenario_localkey": "event_nocallerid_05_e_67",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_nocallerid_05_e_68",
+      "event_id": 40001,
+      "group_id": "event_nocallerid_epilogue",
+      "speech_window": "Speech",
+      "highlight": "andersen",
+      "speaker": "andersen",
+      "scenario_localkey": "event_nocallerid_05_e_68",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "L_10",
+      "set_camera_duration": 2.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_nocallerid_05_e_69",
+      "event_id": 40001,
+      "group_id": "event_nocallerid_epilogue",
+      "speech_window": "Speech",
+      "highlight": "andersen",
+      "speaker": "andersen",
+      "scenario_localkey": "event_nocallerid_05_e_69",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "L_10",
+      "set_end_camera": "L_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_nocallerid_05_e_70",
+      "event_id": 40001,
+      "group_id": "event_nocallerid_epilogue",
+      "speech_window": "Self",
+      "highlight": "andersen",
+      "speaker": "Self",
+      "scenario_localkey": "event_nocallerid_05_e_70",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "L_10",
+      "set_end_camera": "L_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_nocallerid_05_e_71",
+      "event_id": 40001,
+      "group_id": "event_nocallerid_epilogue",
+      "speech_window": "Speech",
+      "highlight": "andersen",
+      "speaker": "andersen",
+      "scenario_localkey": "event_nocallerid_05_e_71",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "L_10",
+      "set_end_camera": "L_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_nocallerid_05_e_72",
+      "event_id": 40001,
+      "group_id": "event_nocallerid_epilogue",
+      "speech_window": "Speech",
+      "highlight": "andersen",
+      "speaker": "andersen",
+      "scenario_localkey": "event_nocallerid_05_e_72",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "L_10",
+      "set_end_camera": "L_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_nocallerid_05_e_73",
+      "event_id": 40001,
+      "group_id": "event_nocallerid_epilogue",
+      "speech_window": "Self",
+      "highlight": "andersen",
+      "speaker": "Self",
+      "scenario_localkey": "event_nocallerid_05_e_73",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "L_10",
+      "set_end_camera": "L_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_nocallerid_05_e_74",
+      "event_id": 40001,
+      "group_id": "event_nocallerid_epilogue",
+      "speech_window": "Speech",
+      "highlight": "andersen",
+      "speaker": "andersen",
+      "scenario_localkey": "event_nocallerid_05_e_74",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "L_10",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_nocallerid_05_e_75",
+      "event_id": 40001,
+      "group_id": "event_nocallerid_epilogue",
+      "speech_window": "Speech",
+      "highlight": "andersen",
+      "speaker": "andersen",
+      "scenario_localkey": "event_nocallerid_05_e_75",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "fade": "black"
+    },
+    {
+      "id": "event_nocallerid_05_e_76",
+      "event_id": 40001,
+      "group_id": "event_nocallerid_epilogue",
+      "speech_window": "Speech",
+      "highlight": "shifty",
+      "speaker": "shifty",
+      "scenario_localkey": "event_nocallerid_05_e_76",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "angry"
+        },
+        {
+          "show_char_id": "shifty",
+          "set_char_position": "OP_leftup",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_nocallerid_05_e_77",
+      "event_id": 40001,
+      "group_id": "event_nocallerid_epilogue",
+      "speech_window": "Speech",
+      "highlight": "andersen",
+      "speaker": "andersen",
+      "scenario_localkey": "event_nocallerid_05_e_77",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "angry"
+        },
+        {
+          "set_char_position": "OP_leftup",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_nocallerid_05_e_78",
+      "event_id": 40001,
+      "group_id": "event_nocallerid_epilogue",
+      "speech_window": "Speech",
+      "highlight": "andersen",
+      "speaker": "andersen",
+      "scenario_localkey": "event_nocallerid_05_e_78",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "angry"
+        },
+        {
+          "set_char_position": "OP_leftup",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_nocallerid_05_e_79",
+      "event_id": 40001,
+      "group_id": "event_nocallerid_epilogue",
+      "speech_window": "Speech",
+      "highlight": "andersen",
+      "speaker": "andersen",
+      "scenario_localkey": "event_nocallerid_05_e_79",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "angry"
+        },
+        {
+          "set_char_position": "OP_leftup",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_nocallerid_05_e_80",
+      "event_id": 40001,
+      "group_id": "event_nocallerid_epilogue",
+      "speech_window": "Speech",
+      "highlight": "shifty",
+      "speaker": "shifty",
+      "scenario_localkey": "event_nocallerid_05_e_80",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "OP_leftup",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_nocallerid_05_e_81",
+      "event_id": 40001,
+      "group_id": "event_nocallerid_epilogue",
+      "speech_window": "Speech",
+      "highlight": "shifty",
+      "speaker": "shifty",
+      "scenario_localkey": "event_nocallerid_05_e_81",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "OP_leftup",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_nocallerid_05_e_82",
+      "event_id": 40001,
+      "group_id": "event_nocallerid_epilogue",
+      "speech_window": "Speech",
+      "highlight": "shifty",
+      "speaker": "shifty",
+      "scenario_localkey": "event_nocallerid_05_e_82",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "OP_leftup",
+          "set_char_anim": "no"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_nocallerid_05_e_83",
+      "event_id": 40001,
+      "group_id": "event_nocallerid_epilogue",
+      "speech_window": "Speech",
+      "highlight": "andersen",
+      "speaker": "andersen",
+      "scenario_localkey": "event_nocallerid_05_e_83",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "think"
+        },
+        {
+          "set_char_position": "OP_leftup",
+          "set_char_anim": "no"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_nocallerid_05_e_84",
+      "event_id": 40001,
+      "group_id": "event_nocallerid_epilogue",
+      "speech_window": "Speech",
+      "highlight": "andersen",
+      "speaker": "andersen",
+      "scenario_localkey": "event_nocallerid_05_e_84",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "think"
+        },
+        {
+          "set_char_position": "OP_leftup",
+          "set_char_anim": "no"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_nocallerid_05_e_85",
+      "event_id": 40001,
+      "group_id": "event_nocallerid_epilogue",
+      "speech_window": "Speech",
+      "highlight": "andersen",
+      "speaker": "andersen",
+      "scenario_localkey": "event_nocallerid_05_e_85",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "angry"
+        },
+        {
+          "set_char_position": "OP_leftup",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_nocallerid_05_e_86",
+      "event_id": 40001,
+      "group_id": "event_nocallerid_epilogue",
+      "speech_window": "Speech",
+      "highlight": "andersen",
+      "speaker": "andersen",
+      "scenario_localkey": "event_nocallerid_05_e_86",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "OP_leftup",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "L_10",
+      "set_camera_duration": 2.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_nocallerid_05_e_87",
+      "event_id": 40001,
+      "group_id": "event_nocallerid_epilogue",
+      "speech_window": "Speech",
+      "highlight": "andersen",
+      "speaker": "andersen",
+      "scenario_localkey": "event_nocallerid_05_e_87",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "OP_leftup",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "L_10",
+      "set_end_camera": "L_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_nocallerid_05_e_88",
+      "event_id": 40001,
+      "group_id": "event_nocallerid_epilogue",
+      "speech_window": "Speech",
+      "highlight": "andersen",
+      "speaker": "andersen",
+      "scenario_localkey": "event_nocallerid_05_e_88",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "OP_leftup",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "L_10",
+      "set_end_camera": "L_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_nocallerid_05_e_89",
+      "event_id": 40001,
+      "group_id": "event_nocallerid_epilogue",
+      "speech_window": "Speech",
+      "highlight": "andersen",
+      "speaker": "andersen",
+      "scenario_localkey": "event_nocallerid_05_e_89",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {
+          "hide_char_id": "shifty",
+          "set_char_position": "OP_leftup",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "L_10",
+      "set_end_camera": "L_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    }
+  ]
+}

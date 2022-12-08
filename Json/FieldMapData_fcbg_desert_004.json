@@ -1,0 +1,142 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": "fcbg_desert_004",
+      "CameraPoint": [
+        {
+          "positionId": "6d301fcb-aa65-49b1-87e7-1fffe45f9144"
+        }
+      ],
+      "TeamSpawner": [
+        {
+          "positionId": "88ac54e0-4e80-4fc8-88af-1835e4bd7648"
+        }
+      ],
+      "StageSpawner": [
+        {
+          "positionId": "136c4fb9-765c-4179-95b7-e55588f590b3",
+          "stageId": 6004001
+        },
+        {
+          "positionId": "0f8012c0-ba48-4841-b9f6-dcab1afc7b98",
+          "stageId": 6004002
+        },
+        {
+          "positionId": "be2a5c8b-c224-4e09-a389-0f3099471b33",
+          "stageId": 6004003
+        },
+        {
+          "positionId": "f7698234-bfaf-49b5-a6a9-ce14e90a9456",
+          "stageId": 6004004
+        },
+        {
+          "positionId": "e7753f9a-1078-4cfc-b4cb-04270b015a77",
+          "stageId": 6004005
+        },
+        {
+          "positionId": "238146bf-933e-43a5-b488-2f81e65daad0",
+          "stageId": 6004006
+        },
+        {
+          "positionId": "d503da59-7ae2-467d-89e1-d944d00a21cc",
+          "stageId": 6004007
+        },
+        {
+          "positionId": "df28fade-9bc6-4b67-ae46-ffa71ffead69",
+          "stageId": 6004008
+        },
+        {
+          "positionId": "a3920a7c-6a42-4ad2-acb8-c5e869186a6f",
+          "stageId": 6004009
+        },
+        {
+          "positionId": "f03146d5-c7f4-4424-820d-97ae6b47a424",
+          "stageId": 6004010
+        },
+        {
+          "positionId": "4d61beda-0fb5-4698-b836-37ddc9f781d0",
+          "stageId": 6004011
+        },
+        {
+          "positionId": "06532990-3b99-4712-b345-04f15e11acee",
+          "stageId": 6004012
+        },
+        {
+          "positionId": "219d7aa3-380a-474e-a746-a7c9ac6c0029",
+          "stageId": 6004013
+        },
+        {
+          "positionId": "5773f905-4286-41bf-a4b2-dfd5c3eb5875",
+          "stageId": 6004014
+        },
+        {
+          "positionId": "f9563bd5-cf60-4dba-8f39-8d8a6906afbb",
+          "stageId": 6004015
+        },
+        {
+          "positionId": "26792b09-b902-4c95-b783-2b8b00fe00d0",
+          "stageId": 6004016
+        },
+        {
+          "positionId": "53c89de7-54ab-4a31-967d-7fc8cf4cb9d7",
+          "stageId": 6004017
+        },
+        {
+          "positionId": "30864a78-9014-4d1a-b56b-6e9fb8633167",
+          "stageId": 6004018
+        },
+        {
+          "positionId": "a7c3eec7-d256-465d-90a7-6839cb6c6237",
+          "stageId": 6004019
+        },
+        {
+          "positionId": "2d41e198-1150-443b-be7c-7fcd575fae2c",
+          "stageId": 6004020
+        },
+        {
+          "positionId": "b0423e9b-94f2-4576-9faa-02ee5a5c9875",
+          "stageId": 6004021
+        },
+        {
+          "positionId": "c78c6db8-245c-4a99-a031-09a75163731f",
+          "stageId": 6004022
+        },
+        {
+          "positionId": "2c44ef52-cb83-473d-8e5f-b95515d236d7",
+          "stageId": 6004023
+        },
+        {
+          "positionId": "898d313b-d440-4f6e-a550-9f69c11036df",
+          "stageId": 6004024
+        },
+        {
+          "positionId": "fa89bf1d-0eff-4111-a8d1-faf11d7a36c0",
+          "stageId": 6004025
+        }
+      ],
+      "Gate": [
+        {
+          "positionId": "13f08306-e0b2-4a9d-b06e-e94bb57dd4fc",
+          "OnTrigger": false
+        },
+        {
+          "positionId": "af6b43d0-8fb9-4e15-a9ae-9798f4c98ac7",
+          "OnTrigger": false
+        }
+      ],
+      "Switch": [
+        {
+          "positionId": "440a7431-d210-47fb-ad19-37a0469473b6",
+          "switchType": 2,
+          "OnTrigger": false
+        },
+        {
+          "positionId": "c23d631f-081d-4d6e-9e91-bf1181878fa5",
+          "switchType": 2,
+          "OnTrigger": false
+        }
+      ]
+    }
+  ]
+}

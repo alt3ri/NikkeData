@@ -1,0 +1,295 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1,
+      "theme": "CityForest",
+      "bgm_loop": "bgm_spot_crumblingcity_a"
+    },
+    {
+      "id": 2,
+      "theme": "CityForest",
+      "bgm_loop": "bgm_spot_crumblingcity_b"
+    },
+    {
+      "id": 3,
+      "theme": "CityForest",
+      "bgm_loop": "bgm_spot_bulletstorm_a"
+    },
+    {
+      "id": 4,
+      "theme": "CityForest",
+      "bgm_loop": "bgm_spot_bulletstorm_b"
+    },
+    {
+      "id": 5,
+      "theme": "CityForest",
+      "bgm_loop": "bgm_spot_incomingrapture_a"
+    },
+    {
+      "id": 6,
+      "theme": "CityForest",
+      "bgm_loop": "bgm_spot_incomingrapture_b"
+    },
+    {
+      "id": 7,
+      "theme": "CityForestUnder",
+      "bgm_loop": "bgm_spot_crumblingcity_a"
+    },
+    {
+      "id": 8,
+      "theme": "CityForestUnder",
+      "bgm_loop": "bgm_spot_crumblingcity_b"
+    },
+    {
+      "id": 9,
+      "theme": "CityForestUnder",
+      "bgm_loop": "bgm_spot_bulletstorm_a"
+    },
+    {
+      "id": 10,
+      "theme": "CityForestUnder",
+      "bgm_loop": "bgm_spot_bulletstorm_b"
+    },
+    {
+      "id": 11,
+      "theme": "CityForestUnder",
+      "bgm_loop": "bgm_spot_incomingrapture_a"
+    },
+    {
+      "id": 12,
+      "theme": "CityForestUnder",
+      "bgm_loop": "bgm_spot_incomingrapture_b"
+    },
+    {
+      "id": 13,
+      "theme": "IceLand",
+      "bgm_loop": "bgm_spot_silvermane_a"
+    },
+    {
+      "id": 14,
+      "theme": "IceLand",
+      "bgm_loop": "bgm_spot_silvermane_b"
+    },
+    {
+      "id": 15,
+      "theme": "IceLand",
+      "bgm_loop": "bgm_spot_labyrinth_a"
+    },
+    {
+      "id": 16,
+      "theme": "IceLand",
+      "bgm_loop": "bgm_spot_labyrinth_b"
+    },
+    {
+      "id": 17,
+      "theme": "IceLand",
+      "bgm_loop": "bgm_spot_scardi_a"
+    },
+    {
+      "id": 18,
+      "theme": "IceLand",
+      "bgm_loop": "bgm_spot_scardi_b"
+    },
+    {
+      "id": 19,
+      "theme": "Wasteland",
+      "bgm_loop": "bgm_spot_theclue_a"
+    },
+    {
+      "id": 20,
+      "theme": "Wasteland",
+      "bgm_loop": "bgm_spot_theclue_b"
+    },
+    {
+      "id": 21,
+      "theme": "Wasteland",
+      "bgm_loop": "bgm_spot_standalone_a"
+    },
+    {
+      "id": 22,
+      "theme": "Wasteland",
+      "bgm_loop": "bgm_spot_standalone_b"
+    },
+    {
+      "id": 23,
+      "theme": "GreatHole",
+      "bgm_loop": "bgm_spot_goundzero_a"
+    },
+    {
+      "id": 24,
+      "theme": "GreatHole",
+      "bgm_loop": "bgm_spot_goundzero_b"
+    },
+    {
+      "id": 25,
+      "theme": "Desert",
+      "bgm_loop": "bgm_spot_khamsin_a"
+    },
+    {
+      "id": 26,
+      "theme": "Desert",
+      "bgm_loop": "bgm_spot_khamsin_b"
+    },
+    {
+      "id": 27,
+      "theme": "Desert",
+      "bgm_loop": "bgm_spot_dustrider_a"
+    },
+    {
+      "id": 28,
+      "theme": "Desert",
+      "bgm_loop": "bgm_spot_dustrider_b"
+    },
+    {
+      "id": 29,
+      "theme": "Desert",
+      "bgm_loop": "bgm_spot_splinter_a"
+    },
+    {
+      "id": 30,
+      "theme": "Desert",
+      "bgm_loop": "bgm_spot_splinter_b"
+    },
+    {
+      "id": 31,
+      "theme": "ArcCity",
+      "bgm_loop": "bgm_spot_crumblingcity_a"
+    },
+    {
+      "id": 32,
+      "theme": "ArcCity",
+      "bgm_loop": "bgm_spot_crumblingcity_b"
+    },
+    {
+      "id": 33,
+      "theme": "ArcCity",
+      "bgm_loop": "bgm_spot_bulletstorm_a"
+    },
+    {
+      "id": 34,
+      "theme": "ArcCity",
+      "bgm_loop": "bgm_spot_bulletstorm_b"
+    },
+    {
+      "id": 35,
+      "theme": "ArcCity",
+      "bgm_loop": "bgm_spot_incomingrapture_a"
+    },
+    {
+      "id": 36,
+      "theme": "ArcCity",
+      "bgm_loop": "bgm_spot_incomingrapture_b"
+    },
+    {
+      "id": 37,
+      "theme": "ArcCity",
+      "bgm_loop": "bgm_spot_crumblingcity_a"
+    },
+    {
+      "id": 38,
+      "theme": "ArcCity",
+      "bgm_loop": "bgm_spot_crumblingcity_b"
+    },
+    {
+      "id": 39,
+      "theme": "ArcCity",
+      "bgm_loop": "bgm_spot_bulletstorm_a"
+    },
+    {
+      "id": 40,
+      "theme": "ArcCity",
+      "bgm_loop": "bgm_spot_bulletstorm_b"
+    },
+    {
+      "id": 41,
+      "theme": "ArcCity",
+      "bgm_loop": "bgm_spot_incomingrapture_a"
+    },
+    {
+      "id": 42,
+      "theme": "ArcCity",
+      "bgm_loop": "bgm_spot_incomingrapture_b"
+    },
+    {
+      "id": 43,
+      "theme": "ArcCity",
+      "bgm_loop": "bgm_spot_silvermane_a"
+    },
+    {
+      "id": 44,
+      "theme": "ArcCity",
+      "bgm_loop": "bgm_spot_silvermane_b"
+    },
+    {
+      "id": 45,
+      "theme": "ArcCity",
+      "bgm_loop": "bgm_spot_labyrinth_a"
+    },
+    {
+      "id": 46,
+      "theme": "ArcCity",
+      "bgm_loop": "bgm_spot_labyrinth_b"
+    },
+    {
+      "id": 47,
+      "theme": "ArcCity",
+      "bgm_loop": "bgm_spot_scardi_a"
+    },
+    {
+      "id": 48,
+      "theme": "ArcCity",
+      "bgm_loop": "bgm_spot_scardi_b"
+    },
+    {
+      "id": 49,
+      "theme": "ArcCity",
+      "bgm_loop": "bgm_spot_theclue_a"
+    },
+    {
+      "id": 50,
+      "theme": "ArcCity",
+      "bgm_loop": "bgm_spot_theclue_b"
+    },
+    {
+      "id": 51,
+      "theme": "ArcCity",
+      "bgm_loop": "bgm_spot_goundzero_a"
+    },
+    {
+      "id": 52,
+      "theme": "ArcCity",
+      "bgm_loop": "bgm_spot_goundzero_b"
+    },
+    {
+      "id": 53,
+      "theme": "ArcCity",
+      "bgm_loop": "bgm_spot_khamsin_a"
+    },
+    {
+      "id": 54,
+      "theme": "ArcCity",
+      "bgm_loop": "bgm_spot_khamsin_b"
+    },
+    {
+      "id": 55,
+      "theme": "ArcCity",
+      "bgm_loop": "bgm_spot_dustrider_a"
+    },
+    {
+      "id": 56,
+      "theme": "ArcCity",
+      "bgm_loop": "bgm_spot_dustrider_b"
+    },
+    {
+      "id": 57,
+      "theme": "ArcCity",
+      "bgm_loop": "bgm_spot_splinter_a"
+    },
+    {
+      "id": 58,
+      "theme": "ArcCity",
+      "bgm_loop": "bgm_spot_splinter_b"
+    }
+  ]
+}

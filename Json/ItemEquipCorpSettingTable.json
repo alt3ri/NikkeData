@@ -1,0 +1,77 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1,
+      "key": "Equipment_None",
+      "corp_type": "None",
+      "ratio_none": 10000,
+      "ratio_missilis": 0,
+      "ratio_elysion": 0,
+      "ratio_tetra": 0,
+      "ratio_pilgrim": 0
+    },
+    {
+      "id": 2,
+      "key": "Equipment_MISSILIS",
+      "corp_type": "MISSILIS",
+      "ratio_none": 0,
+      "ratio_missilis": 10000,
+      "ratio_elysion": 0,
+      "ratio_tetra": 0,
+      "ratio_pilgrim": 0
+    },
+    {
+      "id": 3,
+      "key": "Equipment_ELYSION",
+      "corp_type": "ELYSION",
+      "ratio_none": 0,
+      "ratio_missilis": 0,
+      "ratio_elysion": 10000,
+      "ratio_tetra": 0,
+      "ratio_pilgrim": 0
+    },
+    {
+      "id": 4,
+      "key": "Equipment_TETRA",
+      "corp_type": "TETRA",
+      "ratio_none": 0,
+      "ratio_missilis": 0,
+      "ratio_elysion": 0,
+      "ratio_tetra": 10000,
+      "ratio_pilgrim": 0
+    },
+    {
+      "id": 5,
+      "key": "Equipment_PILGRIM",
+      "corp_type": "PILGRIM",
+      "ratio_none": 0,
+      "ratio_missilis": 0,
+      "ratio_elysion": 0,
+      "ratio_tetra": 0,
+      "ratio_pilgrim": 10000
+    },
+    {
+      "id": 6,
+      "key": "Equipment_Random_01",
+      "corp_type": "RANDOM",
+      "corp_description_localkey": "EQUIPMENT_COMPANY_SETTING_DESC_RANDOM_01",
+      "ratio_none": 2000,
+      "ratio_missilis": 2000,
+      "ratio_elysion": 2000,
+      "ratio_tetra": 2000,
+      "ratio_pilgrim": 2000
+    },
+    {
+      "id": 7,
+      "key": "Equipment_Random_02",
+      "corp_type": "RANDOM",
+      "corp_description_localkey": "EQUIPMENT_COMPANY_SETTING_DESC_RANDOM_02",
+      "ratio_none": 0,
+      "ratio_missilis": 2500,
+      "ratio_elysion": 2500,
+      "ratio_tetra": 2500,
+      "ratio_pilgrim": 2500
+    }
+  ]
+}

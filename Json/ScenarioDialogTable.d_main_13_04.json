@@ -1,0 +1,565 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": "d_main_13_04_1",
+      "group_id": "d_main_13_04",
+      "speech_window": "Speech",
+      "highlight": "shifty",
+      "speaker": "shifty",
+      "scenario_localkey": "d_main_13_04_1",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {
+          "show_char_id": "shifty",
+          "set_char_position": "OP_center",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "Desert_01",
+      "set_start_camera": "3",
+      "set_end_camera": "3",
+      "set_camera_duration": 1.0,
+      "play_bgm": "bgm_thecalmbeforethestorm_a",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_13_04_2",
+      "group_id": "d_main_13_04",
+      "speech_window": "Speech",
+      "highlight": "anis",
+      "speaker": "anis",
+      "scenario_localkey": "d_main_13_04_2",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "show_char_id": "anis",
+          "set_char_position": "3",
+          "set_char_anim": "angry"
+        },
+        {
+          "show_char_id": "rapi",
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "neon",
+          "set_char_position": "13",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "OP_leftup",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "3",
+      "set_end_camera": "30",
+      "set_camera_duration": 0.5,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_13_04_3",
+      "group_id": "d_main_13_04",
+      "speech_window": "Speech",
+      "highlight": "neon",
+      "speaker": "neon",
+      "scenario_localkey": "d_main_13_04_3",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "3",
+          "set_char_anim": "angry"
+        },
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "no"
+        },
+        {
+          "set_char_position": "OP_leftup",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_130",
+      "set_end_camera": "S_130",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_13_04_4",
+      "group_id": "d_main_13_04",
+      "speech_window": "Speech",
+      "highlight": "shifty",
+      "speaker": "shifty",
+      "scenario_localkey": "d_main_13_04_4",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "hide_char_id": "anis",
+          "set_char_position": "3",
+          "set_char_anim": "angry"
+        },
+        {
+          "hide_char_id": "rapi",
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "hide_char_id": "neon",
+          "set_char_position": "13",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "OP_center",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_130",
+      "set_end_camera": "S_1300",
+      "set_camera_duration": 0.5,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_13_04_5",
+      "group_id": "d_main_13_04",
+      "speech_window": "Narration",
+      "highlight": "shifty",
+      "scenario_localkey": "d_main_13_04_5",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {
+          "hide_char_id": "shifty",
+          "set_char_position": "OP_center",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "play_sound": "sfx_scn_trainhorn",
+      "play_bgm": "none",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_13_04_6",
+      "group_id": "d_main_13_04",
+      "speech_window": "Narration",
+      "highlight": "shifty",
+      "scenario_localkey": "d_main_13_04_6",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "EventScene_Chap_13_01_02",
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "play_sound": "sfx_scn_explosions",
+      "play_bgm": "bgm_thecalmbeforethestorm_b",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_13_04_7",
+      "group_id": "d_main_13_04",
+      "speech_window": "Monologue",
+      "highlight": "shifty",
+      "scenario_localkey": "d_main_13_04_7",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "infinityrail_out_01",
+      "set_end_camera": "infinityrail_out_02",
+      "set_camera_duration": 0.5,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_camera_shake": "Low_2"
+    },
+    {
+      "id": "d_main_13_04_8",
+      "group_id": "d_main_13_04",
+      "speech_window": "Speech",
+      "highlight": "anis",
+      "speaker": "anis",
+      "scenario_localkey": "d_main_13_04_8",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "infinityrail_out_02",
+      "set_end_camera": "infinityrail_out_02",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_13_04_9",
+      "group_id": "d_main_13_04",
+      "speech_window": "Speech",
+      "highlight": "neon",
+      "speaker": "neon",
+      "scenario_localkey": "d_main_13_04_9",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "infinityrail_out_02",
+      "set_end_camera": "infinityrail_out_02",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_13_04_10",
+      "group_id": "d_main_13_04",
+      "speech_window": "Speech",
+      "highlight": "anis",
+      "speaker": "anis",
+      "scenario_localkey": "d_main_13_04_10",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "infinityrail_out_02",
+      "set_end_camera": "infinityrail_out_02",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_13_04_11",
+      "group_id": "d_main_13_04",
+      "speech_window": "Speech",
+      "highlight": "neon",
+      "speaker": "neon",
+      "scenario_localkey": "d_main_13_04_11",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "infinityrail_out_02",
+      "set_end_camera": "infinityrail_out_02",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_13_04_12",
+      "group_id": "d_main_13_04",
+      "speech_window": "Speech",
+      "highlight": "anis",
+      "speaker": "anis",
+      "scenario_localkey": "d_main_13_04_12",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "infinityrail_out_02",
+      "set_end_camera": "infinityrail_out_02",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_13_04_13",
+      "group_id": "d_main_13_04",
+      "speech_window": "Speech",
+      "highlight": "rapi",
+      "speaker": "rapi",
+      "scenario_localkey": "d_main_13_04_13",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "infinityrail_out_02",
+      "set_end_camera": "infinityrail_out_03",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_13_04_14",
+      "group_id": "d_main_13_04",
+      "speech_window": "Speech",
+      "highlight": "diesel",
+      "speaker": "diesel",
+      "scenario_localkey": "d_main_13_04_14",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "EventScene_Chap_13_01",
+      "set_start_camera": "infinityrail_out_03",
+      "set_end_camera": "infinityrail_in_02",
+      "set_camera_duration": 2.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_13_04_15",
+      "group_id": "d_main_13_04",
+      "speech_window": "Speech",
+      "highlight": "diesel",
+      "speaker": "diesel",
+      "scenario_localkey": "d_main_13_04_15",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "infinityrail_in_02",
+      "set_end_camera": "infinityrail_in_02",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_13_04_16",
+      "group_id": "d_main_13_04",
+      "speech_window": "Speech",
+      "highlight": "soline",
+      "speaker": "soline",
+      "scenario_localkey": "d_main_13_04_16",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "infinityrail_in_02",
+      "set_end_camera": "infinityrail_in_02",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_13_04_17",
+      "group_id": "d_main_13_04",
+      "speech_window": "Speech",
+      "highlight": "brid",
+      "speaker": "brid",
+      "scenario_localkey": "d_main_13_04_17",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "infinityrail_in_02",
+      "set_end_camera": "infinityrail_in_03",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_main_13_04_18",
+      "group_id": "d_main_13_04",
+      "speech_window": "Speech",
+      "highlight": "brid",
+      "speaker": "brid",
+      "scenario_localkey": "d_main_13_04_18",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "infinityrail_in_03",
+      "set_end_camera": "infinityrail_in_03",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    }
+  ]
+}

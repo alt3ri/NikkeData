@@ -1,0 +1,55 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 10001,
+      "frequency_item_type": "Item",
+      "frequency_item_id": 7060001,
+      "frequency_item_count": 1,
+      "exchange_item_type": "Currency",
+      "exchange_item_id": 2000,
+      "exchange_item_count": 200,
+      "mail_key": "ITEM_EXCHANGE_10001"
+    },
+    {
+      "id": 10002,
+      "frequency_item_type": "Item",
+      "frequency_item_id": 7060002,
+      "frequency_item_count": 999999,
+      "exchange_item_type": "Currency",
+      "exchange_item_id": 2000,
+      "exchange_item_count": 1,
+      "mail_key": "ITEM_EXCHANGE_10002"
+    },
+    {
+      "id": 10003,
+      "frequency_item_type": "Item",
+      "frequency_item_id": 7060003,
+      "frequency_item_count": 1,
+      "exchange_item_type": "Currency",
+      "exchange_item_id": 2000,
+      "exchange_item_count": 200,
+      "mail_key": "ITEM_EXCHANGE_10003"
+    },
+    {
+      "id": 10004,
+      "frequency_item_type": "Item",
+      "frequency_item_id": 7060003,
+      "frequency_item_count": 210000000,
+      "exchange_item_type": "Currency",
+      "exchange_item_id": 2000,
+      "exchange_item_count": 1,
+      "mail_key": "ITEM_EXCHANGE_10004"
+    },
+    {
+      "id": 10005,
+      "frequency_item_type": "Item",
+      "frequency_item_id": 7060004,
+      "frequency_item_count": 1,
+      "exchange_item_type": "Currency",
+      "exchange_item_id": 2000,
+      "exchange_item_count": 200,
+      "mail_key": "ITEM_EXCHANGE_10005"
+    }
+  ]
+}

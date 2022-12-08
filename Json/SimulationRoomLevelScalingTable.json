@@ -1,0 +1,455 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 10101,
+      "event_type": "NormalBattle",
+      "difficulty_id": 1,
+      "chapter": 1,
+      "base_monster_level": 1,
+      "base_monster_battle_power": 1910,
+      "improvement_monster_level": 0,
+      "improvement_monster_battle_power": 0
+    },
+    {
+      "id": 10102,
+      "event_type": "NormalBattle",
+      "difficulty_id": 1,
+      "chapter": 2,
+      "base_monster_level": 9,
+      "base_monster_battle_power": 2675,
+      "improvement_monster_level": 0,
+      "improvement_monster_battle_power": 0
+    },
+    {
+      "id": 10103,
+      "event_type": "NormalBattle",
+      "difficulty_id": 1,
+      "chapter": 3,
+      "base_monster_level": 15,
+      "base_monster_battle_power": 3725,
+      "improvement_monster_level": 1,
+      "improvement_monster_battle_power": 120
+    },
+    {
+      "id": 10201,
+      "event_type": "NormalBattle",
+      "difficulty_id": 2,
+      "chapter": 1,
+      "base_monster_level": 50,
+      "base_monster_battle_power": 10410,
+      "improvement_monster_level": 0,
+      "improvement_monster_battle_power": 0
+    },
+    {
+      "id": 10202,
+      "event_type": "NormalBattle",
+      "difficulty_id": 2,
+      "chapter": 2,
+      "base_monster_level": 59,
+      "base_monster_battle_power": 12605,
+      "improvement_monster_level": 0,
+      "improvement_monster_battle_power": 0
+    },
+    {
+      "id": 10203,
+      "event_type": "NormalBattle",
+      "difficulty_id": 2,
+      "chapter": 3,
+      "base_monster_level": 63,
+      "base_monster_battle_power": 13885,
+      "improvement_monster_level": 1,
+      "improvement_monster_battle_power": 488
+    },
+    {
+      "id": 10301,
+      "event_type": "NormalBattle",
+      "difficulty_id": 3,
+      "chapter": 1,
+      "base_monster_level": 80,
+      "base_monster_battle_power": 18305,
+      "improvement_monster_level": 0,
+      "improvement_monster_battle_power": 0
+    },
+    {
+      "id": 10302,
+      "event_type": "NormalBattle",
+      "difficulty_id": 3,
+      "chapter": 2,
+      "base_monster_level": 89,
+      "base_monster_battle_power": 22945,
+      "improvement_monster_level": 0,
+      "improvement_monster_battle_power": 0
+    },
+    {
+      "id": 10303,
+      "event_type": "NormalBattle",
+      "difficulty_id": 3,
+      "chapter": 3,
+      "base_monster_level": 97,
+      "base_monster_battle_power": 26625,
+      "improvement_monster_level": 1,
+      "improvement_monster_battle_power": 1186
+    },
+    {
+      "id": 10401,
+      "event_type": "NormalBattle",
+      "difficulty_id": 4,
+      "chapter": 1,
+      "base_monster_level": 110,
+      "base_monster_battle_power": 34880,
+      "improvement_monster_level": 0,
+      "improvement_monster_battle_power": 0
+    },
+    {
+      "id": 10402,
+      "event_type": "NormalBattle",
+      "difficulty_id": 4,
+      "chapter": 2,
+      "base_monster_level": 117,
+      "base_monster_battle_power": 39045,
+      "improvement_monster_level": 0,
+      "improvement_monster_battle_power": 0
+    },
+    {
+      "id": 10403,
+      "event_type": "NormalBattle",
+      "difficulty_id": 4,
+      "chapter": 3,
+      "base_monster_level": 122,
+      "base_monster_battle_power": 44005,
+      "improvement_monster_level": 1,
+      "improvement_monster_battle_power": 1515
+    },
+    {
+      "id": 10501,
+      "event_type": "NormalBattle",
+      "difficulty_id": 5,
+      "chapter": 1,
+      "base_monster_level": 150,
+      "base_monster_battle_power": 73110,
+      "improvement_monster_level": 1,
+      "improvement_monster_battle_power": 1520
+    },
+    {
+      "id": 10502,
+      "event_type": "NormalBattle",
+      "difficulty_id": 5,
+      "chapter": 2,
+      "base_monster_level": 168,
+      "base_monster_battle_power": 93490,
+      "improvement_monster_level": 0,
+      "improvement_monster_battle_power": 0
+    },
+    {
+      "id": 10503,
+      "event_type": "NormalBattle",
+      "difficulty_id": 5,
+      "chapter": 3,
+      "base_monster_level": 181,
+      "base_monster_battle_power": 108625,
+      "improvement_monster_level": 1,
+      "improvement_monster_battle_power": 2056
+    },
+    {
+      "id": 20101,
+      "event_type": "EliteBattle",
+      "difficulty_id": 1,
+      "chapter": 1,
+      "base_monster_level": 7,
+      "base_monster_battle_power": 2485,
+      "improvement_monster_level": 0,
+      "improvement_monster_battle_power": 0
+    },
+    {
+      "id": 20102,
+      "event_type": "EliteBattle",
+      "difficulty_id": 1,
+      "chapter": 2,
+      "base_monster_level": 13,
+      "base_monster_battle_power": 3535,
+      "improvement_monster_level": 0,
+      "improvement_monster_battle_power": 0
+    },
+    {
+      "id": 20103,
+      "event_type": "EliteBattle",
+      "difficulty_id": 1,
+      "chapter": 3,
+      "base_monster_level": 22,
+      "base_monster_battle_power": 4490,
+      "improvement_monster_level": 1,
+      "improvement_monster_battle_power": 168
+    },
+    {
+      "id": 20201,
+      "event_type": "EliteBattle",
+      "difficulty_id": 2,
+      "chapter": 1,
+      "base_monster_level": 57,
+      "base_monster_battle_power": 12130,
+      "improvement_monster_level": 0,
+      "improvement_monster_battle_power": 0
+    },
+    {
+      "id": 20202,
+      "event_type": "EliteBattle",
+      "difficulty_id": 2,
+      "chapter": 2,
+      "base_monster_level": 62,
+      "base_monster_battle_power": 13685,
+      "improvement_monster_level": 0,
+      "improvement_monster_battle_power": 0
+    },
+    {
+      "id": 20203,
+      "event_type": "EliteBattle",
+      "difficulty_id": 2,
+      "chapter": 3,
+      "base_monster_level": 71,
+      "base_monster_battle_power": 16065,
+      "improvement_monster_level": 1,
+      "improvement_monster_battle_power": 391
+    },
+    {
+      "id": 20301,
+      "event_type": "EliteBattle",
+      "difficulty_id": 3,
+      "chapter": 1,
+      "base_monster_level": 87,
+      "base_monster_battle_power": 21955,
+      "improvement_monster_level": 0,
+      "improvement_monster_battle_power": 0
+    },
+    {
+      "id": 20302,
+      "event_type": "EliteBattle",
+      "difficulty_id": 3,
+      "chapter": 2,
+      "base_monster_level": 95,
+      "base_monster_battle_power": 25680,
+      "improvement_monster_level": 0,
+      "improvement_monster_battle_power": 0
+    },
+    {
+      "id": 20303,
+      "event_type": "EliteBattle",
+      "difficulty_id": 3,
+      "chapter": 3,
+      "base_monster_level": 105,
+      "base_monster_battle_power": 31905,
+      "improvement_monster_level": 1,
+      "improvement_monster_battle_power": 1002
+    },
+    {
+      "id": 20401,
+      "event_type": "EliteBattle",
+      "difficulty_id": 4,
+      "chapter": 1,
+      "base_monster_level": 116,
+      "base_monster_battle_power": 37555,
+      "improvement_monster_level": 0,
+      "improvement_monster_battle_power": 0
+    },
+    {
+      "id": 20402,
+      "event_type": "EliteBattle",
+      "difficulty_id": 4,
+      "chapter": 2,
+      "base_monster_level": 121,
+      "base_monster_battle_power": 42345,
+      "improvement_monster_level": 0,
+      "improvement_monster_battle_power": 0
+    },
+    {
+      "id": 20403,
+      "event_type": "EliteBattle",
+      "difficulty_id": 4,
+      "chapter": 3,
+      "base_monster_level": 132,
+      "base_monster_battle_power": 52840,
+      "improvement_monster_level": 1,
+      "improvement_monster_battle_power": 1340
+    },
+    {
+      "id": 20501,
+      "event_type": "EliteBattle",
+      "difficulty_id": 5,
+      "chapter": 1,
+      "base_monster_level": 158,
+      "base_monster_battle_power": 80145,
+      "improvement_monster_level": 1,
+      "improvement_monster_battle_power": 2437
+    },
+    {
+      "id": 20502,
+      "event_type": "EliteBattle",
+      "difficulty_id": 5,
+      "chapter": 2,
+      "base_monster_level": 179,
+      "base_monster_battle_power": 104175,
+      "improvement_monster_level": 0,
+      "improvement_monster_battle_power": 0
+    },
+    {
+      "id": 20503,
+      "event_type": "EliteBattle",
+      "difficulty_id": 5,
+      "chapter": 3,
+      "base_monster_level": 199,
+      "base_monster_battle_power": 131090,
+      "improvement_monster_level": 1,
+      "improvement_monster_battle_power": 3588
+    },
+    {
+      "id": 30101,
+      "event_type": "BossBattle",
+      "difficulty_id": 1,
+      "chapter": 1,
+      "base_monster_level": 9,
+      "base_monster_battle_power": 2675,
+      "improvement_monster_level": 0,
+      "improvement_monster_battle_power": 0
+    },
+    {
+      "id": 30102,
+      "event_type": "BossBattle",
+      "difficulty_id": 1,
+      "chapter": 2,
+      "base_monster_level": 15,
+      "base_monster_battle_power": 3725,
+      "improvement_monster_level": 0,
+      "improvement_monster_battle_power": 0
+    },
+    {
+      "id": 30103,
+      "event_type": "BossBattle",
+      "difficulty_id": 1,
+      "chapter": 3,
+      "base_monster_level": 30,
+      "base_monster_battle_power": 5455,
+      "improvement_monster_level": 0,
+      "improvement_monster_battle_power": 0
+    },
+    {
+      "id": 30201,
+      "event_type": "BossBattle",
+      "difficulty_id": 2,
+      "chapter": 1,
+      "base_monster_level": 59,
+      "base_monster_battle_power": 12605,
+      "improvement_monster_level": 0,
+      "improvement_monster_battle_power": 0
+    },
+    {
+      "id": 30202,
+      "event_type": "BossBattle",
+      "difficulty_id": 2,
+      "chapter": 2,
+      "base_monster_level": 63,
+      "base_monster_battle_power": 13885,
+      "improvement_monster_level": 0,
+      "improvement_monster_battle_power": 0
+    },
+    {
+      "id": 30203,
+      "event_type": "BossBattle",
+      "difficulty_id": 2,
+      "chapter": 3,
+      "base_monster_level": 81,
+      "base_monster_battle_power": 19785,
+      "improvement_monster_level": 0,
+      "improvement_monster_battle_power": 0
+    },
+    {
+      "id": 30301,
+      "event_type": "BossBattle",
+      "difficulty_id": 3,
+      "chapter": 1,
+      "base_monster_level": 89,
+      "base_monster_battle_power": 22945,
+      "improvement_monster_level": 0,
+      "improvement_monster_battle_power": 0
+    },
+    {
+      "id": 30302,
+      "event_type": "BossBattle",
+      "difficulty_id": 3,
+      "chapter": 2,
+      "base_monster_level": 97,
+      "base_monster_battle_power": 26625,
+      "improvement_monster_level": 0,
+      "improvement_monster_battle_power": 0
+    },
+    {
+      "id": 30303,
+      "event_type": "BossBattle",
+      "difficulty_id": 3,
+      "chapter": 3,
+      "base_monster_level": 115,
+      "base_monster_battle_power": 37220,
+      "improvement_monster_level": 0,
+      "improvement_monster_battle_power": 0
+    },
+    {
+      "id": 30401,
+      "event_type": "BossBattle",
+      "difficulty_id": 4,
+      "chapter": 1,
+      "base_monster_level": 117,
+      "base_monster_battle_power": 39045,
+      "improvement_monster_level": 0,
+      "improvement_monster_battle_power": 0
+    },
+    {
+      "id": 30402,
+      "event_type": "BossBattle",
+      "difficulty_id": 4,
+      "chapter": 2,
+      "base_monster_level": 122,
+      "base_monster_battle_power": 44005,
+      "improvement_monster_level": 0,
+      "improvement_monster_battle_power": 0
+    },
+    {
+      "id": 30403,
+      "event_type": "BossBattle",
+      "difficulty_id": 4,
+      "chapter": 3,
+      "base_monster_level": 142,
+      "base_monster_battle_power": 62900,
+      "improvement_monster_level": 0,
+      "improvement_monster_battle_power": 0
+    },
+    {
+      "id": 30501,
+      "event_type": "BossBattle",
+      "difficulty_id": 5,
+      "chapter": 1,
+      "base_monster_level": 168,
+      "base_monster_battle_power": 93490,
+      "improvement_monster_level": 0,
+      "improvement_monster_battle_power": 0
+    },
+    {
+      "id": 30502,
+      "event_type": "BossBattle",
+      "difficulty_id": 5,
+      "chapter": 2,
+      "base_monster_level": 181,
+      "base_monster_battle_power": 108625,
+      "improvement_monster_level": 0,
+      "improvement_monster_battle_power": 0
+    },
+    {
+      "id": 30503,
+      "event_type": "BossBattle",
+      "difficulty_id": 5,
+      "chapter": 3,
+      "base_monster_level": 211,
+      "base_monster_battle_power": 150065,
+      "improvement_monster_level": 0,
+      "improvement_monster_battle_power": 0
+    }
+  ]
+}

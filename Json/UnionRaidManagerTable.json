@@ -1,0 +1,9 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1000001,
+      "monster_preset": 10001
+    }
+  ]
+}

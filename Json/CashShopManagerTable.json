@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1,
+      "shop_type": "CashShop",
+      "shop_category": "CashShop",
+      "shop_npc_resource_id": 907,
+      "name_localkey": "cash_shop_name_localkey",
+      "description_localkey": "cash_shop_description_localkey",
+      "renew_type": "NoRenew",
+      "shop_info_group_id": "1000",
+      "logo_resource_id": "0",
+      "bg_resource_id": "0"
+    }
+  ]
+}

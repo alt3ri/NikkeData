@@ -1,0 +1,518 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": "9",
+      "position_x": -17.5,
+      "position_y": 1.0,
+      "position_z": 12.0,
+      "rotation_x": 0.0,
+      "rotation_y": 0.0,
+      "rotation_z": 0.0
+    },
+    {
+      "id": "8",
+      "position_x": -15.5,
+      "position_y": 1.0,
+      "position_z": 12.0,
+      "rotation_x": 0.0,
+      "rotation_y": 0.0,
+      "rotation_z": 0.0
+    },
+    {
+      "id": "7",
+      "position_x": -13.0,
+      "position_y": 1.0,
+      "position_z": 12.0,
+      "rotation_x": 0.0,
+      "rotation_y": 0.0,
+      "rotation_z": 0.0
+    },
+    {
+      "id": "6",
+      "position_x": -11.0,
+      "position_y": 1.0,
+      "position_z": 12.0,
+      "rotation_x": 0.0,
+      "rotation_y": 0.0,
+      "rotation_z": 0.0
+    },
+    {
+      "id": "5",
+      "position_x": -9.0,
+      "position_y": 1.0,
+      "position_z": 12.0,
+      "rotation_x": 0.0,
+      "rotation_y": 0.0,
+      "rotation_z": 0.0
+    },
+    {
+      "id": "4",
+      "position_x": -6.5,
+      "position_y": 1.0,
+      "position_z": 12.0,
+      "rotation_x": 0.0,
+      "rotation_y": 0.0,
+      "rotation_z": 0.0
+    },
+    {
+      "id": "3",
+      "position_x": -4.5,
+      "position_y": 1.0,
+      "position_z": 12.0,
+      "rotation_x": 0.0,
+      "rotation_y": 0.0,
+      "rotation_z": 0.0
+    },
+    {
+      "id": "2",
+      "position_x": -2.0,
+      "position_y": 1.0,
+      "position_z": 12.0,
+      "rotation_x": 0.0,
+      "rotation_y": 0.0,
+      "rotation_z": 0.0
+    },
+    {
+      "id": "1",
+      "position_x": 0.0,
+      "position_y": 1.0,
+      "position_z": 12.0,
+      "rotation_x": 0.0,
+      "rotation_y": 0.0,
+      "rotation_z": 0.0
+    },
+    {
+      "id": "12",
+      "position_x": 2.5,
+      "position_y": 1.0,
+      "position_z": 12.0,
+      "rotation_x": 0.0,
+      "rotation_y": 0.0,
+      "rotation_z": 0.0
+    },
+    {
+      "id": "13",
+      "position_x": 4.5,
+      "position_y": 1.0,
+      "position_z": 12.0,
+      "rotation_x": 0.0,
+      "rotation_y": 0.0,
+      "rotation_z": 0.0
+    },
+    {
+      "id": "14",
+      "position_x": 6.5,
+      "position_y": 1.0,
+      "position_z": 12.0,
+      "rotation_x": 0.0,
+      "rotation_y": 0.0,
+      "rotation_z": 0.0
+    },
+    {
+      "id": "15",
+      "position_x": 9.0,
+      "position_y": 1.0,
+      "position_z": 12.0,
+      "rotation_x": 0.0,
+      "rotation_y": 0.0,
+      "rotation_z": 0.0
+    },
+    {
+      "id": "16",
+      "position_x": 11.0,
+      "position_y": 1.0,
+      "position_z": 12.0,
+      "rotation_x": 0.0,
+      "rotation_y": 0.0,
+      "rotation_z": 0.0
+    },
+    {
+      "id": "17",
+      "position_x": 13.0,
+      "position_y": 1.0,
+      "position_z": 12.0,
+      "rotation_x": 0.0,
+      "rotation_y": 0.0,
+      "rotation_z": 0.0
+    },
+    {
+      "id": "18",
+      "position_x": 15.5,
+      "position_y": 1.0,
+      "position_z": 12.0,
+      "rotation_x": 0.0,
+      "rotation_y": 0.0,
+      "rotation_z": 0.0
+    },
+    {
+      "id": "19",
+      "position_x": 17.5,
+      "position_y": 1.0,
+      "position_z": 12.0,
+      "rotation_x": 0.0,
+      "rotation_y": 0.0,
+      "rotation_z": 0.0
+    },
+    {
+      "id": "5001",
+      "position_x": -4.74,
+      "position_y": 1.0,
+      "position_z": 13.19,
+      "rotation_x": 0.0,
+      "rotation_y": 0.0,
+      "rotation_z": 0.0
+    },
+    {
+      "id": "5002",
+      "position_x": -7.71,
+      "position_y": -0.37,
+      "position_z": 12.0,
+      "rotation_x": 0.0,
+      "rotation_y": 0.0,
+      "rotation_z": 0.0
+    },
+    {
+      "id": "5003",
+      "position_x": -10.46,
+      "position_y": -1.45,
+      "position_z": 11.09,
+      "rotation_x": 0.0,
+      "rotation_y": 0.0,
+      "rotation_z": 0.0
+    },
+    {
+      "id": "5004",
+      "position_x": -7.08,
+      "position_y": -0.37,
+      "position_z": 12.0,
+      "rotation_x": 0.0,
+      "rotation_y": 0.0,
+      "rotation_z": 0.0
+    },
+    {
+      "id": "5005",
+      "position_x": -9.3,
+      "position_y": -1.45,
+      "position_z": 11.09,
+      "rotation_x": 0.0,
+      "rotation_y": 0.0,
+      "rotation_z": 0.0
+    },
+    {
+      "id": "O_1315",
+      "position_x": 3.91,
+      "position_y": 13.12,
+      "position_z": 14.65,
+      "rotation_x": 0.0,
+      "rotation_y": 0.0,
+      "rotation_z": 0.0
+    },
+    {
+      "id": "O_130",
+      "position_x": 2.3,
+      "position_y": 13.5,
+      "position_z": 18.21,
+      "rotation_x": 0.0,
+      "rotation_y": 0.0,
+      "rotation_z": 0.0
+    },
+    {
+      "id": "O_150",
+      "position_x": 6.38,
+      "position_y": 13.88,
+      "position_z": 19.08,
+      "rotation_x": 0.0,
+      "rotation_y": 0.0,
+      "rotation_z": 0.0
+    },
+    {
+      "id": "O_113",
+      "position_x": -0.35,
+      "position_y": 13.83,
+      "position_z": 15.7,
+      "rotation_x": 0.0,
+      "rotation_y": 0.0,
+      "rotation_z": 0.0
+    },
+    {
+      "id": "O_100",
+      "position_x": -2.48,
+      "position_y": 14.1,
+      "position_z": 19.86,
+      "rotation_x": 0.0,
+      "rotation_y": 0.0,
+      "rotation_z": 0.0
+    },
+    {
+      "id": "O_1",
+      "position_x": -2.85,
+      "position_y": 14.04,
+      "position_z": 16.39,
+      "rotation_x": 0.0,
+      "rotation_y": 0.0,
+      "rotation_z": 0.0
+    },
+    {
+      "id": "O_1C",
+      "position_x": -0.1,
+      "position_y": 7.35,
+      "position_z": 10.26,
+      "rotation_x": 0.0,
+      "rotation_y": 0.0,
+      "rotation_z": 0.0
+    },
+    {
+      "id": "O_1L",
+      "position_x": -3.26,
+      "position_y": 7.77,
+      "position_z": 16.64,
+      "rotation_x": 0.0,
+      "rotation_y": -56.0,
+      "rotation_z": 0.0
+    },
+    {
+      "id": "O_7",
+      "position_x": -10.65,
+      "position_y": 15.38,
+      "position_z": 19.56,
+      "rotation_x": 0.0,
+      "rotation_y": 0.0,
+      "rotation_z": 0.0
+    },
+    {
+      "id": "O_31",
+      "position_x": -5.05,
+      "position_y": 14.39,
+      "position_z": 16.32,
+      "rotation_x": 0.0,
+      "rotation_y": 0.0,
+      "rotation_z": 0.0
+    },
+    {
+      "id": "O_10",
+      "position_x": -3.05,
+      "position_y": 14.81,
+      "position_z": 20.36,
+      "rotation_x": 0.0,
+      "rotation_y": 0.0,
+      "rotation_z": 0.0
+    },
+    {
+      "id": "O_2",
+      "position_x": -4.88,
+      "position_y": 14.36,
+      "position_z": 16.51,
+      "rotation_x": 0.0,
+      "rotation_y": 0.0,
+      "rotation_z": 0.0
+    },
+    {
+      "id": "O_30",
+      "position_x": -7.34,
+      "position_y": 14.61,
+      "position_z": 20.29,
+      "rotation_x": 0.0,
+      "rotation_y": 0.0,
+      "rotation_z": 0.0
+    },
+    {
+      "id": "O_300",
+      "position_x": -6.87,
+      "position_y": 14.29,
+      "position_z": 20.52,
+      "rotation_x": 0.0,
+      "rotation_y": 0.0,
+      "rotation_z": 0.0
+    },
+    {
+      "id": "O_13",
+      "position_x": 1.66,
+      "position_y": 13.61,
+      "position_z": 15.5,
+      "rotation_x": 0.0,
+      "rotation_y": 0.0,
+      "rotation_z": 0.0
+    },
+    {
+      "id": "O_S_300",
+      "position_x": -7.02,
+      "position_y": 13.37,
+      "position_z": 20.71,
+      "rotation_x": 0.0,
+      "rotation_y": 0.0,
+      "rotation_z": 0.0
+    },
+    {
+      "id": "O_19",
+      "position_x": 14.95,
+      "position_y": 13.51,
+      "position_z": 14.52,
+      "rotation_x": 0.0,
+      "rotation_y": 0.0,
+      "rotation_z": 0.0
+    },
+    {
+      "id": "O_1315C",
+      "position_x": 6.68,
+      "position_y": 6.23,
+      "position_z": 12.38,
+      "rotation_x": 0.0,
+      "rotation_y": 0.0,
+      "rotation_z": 0.0
+    },
+    {
+      "id": "OP_center",
+      "position_x": 0.5,
+      "position_y": 0.5,
+      "position_z": 0.0,
+      "rotation_x": 0.0,
+      "rotation_y": 0.0,
+      "rotation_z": 0.0
+    },
+    {
+      "id": "OP_leftup",
+      "position_x": 0.22,
+      "position_y": 0.13,
+      "position_z": 0.0,
+      "rotation_x": 0.0,
+      "rotation_y": 0.0,
+      "rotation_z": 0.0
+    },
+    {
+      "id": "OP_rightup",
+      "position_x": 0.78,
+      "position_y": 0.13,
+      "position_z": 0.0,
+      "rotation_x": 0.0,
+      "rotation_y": 0.0,
+      "rotation_z": 0.0
+    },
+    {
+      "id": "OP_centerup",
+      "position_x": 0.5,
+      "position_y": 0.13,
+      "position_z": 0.0,
+      "rotation_x": 0.0,
+      "rotation_y": 0.0,
+      "rotation_z": 0.0
+    },
+    {
+      "id": "OP_left",
+      "position_x": 0.22,
+      "position_y": 0.5,
+      "position_z": 0.0,
+      "rotation_x": 0.0,
+      "rotation_y": 0.0,
+      "rotation_z": 0.0
+    },
+    {
+      "id": "OP_right",
+      "position_x": 0.78,
+      "position_y": 0.5,
+      "position_z": 0.0,
+      "rotation_x": 0.0,
+      "rotation_y": 0.0,
+      "rotation_z": 0.0
+    },
+    {
+      "id": "event",
+      "position_x": 0.0,
+      "position_y": -7.5,
+      "position_z": 12.0,
+      "rotation_x": 0.0,
+      "rotation_y": 0.0,
+      "rotation_z": 0.0
+    },
+    {
+      "id": "fx_vn_fire_ptc_01",
+      "position_x": 0.0,
+      "position_y": -7.5,
+      "position_z": 12.0,
+      "rotation_x": 0.0,
+      "rotation_y": 0.0,
+      "rotation_z": 0.0
+    },
+    {
+      "id": "fx_vn_spark",
+      "position_x": 0.9,
+      "position_y": 1.55,
+      "position_z": 12.81,
+      "rotation_x": 0.0,
+      "rotation_y": 0.0,
+      "rotation_z": 0.0
+    },
+    {
+      "id": "fx_vn_fire_ptc_02",
+      "position_x": 1.39,
+      "position_y": -17.0,
+      "position_z": 13.7,
+      "rotation_x": 0.0,
+      "rotation_y": 0.0,
+      "rotation_z": 0.0
+    },
+    {
+      "id": "zero",
+      "position_x": 0.0,
+      "position_y": 0.0,
+      "position_z": 0.0,
+      "rotation_x": 0.0,
+      "rotation_y": 0.0,
+      "rotation_z": 0.0
+    },
+    {
+      "id": "fx_EventScene_Chap_07_02_smoke",
+      "position_x": 1.17,
+      "position_y": 2.44,
+      "position_z": 3.95,
+      "rotation_x": 0.0,
+      "rotation_y": 0.0,
+      "rotation_z": 0.0
+    },
+    {
+      "id": "fx_EventScene_Chap_07_02_crack",
+      "position_x": 0.58,
+      "position_y": 2.12,
+      "position_z": 6.67,
+      "rotation_x": 0.0,
+      "rotation_y": 0.0,
+      "rotation_z": 0.0
+    },
+    {
+      "id": "fx_EventScene_Chap_04_05_blood",
+      "position_x": -1.32,
+      "position_y": -0.82,
+      "position_z": 0.0,
+      "rotation_x": 0.0,
+      "rotation_y": 0.0,
+      "rotation_z": 0.0
+    },
+    {
+      "id": "fx_EventScene_Chap_04_05_deco",
+      "position_x": -1.77,
+      "position_y": -0.71,
+      "position_z": 2.12,
+      "rotation_x": 0.0,
+      "rotation_y": 0.0,
+      "rotation_z": 0.0
+    },
+    {
+      "id": "fx_EventScene_Chap_04_05_flare",
+      "position_x": -3.63,
+      "position_y": 0.82,
+      "position_z": 12.54,
+      "rotation_x": 0.0,
+      "rotation_y": 0.0,
+      "rotation_z": 0.0
+    },
+    {
+      "id": "rec",
+      "position_x": 0.0,
+      "position_y": 0.0,
+      "position_z": 3.5,
+      "rotation_x": 0.0,
+      "rotation_y": 0.0,
+      "rotation_z": 0.0
+    }
+  ]
+}

@@ -1,0 +1,532 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 12100101,
+      "name_localkey": "12100101_name",
+      "description_localkey": "12100101_description",
+      "resource_id": 21,
+      "mon_prefab": "bma001",
+      "attribute": "Bio",
+      "field_monster_scale": 1.0,
+      "is_boss": false,
+      "field_sight_range": 700,
+      "field_move_velocity": 250,
+      "field_skill_id": [
+        130004
+      ],
+      "spot_json_path": "wv_101_01_m0001",
+      "fighting_power": 4000
+    },
+    {
+      "id": 12100201,
+      "name_localkey": "12100201_name",
+      "description_localkey": "12100201_description",
+      "resource_id": 52,
+      "mon_prefab": "bma002",
+      "attribute": "Bio",
+      "field_monster_scale": 1.1,
+      "is_boss": false,
+      "field_sight_range": 700,
+      "field_move_velocity": 150,
+      "field_skill_id": [
+        130004
+      ],
+      "spot_json_path": "wv_102_01_m0033",
+      "fighting_power": 4000
+    },
+    {
+      "id": 12200101,
+      "name_localkey": "12200101_name",
+      "description_localkey": "12200101_description",
+      "resource_id": 16,
+      "mon_prefab": "bmg001",
+      "attribute": "Bio",
+      "field_monster_scale": 0.9,
+      "is_boss": false,
+      "field_sight_range": 700,
+      "field_move_velocity": 250,
+      "field_skill_id": [
+        130004
+      ],
+      "spot_json_path": "wv_101_01_m0001",
+      "fighting_power": 4000
+    },
+    {
+      "id": 13100101,
+      "name_localkey": "13100101_name",
+      "description_localkey": "13100101_description",
+      "resource_id": 22,
+      "mon_prefab": "bea001",
+      "attribute": "Bio",
+      "field_monster_scale": 1.55,
+      "is_boss": false,
+      "field_sight_range": 700,
+      "field_move_velocity": 250,
+      "field_skill_id": [
+        130004
+      ],
+      "spot_json_path": "wv_101_01_m0001",
+      "fighting_power": 4000
+    },
+    {
+      "id": 13100201,
+      "name_localkey": "13100201_name",
+      "description_localkey": "13100201_description",
+      "resource_id": 23,
+      "mon_prefab": "bea002",
+      "attribute": "Bio",
+      "field_monster_scale": 1.0,
+      "is_boss": false,
+      "field_sight_range": 700,
+      "field_move_velocity": 250,
+      "field_skill_id": [
+        130004
+      ],
+      "spot_json_path": "wv_101_01_m0001",
+      "fighting_power": 4000
+    },
+    {
+      "id": 13200201,
+      "name_localkey": "13200201_name",
+      "description_localkey": "13200201_description",
+      "resource_id": 17,
+      "mon_prefab": "beg002",
+      "attribute": "Bio",
+      "field_monster_scale": 1.0,
+      "is_boss": false,
+      "field_sight_range": 700,
+      "field_move_velocity": 250,
+      "field_skill_id": [
+        130004
+      ],
+      "spot_json_path": "wv_101_01_m0001",
+      "fighting_power": 4000
+    },
+    {
+      "id": 13200301,
+      "name_localkey": "13200301_name",
+      "description_localkey": "13200301_description",
+      "resource_id": 56,
+      "mon_prefab": "beg003",
+      "attribute": "Bio",
+      "field_monster_scale": 1.4,
+      "is_boss": false,
+      "field_sight_range": 700,
+      "field_move_velocity": 250,
+      "field_skill_id": [
+        130004
+      ],
+      "spot_json_path": "wv_101_01_m0001",
+      "fighting_power": 4000
+    },
+    {
+      "id": 13200401,
+      "name_localkey": "13200401_name",
+      "description_localkey": "13200401_description",
+      "resource_id": 20,
+      "mon_prefab": "beg004",
+      "attribute": "Bio",
+      "field_monster_scale": 1.0,
+      "is_boss": false,
+      "field_sight_range": 700,
+      "field_move_velocity": 250,
+      "field_skill_id": [
+        130004
+      ],
+      "spot_json_path": "wv_101_01_m0001",
+      "fighting_power": 4000
+    },
+    {
+      "id": 14200101,
+      "name_localkey": "14200101_name",
+      "description_localkey": "14200101_description",
+      "resource_id": 57,
+      "mon_prefab": "bcg001",
+      "attribute": "Bio",
+      "field_monster_scale": 1.0,
+      "is_boss": false,
+      "field_sight_range": 700,
+      "field_move_velocity": 250,
+      "field_skill_id": [
+        130004
+      ],
+      "spot_json_path": "wv_101_01_m0001",
+      "fighting_power": 4000
+    },
+    {
+      "id": 22100201,
+      "name_localkey": "22100201_name",
+      "description_localkey": "22100201_description",
+      "resource_id": 48,
+      "mon_prefab": "ema002",
+      "attribute": "Energy",
+      "field_monster_scale": 1.1,
+      "is_boss": false,
+      "field_sight_range": 700,
+      "field_move_velocity": 150,
+      "field_skill_id": [
+        130004
+      ],
+      "spot_json_path": "wv_102_01_m0033",
+      "fighting_power": 4000
+    },
+    {
+      "id": 22200301,
+      "name_localkey": "22200301_name",
+      "description_localkey": "22200301_description",
+      "resource_id": 53,
+      "mon_prefab": "emg003",
+      "attribute": "Energy",
+      "field_monster_scale": 0.9,
+      "is_boss": false,
+      "field_sight_range": 700,
+      "field_move_velocity": 150,
+      "field_skill_id": [
+        130004
+      ],
+      "spot_json_path": "wv_102_01_m0033",
+      "fighting_power": 4000
+    },
+    {
+      "id": 23100201,
+      "name_localkey": "23100201_name",
+      "description_localkey": "23100201_description",
+      "resource_id": 51,
+      "mon_prefab": "eea002",
+      "attribute": "Energy",
+      "field_monster_scale": 1.0,
+      "is_boss": false,
+      "field_sight_range": 700,
+      "field_move_velocity": 150,
+      "field_skill_id": [
+        130004
+      ],
+      "spot_json_path": "wv_102_01_m0033",
+      "fighting_power": 4000
+    },
+    {
+      "id": 23200301,
+      "name_localkey": "23200301_name",
+      "description_localkey": "23200301_description",
+      "resource_id": 50,
+      "mon_prefab": "eeg003",
+      "attribute": "Energy",
+      "field_monster_scale": 1.2,
+      "is_boss": false,
+      "field_sight_range": 700,
+      "field_move_velocity": 150,
+      "field_skill_id": [
+        130004
+      ],
+      "spot_json_path": "wv_102_01_m0033",
+      "fighting_power": 4000
+    },
+    {
+      "id": 24200101,
+      "name_localkey": "24200101_name",
+      "description_localkey": "24200101_description",
+      "resource_id": 58,
+      "mon_prefab": "ecg001",
+      "attribute": "Energy",
+      "field_monster_scale": 1.0,
+      "is_boss": false,
+      "field_sight_range": 700,
+      "field_move_velocity": 150,
+      "field_skill_id": [
+        130004
+      ],
+      "spot_json_path": "wv_102_01_m0033",
+      "fighting_power": 4000
+    },
+    {
+      "id": 25200101,
+      "name_localkey": "25200101_name",
+      "description_localkey": "25200101_description",
+      "resource_id": 38,
+      "mon_prefab": "ebg001",
+      "attribute": "Energy",
+      "field_monster_scale": 1.0,
+      "is_boss": true,
+      "field_sight_range": 700,
+      "field_move_velocity": 150,
+      "field_skill_id": [
+        130001
+      ],
+      "spot_json_path": "wv_102_01_m0033",
+      "fighting_power": 4000
+    },
+    {
+      "id": 32100201,
+      "name_localkey": "32100201_name",
+      "description_localkey": "32100201_description",
+      "resource_id": 6,
+      "mon_prefab": "mma002",
+      "attribute": "Metal",
+      "field_monster_scale": 1.0,
+      "is_boss": false,
+      "field_sight_range": 700,
+      "field_move_velocity": 250,
+      "field_skill_id": [
+        130004
+      ],
+      "spot_json_path": "wv_101_01_m0001",
+      "fighting_power": 4000
+    },
+    {
+      "id": 32100301,
+      "name_localkey": "32100301_name",
+      "description_localkey": "32100301_description",
+      "resource_id": 5,
+      "mon_prefab": "mma003",
+      "attribute": "Metal",
+      "field_monster_scale": 1.0,
+      "is_boss": false,
+      "field_sight_range": 700,
+      "field_move_velocity": 250,
+      "field_skill_id": [
+        130004
+      ],
+      "spot_json_path": "wv_101_01_m0001",
+      "fighting_power": 4000
+    },
+    {
+      "id": 32200101,
+      "name_localkey": "32200101_name",
+      "description_localkey": "32200101_description",
+      "resource_id": 10,
+      "mon_prefab": "mmg001",
+      "attribute": "Metal",
+      "field_monster_scale": 1.0,
+      "is_boss": false,
+      "field_sight_range": 700,
+      "field_move_velocity": 250,
+      "field_skill_id": [
+        130004
+      ],
+      "spot_json_path": "wv_101_01_m0001",
+      "fighting_power": 4000
+    },
+    {
+      "id": 32200201,
+      "name_localkey": "32200201_name",
+      "description_localkey": "32200201_description",
+      "resource_id": 8,
+      "mon_prefab": "mmg002",
+      "attribute": "Metal",
+      "field_monster_scale": 1.0,
+      "is_boss": false,
+      "field_sight_range": 700,
+      "field_move_velocity": 250,
+      "field_skill_id": [
+        130004
+      ],
+      "spot_json_path": "wv_101_01_m0001",
+      "fighting_power": 4000
+    },
+    {
+      "id": 32200301,
+      "name_localkey": "32200301_name",
+      "description_localkey": "32200301_description",
+      "resource_id": 14,
+      "mon_prefab": "mmg003",
+      "attribute": "Metal",
+      "field_monster_scale": 1.0,
+      "is_boss": false,
+      "field_sight_range": 700,
+      "field_move_velocity": 250,
+      "field_skill_id": [
+        130004
+      ],
+      "spot_json_path": "wv_101_01_m0001",
+      "fighting_power": 4000
+    },
+    {
+      "id": 32200401,
+      "name_localkey": "32200401_name",
+      "description_localkey": "32200401_description",
+      "resource_id": 4,
+      "mon_prefab": "mma001",
+      "attribute": "Metal",
+      "field_monster_scale": 1.0,
+      "is_boss": false,
+      "field_sight_range": 700,
+      "field_move_velocity": 250,
+      "field_skill_id": [
+        130004
+      ],
+      "spot_json_path": "wv_101_01_m0001",
+      "fighting_power": 4000
+    },
+    {
+      "id": 32200501,
+      "name_localkey": "32200501_name",
+      "description_localkey": "32200501_description",
+      "resource_id": 2,
+      "mon_prefab": "mmg005",
+      "attribute": "Metal",
+      "field_monster_scale": 0.9,
+      "is_boss": false,
+      "field_sight_range": 700,
+      "field_move_velocity": 400,
+      "field_skill_id": [
+        130004
+      ],
+      "spot_json_path": "wv_101_01_m0001",
+      "fighting_power": 4000
+    },
+    {
+      "id": 32200601,
+      "name_localkey": "32200601_name",
+      "description_localkey": "32200601_description",
+      "resource_id": 7,
+      "mon_prefab": "mmg006",
+      "attribute": "Metal",
+      "field_monster_scale": 1.0,
+      "is_boss": false,
+      "field_sight_range": 700,
+      "field_move_velocity": 250,
+      "field_skill_id": [
+        130004
+      ],
+      "spot_json_path": "wv_101_01_m0001",
+      "fighting_power": 4000
+    },
+    {
+      "id": 32200701,
+      "name_localkey": "32200701_name",
+      "description_localkey": "32200701_description",
+      "resource_id": 3,
+      "mon_prefab": "meg002",
+      "attribute": "Metal",
+      "field_monster_scale": 1.0,
+      "is_boss": false,
+      "field_sight_range": 700,
+      "field_move_velocity": 250,
+      "field_skill_id": [
+        130004
+      ],
+      "spot_json_path": "wv_101_01_m0001",
+      "fighting_power": 4000
+    },
+    {
+      "id": 33100101,
+      "name_localkey": "33100101_name",
+      "description_localkey": "33100101_description",
+      "resource_id": 36,
+      "mon_prefab": "mea001",
+      "attribute": "Metal",
+      "field_monster_scale": 1.0,
+      "is_boss": false,
+      "field_sight_range": 700,
+      "field_move_velocity": 150,
+      "field_skill_id": [
+        130001
+      ],
+      "spot_json_path": "wv_102_01_m0033",
+      "fighting_power": 4000
+    },
+    {
+      "id": 33200601,
+      "name_localkey": "33200601_name",
+      "description_localkey": "33200601_description",
+      "resource_id": 60,
+      "mon_prefab": "meg006",
+      "attribute": "Metal",
+      "field_monster_scale": 1.1,
+      "is_boss": false,
+      "field_sight_range": 700,
+      "field_move_velocity": 150,
+      "field_skill_id": [
+        130001
+      ],
+      "spot_json_path": "wv_102_01_m0033",
+      "fighting_power": 4000
+    },
+    {
+      "id": 34100101,
+      "name_localkey": "34100101_name",
+      "description_localkey": "34100101_description",
+      "resource_id": 13,
+      "mon_prefab": "mca001",
+      "attribute": "Metal",
+      "field_monster_scale": 1.0,
+      "is_boss": false,
+      "field_sight_range": 700,
+      "field_move_velocity": 50,
+      "field_skill_id": [
+        130001
+      ],
+      "spot_json_path": "wv_101_03_m0013",
+      "fighting_power": 4000
+    },
+    {
+      "id": 34200101,
+      "name_localkey": "34200101_name",
+      "description_localkey": "34200101_description",
+      "resource_id": 1,
+      "mon_prefab": "mcg001",
+      "attribute": "Metal",
+      "field_monster_scale": 1.0,
+      "is_boss": true,
+      "field_sight_range": 700,
+      "field_move_velocity": 50,
+      "field_skill_id": [
+        130001
+      ],
+      "spot_json_path": "wv_101_01_m0001",
+      "fighting_power": 4000
+    },
+    {
+      "id": 34200201,
+      "name_localkey": "34200201_name",
+      "description_localkey": "34200201_description",
+      "resource_id": 9,
+      "mon_prefab": "mcg002",
+      "attribute": "Metal",
+      "field_monster_scale": 1.0,
+      "is_boss": true,
+      "field_sight_range": 700,
+      "field_move_velocity": 50,
+      "field_skill_id": [
+        130001
+      ],
+      "spot_json_path": "wv_101_02_m0009",
+      "fighting_power": 4000
+    },
+    {
+      "id": 34200301,
+      "name_localkey": "34200301_name",
+      "description_localkey": "34200301_description",
+      "resource_id": 24,
+      "mon_prefab": "mcg003",
+      "attribute": "Metal",
+      "field_monster_scale": 1.0,
+      "is_boss": true,
+      "field_sight_range": 700,
+      "field_move_velocity": 50,
+      "field_skill_id": [
+        130001
+      ],
+      "spot_json_path": "wv_102_04_m0024",
+      "fighting_power": 4000
+    },
+    {
+      "id": 34200401,
+      "name_localkey": "34200401_name",
+      "description_localkey": "34200401_description",
+      "resource_id": 33,
+      "mon_prefab": "mcg004",
+      "attribute": "Metal",
+      "field_monster_scale": 1.0,
+      "is_boss": true,
+      "field_sight_range": 700,
+      "field_move_velocity": 150,
+      "field_skill_id": [
+        130001
+      ],
+      "spot_json_path": "wv_102_01_m0033",
+      "fighting_power": 4000
+    }
+  ]
+}

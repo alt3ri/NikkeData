@@ -1,0 +1,62 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1,
+      "name": "GUILD_RAID_RANK_NAME_01",
+      "description": "GUILD_RAID_RANK_DESC_01",
+      "thumbnail": "full_mbg001",
+      "order": 1,
+      "play_count": 2,
+      "stage_level": 10,
+      "monster_stage_lv": 6,
+      "dynamic_object_stage_lv": 4,
+      "cover_stage_lv": 8,
+      "monster_stage_lv_change_group": 201,
+      "spot_id": 6302001,
+      "time_limit": 60,
+      "theme": "Desertmbg001",
+      "theme_time": "Day",
+      "condition_reward_group": 1032011,
+      "guild_condition_reward_group": 1032012
+    },
+    {
+      "id": 2,
+      "name": "GUILD_RAID_RANK_NAME_02",
+      "description": "GUILD_RAID_RANK_DESC_02",
+      "thumbnail": "full_mbg002",
+      "order": 2,
+      "play_count": 2,
+      "stage_level": 20,
+      "monster_stage_lv": 8,
+      "dynamic_object_stage_lv": 5,
+      "cover_stage_lv": 7,
+      "monster_stage_lv_change_group": 202,
+      "spot_id": 6302002,
+      "time_limit": 75,
+      "theme": "CityForest",
+      "theme_time": "Night",
+      "condition_reward_group": 1032021,
+      "guild_condition_reward_group": 1032022
+    },
+    {
+      "id": 3,
+      "name": "GUILD_RAID_RANK_NAME_03",
+      "description": "GUILD_RAID_RANK_DESC_03",
+      "thumbnail": "full_eba001",
+      "order": 3,
+      "play_count": 2,
+      "stage_level": 30,
+      "monster_stage_lv": 10,
+      "dynamic_object_stage_lv": 6,
+      "cover_stage_lv": 6,
+      "monster_stage_lv_change_group": 203,
+      "spot_id": 6302003,
+      "time_limit": 90,
+      "theme": "CityForest",
+      "theme_time": "Day",
+      "condition_reward_group": 1032031,
+      "guild_condition_reward_group": 1032032
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 20001,
+      "costume_theme_group_id": 2000,
+      "resource_id": 10,
+      "costume_index": 1,
+      "additional_skins": [],
+      "costume_grade_id": "Event",
+      "costume_name_locale": "costume_name_10_CBT_2022",
+      "costume_description_locale": "10_1_description",
+      "is_hidden": false
+    },
+    {
+      "id": 30001,
+      "costume_theme_group_id": 3000,
+      "resource_id": 11,
+      "costume_index": 1,
+      "additional_skins": [],
+      "costume_grade_id": "Event",
+      "costume_name_locale": "11_01_costume_name",
+      "costume_description_locale": "11_1_description",
+      "is_hidden": false
+    },
+    {
+      "id": 30002,
+      "costume_theme_group_id": 3000,
+      "resource_id": 30,
+      "costume_index": 1,
+      "additional_skins": [],
+      "costume_grade_id": "Event",
+      "costume_name_locale": "30_01_costume_name",
+      "costume_description_locale": "30_1_description",
+      "costume_shop_price_id": 3000101,
+      "is_hidden": false
+    },
+    {
+      "id": 30003,
+      "costume_theme_group_id": 3000,
+      "resource_id": 70,
+      "costume_index": 1,
+      "additional_skins": [],
+      "costume_grade_id": "Event",
+      "costume_name_locale": "70_01_costume_name",
+      "costume_description_locale": "70_1_description",
+      "costume_shop_price_id": 3000201,
+      "is_hidden": false
+    },
+    {
+      "id": 30004,
+      "costume_theme_group_id": 3000,
+      "resource_id": 102,
+      "costume_index": 1,
+      "additional_skins": [],
+      "costume_grade_id": "Event",
+      "costume_name_locale": "102_01_costume_name",
+      "costume_description_locale": "102_1_description",
+      "is_hidden": false
+    },
+    {
+      "id": 30006,
+      "costume_theme_group_id": 3000,
+      "resource_id": 72,
+      "costume_index": 2,
+      "additional_skins": [],
+      "costume_grade_id": "Event",
+      "costume_name_locale": "72_02_costume_name",
+      "costume_description_locale": "72_2_description",
+      "is_hidden": false
+    },
+    {
+      "id": 30007,
+      "costume_theme_group_id": 3000,
+      "resource_id": 181,
+      "costume_index": 1,
+      "additional_skins": [],
+      "costume_grade_id": "Event",
+      "costume_name_locale": "181_01_costume_name",
+      "costume_description_locale": "181_1_description",
+      "costume_shop_price_id": 3000301,
+      "is_hidden": false
+    },
+    {
+      "id": 40001,
+      "costume_theme_group_id": 4000,
+      "resource_id": 90,
+      "costume_index": 1,
+      "additional_skins": [
+        "bg"
+      ],
+      "costume_grade_id": "Special",
+      "costume_name_locale": "90_01_costume_name",
+      "costume_description_locale": "90_1_description",
+      "is_hidden": false
+    },
+    {
+      "id": 40002,
+      "costume_theme_group_id": 4000,
+      "resource_id": 210,
+      "costume_index": 1,
+      "additional_skins": [],
+      "costume_grade_id": "Special",
+      "costume_name_locale": "210_01_costume_name",
+      "costume_description_locale": "210_1_description",
+      "costume_shop_price_id": 4000101,
+      "is_hidden": false
+    },
+    {
+      "id": 50001,
+      "costume_theme_group_id": 5000,
+      "resource_id": 150,
+      "costume_index": 1,
+      "additional_skins": [],
+      "costume_grade_id": "Event",
+      "costume_name_locale": "150_01_costume_name",
+      "costume_description_locale": "150_1_description",
+      "is_hidden": true
+    },
+    {
+      "id": 50002,
+      "costume_theme_group_id": 5000,
+      "resource_id": 140,
+      "costume_index": 1,
+      "additional_skins": [],
+      "costume_grade_id": "Event",
+      "costume_name_locale": "140_01_costume_name",
+      "costume_description_locale": "140_1_description",
+      "is_hidden": true
+    },
+    {
+      "id": 50003,
+      "costume_theme_group_id": 5000,
+      "resource_id": 352,
+      "costume_index": 1,
+      "additional_skins": [
+        "bg"
+      ],
+      "costume_grade_id": "Event",
+      "costume_name_locale": "352_01_costume_name",
+      "costume_description_locale": "352_1_description",
+      "is_hidden": true
+    }
+  ]
+}

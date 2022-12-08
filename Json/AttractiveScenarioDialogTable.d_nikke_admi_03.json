@@ -1,0 +1,3118 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": "d_nikke_admi_03_1",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Monologue",
+      "highlight": "admi",
+      "speaker": "Monologue",
+      "scenario_localkey": "d_nikke_admi_03_1",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "Backstreet_n",
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "play_bgm": "none",
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Grey"
+    },
+    {
+      "id": "d_nikke_admi_03_2",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Monologue",
+      "highlight": "admi",
+      "speaker": "Monologue",
+      "scenario_localkey": "d_nikke_admi_03_2",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Grey"
+    },
+    {
+      "id": "d_nikke_admi_03_3",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Monologue",
+      "highlight": "admi",
+      "speaker": "Monologue",
+      "scenario_localkey": "d_nikke_admi_03_3",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Grey"
+    },
+    {
+      "id": "d_nikke_admi_03_4",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Monologue",
+      "highlight": "admi",
+      "speaker": "Monologue",
+      "scenario_localkey": "d_nikke_admi_03_4",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Grey"
+    },
+    {
+      "id": "d_nikke_admi_03_5",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Monologue",
+      "highlight": "admi",
+      "speaker": "Monologue",
+      "scenario_localkey": "d_nikke_admi_03_5",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Grey"
+    },
+    {
+      "id": "d_nikke_admi_03_6",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Monologue",
+      "highlight": "admi",
+      "speaker": "Monologue",
+      "scenario_localkey": "d_nikke_admi_03_6",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Grey"
+    },
+    {
+      "id": "d_nikke_admi_03_7",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Narration",
+      "highlight": "admi",
+      "speaker": "Narration",
+      "scenario_localkey": "d_nikke_admi_03_7",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "none",
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "play_sound": "sfx_scn_buggerbite",
+      "play_bgm": "bgm_story_orangepop",
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Grey"
+    },
+    {
+      "id": "d_nikke_admi_03_8",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Monologue",
+      "highlight": "admi",
+      "speaker": "Monologue",
+      "scenario_localkey": "d_nikke_admi_03_8",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "show_char_id": "admi",
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "FastFood",
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_9",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Self",
+      "highlight": "admi",
+      "speaker": "Self",
+      "scenario_localkey": "d_nikke_admi_03_9",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_10",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Speech",
+      "highlight": "admi",
+      "speaker": "admi",
+      "scenario_localkey": "d_nikke_admi_03_10",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_11",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Speech",
+      "highlight": "admi",
+      "speaker": "admi",
+      "scenario_localkey": "d_nikke_admi_03_11",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_12",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Self",
+      "highlight": "admi",
+      "speaker": "Self",
+      "scenario_localkey": "d_nikke_admi_03_12",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_13",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Speech",
+      "highlight": "admi",
+      "speaker": "admi",
+      "scenario_localkey": "d_nikke_admi_03_13",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_14",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Narration",
+      "highlight": "admi",
+      "speaker": "Narration",
+      "scenario_localkey": "d_nikke_admi_03_14",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "hide_char_id": "admi",
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "play_sound": "sfx_scn_buggerbite",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_15",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Monologue",
+      "highlight": "admi",
+      "speaker": "Monologue",
+      "scenario_localkey": "d_nikke_admi_03_15",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "show_char_id": "admi",
+          "hide_char_id": "admi",
+          "set_char_position": "9",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_16",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Self",
+      "highlight": "admi",
+      "speaker": "Self",
+      "scenario_localkey": "d_nikke_admi_03_16",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "show_char_id": "admi",
+          "set_char_position": "9",
+          "set_char_anim": "worry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "9",
+      "set_end_camera": "9",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_17",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Speech",
+      "highlight": "admi",
+      "speaker": "admi",
+      "scenario_localkey": "d_nikke_admi_03_17",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "9",
+          "set_char_anim": "worry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "9",
+      "set_end_camera": "9",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_18",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Self",
+      "highlight": "admi",
+      "speaker": "Self",
+      "scenario_localkey": "d_nikke_admi_03_18",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "9",
+          "set_char_anim": "worry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "9",
+      "set_end_camera": "XS_90",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_19",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Speech",
+      "highlight": "admi",
+      "speaker": "admi",
+      "scenario_localkey": "d_nikke_admi_03_19",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "9",
+          "set_char_anim": "worry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_90",
+      "set_end_camera": "XS_90",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_20",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Self",
+      "highlight": "admi",
+      "speaker": "Self",
+      "scenario_localkey": "d_nikke_admi_03_20",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "9",
+          "set_char_anim": "worry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_90",
+      "set_end_camera": "XS_90",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_21",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Speech",
+      "highlight": "admi",
+      "speaker": "admi",
+      "scenario_localkey": "d_nikke_admi_03_21",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "9",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_90",
+      "set_end_camera": "XS_90",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_22",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Self",
+      "highlight": "admi",
+      "speaker": "Self",
+      "scenario_localkey": "d_nikke_admi_03_22",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "9",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_90",
+      "set_end_camera": "XS_90",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_23",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Speech",
+      "highlight": "admi",
+      "speaker": "admi",
+      "scenario_localkey": "d_nikke_admi_03_23",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "9",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_90",
+      "set_end_camera": "XS_90",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_24",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Speech",
+      "highlight": "admi",
+      "speaker": "admi",
+      "scenario_localkey": "d_nikke_admi_03_24",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "9",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_90",
+      "set_end_camera": "XS_90",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_25",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Self",
+      "highlight": "admi",
+      "speaker": "Self",
+      "scenario_localkey": "d_nikke_admi_03_25",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "9",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_90",
+      "set_end_camera": "XS_90",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_26",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Speech",
+      "highlight": "admi",
+      "speaker": "admi",
+      "scenario_localkey": "d_nikke_admi_03_26",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "9",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_90",
+      "set_end_camera": "XS_900",
+      "set_camera_duration": 0.6,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_27",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Narration",
+      "highlight": "admi",
+      "speaker": "Narration",
+      "scenario_localkey": "d_nikke_admi_03_27",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "hide_char_id": "admi",
+          "set_char_position": "9",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "none",
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "play_sound": "sfx_scn_buggerbite",
+      "effects": [
+        {},
+        {}
+      ],
+      "fade": "black"
+    },
+    {
+      "id": "d_nikke_admi_03_28",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Monologue",
+      "highlight": "admi",
+      "speaker": "Monologue",
+      "scenario_localkey": "d_nikke_admi_03_28",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "show_char_id": "admi",
+          "hide_char_id": "admi",
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_29",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Self",
+      "highlight": "admi",
+      "speaker": "Self",
+      "scenario_localkey": "d_nikke_admi_03_29",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "show_char_id": "admi",
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "Park",
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_30",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Speech",
+      "highlight": "admi",
+      "speaker": "admi",
+      "scenario_localkey": "d_nikke_admi_03_30",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_31",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Speech",
+      "highlight": "admi",
+      "speaker": "admi",
+      "scenario_localkey": "d_nikke_admi_03_31",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_32",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Self",
+      "highlight": "admi",
+      "speaker": "Self",
+      "scenario_localkey": "d_nikke_admi_03_32",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_33",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Speech",
+      "highlight": "admi",
+      "speaker": "admi",
+      "scenario_localkey": "d_nikke_admi_03_33",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "expression_0,idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_34",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Self",
+      "highlight": "admi",
+      "speaker": "Self",
+      "scenario_localkey": "d_nikke_admi_03_34",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_35",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Speech",
+      "highlight": "admi",
+      "speaker": "admi",
+      "scenario_localkey": "d_nikke_admi_03_35",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_36",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Self",
+      "highlight": "admi",
+      "speaker": "Self",
+      "scenario_localkey": "d_nikke_admi_03_36",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_37",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Speech",
+      "highlight": "admi",
+      "speaker": "admi",
+      "scenario_localkey": "d_nikke_admi_03_37",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_38",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Speech",
+      "highlight": "admi",
+      "speaker": "admi",
+      "scenario_localkey": "d_nikke_admi_03_38",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "worry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_39",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Self",
+      "highlight": "admi",
+      "speaker": "Self",
+      "scenario_localkey": "d_nikke_admi_03_39",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "worry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_40",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Speech",
+      "highlight": "admi",
+      "speaker": "admi",
+      "scenario_localkey": "d_nikke_admi_03_40",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_41",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Monologue",
+      "highlight": "admi",
+      "speaker": "Monologue",
+      "scenario_localkey": "d_nikke_admi_03_41",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_42",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Self",
+      "highlight": "admi",
+      "speaker": "Self",
+      "scenario_localkey": "d_nikke_admi_03_42",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "play_bgm": "none",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_43",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Speech",
+      "highlight": "admi",
+      "speaker": "admi",
+      "scenario_localkey": "d_nikke_admi_03_43",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_44",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Self",
+      "highlight": "admi",
+      "speaker": "Self",
+      "scenario_localkey": "d_nikke_admi_03_44",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_45",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Monologue",
+      "highlight": "admi",
+      "speaker": "Monologue",
+      "scenario_localkey": "d_nikke_admi_03_45",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_100",
+      "set_camera_duration": 2.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_46",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Speech",
+      "highlight": "admi",
+      "speaker": "admi",
+      "scenario_localkey": "d_nikke_admi_03_46",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "shy"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_100",
+      "set_end_camera": "XS_100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_47",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Self",
+      "highlight": "admi",
+      "speaker": "Self",
+      "scenario_localkey": "d_nikke_admi_03_47",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "shy"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_100",
+      "set_end_camera": "XS_100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_48",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Speech",
+      "highlight": "admi",
+      "speaker": "admi",
+      "scenario_localkey": "d_nikke_admi_03_48",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "shy"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_100",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 0.5,
+      "play_bgm": "bgm_story_whosdumber",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_49",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Speech",
+      "highlight": "admi",
+      "speaker": "admi",
+      "scenario_localkey": "d_nikke_admi_03_49",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "shy"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_50",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Self",
+      "highlight": "admi",
+      "speaker": "Self",
+      "scenario_localkey": "d_nikke_admi_03_50",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "shy"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_51",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Self",
+      "highlight": "admi",
+      "speaker": "Self",
+      "scenario_localkey": "d_nikke_admi_03_51",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "shy"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_52",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Speech",
+      "highlight": "admi",
+      "speaker": "admi",
+      "scenario_localkey": "d_nikke_admi_03_52",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_53",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Speech",
+      "highlight": "admi",
+      "speaker": "admi",
+      "scenario_localkey": "d_nikke_admi_03_53",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_54",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Self",
+      "highlight": "admi",
+      "speaker": "Self",
+      "scenario_localkey": "d_nikke_admi_03_54",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_55",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Narration",
+      "highlight": "admi",
+      "speaker": "Narration",
+      "scenario_localkey": "d_nikke_admi_03_55",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "hide_char_id": "admi",
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "none",
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "play_sound": "sfx_scn_buggerbite",
+      "play_bgm": "none",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_56",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Monologue",
+      "highlight": "admi",
+      "speaker": "Monologue",
+      "scenario_localkey": "d_nikke_admi_03_56",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_57",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Speech",
+      "highlight": "admi",
+      "speaker": "admi",
+      "scenario_localkey": "d_nikke_admi_03_57",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "show_char_id": "admi",
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "FastFood",
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "play_bgm": "bgm_story_backtonormal",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_58",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Self",
+      "highlight": "admi",
+      "speaker": "Self",
+      "scenario_localkey": "d_nikke_admi_03_58",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_59",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Speech",
+      "highlight": "admi",
+      "speaker": "admi",
+      "scenario_localkey": "d_nikke_admi_03_59",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_60",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Speech",
+      "highlight": "admi",
+      "speaker": "admi",
+      "scenario_localkey": "d_nikke_admi_03_60",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_61",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Speech",
+      "highlight": "admi",
+      "speaker": "admi",
+      "scenario_localkey": "d_nikke_admi_03_61",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_62",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Self",
+      "highlight": "admi",
+      "speaker": "Self",
+      "scenario_localkey": "d_nikke_admi_03_62",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_63",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Speech",
+      "highlight": "admi",
+      "speaker": "admi",
+      "scenario_localkey": "d_nikke_admi_03_63",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_64",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Speech",
+      "highlight": "admi",
+      "speaker": "admi",
+      "scenario_localkey": "d_nikke_admi_03_64",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_65",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Speech",
+      "highlight": "admi",
+      "speaker": "admi",
+      "scenario_localkey": "d_nikke_admi_03_65",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_66",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Speech",
+      "highlight": "admi",
+      "speaker": "admi",
+      "scenario_localkey": "d_nikke_admi_03_66",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_67",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Choice",
+      "highlight": "admi",
+      "speaker": "Choice",
+      "scenario_localkey": "d_nikke_admi_03_67",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "d_nikke_admi_03_69"
+    },
+    {
+      "id": "d_nikke_admi_03_68",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Choice",
+      "highlight": "admi",
+      "speaker": "Choice",
+      "scenario_localkey": "d_nikke_admi_03_68",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "d_nikke_admi_03_71"
+    },
+    {
+      "id": "d_nikke_admi_03_69",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Speech",
+      "highlight": "admi",
+      "speaker": "admi",
+      "scenario_localkey": "d_nikke_admi_03_69",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_70",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Speech",
+      "highlight": "admi",
+      "speaker": "admi",
+      "scenario_localkey": "d_nikke_admi_03_70",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "d_nikke_admi_03_73"
+    },
+    {
+      "id": "d_nikke_admi_03_71",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Speech",
+      "highlight": "admi",
+      "speaker": "admi",
+      "scenario_localkey": "d_nikke_admi_03_71",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_72",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Speech",
+      "highlight": "admi",
+      "speaker": "admi",
+      "scenario_localkey": "d_nikke_admi_03_72",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_73",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Speech",
+      "highlight": "admi",
+      "speaker": "admi",
+      "scenario_localkey": "d_nikke_admi_03_73",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_74",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Speech",
+      "highlight": "admi",
+      "speaker": "admi",
+      "scenario_localkey": "d_nikke_admi_03_74",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_75",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Monologue",
+      "highlight": "admi",
+      "speaker": "Monologue",
+      "scenario_localkey": "d_nikke_admi_03_75",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_76",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Speech",
+      "highlight": "admi",
+      "speaker": "admi",
+      "scenario_localkey": "d_nikke_admi_03_76",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_77",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Monologue",
+      "highlight": "admi",
+      "speaker": "Monologue",
+      "scenario_localkey": "d_nikke_admi_03_77",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_78",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Speech",
+      "highlight": "admi",
+      "speaker": "admi",
+      "scenario_localkey": "d_nikke_admi_03_78",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "shy"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_100",
+      "set_camera_duration": 0.5,
+      "play_bgm": "none",
+      "effects": [
+        {},
+        {}
+      ],
+      "set_camera_shake": "Low_2"
+    },
+    {
+      "id": "d_nikke_admi_03_79",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Self",
+      "highlight": "admi",
+      "speaker": "Self",
+      "scenario_localkey": "d_nikke_admi_03_79",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "shy"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_100",
+      "set_end_camera": "XS_100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_80",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Speech",
+      "highlight": "admi",
+      "speaker": "admi",
+      "scenario_localkey": "d_nikke_admi_03_80",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_100",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_81",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Self",
+      "highlight": "admi",
+      "speaker": "Self",
+      "scenario_localkey": "d_nikke_admi_03_81",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_82",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Speech",
+      "highlight": "admi",
+      "speaker": "admi",
+      "scenario_localkey": "d_nikke_admi_03_82",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_83",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Speech",
+      "highlight": "admi",
+      "speaker": "admi",
+      "scenario_localkey": "d_nikke_admi_03_83",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_84",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Monologue",
+      "highlight": "admi",
+      "speaker": "Monologue",
+      "scenario_localkey": "d_nikke_admi_03_84",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "hide_char_id": "admi",
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "none",
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "play_bgm": "bgm_story_impression",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_85",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Monologue",
+      "highlight": "admi",
+      "speaker": "Monologue",
+      "scenario_localkey": "d_nikke_admi_03_85",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "Park",
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Grey",
+      "set_filter_02": "Blur_Low"
+    },
+    {
+      "id": "d_nikke_admi_03_86",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Monologue",
+      "highlight": "admi",
+      "speaker": "Monologue",
+      "scenario_localkey": "d_nikke_admi_03_86",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "FastFood",
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Grey",
+      "set_filter_02": "Blur_Low"
+    },
+    {
+      "id": "d_nikke_admi_03_87",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Monologue",
+      "highlight": "admi",
+      "speaker": "Monologue",
+      "scenario_localkey": "d_nikke_admi_03_87",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "none",
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Grey",
+      "set_filter_02": "Blur_Low"
+    },
+    {
+      "id": "d_nikke_admi_03_88",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Self",
+      "highlight": "admi",
+      "speaker": "Self",
+      "scenario_localkey": "d_nikke_admi_03_88",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "Backstreet_n",
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Grey",
+      "set_filter_02": "Blur_Low"
+    },
+    {
+      "id": "d_nikke_admi_03_89",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Self",
+      "highlight": "admi",
+      "speaker": "Self",
+      "scenario_localkey": "d_nikke_admi_03_89",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Grey",
+      "set_filter_02": "Blur_Low"
+    },
+    {
+      "id": "d_nikke_admi_03_90",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Speech",
+      "highlight": "admi",
+      "speaker": "admi",
+      "scenario_localkey": "d_nikke_admi_03_90",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "none",
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Grey",
+      "set_filter_02": "Blur_Low"
+    },
+    {
+      "id": "d_nikke_admi_03_91",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Self",
+      "highlight": "admi",
+      "speaker": "Self",
+      "scenario_localkey": "d_nikke_admi_03_91",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "show_char_id": "admi",
+          "set_char_position": "1",
+          "set_char_anim": "worry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "FastFood",
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_92",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Speech",
+      "highlight": "admi",
+      "speaker": "admi",
+      "scenario_localkey": "d_nikke_admi_03_92",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "worry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_93",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Self",
+      "highlight": "admi",
+      "speaker": "Self",
+      "scenario_localkey": "d_nikke_admi_03_93",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "worry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_94",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Speech",
+      "highlight": "admi",
+      "speaker": "admi",
+      "scenario_localkey": "d_nikke_admi_03_94",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 0.6,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_95",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Speech",
+      "highlight": "admi",
+      "speaker": "admi",
+      "scenario_localkey": "d_nikke_admi_03_95",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_96",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Narration",
+      "highlight": "admi",
+      "speaker": "Narration",
+      "scenario_localkey": "d_nikke_admi_03_96",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "hide_char_id": "admi",
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "none",
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "play_sound": "sfx_scn_buggerbite",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_97",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Monologue",
+      "highlight": "admi",
+      "speaker": "Monologue",
+      "scenario_localkey": "d_nikke_admi_03_97",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "White",
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_98",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Monologue",
+      "highlight": "admi",
+      "speaker": "Monologue",
+      "scenario_localkey": "d_nikke_admi_03_98",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_99",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Monologue",
+      "highlight": "admi",
+      "speaker": "Monologue",
+      "scenario_localkey": "d_nikke_admi_03_99",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_admi_03_100",
+      "group_id": "d_nikke_admi_03",
+      "speech_window": "Monologue",
+      "highlight": "admi",
+      "speaker": "Monologue",
+      "scenario_localkey": "d_nikke_admi_03_100",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    }
+  ]
+}

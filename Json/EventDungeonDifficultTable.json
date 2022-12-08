@@ -1,0 +1,113 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 10011,
+      "group": 1001,
+      "order": 1,
+      "name": "STORY_EVENT_DUNGEON_DIFFICULT_NORMAL",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "button_resource": "None",
+      "button_color": "87CEEB",
+      "background_resource": "None",
+      "chapter_group": 10011
+    },
+    {
+      "id": 10012,
+      "group": 1001,
+      "order": 2,
+      "name": "STORY_EVENT_DUNGEON_DIFFICULT_HARD",
+      "open_condition_type": "EventDay",
+      "open_condition_value": 7,
+      "button_resource": "None",
+      "button_color": "C71585",
+      "background_resource": "None",
+      "chapter_group": 10012
+    },
+    {
+      "id": 10021,
+      "group": 1002,
+      "order": 1,
+      "name": "STORY_EVENT_DUNGEON_DIFFICULT_NORMAL",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "button_resource": "None",
+      "button_color": "87CEEB",
+      "background_resource": "None",
+      "chapter_group": 10021
+    },
+    {
+      "id": 10022,
+      "group": 1002,
+      "order": 2,
+      "name": "STORY_EVENT_DUNGEON_DIFFICULT_HARD",
+      "open_condition_type": "EventDay",
+      "open_condition_value": 7,
+      "button_resource": "None",
+      "button_color": "C71585",
+      "background_resource": "None",
+      "chapter_group": 10022
+    },
+    {
+      "id": 10031,
+      "group": 1003,
+      "order": 1,
+      "name": "STORY_EVENT_DUNGEON_DIFFICULT_NORMAL",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "button_resource": "None",
+      "button_color": "87CEEB",
+      "background_resource": "None",
+      "chapter_group": 10031
+    },
+    {
+      "id": 10041,
+      "group": 1004,
+      "order": 1,
+      "name": "STORY_EVENT_DUNGEON_DIFFICULT_NORMAL",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "button_resource": "None",
+      "button_color": "87CEEB",
+      "background_resource": "None",
+      "chapter_group": 10041
+    },
+    {
+      "id": 10042,
+      "group": 1004,
+      "order": 2,
+      "name": "STORY_EVENT_DUNGEON_DIFFICULT_HARD",
+      "open_condition_type": "EventDay",
+      "open_condition_value": 7,
+      "button_resource": "None",
+      "button_color": "C71585",
+      "background_resource": "None",
+      "chapter_group": 10042
+    },
+    {
+      "id": 10051,
+      "group": 1005,
+      "order": 1,
+      "name": "STORY_EVENT_DUNGEON_DIFFICULT_NORMAL",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "button_resource": "None",
+      "button_color": "87CEEB",
+      "background_resource": "None",
+      "chapter_group": 10051
+    },
+    {
+      "id": 10052,
+      "group": 1005,
+      "order": 2,
+      "name": "STORY_EVENT_DUNGEON_DIFFICULT_HARD",
+      "open_condition_type": "EventDay",
+      "open_condition_value": 7,
+      "button_resource": "None",
+      "button_color": "C71585",
+      "background_resource": "None",
+      "chapter_group": 10052
+    }
+  ]
+}

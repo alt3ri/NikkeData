@@ -1,0 +1,37 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 9900001,
+      "fieldobject_prefab": "test_car_Var",
+      "interaction_distance": 2,
+      "quest_type": "Sub",
+      "interaction_quest_id": 4,
+      "show_condition_quest_id": 4
+    },
+    {
+      "id": 9900002,
+      "fieldobject_prefab": "test_car_Var",
+      "interaction_distance": 2,
+      "quest_type": "Main",
+      "interaction_quest_id": 4,
+      "show_condition_quest_id": 0
+    },
+    {
+      "id": 9900003,
+      "fieldobject_prefab": "test_car_Var",
+      "interaction_distance": 2,
+      "quest_type": "None",
+      "interaction_quest_id": 0,
+      "show_condition_quest_id": 0
+    },
+    {
+      "id": 9900004,
+      "fieldobject_prefab": "test_car_Var",
+      "interaction_distance": 2,
+      "quest_type": "None",
+      "interaction_quest_id": 0,
+      "show_condition_quest_id": 0
+    }
+  ]
+}

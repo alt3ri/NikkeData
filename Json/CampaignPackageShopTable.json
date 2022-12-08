@@ -1,0 +1,33 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 50001,
+      "order_group_id": 500,
+      "package_order": 1,
+      "package_group_id": 50001,
+      "product_efficiency": 5,
+      "name_localkey": "PRODUCT_CAMPAIGN_PACKAGE_01_NAME",
+      "description_localkey": "PRODUCT_CAMPAIGN_PACKAGE_01_DESC",
+      "product_resource_id": "icn_inappshop_campaign_01",
+      "infracore_point": 0,
+      "midas_product_id": 30050001,
+      "shop_description_localkey_01": "CASH_SHOP_CAMPAIGN_PACKAGE_01_DESC_1",
+      "shop_description_localkey_02": "CASH_SHOP_CAMPAIGN_PACKAGE_01_DESC_2"
+    },
+    {
+      "id": 50101,
+      "order_group_id": 501,
+      "package_order": 2,
+      "package_group_id": 50101,
+      "product_efficiency": 5,
+      "name_localkey": "PRODUCT_CAMPAIGN_PACKAGE_02_NAME",
+      "description_localkey": "PRODUCT_CAMPAIGN_PACKAGE_02_DESC",
+      "product_resource_id": "icn_inappshop_campaign_02",
+      "infracore_point": 0,
+      "midas_product_id": 30050101,
+      "shop_description_localkey_01": "CASH_SHOP_CAMPAIGN_PACKAGE_02_DESC_1",
+      "shop_description_localkey_02": "CASH_SHOP_CAMPAIGN_PACKAGE_02_DESC_2"
+    }
+  ]
+}

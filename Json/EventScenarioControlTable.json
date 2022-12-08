@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 0,
+      "event_id": 0,
+      "scenario_group_id": "0",
+      "scenario_play_type": "AtActive"
+    }
+  ]
+}

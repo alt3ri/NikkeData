@@ -1,0 +1,35 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 0,
+      "reward_step_time": 0,
+      "building_resource_id": "opobj_outpost_01"
+    },
+    {
+      "id": 1,
+      "reward_step_time": 20,
+      "building_resource_id": "opobj_RewardBox_01"
+    },
+    {
+      "id": 2,
+      "reward_step_time": 60,
+      "building_resource_id": "opobj_RewardBox_02"
+    },
+    {
+      "id": 3,
+      "reward_step_time": 1800,
+      "building_resource_id": "opobj_RewardBox_03"
+    },
+    {
+      "id": 4,
+      "reward_step_time": 3600,
+      "building_resource_id": "opobj_RewardBox_04"
+    },
+    {
+      "id": 5,
+      "reward_step_time": 10800,
+      "building_resource_id": "opobj_RewardBox_05"
+    }
+  ]
+}

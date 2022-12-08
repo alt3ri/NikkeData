@@ -1,0 +1,212 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1,
+      "name_localkey": "USER_EXP",
+      "description_localkey": "EXP_DESC",
+      "resource_id": 9999,
+      "is_visible_to_inventory": false,
+      "min_value": 0,
+      "max_value": 2147483647
+    },
+    {
+      "id": 99,
+      "name_localkey": "CASH",
+      "description_localkey": "CASH_DESC",
+      "resource_id": 1001,
+      "is_visible_to_inventory": true,
+      "min_value": 0,
+      "max_value": 2147483647
+    },
+    {
+      "id": 98,
+      "name_localkey": "CASH",
+      "description_localkey": "CASH_DESC",
+      "resource_id": 1001,
+      "is_visible_to_inventory": false,
+      "min_value": 0,
+      "max_value": 2147483647
+    },
+    {
+      "id": 1000,
+      "name_localkey": "EXP_CHARACTER",
+      "description_localkey": "EXP_CHARACTER_DESC",
+      "resource_id": 1005,
+      "is_visible_to_inventory": true,
+      "min_value": 0,
+      "max_value": 2147483647
+    },
+    {
+      "id": 2000,
+      "name_localkey": "GOLD",
+      "description_localkey": "GOLD_DESC",
+      "resource_id": 1002,
+      "is_visible_to_inventory": true,
+      "min_value": 0,
+      "max_value": 2147483647
+    },
+    {
+      "id": 3000,
+      "name_localkey": "EXP_CHARACTER2",
+      "description_localkey": "EXP_CHARACTER2_DESC",
+      "resource_id": 1006,
+      "is_visible_to_inventory": true,
+      "min_value": 0,
+      "max_value": 2147483647
+    },
+    {
+      "id": 4000,
+      "name_localkey": "FRIEND_POINT",
+      "description_localkey": "FRIEND_POINT_DESC",
+      "resource_id": 1004,
+      "is_visible_to_inventory": true,
+      "min_value": 0,
+      "max_value": 2147483647
+    },
+    {
+      "id": 5000,
+      "name_localkey": "SPECIAL_ARENA_REWARD",
+      "description_localkey": "SPECIAL_ARENA_REWARD_DESC",
+      "resource_id": 1007,
+      "is_visible_to_inventory": true,
+      "min_value": 0,
+      "max_value": 2147483647
+    },
+    {
+      "id": 7000,
+      "name_localkey": "INFRACORE_POINT",
+      "description_localkey": "INFRACORE_POINT_DESC",
+      "resource_id": 1010,
+      "is_visible_to_inventory": false,
+      "min_value": 0,
+      "max_value": 2147483647
+    },
+    {
+      "id": 8000,
+      "name_localkey": "RAPTURE_PARTS",
+      "description_localkey": "RAPTURE_PARTS_DESC",
+      "resource_id": 6000,
+      "is_visible_to_inventory": false,
+      "min_value": 0,
+      "max_value": 2147483647
+    },
+    {
+      "id": 9000,
+      "name_localkey": "DISSOLUTION_POINT",
+      "description_localkey": "DISSOLUTION_POINT_DESC",
+      "resource_id": 1011,
+      "is_visible_to_inventory": true,
+      "min_value": 0,
+      "max_value": 2147483647
+    },
+    {
+      "id": 10000,
+      "name_localkey": "GUILD_COIN",
+      "description_localkey": "GUILD_COIN_DESC",
+      "resource_id": 1012,
+      "is_visible_to_inventory": true,
+      "min_value": 0,
+      "max_value": 2147483647
+    },
+    {
+      "id": 11000,
+      "name_localkey": "SUMMON_MILEAGE_TICKET_SILVER",
+      "description_localkey": "SUMMON_MILEAGE_TICKET_SILVER_DESC",
+      "resource_id": 1101,
+      "is_visible_to_inventory": true,
+      "min_value": 0,
+      "max_value": 2147483647
+    },
+    {
+      "id": 12000,
+      "name_localkey": "SUMMON_MILEAGE_TICKET_GOLD",
+      "description_localkey": "SUMMON_MILEAGE_TICKET_GOLD_DESC",
+      "resource_id": 1102,
+      "is_visible_to_inventory": true,
+      "min_value": 0,
+      "max_value": 2147483647
+    },
+    {
+      "id": 13000,
+      "name_localkey": "SIMULATIONROOM_POINT",
+      "description_localkey": "SIMULATIONROOM_POINT_DESC",
+      "resource_id": 1013,
+      "is_visible_to_inventory": false,
+      "min_value": 0,
+      "max_value": 2147483647
+    },
+    {
+      "id": 5100,
+      "name_localkey": "SUMMON_SCROLL",
+      "description_localkey": "SUMMON_SCROLL_DESC",
+      "resource_id": 3001,
+      "is_visible_to_inventory": true,
+      "min_value": 0,
+      "max_value": 2147483647
+    },
+    {
+      "id": 5200,
+      "name_localkey": "SUMMON_SCROLL_CHARACTER_CUSTOMIZE",
+      "description_localkey": "SUMMON_SCROLL_CHARACTER_CUSTOMIZE_DESC",
+      "resource_id": 3002,
+      "is_visible_to_inventory": true,
+      "min_value": 0,
+      "max_value": 2147483647
+    },
+    {
+      "id": 5300,
+      "name_localkey": "SUMMON_SCROLL_COMPANY",
+      "description_localkey": "SUMMON_SCROLL_COMPANY_DESC",
+      "resource_id": 3003,
+      "is_visible_to_inventory": true,
+      "min_value": 0,
+      "max_value": 2147483647
+    },
+    {
+      "id": 6001,
+      "name_localkey": "ARENA_CHIP",
+      "description_localkey": "ARENA_CHIP_DESC",
+      "resource_id": 3004,
+      "is_visible_to_inventory": false,
+      "min_value": 0,
+      "max_value": 2147483647
+    },
+    {
+      "id": 6002,
+      "name_localkey": "SPECIAL_ARENA_CHIP",
+      "description_localkey": "SPECIAL_ARENA_CHIP_DESC",
+      "resource_id": 3005,
+      "is_visible_to_inventory": false,
+      "min_value": 0,
+      "max_value": 2147483647
+    },
+    {
+      "id": 6003,
+      "name_localkey": "SPECIAL_ARENA_CHIP",
+      "description_localkey": "SPECIAL_ARENA_CHIP_DESC",
+      "resource_id": 3005,
+      "is_visible_to_inventory": false,
+      "min_value": 0,
+      "max_value": 2147483647
+    },
+    {
+      "id": 6100,
+      "name_localkey": "OUTPOST_SUDDEN_EVENT_STAMINA",
+      "description_localkey": "OUTPOST_SUDDEN_EVENT_STAMINA_DESC",
+      "resource_id": 9001,
+      "is_visible_to_inventory": false,
+      "min_value": 0,
+      "max_value": 5
+    },
+    {
+      "id": 6200,
+      "name_localkey": "RECYCLE_ROOM_RESEARCH_POINT",
+      "description_localkey": "RECYCLE_ROOM_RESEARCH_POINT_DESC",
+      "resource_id": 1008,
+      "is_visible_to_inventory": false,
+      "min_value": 0,
+      "max_value": 2147483647
+    }
+  ]
+}

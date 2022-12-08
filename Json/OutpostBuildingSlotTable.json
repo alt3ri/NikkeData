@@ -1,0 +1,443 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1,
+      "ban_building_category": [
+        "Default"
+      ]
+    },
+    {
+      "id": 2,
+      "ban_building_category": [
+        "Default"
+      ]
+    },
+    {
+      "id": 3,
+      "ban_building_category": [
+        "Default"
+      ]
+    },
+    {
+      "id": 4,
+      "ban_building_category": [
+        "Default"
+      ]
+    },
+    {
+      "id": 5,
+      "ban_building_category": [
+        "Default"
+      ]
+    },
+    {
+      "id": 6,
+      "ban_building_category": [
+        "Default"
+      ]
+    },
+    {
+      "id": 7,
+      "ban_building_category": [
+        "Default"
+      ]
+    },
+    {
+      "id": 8,
+      "ban_building_category": [
+        "Default"
+      ]
+    },
+    {
+      "id": 9,
+      "ban_building_category": [
+        "Default"
+      ]
+    },
+    {
+      "id": 10,
+      "ban_building_category": [
+        "Default"
+      ]
+    },
+    {
+      "id": 11,
+      "ban_building_category": [
+        "CommanderCenter",
+        "Elevator",
+        "DispatchBoard",
+        "SynchroDevice",
+        "RecycleRoom",
+        "TacticAcademy",
+        "AmusementPark",
+        "OutdoorPool",
+        "FlowerPark"
+      ]
+    },
+    {
+      "id": 12,
+      "ban_building_category": [
+        "CommanderCenter",
+        "Elevator",
+        "DispatchBoard",
+        "SynchroDevice",
+        "RecycleRoom",
+        "TacticAcademy",
+        "AmusementPark",
+        "OutdoorPool",
+        "FlowerPark"
+      ]
+    },
+    {
+      "id": 13,
+      "ban_building_category": [
+        "CommanderCenter",
+        "Elevator",
+        "DispatchBoard",
+        "SynchroDevice",
+        "RecycleRoom",
+        "TacticAcademy",
+        "AmusementPark",
+        "OutdoorPool",
+        "FlowerPark"
+      ]
+    },
+    {
+      "id": 14,
+      "ban_building_category": [
+        "CommanderCenter",
+        "Elevator",
+        "DispatchBoard",
+        "SynchroDevice",
+        "RecycleRoom",
+        "TacticAcademy",
+        "AmusementPark",
+        "OutdoorPool",
+        "FlowerPark"
+      ]
+    },
+    {
+      "id": 15,
+      "ban_building_category": [
+        "CommanderCenter",
+        "Elevator",
+        "DispatchBoard",
+        "SynchroDevice",
+        "RecycleRoom",
+        "TacticAcademy",
+        "AmusementPark",
+        "OutdoorPool",
+        "FlowerPark"
+      ]
+    },
+    {
+      "id": 16,
+      "ban_building_category": [
+        "CommanderCenter",
+        "Elevator",
+        "DispatchBoard",
+        "SynchroDevice",
+        "RecycleRoom",
+        "TacticAcademy",
+        "AmusementPark",
+        "OutdoorPool",
+        "FlowerPark"
+      ]
+    },
+    {
+      "id": 17,
+      "ban_building_category": [
+        "CommanderCenter",
+        "Elevator",
+        "DispatchBoard",
+        "SynchroDevice",
+        "RecycleRoom",
+        "TacticAcademy",
+        "AmusementPark",
+        "OutdoorPool",
+        "FlowerPark"
+      ]
+    },
+    {
+      "id": 18,
+      "ban_building_category": [
+        "CommanderCenter",
+        "Elevator",
+        "DispatchBoard",
+        "SynchroDevice",
+        "RecycleRoom",
+        "TacticAcademy",
+        "AmusementPark",
+        "OutdoorPool",
+        "FlowerPark"
+      ]
+    },
+    {
+      "id": 19,
+      "ban_building_category": [
+        "CommanderCenter",
+        "Elevator",
+        "DispatchBoard",
+        "SynchroDevice",
+        "RecycleRoom",
+        "TacticAcademy",
+        "AmusementPark",
+        "OutdoorPool",
+        "FlowerPark"
+      ]
+    },
+    {
+      "id": 20,
+      "ban_building_category": [
+        "CommanderCenter",
+        "Elevator",
+        "DispatchBoard",
+        "SynchroDevice",
+        "RecycleRoom",
+        "TacticAcademy",
+        "AmusementPark",
+        "OutdoorPool",
+        "FlowerPark"
+      ]
+    },
+    {
+      "id": 21,
+      "ban_building_category": [
+        "CommanderCenter",
+        "Elevator",
+        "DispatchBoard",
+        "SynchroDevice",
+        "RecycleRoom",
+        "TacticAcademy",
+        "AmusementPark",
+        "OutdoorPool",
+        "FlowerPark"
+      ]
+    },
+    {
+      "id": 22,
+      "ban_building_category": [
+        "CommanderCenter",
+        "Elevator",
+        "DispatchBoard",
+        "SynchroDevice",
+        "RecycleRoom",
+        "TacticAcademy",
+        "AmusementPark",
+        "OutdoorPool",
+        "FlowerPark"
+      ]
+    },
+    {
+      "id": 23,
+      "ban_building_category": [
+        "CommanderCenter",
+        "Elevator",
+        "DispatchBoard",
+        "SynchroDevice",
+        "RecycleRoom",
+        "TacticAcademy",
+        "AmusementPark",
+        "OutdoorPool",
+        "FlowerPark"
+      ]
+    },
+    {
+      "id": 24,
+      "ban_building_category": [
+        "CommanderCenter",
+        "Elevator",
+        "DispatchBoard",
+        "SynchroDevice",
+        "RecycleRoom",
+        "TacticAcademy",
+        "AmusementPark",
+        "OutdoorPool",
+        "FlowerPark"
+      ]
+    },
+    {
+      "id": 25,
+      "ban_building_category": [
+        "CommanderCenter",
+        "Elevator",
+        "DispatchBoard",
+        "SynchroDevice",
+        "RecycleRoom",
+        "TacticAcademy",
+        "AmusementPark",
+        "OutdoorPool",
+        "FlowerPark"
+      ]
+    },
+    {
+      "id": 26,
+      "ban_building_category": [
+        "CommanderCenter",
+        "Elevator",
+        "DispatchBoard",
+        "SynchroDevice",
+        "RecycleRoom",
+        "TacticAcademy",
+        "AmusementPark",
+        "OutdoorPool",
+        "FlowerPark"
+      ]
+    },
+    {
+      "id": 27,
+      "ban_building_category": [
+        "CommanderCenter",
+        "Elevator",
+        "DispatchBoard",
+        "SynchroDevice",
+        "RecycleRoom",
+        "TacticAcademy",
+        "AmusementPark",
+        "OutdoorPool",
+        "FlowerPark"
+      ]
+    },
+    {
+      "id": 28,
+      "ban_building_category": [
+        "CommanderCenter",
+        "Elevator",
+        "DispatchBoard",
+        "SynchroDevice",
+        "RecycleRoom",
+        "TacticAcademy",
+        "AmusementPark",
+        "OutdoorPool",
+        "FlowerPark"
+      ]
+    },
+    {
+      "id": 29,
+      "ban_building_category": [
+        "CommanderCenter",
+        "Elevator",
+        "DispatchBoard",
+        "SynchroDevice",
+        "RecycleRoom",
+        "TacticAcademy",
+        "AmusementPark",
+        "OutdoorPool",
+        "FlowerPark"
+      ]
+    },
+    {
+      "id": 30,
+      "ban_building_category": [
+        "CommanderCenter",
+        "Elevator",
+        "DispatchBoard",
+        "SynchroDevice",
+        "RecycleRoom",
+        "TacticAcademy",
+        "AmusementPark",
+        "OutdoorPool",
+        "FlowerPark"
+      ]
+    },
+    {
+      "id": 31,
+      "ban_building_category": [
+        "CommanderCenter",
+        "Elevator",
+        "DispatchBoard",
+        "SynchroDevice",
+        "RecycleRoom",
+        "TacticAcademy",
+        "AmusementPark",
+        "OutdoorPool",
+        "FlowerPark"
+      ]
+    },
+    {
+      "id": 32,
+      "ban_building_category": [
+        "CommanderCenter",
+        "Elevator",
+        "DispatchBoard",
+        "SynchroDevice",
+        "RecycleRoom",
+        "TacticAcademy",
+        "AmusementPark",
+        "OutdoorPool",
+        "FlowerPark"
+      ]
+    },
+    {
+      "id": 33,
+      "ban_building_category": [
+        "CommanderCenter",
+        "Elevator",
+        "DispatchBoard",
+        "SynchroDevice",
+        "RecycleRoom",
+        "TacticAcademy",
+        "AmusementPark",
+        "OutdoorPool",
+        "FlowerPark"
+      ]
+    },
+    {
+      "id": 34,
+      "ban_building_category": [
+        "CommanderCenter",
+        "Elevator",
+        "DispatchBoard",
+        "SynchroDevice",
+        "RecycleRoom",
+        "TacticAcademy",
+        "AmusementPark",
+        "OutdoorPool",
+        "FlowerPark"
+      ]
+    },
+    {
+      "id": 35,
+      "ban_building_category": [
+        "CommanderCenter",
+        "Elevator",
+        "DispatchBoard",
+        "SynchroDevice",
+        "RecycleRoom",
+        "TacticAcademy",
+        "AmusementPark",
+        "OutdoorPool",
+        "FlowerPark"
+      ]
+    },
+    {
+      "id": 36,
+      "ban_building_category": [
+        "CommanderCenter",
+        "Elevator",
+        "DispatchBoard",
+        "SynchroDevice",
+        "RecycleRoom",
+        "TacticAcademy",
+        "AmusementPark",
+        "OutdoorPool",
+        "FlowerPark"
+      ]
+    },
+    {
+      "id": 37,
+      "ban_building_category": [
+        "CommanderCenter",
+        "Elevator",
+        "DispatchBoard",
+        "SynchroDevice",
+        "RecycleRoom",
+        "TacticAcademy",
+        "AmusementPark",
+        "OutdoorPool",
+        "FlowerPark"
+      ]
+    }
+  ]
+}

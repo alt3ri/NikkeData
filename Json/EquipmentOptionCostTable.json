@@ -1,0 +1,53 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 10,
+      "cost_group_id": 100,
+      "cost_level": 0,
+      "cost_id": 100001
+    },
+    {
+      "id": 11,
+      "cost_group_id": 100,
+      "cost_level": 1,
+      "cost_id": 101001
+    },
+    {
+      "id": 12,
+      "cost_group_id": 100,
+      "cost_level": 2,
+      "cost_id": 101002
+    },
+    {
+      "id": 13,
+      "cost_group_id": 100,
+      "cost_level": 3,
+      "cost_id": 101003
+    },
+    {
+      "id": 20,
+      "cost_group_id": 200,
+      "cost_level": 0,
+      "cost_id": 102001
+    },
+    {
+      "id": 21,
+      "cost_group_id": 200,
+      "cost_level": 1,
+      "cost_id": 102002
+    },
+    {
+      "id": 22,
+      "cost_group_id": 200,
+      "cost_level": 2,
+      "cost_id": 102003
+    },
+    {
+      "id": 23,
+      "cost_group_id": 200,
+      "cost_level": 3,
+      "cost_id": 102004
+    }
+  ]
+}

@@ -1,0 +1,702 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 100101,
+      "group_id": 1001,
+      "event_target": "Field",
+      "condition_time": "2022-12-07T15:59:59",
+      "event_type": "CameraAction",
+      "event_value": "enter",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 100102,
+      "group_id": 1001,
+      "event_target": "Field",
+      "condition_stageclear": 100310103,
+      "condition_time": "2022-12-14T20:00:00",
+      "event_type": "MapChange",
+      "event_value": "febg_christmas_001_02",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 100103,
+      "group_id": 1001,
+      "event_target": "Field",
+      "condition_stageclear": 100310103,
+      "condition_time": "2022-12-14T20:00:00",
+      "event_type": "CameraAction",
+      "event_value": "enter",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 100104,
+      "group_id": 1001,
+      "event_target": "Field",
+      "condition_stageclear": 100310103,
+      "condition_time": "2022-12-14T20:00:00",
+      "event_type": "IncreaseDummy",
+      "event_value": "10",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 100105,
+      "group_id": 1001,
+      "event_target": "Field",
+      "condition_stageclear": 100310105,
+      "condition_time": "2022-12-21T20:00:00",
+      "event_type": "MapChange",
+      "event_value": "febg_christmas_001_04",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 100106,
+      "group_id": 1001,
+      "event_target": "Field",
+      "condition_stageclear": 100310105,
+      "condition_time": "2022-12-21T20:00:00",
+      "event_type": "CameraAction",
+      "event_value": "enter",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 100107,
+      "group_id": 1001,
+      "event_target": "Field",
+      "condition_stageclear": 100310105,
+      "condition_time": "2022-12-21T20:00:00",
+      "event_type": "IncreaseDummy",
+      "event_value": "20",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 999901,
+      "group_id": 9999,
+      "event_target": "Field",
+      "condition_time": "2022-11-10T16:00:00",
+      "event_type": "MapChange",
+      "event_value": "febg_christmas_001_02",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 999902,
+      "group_id": 9999,
+      "event_target": "Field",
+      "condition_time": "2022-11-11T16:00:00",
+      "event_type": "IncreaseDummy",
+      "event_value": "10",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 999903,
+      "group_id": 9999,
+      "event_target": "Field",
+      "condition_time": "2022-11-12T16:00:00",
+      "event_type": "ScenarioDialog",
+      "event_value": "event_nocallerid_prologue",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 999904,
+      "group_id": 9999,
+      "event_target": "Field",
+      "condition_time": "2022-11-13T16:00:00",
+      "event_type": "FieldTalk",
+      "event_value": "1",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 999905,
+      "group_id": 9999,
+      "event_target": "Field",
+      "condition_time": "2022-11-14T16:00:00",
+      "event_type": "CameraAction",
+      "event_value": "enter",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 999906,
+      "group_id": 9999,
+      "event_target": "Field",
+      "condition_time": "2022-11-15T16:00:00",
+      "event_type": "FieldTalk",
+      "event_value": "1",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 999907,
+      "group_id": 9999,
+      "event_target": "Field",
+      "condition_time": "2022-11-15T16:00:00",
+      "event_type": "ScenarioDialog",
+      "event_value": "event_nocallerid_01_s",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 999908,
+      "group_id": 9999,
+      "event_target": "Field",
+      "condition_time": "2022-11-15T16:00:00",
+      "event_type": "FieldTalk",
+      "event_value": "2",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 999909,
+      "group_id": 9999,
+      "event_target": "Field",
+      "condition_time": "2022-11-15T16:00:00",
+      "event_type": "CameraAction",
+      "event_value": "enter",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 999910,
+      "group_id": 9999,
+      "event_target": "Field",
+      "condition_time": "2022-11-15T16:00:00",
+      "event_type": "FieldTalk",
+      "event_value": "3",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 999911,
+      "group_id": 9999,
+      "event_target": "Field",
+      "condition_missionclear": 1030001,
+      "event_type": "ScenarioDialog",
+      "event_value": "event_nocallerid_prologue",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 999912,
+      "group_id": 9999,
+      "event_target": "Field",
+      "condition_stageclear": 100110101,
+      "event_type": "ScenarioDialog",
+      "event_value": "event_nocallerid_01_s",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 999913,
+      "group_id": 9999,
+      "event_target": "Field",
+      "condition_missionclear": 1030002,
+      "condition_stageclear": 100110102,
+      "event_type": "ScenarioDialog",
+      "event_value": "event_nocallerid_01_e",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 999914,
+      "group_id": 9999,
+      "event_target": "Field",
+      "condition_missionclear": 1030101,
+      "condition_time": "2022-11-16T16:00:00",
+      "event_type": "ScenarioDialog",
+      "event_value": "event_nocallerid_02_s",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 999915,
+      "group_id": 9999,
+      "event_target": "Field",
+      "condition_stageclear": 100110103,
+      "condition_time": "2022-11-16T17:00:00",
+      "event_type": "ScenarioDialog",
+      "event_value": "event_nocallerid_02_e",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 999916,
+      "group_id": 9999,
+      "event_target": "Field",
+      "condition_missionclear": 1030201,
+      "condition_stageclear": 100110104,
+      "condition_time": "2022-11-16T18:00:00",
+      "event_type": "ScenarioDialog",
+      "event_value": "event_nocallerid_prologue",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 999917,
+      "group_id": 9999,
+      "event_target": "Field",
+      "condition_time": "2022-11-16T16:00:00",
+      "event_type": "ScenarioDialog",
+      "event_value": "event_nocallerid_01_s",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 999918,
+      "group_id": 9999,
+      "event_target": "Field",
+      "condition_missionclear": 1030301,
+      "condition_stageclear": 100110105,
+      "event_type": "ScenarioDialog",
+      "event_value": "event_nocallerid_01_e",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 999919,
+      "group_id": 9999,
+      "event_target": "Field",
+      "condition_missionclear": 1030401,
+      "condition_time": "2022-11-16T19:00:00",
+      "event_type": "ScenarioDialog",
+      "event_value": "event_nocallerid_02_s",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 999920,
+      "group_id": 9999,
+      "event_target": "Field",
+      "condition_stageclear": 100110106,
+      "condition_time": "2022-11-16T20:00:00",
+      "event_type": "ScenarioDialog",
+      "event_value": "event_nocallerid_02_e",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 999921,
+      "group_id": 9999,
+      "event_target": "Field",
+      "condition_missionclear": 1030501,
+      "condition_stageclear": 100110107,
+      "condition_time": "2022-11-16T21:00:00",
+      "event_type": "ScenarioDialog",
+      "event_value": "event_nocallerid_prologue",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 20010201,
+      "group_id": 200102,
+      "event_target": "NPC",
+      "condition_stageclear": 100310112,
+      "condition_time": "2022-12-14T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 20010301,
+      "group_id": 200103,
+      "event_target": "NPC",
+      "condition_time": "2022-12-07T15:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 20010302,
+      "group_id": 200103,
+      "event_target": "NPC",
+      "condition_stageclear": 100310112,
+      "condition_time": "2022-12-14T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 20010601,
+      "group_id": 200106,
+      "event_target": "NPC",
+      "condition_stageclear": 100310107,
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 20010701,
+      "group_id": 200107,
+      "event_target": "NPC",
+      "condition_time": "2022-12-07T15:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 20010702,
+      "group_id": 200107,
+      "event_target": "NPC",
+      "condition_stageclear": 100310107,
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 20010801,
+      "group_id": 200108,
+      "event_target": "NPC",
+      "condition_time": "2022-12-14T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 20010901,
+      "group_id": 200109,
+      "event_target": "NPC",
+      "condition_time": "2022-12-07T15:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 20010902,
+      "group_id": 200109,
+      "event_target": "NPC",
+      "condition_time": "2022-12-14T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 20010903,
+      "group_id": 200109,
+      "event_target": "NPC",
+      "condition_time": "2022-12-21T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 20011001,
+      "group_id": 200110,
+      "event_target": "NPC",
+      "condition_time": "2022-12-07T15:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 20011002,
+      "group_id": 200110,
+      "event_target": "NPC",
+      "condition_time": "2022-12-21T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 20011003,
+      "group_id": 200110,
+      "event_target": "NPC",
+      "condition_time": "2022-12-24T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 20011101,
+      "group_id": 200111,
+      "event_target": "NPC",
+      "condition_time": "2022-12-07T15:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 20011102,
+      "group_id": 200111,
+      "event_target": "NPC",
+      "condition_time": "2022-12-24T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 20011103,
+      "group_id": 200111,
+      "event_target": "NPC",
+      "condition_time": "2022-12-25T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 20011201,
+      "group_id": 200112,
+      "event_target": "NPC",
+      "condition_time": "2022-12-07T15:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 20011202,
+      "group_id": 200112,
+      "event_target": "NPC",
+      "condition_time": "2022-12-25T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 20011203,
+      "group_id": 200112,
+      "event_target": "NPC",
+      "condition_time": "2022-12-27T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 20011301,
+      "group_id": 200113,
+      "event_target": "NPC",
+      "condition_time": "2022-12-07T15:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 20011302,
+      "group_id": 200113,
+      "event_target": "NPC",
+      "condition_time": "2022-12-14T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 20011303,
+      "group_id": 200113,
+      "event_target": "NPC",
+      "condition_time": "2022-12-21T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 20011401,
+      "group_id": 200114,
+      "event_target": "NPC",
+      "condition_time": "2022-12-07T15:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 20011402,
+      "group_id": 200114,
+      "event_target": "NPC",
+      "condition_time": "2022-12-21T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 20011403,
+      "group_id": 200114,
+      "event_target": "NPC",
+      "condition_time": "2022-12-24T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 20011501,
+      "group_id": 200115,
+      "event_target": "NPC",
+      "condition_time": "2022-12-07T15:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 20011502,
+      "group_id": 200115,
+      "event_target": "NPC",
+      "condition_time": "2022-12-24T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 20011503,
+      "group_id": 200115,
+      "event_target": "NPC",
+      "condition_time": "2022-12-25T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 20011601,
+      "group_id": 200116,
+      "event_target": "NPC",
+      "condition_time": "2022-12-07T15:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 20011602,
+      "group_id": 200116,
+      "event_target": "NPC",
+      "condition_time": "2022-12-25T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 20011603,
+      "group_id": 200116,
+      "event_target": "NPC",
+      "condition_time": "2022-12-28T14:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 20999101,
+      "group_id": 209991,
+      "event_target": "NPC",
+      "condition_time": "2022-11-09T16:00:00",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 20999102,
+      "group_id": 209991,
+      "event_target": "NPC",
+      "condition_time": "2022-11-11T16:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 20999103,
+      "group_id": 209991,
+      "event_target": "NPC",
+      "condition_missionclear": 1030601,
+      "event_type": "ScenarioDialog",
+      "event_value": "event_nocallerid_prologue",
+      "event_check_condition": "Talk"
+    },
+    {
+      "id": 20999104,
+      "group_id": 209991,
+      "event_target": "NPC",
+      "condition_stageclear": 100120101,
+      "event_type": "ScenarioDialog",
+      "event_value": "event_nocallerid_01_s",
+      "event_check_condition": "Talk"
+    },
+    {
+      "id": 20999105,
+      "group_id": 209991,
+      "event_target": "NPC",
+      "condition_time": "2022-11-17T16:00:00",
+      "event_type": "ScenarioDialog",
+      "event_value": "event_nocallerid_01_e",
+      "event_check_condition": "Talk"
+    },
+    {
+      "id": 20999106,
+      "group_id": 209991,
+      "event_target": "NPC",
+      "condition_missionclear": 1030701,
+      "event_type": "ScenarioDialog",
+      "event_value": "event_nocallerid_02_s",
+      "event_check_condition": "Talk"
+    },
+    {
+      "id": 20999107,
+      "group_id": 209991,
+      "event_target": "NPC",
+      "condition_missionclear": 1030801,
+      "condition_stageclear": 100120102,
+      "event_type": "ScenarioDialog",
+      "event_value": "event_nocallerid_02_e",
+      "event_check_condition": "Talk"
+    },
+    {
+      "id": 20999108,
+      "group_id": 209991,
+      "event_target": "NPC",
+      "condition_missionclear": 1030901,
+      "condition_time": "2022-11-18T16:00:00",
+      "event_type": "ScenarioDialog",
+      "event_value": "event_nocallerid_prologue",
+      "event_check_condition": "Talk"
+    },
+    {
+      "id": 20999109,
+      "group_id": 209991,
+      "event_target": "NPC",
+      "condition_stageclear": 100120103,
+      "condition_time": "2022-11-19T16:00:00",
+      "event_type": "ScenarioDialog",
+      "event_value": "event_nocallerid_01_s",
+      "event_check_condition": "Talk"
+    },
+    {
+      "id": 20999110,
+      "group_id": 209991,
+      "event_target": "NPC",
+      "condition_missionclear": 1031001,
+      "condition_stageclear": 100120104,
+      "condition_time": "2022-11-20T16:00:00",
+      "event_type": "ScenarioDialog",
+      "event_value": "event_nocallerid_01_e",
+      "event_check_condition": "Talk"
+    },
+    {
+      "id": 20999201,
+      "group_id": 209992,
+      "event_target": "NPC",
+      "condition_time": "2022-11-09T16:00:00",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 20999202,
+      "group_id": 209992,
+      "event_target": "NPC",
+      "condition_time": "2022-11-21T16:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 20999203,
+      "group_id": 209992,
+      "event_target": "NPC",
+      "condition_time": "2022-11-22T16:00:00",
+      "event_type": "ScenarioDialog",
+      "event_value": "event_nocallerid_prologue",
+      "event_check_condition": "Talk"
+    },
+    {
+      "id": 20999204,
+      "group_id": 209992,
+      "event_target": "NPC",
+      "condition_time": "2022-11-22T16:00:00",
+      "event_type": "FieldTalk",
+      "event_value": "1",
+      "event_check_condition": "Talk"
+    },
+    {
+      "id": 20999205,
+      "group_id": 209992,
+      "event_target": "NPC",
+      "condition_time": "2022-11-22T16:00:00",
+      "event_type": "CameraAction",
+      "event_value": "enter",
+      "event_check_condition": "Talk"
+    },
+    {
+      "id": 20999206,
+      "group_id": 209992,
+      "event_target": "NPC",
+      "condition_time": "2022-11-22T20:00:00",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 20999207,
+      "group_id": 209992,
+      "event_target": "NPC",
+      "condition_time": "2022-11-23T16:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 20999208,
+      "group_id": 209992,
+      "event_target": "NPC",
+      "condition_time": "2022-11-23T16:00:00",
+      "event_type": "ScenarioDialog",
+      "event_value": "event_nocallerid_01_s",
+      "event_check_condition": "Talk"
+    },
+    {
+      "id": 20999209,
+      "group_id": 209992,
+      "event_target": "NPC",
+      "condition_time": "2022-11-23T16:00:00",
+      "event_type": "FieldTalk",
+      "event_value": "2",
+      "event_check_condition": "Talk"
+    },
+    {
+      "id": 20999210,
+      "group_id": 209992,
+      "event_target": "NPC",
+      "condition_time": "2022-11-23T16:00:00",
+      "event_type": "CameraAction",
+      "event_value": "enter",
+      "event_check_condition": "Talk"
+    }
+  ]
+}

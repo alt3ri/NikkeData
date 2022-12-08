@@ -1,0 +1,1971 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": "event_miraclesnow2_epilogue_1",
+      "event_id": 40004,
+      "group_id": "event_miraclesnow2_epilogue",
+      "speech_window": "Narration",
+      "scenario_localkey": "event_miraclesnow2_epilogue_1",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "show_char_id": "rupee",
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "angelina",
+          "set_char_position": "3",
+          "set_char_anim": "worry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "Corridor",
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "play_bgm": "none",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_miraclesnow2_epilogue_2",
+      "event_id": 40004,
+      "group_id": "event_miraclesnow2_epilogue",
+      "speech_window": "Speech",
+      "highlight": "angelina",
+      "speaker": "angelina",
+      "scenario_localkey": "event_miraclesnow2_epilogue_2",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "worry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "31",
+      "set_end_camera": "31",
+      "set_camera_duration": 1.0,
+      "play_bgm": "bgm_story_weare",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_miraclesnow2_epilogue_3",
+      "event_id": 40004,
+      "group_id": "event_miraclesnow2_epilogue",
+      "speech_window": "Speech",
+      "highlight": "rupee",
+      "speaker": "rupee",
+      "scenario_localkey": "event_miraclesnow2_epilogue_3",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "worry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "31",
+      "set_end_camera": "31",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_miraclesnow2_epilogue_4",
+      "event_id": 40004,
+      "group_id": "event_miraclesnow2_epilogue",
+      "speech_window": "Speech",
+      "highlight": "angelina",
+      "speaker": "angelina",
+      "scenario_localkey": "event_miraclesnow2_epilogue_4",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "worry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "31",
+      "set_end_camera": "31",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_miraclesnow2_epilogue_5",
+      "event_id": 40004,
+      "group_id": "event_miraclesnow2_epilogue",
+      "speech_window": "Speech",
+      "highlight": "rupee",
+      "speaker": "rupee",
+      "scenario_localkey": "event_miraclesnow2_epilogue_5",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "worry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "31",
+      "set_end_camera": "31",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_miraclesnow2_epilogue_6",
+      "event_id": 40004,
+      "group_id": "event_miraclesnow2_epilogue",
+      "speech_window": "Speech",
+      "highlight": "angelina",
+      "speaker": "angelina",
+      "scenario_localkey": "event_miraclesnow2_epilogue_6",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "worry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "31",
+      "set_end_camera": "31",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_miraclesnow2_epilogue_7",
+      "event_id": 40004,
+      "group_id": "event_miraclesnow2_epilogue",
+      "speech_window": "Self",
+      "scenario_localkey": "event_miraclesnow2_epilogue_7",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "worry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "31",
+      "set_end_camera": "30",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_miraclesnow2_epilogue_8",
+      "event_id": 40004,
+      "group_id": "event_miraclesnow2_epilogue",
+      "speech_window": "Speech",
+      "highlight": "angelina",
+      "speaker": "angelina",
+      "scenario_localkey": "event_miraclesnow2_epilogue_8",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "worry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "30",
+      "set_end_camera": "30",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_miraclesnow2_epilogue_9",
+      "event_id": 40004,
+      "group_id": "event_miraclesnow2_epilogue",
+      "speech_window": "Speech",
+      "highlight": "angelina",
+      "speaker": "angelina",
+      "scenario_localkey": "event_miraclesnow2_epilogue_9",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "smile"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "30",
+      "set_end_camera": "30",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_miraclesnow2_epilogue_10",
+      "event_id": 40004,
+      "group_id": "event_miraclesnow2_epilogue",
+      "speech_window": "Speech",
+      "highlight": "angelina",
+      "speaker": "angelina",
+      "scenario_localkey": "event_miraclesnow2_epilogue_10",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "smile"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "30",
+      "set_end_camera": "30",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_miraclesnow2_epilogue_11",
+      "event_id": 40004,
+      "group_id": "event_miraclesnow2_epilogue",
+      "speech_window": "Speech",
+      "highlight": "angelina",
+      "speaker": "angelina",
+      "scenario_localkey": "event_miraclesnow2_epilogue_11",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "smile"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "30",
+      "set_end_camera": "30",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_miraclesnow2_epilogue_12",
+      "event_id": 40004,
+      "group_id": "event_miraclesnow2_epilogue",
+      "speech_window": "Speech",
+      "highlight": "angelina",
+      "speaker": "angelina",
+      "scenario_localkey": "event_miraclesnow2_epilogue_12",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "smile"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "30",
+      "set_end_camera": "300",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_miraclesnow2_epilogue_13",
+      "event_id": 40004,
+      "group_id": "event_miraclesnow2_epilogue",
+      "speech_window": "Speech",
+      "highlight": "angelina",
+      "speaker": "angelina",
+      "scenario_localkey": "event_miraclesnow2_epilogue_13",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "smile"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "300",
+      "set_end_camera": "300",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_miraclesnow2_epilogue_14",
+      "event_id": 40004,
+      "group_id": "event_miraclesnow2_epilogue",
+      "speech_window": "Speech",
+      "highlight": "rupee",
+      "speaker": "rupee",
+      "scenario_localkey": "event_miraclesnow2_epilogue_14",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "smile"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "L_100",
+      "set_end_camera": "L_100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_miraclesnow2_epilogue_15",
+      "event_id": 40004,
+      "group_id": "event_miraclesnow2_epilogue",
+      "speech_window": "Narration",
+      "scenario_localkey": "event_miraclesnow2_epilogue_15",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "7",
+          "set_char_anim": "smile"
+        },
+        {},
+        {
+          "show_char_id": "syuen",
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "play_sound": "sfx_scn_autodooropen",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_miraclesnow2_epilogue_16",
+      "event_id": 40004,
+      "group_id": "event_miraclesnow2_epilogue",
+      "speech_window": "Speech",
+      "highlight": "syuen",
+      "speaker": "syuen",
+      "scenario_localkey": "event_miraclesnow2_epilogue_16",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "7",
+          "set_char_anim": "smile"
+        },
+        {},
+        {
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_130",
+      "set_end_camera": "S_130",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_miraclesnow2_epilogue_17",
+      "event_id": 40004,
+      "group_id": "event_miraclesnow2_epilogue",
+      "speech_window": "Speech",
+      "highlight": "syuen",
+      "speaker": "syuen",
+      "scenario_localkey": "event_miraclesnow2_epilogue_17",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "7",
+          "set_char_anim": "smile"
+        },
+        {},
+        {
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_130",
+      "set_end_camera": "S_130",
+      "set_camera_duration": 1.0,
+      "play_bgm": "none",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_miraclesnow2_epilogue_18",
+      "event_id": 40004,
+      "group_id": "event_miraclesnow2_epilogue",
+      "speech_window": "Speech",
+      "highlight": "n102",
+      "speaker": "n102",
+      "scenario_localkey": "event_miraclesnow2_epilogue_18",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "7",
+          "set_char_anim": "smile"
+        },
+        {
+          "show_char_id": "n102",
+          "set_char_position": "5",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_50",
+      "set_end_camera": "XS_50",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_miraclesnow2_epilogue_19",
+      "event_id": 40004,
+      "group_id": "event_miraclesnow2_epilogue",
+      "speech_window": "Speech",
+      "highlight": "angelina",
+      "speaker": "angelina",
+      "scenario_localkey": "event_miraclesnow2_epilogue_19",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "7",
+          "set_char_anim": "smile"
+        },
+        {
+          "set_char_position": "5",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_50",
+      "set_end_camera": "75",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_miraclesnow2_epilogue_20",
+      "event_id": 40004,
+      "group_id": "event_miraclesnow2_epilogue",
+      "speech_window": "Speech",
+      "highlight": "n102",
+      "speaker": "anne",
+      "scenario_localkey": "event_miraclesnow2_epilogue_20",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "7",
+          "set_char_anim": "worry"
+        },
+        {
+          "set_char_position": "5",
+          "set_char_anim": "delight"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "75",
+      "set_end_camera": "75",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_miraclesnow2_epilogue_21",
+      "event_id": 40004,
+      "group_id": "event_miraclesnow2_epilogue",
+      "speech_window": "Speech",
+      "highlight": "n102",
+      "speaker": "anne",
+      "scenario_localkey": "event_miraclesnow2_epilogue_21",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "7",
+          "set_char_anim": "worry"
+        },
+        {
+          "set_char_position": "5",
+          "set_char_anim": "delight"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "75",
+      "set_end_camera": "75",
+      "set_camera_duration": 1.0,
+      "play_bgm": "bgm_story_impression",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_miraclesnow2_epilogue_22",
+      "event_id": 40004,
+      "group_id": "event_miraclesnow2_epilogue",
+      "speech_window": "Speech",
+      "highlight": "n102",
+      "speaker": "anne",
+      "scenario_localkey": "event_miraclesnow2_epilogue_22",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "7",
+          "set_char_anim": "worry"
+        },
+        {
+          "set_char_position": "5",
+          "set_char_anim": "delight"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "75",
+      "set_end_camera": "75",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_miraclesnow2_epilogue_23",
+      "event_id": 40004,
+      "group_id": "event_miraclesnow2_epilogue",
+      "speech_window": "Speech",
+      "highlight": "angelina",
+      "speaker": "angelina",
+      "scenario_localkey": "event_miraclesnow2_epilogue_23",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "7",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "5",
+          "set_char_anim": "delight"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "75",
+      "set_end_camera": "75",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_miraclesnow2_epilogue_24",
+      "event_id": 40004,
+      "group_id": "event_miraclesnow2_epilogue",
+      "speech_window": "Speech",
+      "highlight": "rupee",
+      "speaker": "rupee",
+      "scenario_localkey": "event_miraclesnow2_epilogue_24",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "7",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "5",
+          "set_char_anim": "delight"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "L_10",
+      "set_end_camera": "L_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_miraclesnow2_epilogue_25",
+      "event_id": 40004,
+      "group_id": "event_miraclesnow2_epilogue",
+      "speech_window": "Self",
+      "scenario_localkey": "event_miraclesnow2_epilogue_25",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "7",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "5",
+          "set_char_anim": "delight"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "L_10",
+      "set_end_camera": "L_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_miraclesnow2_epilogue_26",
+      "event_id": 40004,
+      "group_id": "event_miraclesnow2_epilogue",
+      "speech_window": "Speech",
+      "highlight": "n102",
+      "speaker": "anne",
+      "scenario_localkey": "event_miraclesnow2_epilogue_26",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "7",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "5",
+          "set_char_anim": "delight"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_50",
+      "set_end_camera": "XS_50",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_miraclesnow2_epilogue_27",
+      "event_id": 40004,
+      "group_id": "event_miraclesnow2_epilogue",
+      "speech_window": "Speech",
+      "highlight": "rupee",
+      "speaker": "rupee",
+      "scenario_localkey": "event_miraclesnow2_epilogue_27",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "7",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "5",
+          "set_char_anim": "delight"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "L_10",
+      "set_end_camera": "L_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_miraclesnow2_epilogue_28",
+      "event_id": 40004,
+      "group_id": "event_miraclesnow2_epilogue",
+      "speech_window": "Speech",
+      "highlight": "angelina",
+      "speaker": "angelina",
+      "scenario_localkey": "event_miraclesnow2_epilogue_28",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "7",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "5",
+          "set_char_anim": "delight"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "70",
+      "set_end_camera": "70",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_miraclesnow2_epilogue_29",
+      "event_id": 40004,
+      "group_id": "event_miraclesnow2_epilogue",
+      "speech_window": "Monologue",
+      "scenario_localkey": "event_miraclesnow2_epilogue_29",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "hide_char_id": "rupee",
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "hide_char_id": "angelina",
+          "set_char_position": "7",
+          "set_char_anim": "idle"
+        },
+        {
+          "hide_char_id": "n102",
+          "set_char_position": "5",
+          "set_char_anim": "delight"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_miraclesnow2_epilogue_30",
+      "event_id": 40004,
+      "group_id": "event_miraclesnow2_epilogue",
+      "speech_window": "Speech",
+      "highlight": "syuen",
+      "speaker": "syuen",
+      "scenario_localkey": "event_miraclesnow2_epilogue_30",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {
+          "set_char_position": "13",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_130",
+      "set_end_camera": "S_130",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_miraclesnow2_epilogue_31",
+      "event_id": 40004,
+      "group_id": "event_miraclesnow2_epilogue",
+      "speech_window": "Self",
+      "scenario_localkey": "event_miraclesnow2_epilogue_31",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {
+          "set_char_position": "13",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_130",
+      "set_end_camera": "S_130",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_miraclesnow2_epilogue_32",
+      "event_id": 40004,
+      "group_id": "event_miraclesnow2_epilogue",
+      "speech_window": "Speech",
+      "highlight": "syuen",
+      "speaker": "syuen",
+      "scenario_localkey": "event_miraclesnow2_epilogue_32",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {
+          "set_char_position": "13",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_130",
+      "set_end_camera": "13",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_miraclesnow2_epilogue_33",
+      "event_id": 40004,
+      "group_id": "event_miraclesnow2_epilogue",
+      "speech_window": "Speech",
+      "highlight": "syuen",
+      "speaker": "syuen",
+      "scenario_localkey": "event_miraclesnow2_epilogue_33",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {
+          "set_char_position": "13",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "13",
+      "set_end_camera": "13",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_miraclesnow2_epilogue_34",
+      "event_id": 40004,
+      "group_id": "event_miraclesnow2_epilogue",
+      "speech_window": "Speech",
+      "highlight": "syuen",
+      "speaker": "syuen",
+      "scenario_localkey": "event_miraclesnow2_epilogue_34",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {
+          "set_char_position": "13",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "13",
+      "set_end_camera": "13",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_miraclesnow2_epilogue_35",
+      "event_id": 40004,
+      "group_id": "event_miraclesnow2_epilogue",
+      "speech_window": "Speech",
+      "highlight": "syuen",
+      "speaker": "syuen",
+      "scenario_localkey": "event_miraclesnow2_epilogue_35",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "13",
+      "set_end_camera": "S_130",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_miraclesnow2_epilogue_36",
+      "event_id": 40004,
+      "group_id": "event_miraclesnow2_epilogue",
+      "speech_window": "Self",
+      "scenario_localkey": "event_miraclesnow2_epilogue_36",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_130",
+      "set_end_camera": "S_130",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_miraclesnow2_epilogue_37",
+      "event_id": 40004,
+      "group_id": "event_miraclesnow2_epilogue",
+      "speech_window": "Speech",
+      "highlight": "syuen",
+      "speaker": "syuen",
+      "scenario_localkey": "event_miraclesnow2_epilogue_37",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_130",
+      "set_end_camera": "S_130",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_miraclesnow2_epilogue_38",
+      "event_id": 40004,
+      "group_id": "event_miraclesnow2_epilogue",
+      "speech_window": "Speech",
+      "highlight": "syuen",
+      "speaker": "syuen",
+      "scenario_localkey": "event_miraclesnow2_epilogue_38",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_130",
+      "set_end_camera": "S_1300",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_miraclesnow2_epilogue_39",
+      "event_id": 40004,
+      "group_id": "event_miraclesnow2_epilogue",
+      "speech_window": "Speech",
+      "highlight": "syuen",
+      "speaker": "syuen",
+      "scenario_localkey": "event_miraclesnow2_epilogue_39",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_1300",
+      "set_end_camera": "S_1300",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_miraclesnow2_epilogue_40",
+      "event_id": 40004,
+      "group_id": "event_miraclesnow2_epilogue",
+      "speech_window": "Speech",
+      "highlight": "syuen",
+      "speaker": "syuen",
+      "scenario_localkey": "event_miraclesnow2_epilogue_40",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {
+          "set_char_position": "13",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_1300",
+      "set_end_camera": "S_1300",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_miraclesnow2_epilogue_41",
+      "event_id": 40004,
+      "group_id": "event_miraclesnow2_epilogue",
+      "speech_window": "Self",
+      "scenario_localkey": "event_miraclesnow2_epilogue_41",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {
+          "set_char_position": "13",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_1300",
+      "set_end_camera": "S_1300",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_miraclesnow2_epilogue_42",
+      "event_id": 40004,
+      "group_id": "event_miraclesnow2_epilogue",
+      "speech_window": "Speech",
+      "highlight": "syuen",
+      "speaker": "syuen",
+      "scenario_localkey": "event_miraclesnow2_epilogue_42",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {
+          "set_char_position": "13",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_1300",
+      "set_end_camera": "S_1300",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_miraclesnow2_epilogue_43",
+      "event_id": 40004,
+      "group_id": "event_miraclesnow2_epilogue",
+      "speech_window": "Speech",
+      "highlight": "syuen",
+      "speaker": "syuen",
+      "scenario_localkey": "event_miraclesnow2_epilogue_43",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {
+          "set_char_position": "13",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_1300",
+      "set_end_camera": "S_130",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_miraclesnow2_epilogue_44",
+      "event_id": 40004,
+      "group_id": "event_miraclesnow2_epilogue",
+      "speech_window": "Speech",
+      "highlight": "syuen",
+      "speaker": "syuen",
+      "scenario_localkey": "event_miraclesnow2_epilogue_44",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {
+          "set_char_position": "13",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_130",
+      "set_end_camera": "S_130",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_miraclesnow2_epilogue_45",
+      "event_id": 40004,
+      "group_id": "event_miraclesnow2_epilogue",
+      "speech_window": "Self",
+      "scenario_localkey": "event_miraclesnow2_epilogue_45",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {
+          "set_char_position": "13",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_130",
+      "set_end_camera": "S_130",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_miraclesnow2_epilogue_46",
+      "event_id": 40004,
+      "group_id": "event_miraclesnow2_epilogue",
+      "speech_window": "Speech",
+      "highlight": "syuen",
+      "speaker": "syuen",
+      "scenario_localkey": "event_miraclesnow2_epilogue_46",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {
+          "set_char_position": "13",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_130",
+      "set_end_camera": "S_130",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_miraclesnow2_epilogue_47",
+      "event_id": 40004,
+      "group_id": "event_miraclesnow2_epilogue",
+      "speech_window": "Speech",
+      "highlight": "syuen",
+      "speaker": "syuen",
+      "scenario_localkey": "event_miraclesnow2_epilogue_47",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {
+          "set_char_position": "13",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_130",
+      "set_end_camera": "S_130",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_miraclesnow2_epilogue_48",
+      "event_id": 40004,
+      "group_id": "event_miraclesnow2_epilogue",
+      "speech_window": "Self",
+      "scenario_localkey": "event_miraclesnow2_epilogue_48",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {
+          "set_char_position": "13",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_130",
+      "set_end_camera": "S_130",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_miraclesnow2_epilogue_49",
+      "event_id": 40004,
+      "group_id": "event_miraclesnow2_epilogue",
+      "speech_window": "Speech",
+      "highlight": "syuen",
+      "speaker": "syuen",
+      "scenario_localkey": "event_miraclesnow2_epilogue_49",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {
+          "set_char_position": "13",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_130",
+      "set_end_camera": "S_1300",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_miraclesnow2_epilogue_50",
+      "event_id": 40004,
+      "group_id": "event_miraclesnow2_epilogue",
+      "speech_window": "Speech",
+      "highlight": "n102",
+      "speaker": "anne",
+      "scenario_localkey": "event_miraclesnow2_epilogue_50",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {
+          "set_char_position": "13",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_1300",
+      "set_end_camera": "S_1300",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_miraclesnow2_epilogue_51",
+      "event_id": 40004,
+      "group_id": "event_miraclesnow2_epilogue",
+      "speech_window": "Self",
+      "scenario_localkey": "event_miraclesnow2_epilogue_51",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {
+          "set_char_position": "13",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_1300",
+      "set_end_camera": "S_1300",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_miraclesnow2_epilogue_52",
+      "event_id": 40004,
+      "group_id": "event_miraclesnow2_epilogue",
+      "speech_window": "Speech",
+      "highlight": "syuen",
+      "speaker": "syuen",
+      "scenario_localkey": "event_miraclesnow2_epilogue_52",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {
+          "set_char_position": "13",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_1300",
+      "set_end_camera": "S_130",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_miraclesnow2_epilogue_53",
+      "event_id": 40004,
+      "group_id": "event_miraclesnow2_epilogue",
+      "speech_window": "Monologue",
+      "scenario_localkey": "event_miraclesnow2_epilogue_53",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {
+          "hide_char_id": "syuen",
+          "set_char_position": "13",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "EventScene_MiracleSnow_04",
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_miraclesnow2_epilogue_54",
+      "event_id": 40004,
+      "group_id": "event_miraclesnow2_epilogue",
+      "speech_window": "Monologue",
+      "scenario_localkey": "event_miraclesnow2_epilogue_54",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "blue_butterfly_01",
+      "set_end_camera": "blue_butterfly_02",
+      "set_camera_duration": 3.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Vignetting",
+      "fade": "black"
+    },
+    {
+      "id": "event_miraclesnow2_epilogue_55",
+      "event_id": 40004,
+      "group_id": "event_miraclesnow2_epilogue",
+      "speech_window": "Monologue",
+      "scenario_localkey": "event_miraclesnow2_epilogue_55",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "blue_butterfly_02",
+      "set_end_camera": "blue_butterfly_03",
+      "set_camera_duration": 3.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Vignetting"
+    },
+    {
+      "id": "event_miraclesnow2_epilogue_56",
+      "event_id": 40004,
+      "group_id": "event_miraclesnow2_epilogue",
+      "speech_window": "Monologue",
+      "scenario_localkey": "event_miraclesnow2_epilogue_56",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_miraclesnow2_epilogue_57",
+      "event_id": 40004,
+      "group_id": "event_miraclesnow2_epilogue",
+      "speech_window": "Monologue",
+      "scenario_localkey": "event_miraclesnow2_epilogue_57",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    }
+  ]
+}
