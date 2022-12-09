@@ -1,6 +1,6 @@
 # NikkeData
  
 ## Todo list:
-- [ ] Seperate data
+- [x] Seperate data
 - [ ] Lua files
 - [ ] Misc files
