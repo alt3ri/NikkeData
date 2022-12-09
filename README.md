@@ -4,3 +4,4 @@
 - [x] Seperate data
 - [ ] Lua files
 - [ ] Misc files
+- [ ] Text mapping
